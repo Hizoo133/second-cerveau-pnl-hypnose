@@ -1,0 +1,4 @@
+00_raw_txt/
+scripts/state_checkpoints/
+.env
+__pycache__/
