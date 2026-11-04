@@ -100,10 +100,24 @@ CADRAGE & SCÉNOGRAPHIE      MÉCANIQUE LINGUISTIQUE       REPROGRAMMATION &
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 120-246]** : Le Cadre Global en 7 Phases de Nongard & L'Approche par "Patter Sheet" vs Récitation Rigide... — *Protocole :* Le Cadre Global en 7 Phases de Nongard | *Mécanisme :* L'Approche par "Patter Sheet" vs Récitation Rigide ("Scriptnosis") | *Verbatim :* Verbatim 1 : Le Pré-cadrage de l'Usage des Scripts et de l'Agence du Client
+- **Tranche 2 [Lignes 248-458]** : Le Convincer du Bonbon au Citron ("The Lemon Drop Convincer") — *Protocole :* Le Convincer du Bonbon au Citron ("The Lemon Drop Convincer")
+- **Tranche 3 [Lignes 460-674]** : Approfondisseur par Décompte Numérique Fractionné (10 à 0) — *Protocole :* Approfondisseur par Décompte Numérique Fractionné (10 à 0) | *Mécanisme :* Le Fractionnement Numérique Non-Linéaire et Régressif | *Verbatim :* L'Amorçage Kinesthésique Sensoriel & Égo-renforcement d'Entrée
+- **Tranche 4 [Lignes 676-868]** : Réécriture Temporelle du Non-Fumeur (Age Regression & Progression) — *Protocole :* Réécriture Temporelle du Non-Fumeur (Age Regression & Progression) | *Mécanisme :* Le Compounding de Remplacement Sensoriel et Énergétique | *Verbatim :* Le Compounding de Remplacement Respiratoire
+- **Tranche 5 [Lignes 870-1064]** : Réévaluation Multisensorielle d'Expérience Bloquée (Cas des Difficultés Sexuelles / Phobies) — *Protocole :* Réévaluation Multisensorielle d'Expérience Bloquée (Cas des Difficultés Sexuelles / Phobies) | *Mécanisme :* Utilisation des Forces Internes et des Ressources Externes Existantes | *Verbatim :* La Transposition de Force Identitaire
+- **Tranche 6 [Lignes 1066-1303]** : Récupération & Ré-ancrage Immédiat lors d'un Appel Téléphonique Imprévu — *Protocole :* Récupération & Ré-ancrage Immédiat lors d'un Appel Téléphonique Imprévu | *Mécanisme :* Dépolarisation de la Lutte Posturale et Écologie Hémodynamique | *Verbatim :* Préparation aux interruptions potentielles
+- **Tranche 7 [Lignes 1305-1532]** : Recadrage & Lancement d'un Script ou Métaphore — *Protocole :* Recadrage & Lancement d'un Script ou Métaphore | *Mécanisme :* Le Pré-framing Déculpabilisant de Lecture & Présomption d'Exhaustivité | *Verbatim :* Pré-cadrage de l'histoire et dérivation inconsciente
+- **Tranche 8 [Lignes 1534-1589]** : d'Intake & Intégration Suggestive des Ressources Personnelles (NSRI) — *Protocole :* d'Intake & Intégration Suggestive des Ressources Personnelles (NSRI) | *Mécanisme :* Le Cadrage Diagnostique d’Intake comme Priming Subconscient | *Verbatim :* Suggestion d'Appel au Réseau de Soutien Face au Stress
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 8 ---
+## Tranche 1 / 8 : Le Cadre Global en 7 Phases de Nongard & L'Approche par "Patter Sheet" vs Récitation Rigide...
 
 Voici l'analyse opératoire et la modélisation clinique intégrale de la tranche 1/8 de l'ouvrage *Magic Words in Hypnosis* de Richard Nongard.
 
@@ -231,8 +245,7 @@ Voici l'analyse opératoire et la modélisation clinique intégrale de la tranch
   * *Double lien ericksonien / Faux choix :* La structure propose le choix entre poser une question subsidiaire ou fermer la phase préparatoire pour entrer en transe. L'option "Refuser la séance" ou "Ne pas être prêt" est syntaxiquement éliminée du champ de conscience.
   * *Présupposition d'action imminente :* L'adverbe *"other"* présuppose que les questions principales ont déjà été traitées de manière satisfaisante, poussant naturellement le sujet vers la seconde branche de l'alternative (*"ready to begin"*).
 
-
-## --- Tranche 2 / 8 ---
+## Tranche 2 / 8 : Le Convincer du Bonbon au Citron ("The Lemon Drop Convincer")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -444,8 +457,7 @@ Voici l'analyse opératoire et la modélisation clinique intégrale de la tranch
 ```
 * **[Analyse du Pattern]** : Empilement de prédicats kinesthésiques (*relax, feeling, loosen, heavier, feel, skill, sensation, loose*). La sensation physique de relâchement est requalifiée en "compétence" (valorisation de l'ego), et sert d'amorce causale pour approfondir la transe (*"allows you to experience an even deeper level"*).
 
-
-## --- Tranche 3 / 8 ---
+## Tranche 3 / 8 : Approfondisseur par Décompte Numérique Fractionné (10 à 0)
 
 Voici l'extraction exhaustive et l'ingénierie opératoire de la tranche 3/8 du cours de Richard K. Nongard (*Magic Words in Hypnosis*).
 
@@ -661,8 +673,7 @@ Voici l'extraction exhaustive et l'ingénierie opératoire de la tranche 3/8 du 
   * **Substitution fonctionnelle saine** : Ne supprime pas le besoin d'énergie (ce qui créerait un vide et une pulsion de manque), mais remplace le vecteur toxique (nicotine) par un mécanisme biologique gratuit et universel (l'oxygène pompé par inspiration profonde).
   * **Recadrage sémantique à valence positive ("Opportunity")** : Transforme le déclencheur de surconsommation boulimique (le buffet à volonté) en une "opportunité" de sélection qualitative, neutralisant la pulsion de "rentabiliser son argent" par l'abondance de choix équilibrés.
 
-
-## --- Tranche 4 / 8 ---
+## Tranche 4 / 8 : Réécriture Temporelle du Non-Fumeur (Age Regression & Progression)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 4/8 de *Magic Words in Hypnosis* par Richard Nongard.
 
@@ -856,8 +867,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 4/8 
   - *Pont d'équivalence complexe :* Utilisation d'un trait identitaire fixe validé par le sujet ("loyal to friends and family") et extension par glissement sémantique vers la relation à soi-même ("loyal to yourself").
   - *Présupposition de cohérence :* Si le sujet trahit son nouveau comportement de santé, il se perçoit comme déloyal envers lui-même, ce qui active son besoin fondamental de cohérence identitaire.
 
-
-## --- Tranche 5 / 8 ---
+## Tranche 5 / 8 : Réévaluation Multisensorielle d'Expérience Bloquée (Cas des Difficultés Sexuelles / Phobies)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/8 du cours *Magic Words in Hypnosis* de Richard Nongard.
 
@@ -1053,8 +1063,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/8 du c
   * **Liaison temporelle contingente d'approfondissement** (*"when the ringing stops let yourself go into an even deeper trance"*) transformant un signal d'éveil potentiel en inducteur de transe profonde.
   * **Reconfiguration post-hypnotique permanente d'un stimulus universel** (*"from this point forward, let it be a reminder to you of the progress..."*) convertissant un stimulus d'interruption ordinaire en une ancre répétée de fierté et de changement.
 
-
-## --- Tranche 6 / 8 ---
+## Tranche 6 / 8 : Récupération & Ré-ancrage Immédiat lors d'un Appel Téléphonique Imprévu
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 6/8 de l'ouvrage *Magic Words in Hypnosis* de Richard Nongard.
 
@@ -1293,8 +1302,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 6/8 
 > « As you relax, I am going to tell you a story. Although this story was not written specifically about you, I am certain your subconscious mind will recognize the truth in this story that is useful to you. Your conscious mind might not be able to make sense without really thinking, but the subconscious mind is intuitive and will easily be able to learn from this story. »
 * **[Analyse du Pattern]** : Double dissociation fonctionnelle classique. D'une part, dédouanement de l'ego (« story was not written specifically about you »), d'autre part, division des tâches entre le conscient (analytique, lent, incapable de comprendre sans effort) et l'inconscient (intuitif, immédiat, naturellement réceptif à la métaphore). La commande enchâssée invite le conscient à baisser la garde pendant que l'inconscient extrait l'apprentissage.
 
-
-## --- Tranche 7 / 8 ---
+## Tranche 7 / 8 : Recadrage & Lancement d'un Script ou Métaphore
 
 Voici l'ingénierie et l'extraction opératoire intégrale de la tranche 7/8 du manuel *Magic Words in Hypnosis* de Richard Nongard.
 
@@ -1523,8 +1531,7 @@ When you see a delivery truck, it brings a smile to your face, maybe even a chuc
   * *Désamorce de la transe intempestive (Sécurité écologique) :* Précision chirurgicale : « *without going into hypnosis* » pour éviter tout risque au volant face au stimulus cible.
   * *Installation somato-émotionnelle spontanée :* L'ancrage visuel (le camion) déclenche une boucle kinesthésique d'apaisement et de valorisation (« *brings a smile to your face, maybe even a chuckle* »).
 
-
-## --- Tranche 8 / 8 ---
+## Tranche 8 / 8 : d'Intake & Intégration Suggestive des Ressources Personnelles (NSRI)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1580,3 +1587,4 @@ When you see a delivery truck, it brings a smile to your face, maybe even a chuc
   * **Présupposition temporelle conditionnelle intégrée** : La conjonction *"When you find yourself..."* ne pose pas la question de la gestion du stress comme incertaine, mais installe la situation comme un événement futur naturel et gérable.
   * **Présupposition d'évidence cognitive (*Mind-Read / Truisme cognitif*)** : La formule *"you know you can..."* présuppose que la capacité et la ressource sont déjà acquises et conscientes, contournant toute objection rationnelle.
   * **Action concrète à faible coût cognitif (*Micro-step*)** : L'instruction finale *"and just talk for a few minutes"* minimise l'effort requis, rendant la suggestion immédiatement acceptable et non menaçante pour le système nerveux en surcharge de stress.
+

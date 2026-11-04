@@ -59,10 +59,57 @@ Toutes les interventions du cours reposent sur une séquence architecturale inva
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 112-268]** : L'Ancre Glissante de Relaxation Profonde (Sliding Anchor for Trance & Deep Relaxation) — *Protocole :* L'Ancre Glissante de Relaxation Profonde (Sliding Anchor for Trance & Deep Relaxation) | *Verbatim :* L'Association Sensorielle Complète & Ancrage Analogique
+- **Tranche 2 [Lignes 270-489]** : L'Amplification de Ressource par Gradateur Interne & Incorporation Spatiale — *Protocole :* L'Amplification de Ressource par Gradateur Interne & Incorporation Spatiale | *Mécanisme :* Le Gradateur Somato-Kinesthésique (Internal Slider / Intensity Control Dial)
+- **Tranche 3 [Lignes 491-603]** : L'Induction par Triple Truisme et Suggestion Directrice (Pace-Pace-Pace-Lead) — *Protocole :* L'Induction par Triple Truisme et Suggestion Directrice (Pace-Pace-Pace-Lead) | *Mécanisme :* Le Verrouillage par Empilement de Truismes (Pacing & Leading) | *Verbatim :* Le Pacing Sensoriel et le Lead de Transe
+- **Tranche 4 [Lignes 605-731]** : L'Induction Dégressive 5-4-3-2-1 avec Métaphore & Pont vers le Futur — *Protocole :* L'Induction Dégressive 5-4-3-2-1 avec Métaphore & Pont vers le Futur | *Verbatim :* Le Glissement d'Index Référentiel Fluide
+- **Tranche 5 [Lignes 733-878]** : A : L'Ancrage Spatialisé du « Bouton Endorphines » — *Protocole :* A : L'Ancrage Spatialisé du « Bouton Endorphines » | *Mécanisme :* La Loi de Contagion d’État par Résonance Miroir | *Verbatim :* Le Recadrage Préventif de la Confusion
+- **Tranche 6 [Lignes 880-1015]** : L'Induction par la Recette du Sommeil (The Duvet / Sleep Recipe Induction) — *Protocole :* L'Induction par la Recette du Sommeil (The Duvet / Sleep Recipe Induction) | *Verbatim :* L'Ancrage Vocal et la Définition Hypnagogique
+- **Tranche 7 [Lignes 1017-1160]** : Installation et Exploitation de la « Control Room » — *Protocole :* Installation et Exploitation de la « Control Room » | *Mécanisme :* Le Sanctuaire Opératoire Interne : « Control Room of the Mind » | *Verbatim :* L'Accès à l'Espace Métaphorique Central
+- **Tranche 8 [Lignes 1162-1288]** : A : Installation et Test d'Ancre Ressources (Rappel Didactique) — *Protocole :* A : Installation et Test d'Ancre Ressources (Rappel Didactique)
+- **Tranche 9 [Lignes 1290-1481]** : Le Questionnement Diagnostique & Recadrage d'Objectif (Outcome Framing & Gathering Information) — *Protocole :* Le Questionnement Diagnostique & Recadrage d'Objectif (Outcome Framing & Gathering Information) | *Mécanisme :* Systémique de l'Écologie & Béquille Émotionnelle | *Verbatim :* Verbatim : Recadrage de la dépendance et amorçage temporel du changement
+- **Tranche 10 [Lignes 1483-1657]** : A : Le Recadrage en Six Étapes Conversationnel / Transe Légère (Démonstration Rebecca & Steve) — *Protocole :* A : Le Recadrage en Six Étapes Conversationnel / Transe Légère (Démonstration Rebecca & Steve) | *Verbatim :* Verbatim 1 : L'extraction et la validation d'intention positive du Saboteur
+- **Tranche 11 [Lignes 1659-1798]** : Visual Squash Épuré (Content-Free & Rapid Integration) — *Protocole :* Visual Squash Épuré (Content-Free & Rapid Integration) | *Mécanisme :* Délégation Inconsciente & Évacuation du Contenu (Content-Free Parts Negotiation) | *Verbatim :* Suggestion d'Intégration & Pont vers le Futur
+- **Tranche 12 [Lignes 1800-1956]** : Visual Squash Adapté (En Ligne / Transe Conversationnelle Légère) — *Protocole :* Visual Squash Adapté (En Ligne / Transe Conversationnelle Légère) | *Mécanisme :* Le Toucher Psychosensoriel et la Déphosphorylation des Récepteurs AMPA | *Verbatim :* L'Empilement de Réminiscences d'Émerveillement (Paul McKenna)
+- **Tranche 13 [Lignes 1958-2101]** : A : Event Havening avec Ancrage Écroulé (Démonstration sur Deuil - Sujet : Joyce) — *Protocole :* A : Event Havening avec Ancrage Écroulé (Démonstration sur Deuil - Sujet : Joyce) | *Verbatim :* Le Recadrage de Deuil & Préparation de Boucle
+- **Tranche 14 [Lignes 2103-2293]** : Régulation Somatique & Dépotentialisation pour Situation Active (Paul McKenna avec Jessica) — *Protocole :* Régulation Somatique & Dépotentialisation pour Situation Active (Paul McKenna avec Jessica) | *Mécanisme :* Traitement des Situations Vives vs Traumatismes Passés | *Verbatim :* Verbatim 1 : Recadrage de Normalisation Écologique d'une Situation Active
+- **Tranche 15 [Lignes 2295-2426]** : A : Recadrage Biologique & Neuro-Immuno-Modulation (Démonstration Vishal) — *Protocole :* A : Recadrage Biologique & Neuro-Immuno-Modulation (Démonstration Vishal) | *Verbatim :* La Triple Liaison Épistémique Inconsciente (Mind Read & Embedded Presupposition)
+- **Tranche 16 [Lignes 2428-2572]** : Sortie de Transe & Normalisation Neurochimique — *Protocole :* Sortie de Transe & Normalisation Neurochimique | *Mécanisme :* Encodage Neurochimique Somato-Temporel & Conditionnement Neuro-Électrique | *Verbatim :* Induction de Réveil Neurochimique et Transe Positive
+- **Tranche 17 [Lignes 2574-2716]** : Le Flash « White-Out » Submodalitaire (Intervention Immédiate) — *Protocole :* Le Flash « White-Out » Submodalitaire (Intervention Immédiate) | *Mécanisme :* Le « White-Out » Submodalitaire Rapide | *Verbatim :* L'Instruction Flash du « White-Out »
+- **Tranche 18 [Lignes 2718-2884]** : Ligne du Temps Physique au Sol (Floor Timeline & Future Pacing d'Excellence) — *Protocole :* Ligne du Temps Physique au Sol (Floor Timeline & Future Pacing d'Excellence) | *Mécanisme :* Projection Spatiale & Kinesthésique de la Ligne du Temps (Spatial Timeline Grounding) | *Verbatim :* La Formule Classique d'Association Sensorielle Complète (V-A-K Pacing)
+- **Tranche 19 [Lignes 2886-3033]** : Le Swish Pattern Intégré (Comportement & Croyances) — Démonstration sur Art — *Protocole :* Le Swish Pattern Intégré (Comportement & Croyances) — Démonstration sur Art
+- **Tranche 20 [Lignes 3035-3166]** : A : Installation d'une Hallucination Positive les Yeux Ouverts (Démonstration avec Tori) — *Protocole :* A : Installation d'une Hallucination Positive les Yeux Ouverts (Démonstration avec Tori) | *Verbatim :* Le Recadrage Fondateur de la Transe Ordinaire
+- **Tranche 21 [Lignes 3168-3309]** : Anesthésie Hypnotique et Transposition Somatosensorielle — *Protocole :* Anesthésie Hypnotique et Transposition Somatosensorielle | *Mécanisme :* Amplification Phénoménologique par Enrichissement Submodalitaire (Deep Trance Phenomena) | *Verbatim :* Le Recadrage de la Sensation Résiduelle
+- **Tranche 22 [Lignes 3311-3512]** : Le Catalyseur de Ressources / Effondrement d'Ancres Itératif (Phobie de l'avion) — *Protocole :* Le Catalyseur de Ressources / Effondrement d'Ancres Itératif (Phobie de l'avion) | *Verbatim :* La non-causalité de la transe et l'accélération
+- **Tranche 23 [Lignes 3514-3683]** : d'Identification en Transe Profonde (DTI) Démonstration & Binôme — *Protocole :* d'Identification en Transe Profonde (DTI) Démonstration & Binôme | *Verbatim :* Saupoudrage, Boucle de Confusion et Dé-focalisation Consciente
+- **Tranche 24 [Lignes 3685-3841]** : Deep Trance Identification (DTI) en Écran de Contrôle Mental — *Protocole :* Deep Trance Identification (DTI) en Écran de Contrôle Mental | *Mécanisme :* Identification en Transe Profonde (DTI - Deep Trance Identification) | *Verbatim :* PEPITE 1 : L'Approfondissement Récursif par Dédoublement Dissocié
+- **Tranche 25 [Lignes 3843-4009]** : L'Explosion du Critique Interne par Shift Submodal Aversif / Ridicule — *Protocole :* L'Explosion du Critique Interne par Shift Submodal Aversif / Ridicule | *Mécanisme :* Dérégulation de la Charge Affective par Altération Submodale Auditive | *Verbatim :* Verbatim 1 : La Désactivation par Altération de la Tonalité Interne
+- **Tranche 26 [Lignes 4011-4156]** : A : Recodage des Compulsions d'Accumulation & Addictions Légères (Démonstration Elizabeth /... — *Protocole :* A : Recodage des Compulsions d'Accumulation & Addictions Légères (Démonstration Elizabeth / Tina) | *Verbatim :* Suggestion incrémentale d'allègement somatique
+- **Tranche 27 [Lignes 4158-4362]** : A : La Cure Rapide de Phobie Intégrée (Fast Phobia Cure + Audio Comique + Réencodage Écologi... — *Protocole :* A : La Cure Rapide de Phobie Intégrée (Fast Phobia Cure + Audio Comique + Réencodage Écologique) - Cas d'Andre (Araignées) | *Verbatim :* Séquence 1 : Précadrage et Présupposition Temporelle de Guérison
+- **Tranche 28 [Lignes 4364-4590]** : A : La Désensibilisation Hybride In-Vivo de Paul McKenna (Fast Phobia + Exposure Titrée) — *Protocole :* A : La Désensibilisation Hybride In-Vivo de Paul McKenna (Fast Phobia + Exposure Titrée) | *Verbatim :* La Négociation Écologique et le Permis d'Expérimenter
+- **Tranche 29 [Lignes 4592-4740]** : Le Rembobinage Phobique Dissocié (Visual / Cinema Rewind) — *Protocole :* Le Rembobinage Phobique Dissocié (Visual / Cinema Rewind) | *Verbatim :* Le Double Marquage de Sécurité
+- **Tranche 30 [Lignes 4742-4903]** : Protocole Hybride Anti-Panique (Reframing en 6 Pas + Intégration de Parties Somatiques) — *Protocole :* Protocole Hybride Anti-Panique (Reframing en 6 Pas + Intégration de Parties Somatiques) | *Mécanisme :* Le Recadrage de la Panique comme « Sur-survie » Dysfonctionnelle | *Verbatim :* Suggestion Liée d'Induction par Lévitation de Main
+- **Tranche 31 [Lignes 4905-5050]** : L'Amplification d'État Ressource & Générateur de Nouveau Comportement Visuo-Moteur (Golf / P... — *Protocole :* L'Amplification d'État Ressource & Générateur de Nouveau Comportement Visuo-Moteur (Golf / Performance) | *Mécanisme :* Le Re-mapping Submodalitaire Somato-Chromatique (submodalitesomatochromatique amplificationproprioceptive) | *Verbatim :* L'Empilement Hypnotique de l'Effort Inverse (Mains Collées)
+- **Tranche 32 [Lignes 5052-5192]** : L'Induction Instantanée par Rupture Posturale et Chute Arrière — *Protocole :* L'Induction Instantanée par Rupture Posturale et Chute Arrière
+- **Tranche 33 [Lignes 5194-5327]** : Protocole d'Incubation pour Extraction des Connaissances ("Golden Nuggets Mining") — *Protocole :* Protocole d'Incubation pour Extraction des Connaissances ("Golden Nuggets Mining") | *Verbatim :* La Commande d'Induction Informelle Immédiate
+- **Tranche 34 [Lignes 5329-5467]** : La Relaxation Systématique Synchronisée sur le Souffle (Démonstration sur André) — *Protocole :* La Relaxation Systématique Synchronisée sur le Souffle (Démonstration sur André) | *Mécanisme :* Le Pré-Cadrage d'Attente et Découpage Stratégique (preframingarchitectural inoculationobjections) | *Verbatim :* Le Recadrage du Rythme de Changement (Inoculation d'objection & Présupposition)
+- **Tranche 35 [Lignes 5469-5663]** : Recadrage Existant & Révision d'Objectifs Business par la Fin de Vie (Paul McKenna) — *Protocole :* Recadrage Existant & Révision d'Objectifs Business par la Fin de Vie (Paul McKenna) | *Verbatim :* Pattern 1 : L'ambiguïté phonétique d'autorité et dissociation vocale (Steve Crabb)
+- **Tranche 36 [Lignes 5665-5777]** : d'Ingénierie Temporelle et Écologique (3 Ans -> Quotidien) — *Protocole :* d'Ingénierie Temporelle et Écologique (3 Ans -> Quotidien) | *Verbatim :* Pattern 1 : Recadrage temporel et déculpabilisation de la procrastination
+- **Tranche 37 [Lignes 5779-5894]** : Découverte et Maturation d'une Niche par Itération Sensorielle (3 Étapes) — *Protocole :* Découverte et Maturation d'une Niche par Itération Sensorielle (3 Étapes)
+- **Tranche 38 [Lignes 5896-6017]** : d'Amorçage de Clientèle par Activation de Réseau Dormant ("The Highlighter Protocol") — *Protocole :* d'Amorçage de Clientèle par Activation de Réseau Dormant ("The Highlighter Protocol")
+- **Tranche 39 [Lignes 6019-6151]** : Le Cadre de Prospection Relationnelle Non-Vendeuse (Le Contact Hebdomadaire Désintéressé) — *Protocole :* Le Cadre de Prospection Relationnelle Non-Vendeuse (Le Contact Hebdomadaire Désintéressé) | *Mécanisme :* La Règle Neuro-Temporelle d'Allocation d'Énergie (Ratio 60 / 30 / 10) | *Verbatim :* Le Cadre de Disponibilité Inversée (Postulat de Rareté)
+- **Tranche 40 [Lignes 6153-6297]** : Le Cadre d'Enrôlement en 12 Questions (Contre-Mesure au « Traitement Gratuit ») — *Protocole :* Le Cadre d'Enrôlement en 12 Questions (Contre-Mesure au « Traitement Gratuit ») | *Mécanisme :* Architecture de Positionnement & Sophistication de Marché | *Verbatim :* Le Recadrage de la Vente Invisible
+- **Tranche 41 [Lignes 6299-6468]** : Induction en Boucle & Approfondissement Récursif (Démonstration Gosia) — *Protocole :* Induction en Boucle & Approfondissement Récursif (Démonstration Gosia) | *Verbatim :* Ratification de l'Inversion Circulatoire Somatique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 41 ---
+## Tranche 1 / 41 : L'Ancre Glissante de Relaxation Profonde (Sliding Anchor for Trance & Deep Relaxation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -220,8 +267,7 @@ Toutes les interventions du cours reposent sur une séquence architecturale inva
   - **Citation enchâssée d'autorité collective (*people go, I mean...*)** : McKenna attribue les suggestions de régénération physique, de sommeil réparateur et de rajeunissement à d'anciens participants anonymes, contournant le filtre critique du groupe.
   - **Dénégation hypnotique finale (*I'm not saying that's going to happen, but it might*)** : En affirmant qu'il ne dit pas que cela va arriver (« *I'm not saying...* »), il neutralise la réactance psychologique tout en déposant la semence de possibilité (« *but it might* »), laissant l'inconscient s'approprier le bénéfice secondaire.
 
-
-## --- Tranche 2 / 41 ---
+## Tranche 2 / 41 : L'Amplification de Ressource par Gradateur Interne & Incorporation Spatiale
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 2/41 du cursus de Paul McKenna (*Mindvalley Certified Hypnotherapist*), structurée selon les exigences strictes d'ingénierie comportementale et linguistique.
 
@@ -442,8 +488,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 2/41
   * **Modalité d'évidence assertive :** L'usage de « *obviously* » verrouille l'assentiment et neutralise toute envie de contradiction.
   * **Levée du facteur critique par discrétion thérapeutique :** « *I don't need to know what they are* » procure un soulagement immédiat au système de défense psychologique du client (pas besoin de se dévoiler), ce qui rend la suggestion finale (« *you'll be relaxing and going into trance* ») infiniment plus recevable et sûre pour le sujet.
 
-
-## --- Tranche 3 / 41 ---
+## Tranche 3 / 41 : L'Induction par Triple Truisme et Suggestion Directrice (Pace-Pace-Pace-Lead)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -557,8 +602,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 2/41
 > « I once had an experience where I was finding things really challenging and I thought to myself, if only I could learn to control my mind and relax. And what you find is when you relax your mind through visualization and you imagine things going rather well, well, you just feel so much better. And as you remember to think about everything that could go right, you'll notice you feel much better. »
 * **[Analyse du Pattern]** : Rupture et glissement de l'index référentiel. La narration démarre sur une confidence personnelle sécurisante à la première personne (*I once had... I thought to myself*), puis glisse sans transition vers la deuxième personne généralisante puis directe (*what you find... when you relax... you'll notice you feel much better*). L'interlocuteur intègre la résolution interne comme une commande somatique personnelle tout en croyant écouter une simple anecdote.
 
-
-## --- Tranche 4 / 41 ---
+## Tranche 4 / 41 : L'Induction Dégressive 5-4-3-2-1 avec Métaphore & Pont vers le Futur
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -686,8 +730,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 2/41
 > *"Let your hand begin to lower to your knee with honest unconscious movements, only as fast as you begin to let those good feelings integrate into your consciousness now, so that in a moment, yes, I'm going to ask you to open your eyes, and when you do, you'll come out of trance feeling so really good for no particular reason other than we programmed your mind to do it now."*
 - **[Analyse du Pattern]** : Double lien temporel et kinesthésique d'Erickson (*rate-binding*) : le mouvement de la main est asservi à la vitesse d'intégration inconsciente (« only as fast as »). La suggestion post-hypnotique de bien-être est verrouillée par un recadrage délibéré de cause (« for no particular reason other than we programmed your mind to do it now »), court-circuitant le besoin rationnel de trouver une justification logique à l'état de grâce ressenti.
 
-
-## --- Tranche 5 / 41 ---
+## Tranche 5 / 41 : A : L'Ancrage Spatialisé du « Bouton Endorphines »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -834,8 +877,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 2/41
   * *Liaison action-réaction synesthésique* : le geste moteur de toucher le bouton entraîne simultanément un changement visuel sous-modal (*« lights up »*, *« bigger, brighter, bolder »*) et une cascade kinesthésique biochimique (*« rush of endorphins »*).
   * *Répétition hypnotique martelée (Compounding)* : répétition frénétique et cadencée de *« and again »* agissant comme un stimulant rythmique sur le système nerveux jusqu'à la saturation totale déclarée (*« until you flooded yourself with endorphins »*).
 
-
-## --- Tranche 6 / 41 ---
+## Tranche 6 / 41 : L'Induction par la Recette du Sommeil (The Duvet / Sleep Recipe Induction)
 
 Voici l'analyse opératoire intégrale de la tranche 6/41 du cours *Mindvalley Certified Hypnotherapist* (animé par Paul McKenna et son assistant senior).
 
@@ -972,8 +1014,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/41 du cours *Mindvalley C
 > **« Take your endorphin button and hit the endorphin button and move that good feeling from the top of your head down to the tips of your toes. Have it run down the back of your neck. Let the back of your kneecaps feel wonderfully good for no particular reason. Have it dance off the ends of your eyelashes. [...] Let's plan on some spontaneous feeling good for no particular reason. »**
 * **[Analyse du Pattern]** : Nominalisation spatialisée transformée en mécanisme d'action directe (*« endorphin button »*). Ancrage somatique sur des zones périphériques absurdes pour la cognition rationnelle (*« the back of your kneecaps »*, *« ends of your eyelashes »*), court-circuitant le scepticisme. Clôture par un oxymore opératoire : *« plan on some spontaneous feeling good »* (injonction paradoxale programmant une libération involontaire).
 
-
-## --- Tranche 7 / 41 ---
+## Tranche 7 / 41 : Installation et Exploitation de la « Control Room »
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche, structurées selon les règles d'ingénierie demandées.
 
@@ -1118,8 +1159,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Démystification délibérée :** *« it's talking to somebody. That's all it is »* neutralise l'anxiété de performance de l'hypnothérapeute en ramenant la transe à une conversation ordinaire.
   - **Réintroduction du cadre d'impact :** *« In a particular way though »* réintroduit instantanément la rigueur technique du contrôle des sous-modalités et du calibrage d'état, sans réactiver la rigidité des scripts théoriques.
 
-
-## --- Tranche 8 / 41 ---
+## Tranche 8 / 41 : A : Installation et Test d'Ancre Ressources (Rappel Didactique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1247,8 +1287,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   > "And then what we did, and this was a neat bit, is you go into imagine having achieved it. And is it okay with you? And you went, it's doable. Yeah, I can do it. You didn't go, whoopee, right? But you will do once you quit. But you went, yeah, I can do it, right? [...] So we'll get to a point where you'll go, you know, you feel so good without it."
   - **[Analyse du Pattern]** : Double présupposition temporelle (« once you quit » et « we'll get to a point where you'll go... »). L'arrêt n'est plus envisagé comme une éventualité conditionnelle soumise au doute (« si vous arrêtez »), mais comme une coordonnée temporelle inévitable (« une fois que vous aurez arrêté »). L'association à un état de soulagement futur programmé (« you will do », « you feel so good without it ») opère un pseudo-pont vers le futur verrouillant le processus dans la neurologie de la cliente.
 
-
-## --- Tranche 9 / 41 ---
+## Tranche 9 / 41 : Le Questionnement Diagnostique & Recadrage d'Objectif (Outcome Framing & Gathering Information)
 
 Voici l'analyse opératoire intégrale de la tranche 9/41 du cursus *Mindvalley Certified Hypnotherapist* (Paul McKenna, avec les démonstrations de Tina Taylor et le jeu de rôle avec Steve Crabb).
 
@@ -1441,8 +1480,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/41 du cursus *Mindvalley 
   - **Pacte de non-destruction** : *« We want you to continue to do all the good things that you do »* supprime toute menace d'annihilation pour la partie, levant son réflexe d'opposition homéostatique.
   - **Conditionnel permissif d'exploration** : *« Could you, in theory, achieve what you do... and do it in ways that do not involve sabotage? »* contourne la rigidité comportementale en installant d'abord la possibilité au niveau théorique/imaginaire avant de la contractualiser dans la réalité somatique.
 
-
-## --- Tranche 10 / 41 ---
+## Tranche 10 / 41 : A : Le Recadrage en Six Étapes Conversationnel / Transe Légère (Démonstration Rebecca & Steve)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1618,8 +1656,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/41 du cursus *Mindvalley 
   - **Appel au principe du possible en modal théorique :** *"It's possible, in theory. It's better this way"*. Suggestion d'autorité douce et universelle qui injecte une faille logique dans la certitude de l'objection.
   - **Nomination identitaire supérieure :** *"integrate the new super part"*. Transforme deux sous-systèmes antagonistes en une synthèse d'ordre hiérarchique supérieur, validée par l'analogie somatique de puissance (*"like a rocket about to take off"*).
 
-
-## --- Tranche 11 / 41 ---
+## Tranche 11 / 41 : Visual Squash Épuré (Content-Free & Rapid Integration)
 
 Voici l'analyse opératoire intégrale de la tranche 11/41 du cours de Paul McKenna, structurée selon les exigences strictes d'ingénierie modélisatrice.
 
@@ -1760,8 +1797,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/41 du cours de Paul McKe
   * **Présupposition d'amplification cumulative :** *"because you'll find it gets easier and easier"* pose le succès croissant comme une évidence inéluctable liée à la simple temporalité.
   * **Fausse ignorance à implication inévitable (*Negative illusion of choice*) :** *"I don't know how much easier it's going to get for you..."* déplace le doute : la question n'est plus de savoir *si* cela va devenir plus facile, mais *à quel point exponentiel* cette facilité va se manifester, verrouillant l'apprentissage inconscient pour le reste du séminaire.
 
-
-## --- Tranche 12 / 41 ---
+## Tranche 12 / 41 : Visual Squash Adapté (En Ligne / Transe Conversationnelle Légère)
 
 Voici l'extraction et l'analyse opératoire intégrale de la tranche 12/41 du cours *Mindvalley Certified Hypnotherapist* (Paul McKenna & formatrice du Practice Lab).
 
@@ -1919,8 +1955,7 @@ And, you know, by the way, when I die, I want everyone to feel sad. You know, I 
   2. *Recadrage par changement de point de vue* : *"He wouldn't want you to feel sad, would he?"* (Présupposition d'intention bienveillante du défunt qui retire la permission d'entretenir la souffrance comme marque d'amour).
   3. *Pattern Interrupt par mégalomanie absurde et auto-dérision* : McKenna brise violemment la gravité morbide en se mettant en scène réclamant des pleurs télévisés et un deuil national. Le rire ou le décalage cognitif provoqué ouvre une fenêtre de plasticité idéale pour installer le protocole de libération émotionnelle.
 
-
-## --- Tranche 13 / 41 ---
+## Tranche 13 / 41 : A : Event Havening avec Ancrage Écroulé (Démonstration sur Deuil - Sujet : Joyce)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2065,8 +2100,7 @@ And, you know, by the way, when I die, I want everyone to feel sad. You know, I 
 > « Now, they're going to work out like a schedule, or they're going to work out a way that you can have the... So when these two parts of you have figured out a way to work together, maybe some sort of schedule or some sort of system whereby, you know, when you need to go deal with something legal, you deal with it and then you're able to rest and replenish... you'll feel a click or you'll feel a sense of possibility. »
 * **[Analyse du Pattern]** : Présupposition temporelle (« when these two parts have figured out... ») couplée à une métaphore organisationnelle (« a schedule », « a system ») adaptée au monde procédural du litige. L'intégration n'est plus une fusion totale irréaliste, mais un protocole d'alternance fonctionnelle validé par un ancrage somatosensoriel idéo-moteur futur (« you'll feel a click »).
 
-
-## --- Tranche 14 / 41 ---
+## Tranche 14 / 41 : Régulation Somatique & Dépotentialisation pour Situation Active (Paul McKenna avec Jessica)
 
 Voici l'analyse modélisée de la tranche 14/41 du cours *Mindvalley Certified Hypnotherapist* dispensé par Paul McKenna et son équipe pédagogique.
 
@@ -2258,8 +2292,7 @@ Voici l'analyse modélisée de la tranche 14/41 du cours *Mindvalley Certified H
   - **Dissociation Conscient / Inconscient ericksonienne** : Dégage la charge analytique du conscient (*"we don't have to consciously know"*) pour transférer la souveraineté opérationnelle à l'inconscient.
   - **Empilement de présuppositions imbriquées (*Nested presuppositions*)** : *"your unconscious mind knows" $\rightarrow$ "you'll know that it knows" $\rightarrow$ "if you know that it knows..."*. Cette formulation en miroir sidère l'intellect par récursivité linguistique et force la production immédiate d'une réponse idéomotrice pure.
 
-
-## --- Tranche 15 / 41 ---
+## Tranche 15 / 41 : A : Recadrage Biologique & Neuro-Immuno-Modulation (Démonstration Vishal)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2392,8 +2425,7 @@ Voici l'analyse modélisée de la tranche 14/41 du cours *Mindvalley Certified H
 
 * **[Analyse du Pattern]** : Entrelacement d'amnésie suggérée (« don't have to know how it is that you know ») qui sature l'hémisphère gauche, immédiatement suivi d'un ancrage neuro-somatique direct (« serotonin, dopamine, and endorphin releases »). McKenna matérialise l'état ressource par un vocabulaire biologique mesurable, transformant une simple remémoration en une injection endocrinienne auto-induite.
 
-
-## --- Tranche 16 / 41 ---
+## Tranche 16 / 41 : Sortie de Transe & Normalisation Neurochimique
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 16/41 du cours *Mindvalley Certified Hypnotherapist* dispensé par Paul McKenna.
 
@@ -2539,8 +2571,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 16/4
   - **Formulation conversationnelle de négociation avec l'inconscient :** *"yeah, I've got the message and the learning from that, thank you very much"*. Ce pattern honore l'intention positive de survie du système pour neutraliser la résistance interne.
   - **Recadrage de direction motivationnelle :** Bascule explicite d'un pattern d'évitement (*away-from* : fuir la pauvreté) vers un pattern d'attraction (*toward* : aller vers l'abondance).
 
-
-## --- Tranche 17 / 41 ---
+## Tranche 17 / 41 : Le Flash « White-Out » Submodalitaire (Intervention Immédiate)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2684,8 +2715,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 16/4
 > *"So hang on, so what we need is, if I just stand with you here, so when you look at say next week, is it sort of, whereabouts is it? Point to it for me. Oh, I mean, it's in the future. It's in the future, in the future, right? Of course, in the future. Now, the future, so this would be next week, so next, like a month or six months would be further out, would it? And maybe higher."*
 * **[Analyse du Pattern]** : Élicitation kinesthésique et visuelle directive par la somatisation du geste (*« Point to it for me »*). McKenna synchronise sa posture physique en se plaçant à côté du sujet pour adopter son orientation perceptuelle (position 2/partagée). Il utilise des questions suggestives ouvertes qui guident la segmentation spatiale du temps (*« further out... and maybe higher »*) sans imposer un schéma théorique rigide.
 
-
-## --- Tranche 18 / 41 ---
+## Tranche 18 / 41 : Ligne du Temps Physique au Sol (Floor Timeline & Future Pacing d'Excellence)
 
 Voici l'analyse opératoire intégrale de la tranche 18/41 du cours *Mindvalley Certified Hypnotherapist* dispensé par Paul McKenna.
 
@@ -2853,8 +2883,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/41 du cours *Mindvalley 
 * **[Analyse du Pattern] :**  
   Méta-application réflexive (Sleight of Mouth : *Apply to Self*). McKenna isole la contradiction structurelle du critique interne : la voix exprime un sentiment de doute, mais l'impose avec un ton de certitude dogmatique. En demandant *« You don't even doubt your doubts? »*, il applique le prédicat à lui-même. L'injonction d'utiliser *« la voix du doute pour douter du doute »* court-circuite le programme logique du saboteur, tandis que l'adjonction finale d'adoucisseur conversationnel (*« Just a thought »*) désarme toute réactivité défensive en faisant glisser la commande dans l'inconscient sous forme d'une suggestion informelle.
 
-
-## --- Tranche 19 / 41 ---
+## Tranche 19 / 41 : Le Swish Pattern Intégré (Comportement & Croyances) — Démonstration sur Art
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3003,8 +3032,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/41 du cours *Mindvalley 
 > **« Has anybody ever cut their finger or something like that when you were working away on something but you were so engrossed in the task you didn't notice until a few minutes later? Yeah? Anesthesia, deep trance phenomena. Have you ever been queuing in the bank and it seems like it's taking forever? Or you've been out with friends or you've been online and suddenly you look at your watch and you go, oh crikey, ages has gone by. Anybody had that experience? Time distortion, deep trance phenomena. »**
 - **[Analyse du Pattern]** : Empilement d'évidences expérientielles et truismes universels (Yes-Set implicite). McKenna relie une série de souvenirs banals et universellement partagés par l'auditoire (l'attention focalisée occultant la douleur, l'ennui allongeant la perception temporelle, l'absorption réduisant le temps) à des étiquettes cliniques impressionnantes (*Anesthesia*, *Time distortion*), normalisant la transe et ancrant l'idée que chaque individu possède et utilise déjà au quotidien l'ensemble des phénomènes hypnotiques profonds.
 
-
-## --- Tranche 20 / 41 ---
+## Tranche 20 / 41 : A : Installation d'une Hallucination Positive les Yeux Ouverts (Démonstration avec Tori)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3137,8 +3165,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/41 du cours *Mindvalley 
 > **Paul McKenna :** *"And in a moment I'm going to ask you to open your eyes. And with your eyes open, be able to fully hallucinate the rose in front of you. So you can see the shape, the color, the texture, you can feel it. That's right. So when you're ready to, just open your eyes and look at that rose. And focus on that rose to the exclusion of all other things. Look at that rose. Isn't it beautiful? There you go. Yeah. That's it."*
 * **[Analyse du Pattern]** : **Liaison temporelle et injonction d'exclusion focale.** Utilisation d'un lien subordonné (*"with your eyes open, be able to..."*) qui dissocie l'état d'éveil oculaire de l'état de conscience vigile ordinaire : les yeux s'ouvrent, mais la transe demeure intacte. L'instruction d'exclusion focale (*"to the exclusion of all other things"*) induit formellement l'hallucination négative de l'environnement (la pièce et le public disparaissent au profit exclusif de la rose). La validation par question rhétorique présupposée (*"Isn't it beautiful?"*) ancre immédiatement l'évaluation émotionnelle désirée.
 
-
-## --- Tranche 21 / 41 ---
+## Tranche 21 / 41 : Anesthésie Hypnotique et Transposition Somatosensorielle
 
 Voici l'analyse opératoire intégrale de la tranche 21/41 de la transcription du cours *Mindvalley Certified Hypnotherapist* dispensé par Paul McKenna.
 
@@ -3281,8 +3308,7 @@ Voici l'analyse opératoire intégrale de la tranche 21/41 de la transcription d
   - *Ancrage spatial et kinesthésique d'autorité* : le contact physique sur la tête agit comme un interrupteur synaptique validé par le statut d'expert projeté sur McKenna.
   - *Suggestion post-hypnotique directe et catégorique* : phrase courte, dénuée de tout verbe modal ("essayer", "pouvoir"), utilisant un futur absolu (*"You will never..."*), fermant tout espace de négociation cognitive chez un sujet en attente d'injonction autoritaire.
 
-
-## --- Tranche 22 / 41 ---
+## Tranche 22 / 41 : Le Catalyseur de Ressources / Effondrement d'Ancres Itératif (Phobie de l'avion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3485,8 +3511,7 @@ Voici l'analyse opératoire intégrale de la tranche 21/41 de la transcription d
 * **[Analyse du Pattern]** :  
   Dissociation fonctionnelle binaire (*« part of me knows I'm me... another part of me thinks... »*). Cette formulation illustre le basculement du contrôle conscient vers les réseaux de mémoire procédurale implicite : l'accès aux patterns de langage ne résulte plus d'un effort de restitution volontaire mais d'une émergence somatosensorielle directe induite par l'état d'identification.
 
-
-## --- Tranche 23 / 41 ---
+## Tranche 23 / 41 : d'Identification en Transe Profonde (DTI) Démonstration & Binôme
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3657,8 +3682,7 @@ Voici l'analyse opératoire intégrale de la tranche 21/41 de la transcription d
   - **Double contrainte écologique et amnésie orientée** : L'esprit conscient n'a pas à tout gérer. La formule scinde les acquis en deux flux étanches : ce qui est utile monte à la conscience (*"bring them to the conscious level"*), ce qui est inutile ou encombrant reste consigné dans l'inconscient (*"leaving any that you don't need at the unconscious level"*).
   - **Instruction de dissociation motrice et ré-identification nominale** : *"step out of your role model... return to being yourself"*. La métaphore spatiale de "sortir" du modèle permet un détachement kinesthésique net avant de réactiver le sentiment d'identité propre.
 
-
-## --- Tranche 24 / 41 ---
+## Tranche 24 / 41 : Deep Trance Identification (DTI) en Écran de Contrôle Mental
 
 Voici l'analyse modélisatrice intégrale et purement opératoire de la **tranche 24/41** de la formation *Mindvalley Certified Hypnotherapist* dispensée par **Paul McKenna** (avec une intervention de sa formatrice/assistante en session pratique).
 
@@ -3816,8 +3840,7 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la **tranch
 > "Now, when you hear her say it like, when you think about it now, how do you feel? That's kind of silly, isn't it? Kind of silly. You don't feel upset. [...] Try and get upset. [...] No, because you're healed."
 * **[Analyse du Pattern] :** Utilisation d'une question orientée affirmative (*"That's kind of silly, isn't it?"*), suivie de la commande paradoxale de défi direct : *"Try and get upset"*. Le mot *"Try"* présuppose l'impossibilité d'y parvenir. Lorsque la cliente constate la disparition de la douleur viscérale, McKenna scelle l'intervention par une déclaration d'identité au présent de vérité générale : *"Because you're healed"*, verrouillant définitivement l'extinction du symptôme.
 
-
-## --- Tranche 25 / 41 ---
+## Tranche 25 / 41 : L'Explosion du Critique Interne par Shift Submodal Aversif / Ridicule
 
 Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tranche 25/41 du cours *Mindvalley Certified Hypnotherapist* dispensé par Paul McKenna.
 
@@ -3985,8 +4008,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tr
 > *"When you starve yourself, right? You tell your body there's a famine on, so it actually gets good at storing fat... If you starve, you binge... And the body's going, this maniac is starving us. So as soon as it can, it gains the weight back and some... They've conditioned themselves to gain weight, right? Because metabolism is not a death sentence."*
 * **[Analyse du Pattern]** : Métaphore de l'archétype biologique de la famine dépersonnalisant le problème (« le maniaque qui nous affame »). Double cause à effet axiomatique (*« If you starve, you binge »*). Déconstruction radicale de l'impuissance acquise par le recadrage percutant : *« metabolism is not a death sentence »*, repositionnant le métabolisme non pas comme une fatalité génétique passive, mais comme une boucle de rétroaction conditionnable et modifiable par le comportement.
 
-
-## --- Tranche 26 / 41 ---
+## Tranche 26 / 41 : A : Recodage des Compulsions d'Accumulation & Addictions Légères (Démonstration Elizabeth /...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4133,8 +4155,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tr
 > "Hit that desired behavior button and as you hit that button all the stuff just disappears. Let it go. Hit the button again and let it go. Hit that button again and let it go. Everything just disappears. All those feelings you've been holding on to, it just disappears. Disappear as it dissipates into the ether around you."
 * **[Analyse du Pattern]** : **Fractionnement hypnotique par ancrage kinesthésique répétitif (« *Hit that button again...* ») couplé à une métaphore d'évaporation spatiale (« *dissipates into the ether* »)**. La répétition de l'injonction « *let it go* » en transe profonde agit comme une commande post-hypnotique directe. Le passage des objets matériels aux états internes (« *All those feelings you've been holding on to, it just disappears* ») opère un glissement sémantique subtil : ce ne sont plus des objets que l'on jette, mais une charge émotionnelle obsolète dont le système nerveux se libère enfin.
 
-
-## --- Tranche 27 / 41 ---
+## Tranche 27 / 41 : A : La Cure Rapide de Phobie Intégrée (Fast Phobia Cure + Audio Comique + Réencodage Écologi...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4340,8 +4361,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tr
 * **[Analyse du Pattern]** :
   - Double lien inversé et désamorçage de résistance : McKenna retire l'enjeu redouté (*"I'm not going to make you hold it"*), ce qui fait chuter la tension défensive. Il réétiquette ensuite l'animal à l'aide d'une métaphore inerte et domestique (*"A living handbag"*). L'action terrifiante est fragmentée et réduite à une unité temporelle insignifiante (*"touch it for a second"*), rendant le coût psychologique dérisoire pour le sujet.
 
-
-## --- Tranche 28 / 41 ---
+## Tranche 28 / 41 : A : La Désensibilisation Hybride In-Vivo de Paul McKenna (Fast Phobia + Exposure Titrée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4569,8 +4589,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tr
   - *Refonte alchimique de signal somatique* : *« The fear turns into power »*. McKenna ne demande pas au sujet de se calmer ou d'éteindre son adrénaline ; il redéfinit le flux adrénergique comme une source de combustible moteur (*power*).
   - *Pilonnage verbal en commande directe* : La triple répétition martelée *« Power, power, power »* agit comme une suggestion rythmée d'ancrage auditif qui verrouille la conversion kinesthésique au moment précis où le sujet se lève pour affronter l'animal.
 
-
-## --- Tranche 29 / 41 ---
+## Tranche 29 / 41 : Le Rembobinage Phobique Dissocié (Visual / Cinema Rewind)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4720,8 +4739,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire intégrale de la tr
 ```
 - **[Analyse du Pattern]** : Formulation de Milton-Modèle ultra-épurée à haut niveau de généralisation (mots sans contenu spécifique : *"what it is you need to"*, *"the things that you want to do"*). L'absence de détail factuel permet à l'inconscient du sujet de saturer ces variables avec ses propres souvenirs d'apprentissage sans rencontrer la moindre résistance consciente.
 
-
-## --- Tranche 30 / 41 ---
+## Tranche 30 / 41 : Protocole Hybride Anti-Panique (Reframing en 6 Pas + Intégration de Parties Somatiques)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 30/41 du cours de Paul McKenna.
 
@@ -4884,8 +4902,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 30/41 du co
 > "Double the brightness of that color, double the intensity. That's right. Still staying in the zone movie, as it were, staying in the zone experience, seeing what you saw, hearing what you heard, and feeling what you felt, and doubling the brightness and doubling the intensity. Doubling the brightness, doubling the intensity. There you go. You're glowing with this zone-like feeling."
 - **[Analyse du Pattern]** : Incantation impérative rythmée et saturation VAKOG. L'usage de verbes d'action directs (*"Double... double"*) martelés en boucle agit comme une commande post-hypnotique d'emballement neurophysiologique. McKenna maintient le sujet synchronisé dans les trois canaux sensoriels primaires (*"seeing... hearing... feeling"*) tout en superposant la métaphore visuelle de l'illumination corporelle (*"glowing with this zone-like feeling"*).
 
-
-## --- Tranche 31 / 41 ---
+## Tranche 31 / 41 : L'Amplification d'État Ressource & Générateur de Nouveau Comportement Visuo-Moteur (Golf / P...
 
 Voici l'analyse opératoire intégrale de la tranche 31/41 du cours *Mindvalley Certified Hypnotherapist* de Paul McKenna.
 
@@ -5032,8 +5049,7 @@ Voici l'analyse opératoire intégrale de la tranche 31/41 du cours *Mindvalley 
   * **Anesthésie du réflexe de survie par présupposition de protection (*"I won't let you fall"*) :** Établit l'abandon et la confiance totale juste avant la rupture vestibulaire.
   * **Commande directe par saturation staccato (*"Sleep, sleep, sleep..."*) :** Tir de barrage rythmique qui occupe toute la bande passante auditive au moment exact où le corps perd ses appuis, forçant l'effondrement immédiat dans l'état de transe somnambulique.
 
-
-## --- Tranche 32 / 41 ---
+## Tranche 32 / 41 : L'Induction Instantanée par Rupture Posturale et Chute Arrière
 
 Voici l'analyse opératoire intégrale de la tranche 32/41, issue de la transcription de Paul McKenna.
 
@@ -5175,8 +5191,7 @@ Voici l'analyse opératoire intégrale de la tranche 32/41, issue de la transcri
 ```
 * **[Analyse du Pattern]** : Commande directe d'inhibition sélective par métaphore submodale visuelle (« *rub it out and erase it* »). La phrase rassure le système d'intégrité cognitive par une promesse temporelle (« *We'll put it back later* ») tout en empilant trois verbes d'action cognitive (« *count, say, think* ») sous négation pour verrouiller tous les modes d'expression du symbole.
 
-
-## --- Tranche 33 / 41 ---
+## Tranche 33 / 41 : Protocole d'Incubation pour Extraction des Connaissances ("Golden Nuggets Mining")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5311,8 +5326,7 @@ Voici l'analyse opératoire intégrale de la tranche 32/41, issue de la transcri
   - Anaphore de légitimité (*"You're allowed... You're allowed... You're allowed..."*) combinée à une dé-nominalisation chirurgicale du mot "hypnose".
   - En réduisant le concept abstrait d'hypnose à ses constituants sensoriels et comportementaux primaires élémentaires (parler, proposer d'imaginer, toucher avec accord), McKenna anéantit l'illusion d'une pratique médicale mystique ou dangereuse et redonne au praticien une autorisation interne totale et sans complexe.
 
-
-## --- Tranche 34 / 41 ---
+## Tranche 34 / 41 : La Relaxation Systématique Synchronisée sur le Souffle (Démonstration sur André)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 34/41.
 
@@ -5452,8 +5466,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > *"And just like a twig is carried by a stream, and it moves in different directions. Your mind can meander too, because as you're relaxing the little muscles at the side of your eyes and mouth, comfortably aware of your chest and stomach relaxing... you may have noticed, your mind has begun to slow down."*
 - **[Analyse du Pattern]** : Isomorphisme poétique (*"twig is carried by a stream"* -> dérive sans effort). Enchaînement par conjonction de liaison (*"because as you're relaxing..."*) qui crée une causalité artificielle entre le relâchement physique localisé (yeux/bouche) et le ralentissement cognitif global (*"your mind has begun to slow down"*). L'usage de l'opérateur modal de perception adouci (*"you may have noticed"*) force l'esprit du sujet à sonder son expérience interne pour confirmer le ralentissement présupposé.
 
-
-## --- Tranche 35 / 41 ---
+## Tranche 35 / 41 : Recadrage Existant & Révision d'Objectifs Business par la Fin de Vie (Paul McKenna)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5649,8 +5662,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "Because trance is just the right chance for you to make changes."
 - **[Analyse du Pattern]** : Rime phonétique et assonance cognitive serrée (*trance / chance / change*). Ce couplage phonologique force une équivalence complexe au niveau subconscient : entrer en transe, c'est automatiquement saisir sa chance d'opérer des transformations durables.
 
-
-## --- Tranche 36 / 41 ---
+## Tranche 36 / 41 : d'Ingénierie Temporelle et Écologique (3 Ans -> Quotidien)
 
 Voici l'analyse opératoire de la tranche 36/41 du cursus *Mindvalley Certified Hypnotherapist*. 
 
@@ -5764,8 +5776,7 @@ Voici l'analyse opératoire de la tranche 36/41 du cursus *Mindvalley Certified 
 * **[Analyse du Pattern]** :  
   Utilisation d'un oxymore comportemental opérationnel : « se détendre à l'intérieur de ses objectifs » (*« relax into your goals »*). La conjonction de coordination (*« which actually helps you... »*) lie directement l'état de relâchement somatique à une efficacité accrue au travail, déconstruisant l'équivalence névrotique habituelle : *effort = tension = stress*.
 
-
-## --- Tranche 37 / 41 ---
+## Tranche 37 / 41 : Découverte et Maturation d'une Niche par Itération Sensorielle (3 Étapes)
 
 Voici l'analyse opératoire intégrale de la tranche 37/41 du cours *Mindvalley Certified Hypnotherapist* (session animée ici par le co-formateur Ajit Nawalkha en synergie avec le cursus de Paul McKenna).
 
@@ -5882,8 +5893,7 @@ Voici l'analyse opératoire intégrale de la tranche 37/41 du cours *Mindvalley 
 * **[Analyse du Pattern]** :  
   Normalisation préventive (Pre-framing d'acceptation de l'échec/sous-évaluation). Emploi de tag-questions (*"Isn't it?", "Right?"*) forçant l'assentiment physiologique. La sous-évaluation n'est plus étiquetée comme une erreur commerciale ou une faiblesse personnelle, mais recadrée comme le prix initiatique indispensable pour acheter de la certitude neuronale (*"That's for you to be able to go... now I have confidence"*).
 
-
-## --- Tranche 38 / 41 ---
+## Tranche 38 / 41 : d'Amorçage de Clientèle par Activation de Réseau Dormant ("The Highlighter Protocol")
 
 > [!NOTE]
 > **Observation contextuelle préalable :** Bien que la transcription provienne du programme *Mindvalley Certified Hypnotherapist* (animé conjointement avec Paul McKenna), cette tranche 38/41 est animée et dispensée par **Ajit Nawalkha** (co-fondateur d'Evercoach/Mindvalley, formateur sur le volet business, installation professionnelle et coaching pratique de la certification, comme en atteste l'adresse explicite à la ligne `01:15:35` : *"What is your story, Ajit?"*). L'analyse modélise fidèlement les processus opératoires, linguistiques et stratégiques délivrés dans cet extrait.
@@ -6006,8 +6016,7 @@ Voici l'analyse opératoire intégrale de la tranche 37/41 du cours *Mindvalley 
 ```
 * **[Analyse du Pattern]** : **Distinction catégorielle chirurgicale et déculpabilisation ontologique.** Clivage linguistique net entre deux termes paronymiques : la *capabilité* (sanctuarisée au niveau de l'identité et du potentiel transcendant par l'hyperbole *"infinitely capable"*) et la *capacité* (reléguée au plan purement physique et temporel mesurable). Ce distinguo prévient le sentiment d'échec identitaire en déplaçant la cause des retards de l'incompétence personnelle vers la simple gestion arithmétique de la réalité contingente.
 
-
-## --- Tranche 39 / 41 ---
+## Tranche 39 / 41 : Le Cadre de Prospection Relationnelle Non-Vendeuse (Le Contact Hebdomadaire Désintéressé)
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche **39/41** du cursus *Mindvalley Certified Hypnotherapist* (intervention animée par l'intervenant invité/partenaire business Ajit Nawalkha, cofondateur d'Evercoach/Mindvalley, dans le cadre du volet professionnalisation et installation du praticien).
 
@@ -6141,8 +6150,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche **39/41** du cursus *
 > **« If your market sophistication is pretty low, you need to direct that energy towards a specific goal and specific target that is capturable, like confidence, right? All right. If you increase your enoughness, you get confidence. So I'm going to sell you confidence and then work on your enoughness, right? Hypothetically, one. »**
 * **[Analyse du Pattern] :** Établissement d'une équivalence complexe explicite (*"Enoughness = Confidence"* pour le client) servant de pont sémantique. L'opérateur utilise le terme capturable (*"capturable"*) comme ancre sensorielle externe accessible à l'inconscient du client, tout en préservant l'intégrité du protocole de changement interne (*"work on your enoughness"*). Il s'agit d'une instruction claire de séparation entre le véhicule de vente et le processus thérapeutique réel.
 
-
-## --- Tranche 40 / 41 ---
+## Tranche 40 / 41 : Le Cadre d'Enrôlement en 12 Questions (Contre-Mesure au « Traitement Gratuit »)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 40/41, structurée selon les règles strictes d'ingénierie et d'ontologie émergente.
 
@@ -6288,8 +6296,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 40/41, structurée s
 > *"In your mind's eye, I want you to see yourself just there in your mind, the most relaxed you've ever been. And notice how that looks. And now dive in, float into that more relaxed you."*
 * **[Analyse du Pattern]** : **Transition Dissociation -> Association par Rupture Kinésique**. La première phase force une construction visuelle externe (*« see yourself just there... how that looks »*), ce qui installe une cible d'état ressource sans tension résiduelle. La commande enchaîne immédiatement sur des prédicats kinesthésiques à impulsion brutale (*« dive in, float into »*), ordonnant à l'appareil sensoriel du sujet d'occuper instantanément la physiologie détendue hallucinée.
 
-
-## --- Tranche 41 / 41 ---
+## Tranche 41 / 41 : Induction en Boucle & Approfondissement Récursif (Démonstration Gosia)
 
 Voici l'analyse opératoire intégrale de la tranche 41/41 de la formation *Mindvalley Certified Hypnotherapist* avec Paul McKenna.
 
@@ -6459,3 +6466,4 @@ Voici l'analyse opératoire intégrale de la tranche 41/41 de la formation *Mind
   - *Contraste hypnotique intégrateur* : McKenna couple l'illusion de contrôle (« *everything goes perfectly* ») à la réalité probabiliste du terrain (« *a challenge or two... somebody isn't that friendly* »).
   - *Subordination paradoxale / Ancrage d'extinction* : La conjonction d'opposition « *but you still stay confident... you don't care because you feel confident* » désamorce la menace de rejet social en la transformant en stimulus d'activation de la certitude interne.
   - *Étymologie réencadrante* : En reliant ensuite le mot *confidence* à sa racine « avec foi » (*con-fidentia*), il transmute une compétence technique d'interaction en un état de certitude existentielle globale.
+

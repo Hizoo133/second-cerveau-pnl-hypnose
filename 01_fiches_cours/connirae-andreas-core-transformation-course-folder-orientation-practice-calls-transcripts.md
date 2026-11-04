@@ -67,10 +67,56 @@ Le fil rouge constant du cours repose sur le **Découplage Téléologique & la S
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 119-211]** : d'Affûtage du Point de Départ (Finding the Starting Place & Elicitation de l'Expérience Dire... — *Protocole :* d'Affûtage du Point de Départ (Finding the Starting Place & Elicitation de l'Expérience Directe) | *Verbatim :* s de Mark Andreas
+- **Tranche 2 [Lignes 213-361]** : A : Gestion du Blocage de Progression dans la Chaîne de Résultats (Outcome Chain Stall) — *Protocole :* A : Gestion du Blocage de Progression dans la Chaîne de Résultats (Outcome Chain Stall) | *Mécanisme :* Traversée Spatiale des Niveaux d'Intention (Sequential Spatial Stepping) | *Verbatim :* Verbatim : L'Invitation à l'Immersion et à la Saturation du Niveau Actuel
+- **Tranche 3 [Lignes 363-477]** : Dégagement d'une chaîne d'intentions bloquée (The Outcome Chain Saturation & Jump) — *Protocole :* Dégagement d'une chaîne d'intentions bloquée (The Outcome Chain Saturation & Jump) | *Mécanisme :* Inversion de polarité attentionnelle dès l'accès préliminaire | *Verbatim :* Recadrage précoce de l'intention fondamentale
+- **Tranche 4 [Lignes 479-621]** : Récupération d'un Décrochage d'État-Source en Phase 2 (Descente / Intégration) — *Protocole :* Récupération d'un Décrochage d'État-Source en Phase 2 (Descente / Intégration) | *Verbatim :* Extrait 1 : Ré-ancrage Permissif de l'État-Source sans Forçage
+- **Tranche 5 [Lignes 623-760]** : Core Transformation pour l'Amplification / Renforcement d'un État Positif (Enhancing Practice) — *Protocole :* Core Transformation pour l'Amplification / Renforcement d'un État Positif (Enhancing Practice) | *Mécanisme :* Amplification / Recadrage par Renforcement Positif (Enhancing Already Positive States) | *Verbatim :* Verbatim : Ancrage de la possession somatique vs l'analyse
+- **Tranche 6 [Lignes 762-950]** : Régulation Écologique de la Pratique (Gestion du Changement Massif) — *Protocole :* Régulation Écologique de la Pratique (Gestion du Changement Massif) | *Mécanisme :* L'Onde de Propagation Systémique et Écologique | *Verbatim :* La Permission d'Intégration et Décompression Écologique
+- **Tranche 7 [Lignes 952-1103]** : Maturation Accélérée en Time-Lapse de la Partie — *Protocole :* Maturation Accélérée en Time-Lapse de la Partie | *Mécanisme :* Compression Temporelle & Croissance en Time-Lapse (Bypass du Revécu Traumatique) | *Verbatim :* PÉPITE 1 : Métaphore du Time-Lapse & Dissociation Temporelle
+- **Tranche 8 [Lignes 1105-1207]** : A : Tri Subconscient des Échos Vocaux en Alignement Perceptuel — *Protocole :* A : Tri Subconscient des Échos Vocaux en Alignement Perceptuel | *Mécanisme :* Tri Subconscient des Projections & Empathie Propre | *Verbatim :* Décharge du Conscient & Commande de Tri Inconscient
+- **Tranche 9 [Lignes 1209-1349]** : A : Maturation en Accéléré Implicite ("Time-Lapse Growth") — *Protocole :* A : Maturation en Accéléré Implicite ("Time-Lapse Growth") | *Verbatim :* Extrait 1 : Distinction sur l'apprentissage vs dissolution
+- **Tranche 10 [Lignes 1351-1450]** : Traitement de la Demande Positive (« Ce que je veux ») — *Protocole :* Traitement de la Demande Positive (« Ce que je veux ») | *Mécanisme :* Traçage de l'Obstacle vs Processus d'Amplification (Enhancing) | *Verbatim :* Le Découplage Thérapeutique (Exploration vs Changement)
+- **Tranche 11 [Lignes 1452-1581]** : A : Guidage à Travers les Réponses Non-Verbales et Abstractions Pures (Visual / Kinesthetic... — *Protocole :* A : Guidage à Travers les Réponses Non-Verbales et Abstractions Pures (Visual / Kinesthetic Core Chain) | *Verbatim :* Guidage de la boucle récursive sur submodalité non-verbale
+- **Tranche 12 [Lignes 1583-1765]** : Gestion et Arbitrage d'une Partie Interférente Émergente (Protocole des Deux Nœuds) — *Protocole :* Gestion et Arbitrage d'une Partie Interférente Émergente (Protocole des Deux Nœuds) | *Mécanisme :* Le Principe d'Ancrage Contextuel Immédiat de la Partie Interférente (Context of Emergence Principle) | *Verbatim :* Le Recadrage Ontologique de l'Élargissement des Choix
+- **Tranche 13 [Lignes 1767-1879]** : A : Distillation Opératoire d'un Résultat Verbeux de la Partie — *Protocole :* A : Distillation Opératoire d'un Résultat Verbeux de la Partie | *Verbatim :* s 1 : Distillation Verbale du Désir de la Partie
+- **Tranche 14 [Lignes 1881-1988]** : Alignement de la Position d'Observateur (APP - Exercice 1) — *Protocole :* Alignement de la Position d'Observateur (APP - Exercice 1) | *Mécanisme :* Le Piège de l'Effort Volontaire vs L'Émergence Organique | *Verbatim :* L'Effacement de l'Effort Volontaire au Profit de l'Auto-Régulation
+- **Tranche 15 [Lignes 1990-2175]** : Restitution Énergétique Trans-Modale (Energy Giving Back Step) — *Protocole :* Restitution Énergétique Trans-Modale (Energy Giving Back Step) | *Verbatim :* La Bascule de Restitution d'Énergie
+- **Tranche 16 [Lignes 2177-2314]** : A : Mini-Alignement Perceptuel Express (Mini-APP) — *Protocole :* A : Mini-Alignement Perceptuel Express (Mini-APP) | *Verbatim :* Recadrage de la Friction Quotidienne en Déclencheur Automatique
+- **Tranche 17 [Lignes 2316-2417]** : Mise en Place Préventive d'un Emplacement d'Observateur Neutre (Sécurité Phobie / Trauma) — *Protocole :* Mise en Place Préventive d'un Emplacement d'Observateur Neutre (Sécurité Phobie / Trauma)
+- **Tranche 18 [Lignes 2419-2532]** : A : Régression & Graduation Somatique face au Blocage d'Étape (Intervention de Kathy) — *Protocole :* A : Régression & Graduation Somatique face au Blocage d'Étape (Intervention de Kathy) | *Verbatim :* Formule de Dévalidation des Critères Extérieurs pour le Core State
+- **Tranche 19 [Lignes 2534-2652]** : A : La Pratique d'Auto-Séance Quotidienne Rapide (10-15 min) — *Protocole :* A : La Pratique d'Auto-Séance Quotidienne Rapide (10-15 min) | *Verbatim :* La validation de l'émergence rapide et l'ignorance du censeur
+- **Tranche 20 [Lignes 2654-2758]** : Déblocage de l'âge d'une partie résistante ou absente — *Protocole :* Déblocage de l'âge d'une partie résistante ou absente | *Verbatim :* Recadrage de localisation temporelle
+- **Tranche 21 [Lignes 2760-2924]** : A : Pré-Framing Opératoire Minimaliste & Élicitation Expérientielle — *Protocole :* A : Pré-Framing Opératoire Minimaliste & Élicitation Expérientielle | *Verbatim :* Le Pré-Framing Minimaliste Fondateur
+- **Tranche 22 [Lignes 2926-3116]** : Protocole d'Arbitrage Somato-Métaphorique entre Deux Parties Conflit/Bloquées — *Protocole :* Protocole d'Arbitrage Somato-Métaphorique entre Deux Parties Conflit/Bloquées | *Verbatim :* La Métaphore du Nœud Supérieur et l'Enchâssement Somatique
+- **Tranche 23 [Lignes 3118-3251]** : Gestion d'une objection/doute pendant le renversement de la chaîne (Reversing the Outcome Ch... — *Protocole :* Gestion d'une objection/doute pendant le renversement de la chaîne (Reversing the Outcome Chain) | *Mécanisme :* Traitement d'objection précoce par ancrage du premier bénéfice | *Verbatim :* Présupposition d'inévitabilité développementale
+- **Tranche 24 [Lignes 3253-3377]** : A : Guidage spatialisé de la Ligne Temporelle Parentale en distanciel (Walking Timeline via... — *Protocole :* A : Guidage spatialisé de la Ligne Temporelle Parentale en distanciel (Walking Timeline via Zoom) | *Verbatim :* La suggestion de sécurité sans rupture d'état
+- **Tranche 25 [Lignes 3379-3488]** : d'Alignement des Positions Perceptuelles (APP) – Focus Position Observateur & Soi — *Protocole :* d'Alignement des Positions Perceptuelles (APP) – Focus Position Observateur & Soi
+- **Tranche 26 [Lignes 3490-3593]** : A : Recadrage et Maintien de l'Inversion de la Chaîne des Résultats (Reversing the Outcome C... — *Protocole :* A : Recadrage et Maintien de l'Inversion de la Chaîne des Résultats (Reversing the Outcome Chain Retention) | *Verbatim :* Le cadrage de l'expérience vécue de la partie
+- **Tranche 27 [Lignes 3595-3716]** : Débrayage Somatique lors de la Descente de Chaîne (Reversing the Outcome Chain) — *Protocole :* Débrayage Somatique lors de la Descente de Chaîne (Reversing the Outcome Chain) | *Verbatim :* Désamorçage de l'exigence globale et autorisation locale
+- **Tranche 28 [Lignes 3718-3844]** : d'Amorce et de Descente vers l'État Fondamental (Phases 1 & 2) — *Protocole :* d'Amorce et de Descente vers l'État Fondamental (Phases 1 & 2) | *Verbatim :* La réinitialisation neutre d'amorce
+- **Tranche 29 [Lignes 3846-3979]** : Le Protocole d'Amplification d'une Ressource Existante (Enhancing Protocol) — *Protocole :* Le Protocole d'Amplification d'une Ressource Existante (Enhancing Protocol) | *Mécanisme :* Le Pattern des Guillemets et le Respect Isomorphique du Lexique | *Verbatim :* Le Pattern des Guillemets avec Micro-Pause
+- **Tranche 30 [Lignes 3981-4093]** : A : Élucidation & Résolution du Blocage d'Étape (Latence vs Objection) — *Protocole :* A : Élucidation & Résolution du Blocage d'Étape (Latence vs Objection) | *Mécanisme :* Levier de Discrimination Somato-Dynamique : « Besoin de Temps » vs « Partie Opposante » | *Verbatim :* Verbatim 1 : Double question d'élicitation du diagnostic interne
+- **Tranche 31 [Lignes 4095-4216]** : Rétro-Propagation Fluide Post-Maturation (Phase 3 - Étape 6) — *Protocole :* Rétro-Propagation Fluide Post-Maturation (Phase 3 - Étape 6) | *Verbatim :* Suggestion de rétro-propagation fluide sans interruption
+- **Tranche 32 [Lignes 4218-4319]** : A : Gestion du Flou Cognitif et des Méta-Résistances d'Auto-Guidage — *Protocole :* A : Gestion du Flou Cognitif et des Méta-Résistances d'Auto-Guidage | *Verbatim :* Citation 1
+- **Tranche 33 [Lignes 4321-4410]** : Pré-framing Métaphorique du Concept de Parties (Le Soldat Isolé) — *Protocole :* Pré-framing Métaphorique du Concept de Parties (Le Soldat Isolé) | *Mécanisme :* La Métaphore Isomorphique de Réintégration Somato-Temporelle (Soldats Japonais) | *Verbatim :* L'Induction Métaphorique de Sécurité et de Reconnaissance
+- **Tranche 34 [Lignes 4412-4515]** : Traitement des Intentions Négatives Fortes (Pulsion de Vengeance / Dommage à Autrui) — *Protocole :* Traitement des Intentions Négatives Fortes (Pulsion de Vengeance / Dommage à Autrui) | *Verbatim :* Le cadrage de neutralité face aux désirs de vengeance
+- **Tranche 35 [Lignes 4517-4631]** : Le Protocole d'Amélioration / Amplification (Enhancing Process) — *Protocole :* Le Protocole d'Amélioration / Amplification (Enhancing Process) | *Mécanisme :* Inversion d'intention : Processus d'Amélioration / Amplification (Enhancing Process) | *Verbatim :* Le cadrage de neutralité mécanique d'intégration corporelle du script
+- **Tranche 36 [Lignes 4633-4742]** : Alignement de la Position Observateur & de la Position Soi (APP - Aligning Perceptual Positi... — *Protocole :* Alignement de la Position Observateur & de la Position Soi (APP - Aligning Perceptual Positions) | *Mécanisme :* Désactivation des Méta-Commentaires Parasites par Alignement Somatosensoriel des Perceptions (APP - Aligning Perceptual Positions) | *Verbatim :* La reformulation relationnelle et non-adversariale
+- **Tranche 37 [Lignes 4744-4894]** : A : Auto-Guidance Vocale Optimisée (Self-CT) — *Protocole :* A : Auto-Guidance Vocale Optimisée (Self-CT) | *Verbatim :* Verbatim : Distinction de l'origine de la réponse inconsciente
+- **Tranche 38 [Lignes 4896-5007]** : d'ajustement du tempo & d'émergence par satiation (Phases 1 & 2) — *Protocole :* d'ajustement du tempo & d'émergence par satiation (Phases 1 & 2) | *Verbatim :* La métaphore de la trajectoire sans enlisement
+- **Tranche 39 [Lignes 5009-5105]** : d'Intégration Fluide Triphasée (Phases 1, 2 et 3) — *Protocole :* d'Intégration Fluide Triphasée (Phases 1, 2 et 3) | *Verbatim :* Validation Radicalisée du Néant comme État Noyau
+- **Tranche 40 [Lignes 5107-5203]** : A : Régulation d'une Partie Obstruante / Surgissante en Cours de Séance — *Protocole :* A : Régulation d'une Partie Obstruante / Surgissante en Cours de Séance
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 40 ---
+## Tranche 1 / 40 : d'Affûtage du Point de Départ (Finding the Starting Place & Elicitation de l'Expérience Dire...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -164,8 +210,7 @@ Le fil rouge constant du cours repose sur le **Découplage Téléologique & la S
 > *"Trying to get outside fulfillment to fill the inside. So it's really my whole world seems to be flipped upside down or switched around or whatever way you want to look at it. So it's no longer like the outside in type of awareness. It's this inside out awareness, everything. So it's like, do you work from your rest or do you rest from your work? So do you love from being loved or do you love because you are loved type of thing? So it's that whole perception has seems so switched."*
 - **[Analyse du Pattern]** : **Chiasme ontologique et recadrage d'état source.** Les structures en chiasme (*"work from rest vs rest from work"*, *"love from being loved vs love because you are loved"*) marquent linguistiquement le basculement fondamental de l'état de déficit/quête vers l'état de complétude inhérent aux Core States. L'action n'est plus le moyen d'acquérir un état, elle devient le rayonnement spontané de l'état déjà présent.
 
-
-## --- Tranche 2 / 40 ---
+## Tranche 2 / 40 : A : Gestion du Blocage de Progression dans la Chaîne de Résultats (Outcome Chain Stall)
 
 Voici l'analyse opératoire intégrale de la tranche 2/40 selon les règles d'ingénierie demandées.
 
@@ -315,8 +360,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/40 selon les règles d'in
   - **Double lien linguistique expansif (*Transform or enrich*) :** Quel que soit l'impact observé par le sujet, le cadre présuppose inévitablement un bénéfice : si cela ne transforme pas radicalement, cela enrichit. Il est syntaxiquement impossible pour l'expérience de rester intacte ou négative.
   - **Désactivation temporelle du pattern problématique :** L'expression *« in which you used to worry »* ancre l'ancien comportement problématique (*worry*) définitivement dans le passé révolu (*used to*), instaurant une présupposition linguistique d'obsolescence du symptôme.
 
-
-## --- Tranche 3 / 40 ---
+## Tranche 3 / 40 : Dégagement d'une chaîne d'intentions bloquée (The Outcome Chain Saturation & Jump)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/40 du cours *Core Transformation* (appels de pratique et orientation avec Connirae Andreas et l'instructeur Mark).
 
@@ -432,8 +476,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/40 du 
 > *"How does already having, let's say oneness as a way of being, transform and enrich your experience of the situation you started with?"*
 - **[Analyse du Pattern]** : Présupposition d'état acquis (*« already having... as a way of being »*). En utilisant le participe présent couplé à l'adverbe temporel *« already having »*, le langage verrouille l'accès au *Core State* non comme un objectif futur à conquérir, mais comme une réalité corporelle présente établie. Les verbes de processus actif *« transform and enrich »* constituent un double lien guidant l'inconscient à actualiser et ré-encoder le souvenir source sans possibilité de régression vers l'ancien schéma réactif.
 
-
-## --- Tranche 4 / 40 ---
+## Tranche 4 / 40 : Récupération d'un Décrochage d'État-Source en Phase 2 (Descente / Intégration)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 4/40.
 
@@ -577,8 +620,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 4/40.
   - *Suppression du marqueur d'extinction passée :* En biffant intentionnellement « used to », le praticien élimine la présupposition de finitude et installe une continuité temporelle présente et future.
   - *Double verbe d'expansion :* « transform or enrich » offre un double lien d'évolution : quelle que soit la direction que prend l'intégration (changement qualitatif ou simple renforcement quantitatif), elle est validée comme un succès du processus.
 
-
-## --- Tranche 5 / 40 ---
+## Tranche 5 / 40 : Core Transformation pour l'Amplification / Renforcement d'un État Positif (Enhancing Practice)
 
 Voici l'analyse opératoire intégrale de la tranche 5/40 du cours *Core Transformation* (appels de pratique et d'orientation animés par Mark Andreas dans la lignée de Connirae Andreas).
 
@@ -717,8 +759,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/40 du cours *Core Transfo
   - **Questionnement ontologique ouvert** : *« Who am I now? »* installe une pause métacognitive orientée vers la stabilisation identitaire plutôt que vers la poursuite compulsive d'un "travail sur soi".
   - **Validation de l'homéostasie** : Normalisation de l'incertitude systémique face aux ramifications du changement (*« we don't necessarily know yet »*), diminuant l'anxiété de performance et autorisant le système nerveux à ralentir son rythme.
 
-
-## --- Tranche 6 / 40 ---
+## Tranche 6 / 40 : Régulation Écologique de la Pratique (Gestion du Changement Massif)
 
 Voici l'analyse modélisatrice intégrale, chirurgicale et opératoire de la tranche 6/40 de la transcription brute de Connirae Andreas.
 
@@ -908,8 +949,7 @@ Voici l'analyse modélisatrice intégrale, chirurgicale et opératoire de la tra
 >   * *Négation suggestive protectrice* (« you're not aware of any of the experiences... it doesn't have to re-experience ») : décharge le système nerveux de l'injonction de reviviscence traumatique.
 >   * *Ancrage spatial et temporel d'évolution pure* (« just evolving, growing up to present ») : guide la partie vers l'alignement avec l'adulte présent sans friction.
 
-
-## --- Tranche 7 / 40 ---
+## Tranche 7 / 40 : Maturation Accélérée en Time-Lapse de la Partie
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 7/40.
 
@@ -1062,8 +1102,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 7/40.
   - **Autorisation Viscérale par Isomorphisme :** En affirmant que lui-même ne voudrait pas se lancer dans une telle surcharge, le praticien normalise l'état kinesthésique du sujet et destitue le surmoi exigeant.
   - **Double Choix avec Soulagement Temporel :** Le dilemme *"Do you think you really want to start this now? Or... put on the calendar six months from now"* introduit une bifurcation qui valide l'aspiration future tout en accordant une trêve neurologique immédiate, entraînant la libération somatique spontanée de la tension thoracique (*"the tension I felt in my chest... it's just released"*).
 
-
-## --- Tranche 8 / 40 ---
+## Tranche 8 / 40 : A : Tri Subconscient des Échos Vocaux en Alignement Perceptuel
 
 Voici l'analyse opératoire de la tranche 8/40 de la transcription brute du cours de Core Transformation.
 
@@ -1167,8 +1206,7 @@ Voici l'analyse opératoire de la tranche 8/40 de la transcription brute du cour
 > *"I mean, you know, the harshness that I used to, you know, that I'm letting go of treating myself with... you know now when it comes up it doesn't even have a say it's like 'oh no honey, you know, no it's okay, we it's okay, you're trying to protect us, I we know, you know, but yeah we got this now, thank you bye, don't beat me up'."*
 * **[Analyse du Pattern]** : Modélisation linguistique d'un dialogue interne post-Core Transformation. On observe la désactivation immédiate du critique intérieur par une attribution d'intention positive instantanée (« *you're trying to protect us* »), l'utilisation d'un prédicat affectif maternel (« *honey* ») qui inverse le rapport de force sans violence ni rejet, et l'affirmation d'autorité souveraine de l'adulte présent (« *we got this now, thank you bye* »). C'est l'essence même de l'intégration des parties sans scission du moi.
 
-
-## --- Tranche 9 / 40 ---
+## Tranche 9 / 40 : A : Maturation en Accéléré Implicite ("Time-Lapse Growth")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1310,8 +1348,7 @@ Voici l'analyse opératoire de la tranche 8/40 de la transcription brute du cour
   - **Double lien thérapeutique (cadre gagnant-gagnant)** : Si l'accès à l'État Source est facile, le sujet en récolte la nourriture somatique (*"nourishing and easy"*). Si l'accès est difficile ou laborieux, l'obstacle devient instantanément le matériel parfait (*"what's getting in the way"*) pour une nouvelle séance de transformation. L'échec devient structurellement impossible.
   - **Délégitimation du labeur mental** : Rejet de la notion de "devoirs à la maison" (*"homework"*), préservant la nature non-conflictuelle du travail avec l'inconscient.
 
-
-## --- Tranche 10 / 40 ---
+## Tranche 10 / 40 : Traitement de la Demande Positive (« Ce que je veux »)
 
 Voici l'analyse opératoire intégrale de la tranche 10/40 selon les règles d'ingénierie demandées.
 
@@ -1412,8 +1449,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/40 selon les règles d'i
 
 - **[Analyse du Pattern]** : Double lien de cloisonnement spatial et présupposition temporelle d'apaisement. L'injonction adoucie *« just this part... nobody else needs to »* crée un cordon sanitaire somatique pour rassurer les parties vigilantes en limitant le périmètre d'action. La séquence enchaîne immédiatement sur une commande enchâssée temporelle (*« when it gets to those deeper levels »*), qui présuppose comme un fait inévitable que le niveau d'apaisement final sera atteint et accepté par la totalité du système.
 
-
-## --- Tranche 11 / 40 ---
+## Tranche 11 / 40 : A : Guidage à Travers les Réponses Non-Verbales et Abstractions Pures (Visual / Kinesthetic...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1544,8 +1580,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/40 selon les règles d'i
   - **Répétition Suggestive d'un Processus Naturel et Réversible :** L'usage répété du verbe « *forgets* » (trois occurrences consécutives) installe une présupposition linguistique cruciale : ce qui a été simplement « oublié » est resté intact dans la mémoire implicite et peut donc être instantanément « remémoré » / réactivé dès que l'attention s'y reconnecte.
   - **Recadrage de la Pathologie en Simple Erreur d'Aiguillage Attentionnel :** L'attention a simplement été « dérivée » (*drawn away*) de sa source. La solution ne réside pas dans un combat contre la partie, mais dans un simple rapatriement de l'attention vers son foyer originel.
 
-
-## --- Tranche 12 / 40 ---
+## Tranche 12 / 40 : Gestion et Arbitrage d'une Partie Interférente Émergente (Protocole des Deux Nœuds)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 12/40.
 
@@ -1729,8 +1764,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Autorisation participative :** Demander la permission à la partie pour condenser son discours (*"is it okay to sum this up as..."*), maintenant l'alliance interne sans imposer d'étiquette arbitraire.
   - **Sélection des vecteurs d'expérience :** L'accent est mis sur les mots qui transportent la masse kinesthésique (*"carry the most experience"*), éliminant les rationalisations parasites pour ne garder que le signifiant hypnotique pur.
 
-
-## --- Tranche 13 / 40 ---
+## Tranche 13 / 40 : A : Distillation Opératoire d'un Résultat Verbeux de la Partie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1844,8 +1878,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « We just want to check and see, is this at a beingness level, something that can be experienced regardless what happens, doesn't happen, something like that. »
 * **[Analyse du Pattern]** : Double liaison d'indépendance contextuelle (« *regardless what happens, doesn't happen* »). La syntaxe dissocie structurellement l'état interne de toute causalité environnementale ou comportementale. Elle verrouille le niveau logique : si l'expérience nécessite une condition extérieure pour exister, elle appartient encore à la chaîne des résultats intermédiaires ; si elle demeure stable quoi qu'il advienne ou n'advienne pas, elle est validée en tant qu'état d'être pur.
 
-
-## --- Tranche 14 / 40 ---
+## Tranche 14 / 40 : Alignement de la Position d'Observateur (APP - Exercice 1)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire extraite de la tranche 14/40.
 
@@ -1954,8 +1987,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire extraite de la tra
 > **« Really, self-position is the one we want to be in most of the time. Just here I am. People talk about living in the present. It's this sense of here I am and I'm free to experience the world and respond to it and from this place of really presence from my own experience. »**
 - **[Analyse du Pattern]** : Empilement de truismes et d'ancrages tautologiques (*« here I am... presence from my own experience »*). Connirae Andreas dépouille le concept spirituel galvaudé de « vivre dans le présent » de tout jargon abstrait pour le ramener à une localisation somatique précise : une 1re position perceptuelle nettoyée de toute dissociation ou intrusion externe, rendant le système immédiatement réactif et disponible.
 
-
-## --- Tranche 15 / 40 ---
+## Tranche 15 / 40 : Restitution Énergétique Trans-Modale (Energy Giving Back Step)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2142,8 +2174,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire extraite de la tra
   - **Recadrage d'état (Reframe de sens)** : L'association directe *"that's an opportunity"* reconfigure neurologiquement le réflexe d'évitement ou de frustration face à la difficulté en un réflexe de curiosité et d'investigation.
   - **Commande cachée de facilité** : L'insertion modale *"You can easily find things to do core transformation with..."* installe la présupposition que trouver la partie sous-jacente est une opération simple et fluide, réduisant toute anxiété liée à l'introspection.
 
-
-## --- Tranche 16 / 40 ---
+## Tranche 16 / 40 : A : Mini-Alignement Perceptuel Express (Mini-APP)
 
 Voici l'analyse opératoire détaillée et intégrale de la tranche 16/40 de la transcription du cours de *Core Transformation*.
 
@@ -2282,8 +2313,7 @@ Voici l'analyse opératoire détaillée et intégrale de la tranche 16/40 de la 
 > "With the observer position and aligning perceptual positions, what we're going for is a resourceful observer position where it's really neutral and really like a full neutral observer that's a safe place to be. So the goal is that it gets all of the benefits of what's trying to be achieved by dissociation without the disadvantages. And then once we have that clean and neutral observer position, now we have a safe place to go to anytime."
 - **[Analyse du Pattern]** : Répétition rythmée de modificateurs sémantiques (*"resourceful"*, *"really neutral"*, *"full neutral"*, *"clean and neutral"*), construisant par empilement un concept somatique précis. La phrase utilise une présupposition temporelle et séquentielle (*"And then once we have that... now we have..."*) : l'atteinte d'un lieu sûr est posée comme inévitable, et sa disponibilité future est scellée par la généralisation (*"anytime"*). L'intervention sépare élégamment l'intention positive de la dissociation (la sécurité) de son symptôme délétère (l'engourdissement ou la coupure affective).
 
-
-## --- Tranche 17 / 40 ---
+## Tranche 17 / 40 : Mise en Place Préventive d'un Emplacement d'Observateur Neutre (Sécurité Phobie / Trauma)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2386,8 +2416,7 @@ Voici l'analyse opératoire détaillée et intégrale de la tranche 16/40 de la 
 ```
 * **[Analyse du Pattern] :** Double questionnement d'écologie systémique à présupposition de permanence. La première question balaye le champ spatial et contextuel (*"concerned with this issue"*), tandis que la seconde introduit la projection temporelle infinie (*"in an ongoing way"*). Cette formulation débusque les résistances homéostatiques profondes en forçant le système inconscient à tester la viabilité du changement sur la durée.
 
-
-## --- Tranche 18 / 40 ---
+## Tranche 18 / 40 : A : Régression & Graduation Somatique face au Blocage d'Étape (Intervention de Kathy)
 
 Voici l'analyse opératoire intégrale de la tranche 18/40 du cours *Core Transformation* (Session de pratique du 4 mars 2023 animée par le facilitateur Mark, dans le cadre de la formation de Connirae Andreas).
 
@@ -2502,8 +2531,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/40 du cours *Core Transf
 
 * **[Analyse du Pattern]** : **Pacification par validation d'intention positive et dissociation d'observateur**. La séquence linguistique désamorce l'inhibition : au lieu de rejeter l'interférence (ce qui renforcerait la tension), elle accorde un statut légitime à la partie (*"thank that part"*, *"trust that it has something really important"*). La question finale est une suggestion de dissociation écologique : transformer une partie opposante en observatrice passive bienveillante (*"is it okay to watch"*), ce qui évite la dissociation traumatique ou le clivage interne.
 
-
-## --- Tranche 19 / 40 ---
+## Tranche 19 / 40 : A : La Pratique d'Auto-Séance Quotidienne Rapide (10-15 min)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2623,8 +2651,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/40 du cours *Core Transf
 > **« How old was I when you were formed as a part? »**
 * **[Analyse du Pattern]** : *Recadrage par dissociation temporelle et présupposition d'origine biographique.* En remplaçant la question ontologique statique « Quel âge as-tu ? » (qui permet à l'esprit de partir dans des concepts d'âmes anciennes ou d'intemporalité) par « when you were formed », la syntaxe présuppose un moment exact de genèse/cristallisation dans la ligne de vie de l'individu, forçant l'inconscient à pointer un repère d'âge biographique précis.
 
-
-## --- Tranche 20 / 40 ---
+## Tranche 20 / 40 : Déblocage de l'âge d'une partie résistante ou absente
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2730,8 +2757,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/40 du cours *Core Transf
 > "To already be, or when you are already being, just rephrasing it as long as it doesn't get too far away from the intention of the script."
 - **[Analyse du Pattern]** : Présupposition temporelle d'antériorité et recadrage d'identité. L'insertion de l'adverbe *"already"* couplé au participe présent continu (*"already being"*) présuppose que l'état désiré n'est pas un objectif distant à conquérir ou un objet à acquérir (*to have*), mais une nature fondamentale qui préexiste déjà dans l'instant présent. Cela effondre toute distance psychologique entre le sujet et la ressource.
 
-
-## --- Tranche 21 / 40 ---
+## Tranche 21 / 40 : A : Pré-Framing Opératoire Minimaliste & Élicitation Expérientielle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2897,8 +2923,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/40 du cours *Core Transf
   - *Présupposition de continuité temporelle* : La locution adverbiale *"in an ongoing way"* introduit une suggestion hypnotique d'éternité et de permanence du changement.
   - *Double contrainte écologique* : La question force le système à passer au crible n'importe quel résidu de loyauté conflictuelle ou de peur du changement avant de clore l'intervention, garantissant l'intégrité systémique.
 
-
-## --- Tranche 22 / 40 ---
+## Tranche 22 / 40 : Protocole d'Arbitrage Somato-Métaphorique entre Deux Parties Conflit/Bloquées
 
 Voici l'analyse modélisée et opératoire de la tranche 22/40.
 
@@ -3090,8 +3115,7 @@ Voici l'analyse modélisée et opératoire de la tranche 22/40.
   - *Contraste structurel radical* : Opposer une intervention externe greffée artificiellement (`impose it on the part from the outside`) à une aspiration émergente interne (`the deepest yearning of this inner part`).
   - *Postulat ontologique de non-violence* : Le changement durable ne provient pas d'un conditionnement imposé par la volonté ou par des ressources périphériques, mais de la libération de la trajectoire téléologique propre de la partie elle-même.
 
-
-## --- Tranche 23 / 40 ---
+## Tranche 23 / 40 : Gestion d'une objection/doute pendant le renversement de la chaîne (Reversing the Outcome Ch...
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche 23/40 de la transcription brute du cours de Connirae Andreas (*Core Transformation*).
 
@@ -3226,8 +3250,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 23/40 de la transcrip
   * **Révélation du processus implicite :** Elle démontre par l'expérience immédiate de l'interlocutrice que la cognition opère en amont de la prise de conscience.
   * **Suggestion directe encadrée :** *« if you just give yourself permission to go ahead and do it as if you're seeing it, it will work »* : la formule d'action « comme si » (*as if*) transmute un éventuel sentiment d'incompétence visuelle en un levier hypnotique pleinement fonctionnel.
 
-
-## --- Tranche 24 / 40 ---
+## Tranche 24 / 40 : A : Guidage spatialisé de la Ligne Temporelle Parentale en distanciel (Walking Timeline via...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3353,8 +3376,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 23/40 de la transcrip
 > **Connirae Andreas** : *"Because as we know, a core state is something that you don't have to do anything to experience it. It just is. So if we're not able to just experience it, then there's something else happening... and so it's a sign that there's another part to work with and include here."*
 - **[Analyse du Pattern]** : Établissement d'une équivalence complexe : `[incapacité à ressentir l'état] = [signal d'une nouvelle partie à aimer et inclure]`. La formule tautologique *"It just is"* ancre le niveau ontologique de la ressource. Ce recadrage convertit immédiatement la frustration ou le sentiment d'échec du client en enthousiasme diagnostique : l'obstacle devient la carte exacte de l'étape suivante.
 
-
-## --- Tranche 25 / 40 ---
+## Tranche 25 / 40 : d'Alignement des Positions Perceptuelles (APP) – Focus Position Observateur & Soi
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3465,8 +3487,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 23/40 de la transcrip
 > **"So what most people find is beneficial is for the part to get to experience that with each of them. Even if they're all just different in the exact same way, or whatever it is, is fine. We're just finding out. But it is important to get to have, for that part, the experience of it. Not just knowing that it's different, but the experience of it."**
 - **[Analyse du Pattern]** : Empilement de truismes et cadre de consensus normatif (*« what most people find is beneficial »*), combiné à une distinction hypnotique majeure entre le cognitif (*« knowing »*) et le somatique direct (*« the experience of it »*). L'acceptation inconditionnelle (*« whatever it is, is fine »*) réduit l'effort de performance du sujet tout en réaffirmant l'injonction impérative de l'ancrage sensoriel répété.
 
-
-## --- Tranche 26 / 40 ---
+## Tranche 26 / 40 : A : Recadrage et Maintien de l'Inversion de la Chaîne des Résultats (Reversing the Outcome C...
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 26/40.
 
@@ -3571,8 +3592,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 26/4
   - *Prédicat spatial spatialisé et incarné* (*"step into the experience"*) : Commande de bascule d'une position dissociée (spectateur) à une position associée (acteur incarné).
   - *Présupposition d'immersion totale* (*"have this oneness fully"*) : Présuppose que l'unité est déjà accessible et qu'il ne reste plus qu'à en saturer l'espace somatique.
 
-
-## --- Tranche 27 / 40 ---
+## Tranche 27 / 40 : Débrayage Somatique lors de la Descente de Chaîne (Reversing the Outcome Chain)
 
 Voici l'analyse opératoire de la tranche 27/40 des sessions de pratique et d'orientation de Core Transformation animées par Mark Andreas (au sein du cursus de Connirae Andreas).
 
@@ -3695,8 +3715,7 @@ Voici l'analyse opératoire de la tranche 27/40 des sessions de pratique et d'or
   - **Bascule méta-systémique :** Transformer l'attitude du client en une sous-personnalité opératoire distincte (*"the part of you that wants to go really deep"*). L'obstacle devient la matière première du processus.  
   - **Contraste linguistique direct :** Opposition entre *"interfere"* (effort de contrôle, volition) et *"just allowing... listening"* (attitude de réceptivité phénoménologique pure).
 
-
-## --- Tranche 28 / 40 ---
+## Tranche 28 / 40 : d'Amorce et de Descente vers l'État Fondamental (Phases 1 & 2)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3824,8 +3843,7 @@ Voici l'analyse opératoire de la tranche 27/40 des sessions de pratique et d'or
 * **[Analyse du Pattern] :**
   Ce pattern déploie une présupposition d'accomplissement temporel total (*« already having »*), couplée à un enchâssement phonétique net délimité par des micro-pauses orales (effet guillemets). En isolant la citation exacte de l'État Fondamental formulé par le sujet (même agrammaticale : *« to be and not to be »*), le praticien s'abstient de toute reformulation interprétative. La construction *« as a way of being »* nominalise l'expérience en état identitaire permanent, tandis que le double verbe *« enrich or transform »* offre un choix alternatif fermé (double bind) obligeant l'inconscient à projeter cet état ontologique sur les couches inférieures de la chaîne d'objectifs.
 
-
-## --- Tranche 29 / 40 ---
+## Tranche 29 / 40 : Le Protocole d'Amplification d'une Ressource Existante (Enhancing Protocol)
 
 Voici l'analyse opératoire intégrale de la tranche 29/40 du cours *Core Transformation* (orientation et appels de pratique) dispensé par Connirae Andreas et son équipe d'assistants (dont John Prada).
 
@@ -3960,8 +3978,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/40 du cours *Core Transf
 > « If it's self-reflexive, like loving myself or being true to myself or that kind of thing, then we're not there yet because that's like there's a doer and a doee even within myself then isn't there. »
 * **[Analyse du Pattern]** : Recadrage épistémologique fondamental. Connirae forge le néologisme structurel *"doer and a doee"* (agent agissant et patient subissant) pour briser la transe de l'auto-réflexivité. La question d'accroche finale (*"isn't there"*) est un truisme conversationnel contraignant le système cognitif à admettre qu'un état impliquant une séparation interne ne peut en aucun cas constituer l'état d'essence unifié.
 
-
-## --- Tranche 30 / 40 ---
+## Tranche 30 / 40 : A : Élucidation & Résolution du Blocage d'Étape (Latence vs Objection)
 
 Voici l'analyse modélisée et opératoire de la tranche 30/40 de la transcription brute du cours *Core Transformation* avec Connirae Andreas.
 
@@ -4075,8 +4092,7 @@ Voici l'analyse modélisée et opératoire de la tranche 30/40 de la transcripti
 > *"Before sessions, I'll say, 'You know, I really appreciate your feedback. And so let me know if I can do anything that will assist you, your experience in this. So if you want me to slow down, speed up, if you have other feedback for what's helpful for you or have anything about your experience you want to share, feel free to interrupt me at any time and let me know that.'"*
 * **[Analyse du Pattern]** : **Désamorçage de l'asymétrie de pouvoir et calibration coopérative**. En donnant explicitement l'ordre permissif d'interrompre (« *feel free to interrupt me at any time* ») et en offrant des polarités d'ajustement (« *slow down, speed up* »), le guide prévient toute rupture de rapport hypnotique et installe une transe conversationnelle sécurisée où le sujet est le copilote légitime du rythme de son intégration.
 
-
-## --- Tranche 31 / 40 ---
+## Tranche 31 / 40 : Rétro-Propagation Fluide Post-Maturation (Phase 3 - Étape 6)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4199,8 +4215,7 @@ Voici l'analyse modélisée et opératoire de la tranche 30/40 de la transcripti
 
 * **[Analyse du Pattern]** : Recadrage d'équivalence complexe reliant l'erreur à la créativité et à l'action opératoire. Rupture du réflexe de perfectionnisme bloquant chez l'apprenti praticien, libérant l'exploration et l'engagement dans la transe.
 
-
-## --- Tranche 32 / 40 ---
+## Tranche 32 / 40 : A : Gestion du Flou Cognitif et des Méta-Résistances d'Auto-Guidage
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4303,8 +4318,7 @@ Voici l'analyse modélisée et opératoire de la tranche 30/40 de la transcripti
 > **« All the pieces that are looping, you can just backtrack all of those things and say, okay, so ask the part when you have this and this and this and this and this and all of these things. And when you're completely immersed or experiencing those, what do you want when you're through having all of these things? »**
 * **[Analyse du Pattern]** : Polysyndète de saturation et présupposition temporelle de complétude (*« through having »*). La répétition rythmique de *« and this and this and this and this... »* force une surcharge sensorielle et cognitive dans l'espace mental du sujet. Une fois la totalité simulée comme déjà acquise (*« completely immersed »*), le saut linguistique *« through having »* pré-suppose que la condition est déjà dépassée, forçant l'esprit inconscient à s'ouvrir à l'état transcendantal ultérieur.
 
-
-## --- Tranche 33 / 40 ---
+## Tranche 33 / 40 : Pré-framing Métaphorique du Concept de Parties (Le Soldat Isolé)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la **tranche 33/40** des transcriptions du cours de *Core Transformation*.
 
@@ -4395,8 +4409,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la **tranche 33/40**
   - **Double lien permissif / Prescription de non-résultat** (*« without any need to have an outcome [...] even if you get nowhere »*) : pulvérise la résistance psychologique liée à la peur de l'échec ou à la soumission à l'injonction thérapeutique.
   - **Réduction fractionnée de la tâche au seuil minimal acceptable** (*« even if all you're doing is thanking the parts »*) : ancre une commande directe de gratitude envers le symptôme sans exiger la modification de l'état.
 
-
-## --- Tranche 34 / 40 ---
+## Tranche 34 / 40 : Traitement des Intentions Négatives Fortes (Pulsion de Vengeance / Dommage à Autrui)
 
 Voici l'analyse opératoire de la tranche 34/40 du corpus d'entraînement à la *Core Transformation*.
 
@@ -4501,8 +4514,7 @@ Voici l'analyse opératoire de la tranche 34/40 du corpus d'entraînement à la 
 > **« For some people, depending on how they're answering, you can ask them like: "Is it okay if I phrase it like this?" But I make sure that it's okay with them if I'm changing things. Because the more I do it, the more I find, as long as we're looking to really just stick with what they're saying and what their experience is. »**
 * **[Analyse du Pattern]** : Préservation du rapport et soumission élégante au modèle du monde du client (*calibration de permission*). Le praticien ne s'impose pas comme expert linguistique, il vérifie l'écologie de l'accordage phonétique avant toute translation de la deuxième à la première personne.
 
-
-## --- Tranche 35 / 40 ---
+## Tranche 35 / 40 : Le Protocole d'Amélioration / Amplification (Enhancing Process)
 
 Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Core Transformation - Course folder (orientation, practice calls)*.
 
@@ -4618,8 +4630,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
   * **Calibrage du délai de traitement inconscient :** *"he waited for a bit and he checked for a bit"*. Le silence et la suspension motrice sont les calibrations réelles de la recherche inconsciente (transderivationnelle).
   * **Relativisation de la forme au profit du fond somatique :** L'absence de contenu additionnel (*"he said no"*) valide que la métaphore complexe constitue bien le point d'ancrage fondamental de l'État Source pour cette physiologie particulière.
 
-
-## --- Tranche 36 / 40 ---
+## Tranche 36 / 40 : Alignement de la Position Observateur & de la Position Soi (APP - Aligning Perceptual Positi...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4730,8 +4741,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
 
 * **[Analyse du Pattern]** : Commande conversationnelle d'autonomisation et recadrage de l'impatience comme expression d'une part. Le praticien ne se pose pas en métronome omniscient ; il installe une boucle de feedback en temps réel (*pacing & leading* partagé). De plus, qualifier la précipitation ou la lenteur de réaction d'une « part impatiente » évite de pathologiser la résistance et l'intègre directement dans le matériel traitable de la séance.
 
-
-## --- Tranche 37 / 40 ---
+## Tranche 37 / 40 : A : Auto-Guidance Vocale Optimisée (Self-CT)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4883,8 +4893,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
   - **Contraste kinesthésique/cognitif** : Témoignage brut illustrant le clivage classique entre la pensée analytique (qui soupçonne l'illusion ou la fabulation) et l'ancrage somatique profond (*whole body shift*).
   - **Marqueur d'intégration neurologique** : Ce verbatim fournit au praticien son critère de calibration suprême : peu importe ce que le conscient rationalise, la bascule tonique globale du corps (*whole body shift*) signe la réalité neurophysiologique de la transformation.
 
-
-## --- Tranche 38 / 40 ---
+## Tranche 38 / 40 : d'ajustement du tempo & d'émergence par satiation (Phases 1 & 2)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4997,8 +5006,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
 
 * **[Analyse du Pattern]** : Rupture de pattern et ratification instantanée. Alors que le praticien hésitait et risquait de réinduire de la recherche analytique sur le terme *"nothing"*, l'intervenant coupe court avec des commandes affirmatives courtes, rythmées et permissives (*"That's it"*, *"Go forward"*, *"be free"*, *"you're there"*). Cela installe l'ancrage que l'absence de contenu phénoménologique est en soi le sommet de l'alignement, autorisant le système nerveux à basculer immédiatement dans l'intégration rétroactive (Phase 2).
 
-
-## --- Tranche 39 / 40 ---
+## Tranche 39 / 40 : d'Intégration Fluide Triphasée (Phases 1, 2 et 3)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5096,8 +5104,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
 > « The way to experience a core state is to just step into it and have it... You could step into it, you can relax into it, or you can breathe into it. »
 * **[Analyse du Pattern]** : Tautologie opératoire directe (*« to experience... is to just step into it and have it »*) suivie d'un triple choix équivalent (truisme d'Erickson) : *step into*, *relax into*, *breathe into*. Quel que soit le canal choisi par le sujet (kinesthésique spatial, détonification musculaire ou rythme respiratoire), la conjonction mène obligatoirement à la même finalité : l'incarnation somatique immédiate sans calcul mental préalable.
 
-
-## --- Tranche 40 / 40 ---
+## Tranche 40 / 40 : A : Régulation d'une Partie Obstruante / Surgissante en Cours de Séance
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5194,3 +5201,4 @@ Voici l'extraction chirurgicale et opératoire de la tranche 35/40 du cours *Cor
 
 > **"The part really needed to experience the pain and have that pain acknowledged fully. So that was why I invited the part to actually step into that as a first step and allow it to be really seen... through that, the part began to communicate after it had been allowed to actually experience that."**
 * **[Analyse du Pattern]** : Recadrage de la souffrance non comme un obstacle à évacuer mais comme un prérequis à l'intégration. La séquence temporelle imposée (*after it had been allowed...*) présuppose linguistiquement que l'ouverture et la transformation sont la conséquence mécanique inévitable de l'accueil inconditionnel du symptôme somatique.
+

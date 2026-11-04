@@ -100,10 +100,37 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 133-225]** : La Récupération Espacée & Entrelacée (Retrieval Practice & Interleaving) — *Protocole :* La Récupération Espacée & Entrelacée (Retrieval Practice & Interleaving)
+- **Tranche 2 [Lignes 227-342]** : Recalibrage Métacognitif par Auto-Questionnement Génératif (« Tirer un Azimut ») — *Protocole :* Recalibrage Métacognitif par Auto-Questionnement Génératif (« Tirer un Azimut ») | *Verbatim :* Le piège de la syntaxe et l'illusion de maîtrise
+- **Tranche 3 [Lignes 344-483]** : Le Système de Récupération Spacée en Classe (« Modèle Columbia ») — *Protocole :* Le Système de Récupération Spacée en Classe (« Modèle Columbia »)
+- **Tranche 4 [Lignes 485-627]** : Structuration de l'Apprentissage Entrelacé et Varié (Modèle des Géométries & des Anagrammes) — *Protocole :* Structuration de l'Apprentissage Entrelacé et Varié (Modèle des Géométries & des Anagrammes) | *Verbatim :* Le Double Biais d'Illusion Perceptive
+- **Tranche 5 [Lignes 629-775]** : A : La Boîte de Leitner Opératoire (Leitner Box System) — *Protocole :* A : La Boîte de Leitner Opératoire (Leitner Box System) | *Verbatim :* La Stratégie Conditionnelle et l'Ajustement Prédictif
+- **Tranche 6 [Lignes 777-912]** : L'Entraînement par Pratique Entrelacée et Variable (Interleaved Variable Regimen) — *Protocole :* L'Entraînement par Pratique Entrelacée et Variable (Interleaved Variable Regimen) | *Mécanisme :* Remplacement et réassignation des déclencheurs mnésiques (Reassigning Retrieval Cues & Cue Competition) | *Verbatim :* Le paradoxe de l'oubli fonctionnel
+- **Tranche 7 [Lignes 914-1011]** : Désamorçage de l'Anxiété de Test et Libération de Mémoire de Travail (Protocole des Écoliers... — *Protocole :* Désamorçage de l'Anxiété de Test et Libération de Mémoire de Travail (Protocole des Écoliers Français) | *Mécanisme :* Le Parasitage de la Mémoire de Travail par l'Auto-Surveillance Anxieuse (Working Memory Depletion) | *Verbatim :* Le Recadrage Métaphorique de la Difficulté
+- **Tranche 8 [Lignes 1013-1149]** : Calibrage d'alignement instrumental face au décrochage sensoriel (Anti-Spatial Disorientation) — *Protocole :* Calibrage d'alignement instrumental face au décrochage sensoriel (Anti-Spatial Disorientation) | *Verbatim :* La fabrication projective de la fiction sous stress
+- **Tranche 9 [Lignes 1151-1241]** : Enseignement par les Pairs (Peer Instruction de Mazur) — *Protocole :* Enseignement par les Pairs (Peer Instruction de Mazur)
+- **Tranche 10 [Lignes 1243-1363]** : Le Test Dynamique Cybernétique (Dynamic Testing Loop) — *Protocole :* Le Test Dynamique Cybernétique (Dynamic Testing Loop) | *Verbatim :* Le Recadrage Identitaire par Dissociation Catégorielle
+- **Tranche 11 [Lignes 1365-1451]** : A : Structuration Analytique par Questionnement Enchâssé (Remédiation pour Faibles Bâtisseur... — *Protocole :* A : Structuration Analytique par Questionnement Enchâssé (Remédiation pour Faibles Bâtisseurs de Structure)
+- **Tranche 12 [Lignes 1453-1563]** : Recodage Identitaire de l'Obstacle (Transformation Fixed Mindset -> Growth Mindset) — *Protocole :* Recodage Identitaire de l'Obstacle (Transformation Fixed Mindset -> Growth Mindset)
+- **Tranche 13 [Lignes 1565-1705]** : Le Palais de la Mémoire Contextuel d'Examen (Méthode Paterson / Bellerbys) — *Protocole :* Le Palais de la Mémoire Contextuel d'Examen (Méthode Paterson / Bellerbys) | *Verbatim :* Verbatim 1 : Le Recadrage du Mythe de la Maîtrise
+- **Tranche 14 [Lignes 1707-1827]** : A : Auto-Test Calibré & Extraction Active (Protocole Michael Young / Étudiant) — *Protocole :* A : Auto-Test Calibré & Extraction Active (Protocole Michael Young / Étudiant) | *Mécanisme :* L'Effort d'Extraction Mémorielle comme Consolidation Structurale (Testing Effect) | *Verbatim :* Le Recadrage de la Friction Cognitive
+- **Tranche 15 [Lignes 1829-1966]** : Le Rôle Fantôme / Répétition Active Masquée (Technique Nathaniel Fuller) — *Protocole :* Le Rôle Fantôme / Répétition Active Masquée (Technique Nathaniel Fuller) | *Mécanisme :* L'Incubation Inconsciente Post-Génération ("Awful Blurting" & Mind-Knitting) | *Verbatim :* La Métaphore Spatiale de la Forêt et le Court-Circuit
+- **Tranche 16 [Lignes 1968-2084]** : La Fiche de Synthèse Dynamique (Mary Pat Wenderoth) — *Protocole :* La Fiche de Synthèse Dynamique (Mary Pat Wenderoth) | *Mécanisme :* L’externalisation spatiale et schématique du réseau causal (Summary Sheets / Systemic Graphic Mapping) | *Verbatim :* Verbatim 1 : L'injonction paradoxale d'efficience (Mike Matthews)
+- **Tranche 17 [Lignes 2086-2196]** : Le Cycle d'Apprentissage Opérationnel "Tell—Show—Do—Review" (Rick Wynveen) — *Protocole :* Le Cycle d'Apprentissage Opérationnel "Tell—Show—Do—Review" (Rick Wynveen) | *Mécanisme :* Inversion Hiérarchique de l'Apprentissage & Rétroaction Ascendante (Bottom-Up Operational Epistemology) | *Verbatim :* Le Double Moteur de la Culture d'Apprentissage
+- **Tranche 18 [Lignes 2198-2317]** : Contraste Discriminatif Simultané (Extraction de Règle Sous-Jacente) — *Protocole :* Contraste Discriminatif Simultané (Extraction de Règle Sous-Jacente)
+- **Tranche 19 [Lignes 2319-2379]** : d'Abstraction et de Transfert par Contraste Simultané — *Protocole :* d'Abstraction et de Transfert par Contraste Simultané
+- **Tranche 20 [Lignes 2381-2484]** : Le "Tir d'Azimut" par Auto-Évaluation Espacée (Spaced Self-Testing Calibration) — *Protocole :* Le "Tir d'Azimut" par Auto-Évaluation Espacée (Spaced Self-Testing Calibration)
+- **Tranche 21 [Lignes 2486-2580]** : A : La Boucle d'Auto-Vérification par "Tir d'Azimut" (The Azimuth Calibration Loop) — *Protocole :* A : La Boucle d'Auto-Vérification par "Tir d'Azimut" (The Azimuth Calibration Loop)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 21 ---
+## Tranche 1 / 21 : La Récupération Espacée & Entrelacée (Retrieval Practice & Interleaving)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -197,8 +224,7 @@ flowchart TD
 > **"Understanding that this is so enables you to see failure as a badge of effort and a source of useful information—the need to dig deeper or to try a different strategy. The need to understand that when learning is hard, you’re doing important work."**
 - **[Analyse du Pattern]** : Recadrage de sens et présupposition d'action positive. Le nominal « failure » est dépouillé de sa charge toxique par l'apposition valorisante « badge of effort ». La répétition hypnotique en anaphore de « The need to understand » présuppose que la pénibilité somatique de l'effort est le marqueur infaillible d'un travail noble et indispensable (« doing important work »).
 
-
-## --- Tranche 2 / 21 ---
+## Tranche 2 / 21 : Recalibrage Métacognitif par Auto-Questionnement Génératif (« Tirer un Azimut »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -315,8 +341,7 @@ flowchart TD
   * **Rupture du dialogue interne analytique :** Description phénoménologique précise de l'extinction du cortex préfrontal délibératif (*"transfer out of the mode where you're thinking through this"*) au profit d'une commande kinesthésique focalisée et dépouillée (*"reflex, mechanical"*).
   * **Monologue intérieur opératoire minimal :** La pensée est réduite à une intention unique non ambivalente basée sur l'expérience préalable réactivée, éliminant tout doute par pré-programmation procédurale.
 
-
-## --- Tranche 3 / 21 ---
+## Tranche 3 / 21 : Le Système de Récupération Spacée en Classe (« Modèle Columbia »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -457,8 +482,7 @@ flowchart TD
   > « What I’ve really gained a comfort level with is this: for kids to be able to evaluate, synthesize, and apply a concept in different settings, they’re going to be much more efficient at getting there when they have the base of knowledge and the retention, so they’re not wasting time trying to go back and figure out what that word might mean or what that concept was about. It allows them to go to a higher level. »  
   * [Analyse du Pattern] : **Modélisation d'un changement de croyance par libération de bande passante attentionnelle**. Utilisation d'un prédicat d'état interne rassurant (« gained a comfort level »). Le recadrage économique (« not wasting time ») démontre que l'automatisation de bas niveau n'est pas une régression mécanique, mais le prérequis cybernétique indispensable pour décharger la mémoire de travail et libérer l'accès aux opérations cognitives supérieures (« go to a higher level »).
 
-
-## --- Tranche 4 / 21 ---
+## Tranche 4 / 21 : Structuration de l'Apprentissage Entrelacé et Varié (Modèle des Géométries & des Anagrammes)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -602,8 +626,7 @@ flowchart TD
   - **Suggestion de structure conditionnelle imbriquée (*If/Then Heuristic Framing*) :** L'instruction directe délivrée en monologue interne (*« If they react like this, then this is what you would do »*) installe une commande de flexibilité procédurale plutôt qu'une routine motrice rigide.
   - **Généralisation finale présupposée :** La structure culminante (*« If you do it enough times... in whatever comes up on the field »*) installe une transe d'efficacité contextuelle totale, garantissant que l'inconscient du sujet saura ajuster ses réponses face à l'inconnu.
 
-
-## --- Tranche 5 / 21 ---
+## Tranche 5 / 21 : A : La Boîte de Leitner Opératoire (Leitner Box System)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -751,8 +774,7 @@ flowchart TD
 - **[Analyse du Pattern]** :
   - **Recadrage kinesthésique d'apaisement (*"just sort of swam out"* )** : Réduction drastique de la charge d'alerte panique face à un incident mortel potentiel (atterrir sur le parachute d'un tiers). Le prédicat métaphorique liquide (*nager hors de*) réactive un programme moteur fluide, détendu et automatique, court-circuitant le réflexe de figement ou de lutte désordonnée.
 
-
-## --- Tranche 6 / 21 ---
+## Tranche 6 / 21 : L'Entraînement par Pratique Entrelacée et Variable (Interleaved Variable Regimen)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -889,8 +911,7 @@ flowchart TD
   - **Ancrage archétypal corporel :** L'évocation universelle du vélo (*« learning to ride a bicycle »*) mobilise un souvenir kinesthésique viscéral partagé de déséquilibre initial nécessaire menant à l'équilibre automatique irréversible.
   - **Suggestion permissive libératoire :** La formule finale *« given room to struggle »* déculpabilise l'effort et ouvre un espace sécurisé où la friction cesse d'être une menace identitaire pour redevenir un levier d'évolution.
 
-
-## --- Tranche 7 / 21 ---
+## Tranche 7 / 21 : Désamorçage de l'Anxiété de Test et Libération de Mémoire de Travail (Protocole des Écoliers...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -989,8 +1010,7 @@ flowchart TD
 > "When a guy in a restaurant walks past a mother with an infant and the infant cries out 'Dada!' that’s System 1. When the blushing mother says, 'No, dear, that’s not Dada, that’s a man,' she is acting as a surrogate System 2, helping the infant refine her System 1."
 * **[Analyse du Pattern] :** **Métaphore vivante et dissociation fonctionnelle.** Illustration limpide de la régulation métacognitive. L'enfant représente l'instinct associatif immédiat mais grossier (Système 1), tandis que la mère incarne la fonction de feed-back correctif externe (Système 2 externalisé). Cette structure démontre comment l'expertise se construit par le calibrage répété des associations automatiques par une instance d'arbitrage conscient.
 
-
-## --- Tranche 8 / 21 ---
+## Tranche 8 / 21 : Calibrage d'alignement instrumental face au décrochage sensoriel (Anti-Spatial Disorientation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1128,8 +1148,7 @@ flowchart TD
   - *Boucle circulaire causale (Tautologie fermée)* : `lack the skills to improve because they are unable to distinguish...`. La proposition syntaxique lie de manière absolue la capacité de progression à la capacité de discrimination.
   - *Verrouillage motivationnel par absence de contraste somatique* : L'expression `failing to sense a mismatch... see no need to try to improve` identifie le levier d'action : l'apprentissage ne se déclenche que lorsqu'un différentiel (*mismatch*) est ressenti ou identifié. L'incompétence supprime le signal d'erreur, annulant par là même l'intention d'apprentissage.
 
-
-## --- Tranche 9 / 21 ---
+## Tranche 9 / 21 : Enseignement par les Pairs (Peer Instruction de Mazur)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1221,8 +1240,7 @@ flowchart TD
 > "His stories bring to mind the kid who, waking up on his fourth birthday to find a big pile of manure in the yard, dances around it crying, 'I’m pretty sure there’s a pony in there somewhere!'"
 - **[Analyse du Pattern]** : Métaphore transitionnelle et recadrage d'état par rupture émotionnelle. L'histoire humoristique et sensoriellement discordante (le tas de fumier vs le poney) implante instantanément une nouvelle grille de lecture perceptive : la complexité rebutante, la crise ou le désastre apparent d'une situation deviennent le signe précurseur évident d'une valeur cachée hautement désirable.
 
-
-## --- Tranche 10 / 21 ---
+## Tranche 10 / 21 : Le Test Dynamique Cybernétique (Dynamic Testing Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1344,8 +1362,7 @@ flowchart TD
 > "Structure building is a form of conscious and subconscious discipline: stuff fits or it doesn’t; it adds nuance, capacity and meaning, or it obscures and overfreights."
 * **[Analyse du Pattern]** : Commande conversationnelle binaire polarisée (*"stuff fits or it doesn’t"*). L'empilement d'alternatives absolues (*"adds nuance, capacity and meaning, or it obscures and overfreights"*) induit un filtre d'inhibition drastique dans l'inconscient de l'auditeur. La qualification de *"conscious and subconscious discipline"* unifie les deux niveaux de traitement et installe une injonction de tri chirurgical : toute information doit soit renforcer l'armature, soit être impitoyablement élaguée.
 
-
-## --- Tranche 11 / 21 ---
+## Tranche 11 / 21 : A : Structuration Analytique par Questionnement Enchâssé (Remédiation pour Faibles Bâtisseur...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1433,8 +1450,7 @@ flowchart TD
 > "As Bach-y-Rita explained, the eyes are not what sees, the brain is. The eyes sense, and the brain interprets."
 - **[Analyse du Pattern]** : Dissociation nette entre l'organe récepteur et le système d'intégration cortical (*"sense vs interprets"*). Ce double truisme brise la nominalisation habituelle de la "vue" pour installer un modèle opératoire plastique : si le cerveau est le seul interprète, n'importe quel canal sensoriel peut être éduqué pour remplacer une fonction déficiente.
 
-
-## --- Tranche 12 / 21 ---
+## Tranche 12 / 21 : Recodage Identitaire de l'Obstacle (Transformation Fixed Mindset -> Growth Mindset)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1546,8 +1562,7 @@ flowchart TD
 > "If people knew how hard I worked to get my mastery, it wouldn’t seem so wonderful after all."
 * **[Analyse du Pattern]** : Dé-nominalisation démythificatrice par rupture d'illusion. Citation attribuée à Michel-Ange qui déconstruit l'équivalence complexe entre « chef-d'œuvre » et « don divin surnaturel » (`wonderful`), en réinjectant la matérialité concrète du labeur brut (`how hard I worked`). Cela ramène l'excellence d'un statut de fantasme intouchable à un protocole reproductible d'engagement somatique.
 
-
-## --- Tranche 13 / 21 ---
+## Tranche 13 / 21 : Le Palais de la Mémoire Contextuel d'Examen (Méthode Paterson / Bellerbys)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1689,8 +1704,7 @@ flowchart TD
 * **[Analyse du Pattern]** :  
   *Tautologie ascendante et équivalence complexe d'identité.* Utilisation d'une structure en cascade d'implications récursives : *The more we do, the more we can do*. Les verbes d'action comportementale (*What we do*) sont directement indexés sur le niveau logique de l'identité (*shapes who we become*). La phrase installe une boucle de renforcement positif où l'effort cesse d'être un coût pour devenir le vecteur même de l'extension de soi, consolidé par le truisme nominalisé final (*growth mindset*).
 
-
-## --- Tranche 14 / 21 ---
+## Tranche 14 / 21 : A : Auto-Test Calibré & Extraction Active (Protocole Michael Young / Étudiant)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 14/21 de *Make It Stick* (Peter Brown & Henry Roediger).
 
@@ -1812,8 +1826,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 14/2
   - **Établissement d'une réalité inéluctable (Double lien logique)** : *"Si X n'est pas produit à l'état A, il est impossible qu'il apparaisse à l'état B"*.
   - **Clôture de toute alternative paresseuse** : Effondrement du cadre de la consommation passive d'information par mise en miroir stricte entre l'entraînement et l'épreuve de réalité.
 
-
-## --- Tranche 15 / 21 ---
+## Tranche 15 / 21 : Le Rôle Fantôme / Répétition Active Masquée (Technique Nathaniel Fuller)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 15/21 selon la grille demandée.
 
@@ -1952,8 +1965,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 15/2
     *   *Commande enchâssée impérative directe* : "delete the whimpering" / "go wrestle the bear".
     *   *Recadrage héroïque/archaïque* : Remplacement de l'état d'auto-apitoiement intellectuel ("whimpering") par une métaphore viscérale et physique de combat ("wrestle the bear"). Ce basculement sémantique extrait instantanément le sujet de la rumination mentale stérile pour le projeter dans un engagement somatique total.
 
-
-## --- Tranche 16 / 21 ---
+## Tranche 16 / 21 : La Fiche de Synthèse Dynamique (Mary Pat Wenderoth)
 
 Voici l’ingénierie et la modélisation opératoire intégrale de la tranche 16/21.
 
@@ -2071,8 +2083,7 @@ Voici l’ingénierie et la modélisation opératoire intégrale de la tranche 1
 > “A lot of students get hung up studying for months, trying to memorize everything, but for me it was more about understanding the concepts. So my azimuth check would be, Okay, what is this question asking, what’s the broader theme here, and does that match up with what I’ve outlined for this section.”
 * **[Analyse du Pattern] :** Présupposition de contraste et dialogue interne modélisant. L'expression *"shoot an azimuth"* ancre une action kinesthésique militaire dans une opération mentale de haut niveau. En exhibant son dialogue interne (*"Okay, what is this question asking..."*), l'oratrice fournit la structure exacte de la sous-modalité auditive interne nécessaire pour court-circuiter l'anxiété du détail et stabiliser la perception du tableau d'ensemble.
 
-
-## --- Tranche 17 / 21 ---
+## Tranche 17 / 21 : Le Cycle d'Apprentissage Opérationnel "Tell—Show—Do—Review" (Rick Wynveen)
 
 Voici l'extraction et l'ingénierie opératoire intégrale de la tranche 17/21 du cours *Make It Stick - The Science of Successful Learning* (Peter Brown & Henry Roediger).
 
@@ -2184,8 +2195,7 @@ Voici l'extraction et l'ingénierie opératoire intégrale de la tranche 17/21 d
   - **Suppression d'objections par empilement négatif :** *"They come at no cost, they require no structural reform"*. Destruction systématique des deux alibis majeurs de l'évitement (l'argent et la contrainte institutionnelle).
   - **Ancrage de certitude par adjectifs binaires :** *"both real and long-lasting"*. Clôture par un postulat d'impact neurologique permanent, scellant la promesse opératoire du cours.
 
-
-## --- Tranche 18 / 21 ---
+## Tranche 18 / 21 : Contraste Discriminatif Simultané (Extraction de Règle Sous-Jacente)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2306,8 +2316,7 @@ Voici l'extraction et l'ingénierie opératoire intégrale de la tranche 17/21 d
 > "The anosognosic’s dilemma: Something’s wrong but you’ll never know what it is."
 - **[Analyse du Pattern]** : *Boucle fermée de négation autoréférentielle.* La structure bipartite pose d'abord une rupture de pattern (« Something's wrong »), immédiatement suivie d'une interdiction cognitive absolue (« but you'll never know what it is »). Cette formulation crée un état de transe de confusion où le système logique tente d'évaluer une variable dont l'évaluation même est déclarée hors de portée de l'instrument de mesure.
 
-
-## --- Tranche 19 / 21 ---
+## Tranche 19 / 21 : d'Abstraction et de Transfert par Contraste Simultané
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2369,8 +2378,7 @@ Voici l'extraction et l'ingénierie opératoire intégrale de la tranche 17/21 d
 > "Embedding questions into chapters to focus the low structure-builders on the important concepts (and requiring them to answer the questions) boosted the low structure-builders to levels of learning enjoyed by high structure-builders."
 - **[Analyse du Pattern]** : Présupposition d'équivalence opérationnelle et commande de contrainte active (`requiring them to answer`). La structure syntaxique pose comme fait acquis (`boosted... to levels enjoyed by...`) qu'une contrainte procédurale externe efface totalement les inégalités cognitives intrinsèques par le simple biais de l'action générative.
 
-
-## --- Tranche 20 / 21 ---
+## Tranche 20 / 21 : Le "Tir d'Azimut" par Auto-Évaluation Espacée (Spaced Self-Testing Calibration)
 
 Voici l'analyse d'ingénierie cognitive et de modélisation de la tranche 20/21 de *Make It Stick* (Peter Brown, Henry Roediger & Mark McDaniel).
 
@@ -2475,8 +2483,7 @@ Voici l'analyse d'ingénierie cognitive et de modélisation de la tranche 20/21 
 > **« Shooting an azimuth: periodic testing gives you an honest compass reading on where you actually are versus where you think you are. »**
 > - **[Analyse du Pattern]** : Métaphore spatiale et boussole d'orientation métacognitive. La métaphore militaire ("shooting an azimuth") crée une dissociation salutaire entre la perception subjective du sujet ("where you think you are", biais de fluidité) et la topographie factuelle du terrain ("where you actually are"), ancrant le test comme un acte neutre et libérateur de calibration.
 
-
-## --- Tranche 21 / 21 ---
+## Tranche 21 / 21 : A : La Boucle d'Auto-Vérification par "Tir d'Azimut" (The Azimuth Calibration Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2571,3 +2578,4 @@ Voici l'analyse d'ingénierie cognitive et de modélisation de la tranche 20/21 
 *   **Pépite 3 : Le recadrage de la transparence pédagogique**
     > *"Transparency in teaching strategies"*
     *   **[Analyse du Pattern]** : Présupposition d'alliance stratégique et méta-communication. En rendant transparent le mécanisme d'ingénierie cognitive au sujet au lieu de lui imposer une tâche aveugle, l'opérateur désarme les défenses critiques de l'ego. Le sujet passe du statut d'objet d'apprentissage à celui de copilote conscient de son propre remodelage neuro-cognitif.
+

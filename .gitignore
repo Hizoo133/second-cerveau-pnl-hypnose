@@ -1,4 +1,7 @@
+.venv/
 00_raw_txt/
 scripts/state_checkpoints/
-.env
 __pycache__/
+*.pyc
+.DS_Store
+.env

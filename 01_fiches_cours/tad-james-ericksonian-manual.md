@@ -51,10 +51,17 @@ Chaque intervention (de la simple induction permissive au double lien complexe) 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 64-209]** : Les 3 Étapes de l'Approche d'Utilisation Thérapeutique — *Protocole :* Les 3 Étapes de l'Approche d'Utilisation Thérapeutique | *Mécanisme :* Calibration & Acuité Sensorielle Micro-Somatique | *Verbatim :* Verbatim 1 : Mind Reading & Lost Performative
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 1 ---
+## Tranche 1 / 1 : Les 3 Étapes de l'Approche d'Utilisation Thérapeutique
 
 Voici l'extraction et la modélisation intégrale de la tranche selon les exigences méthodologiques et d'ingénierie avancée demandées.
 
@@ -200,3 +207,4 @@ Voici l'extraction et la modélisation intégrale de la tranche selon les exigen
 #### Verbatim 10 : Métaphore de Transmission Vocale & Généralisation Continue
 > "I want you to go back to a time when you were a little, little girl, and my voice will go with you. My voice will become the voices of your parents, your friends, your teachers, and anyone else it needs to be so that it remains consistent with your experience. My voice will become the whispering wind as it tells you the secrets of the trees, the secrets of Nature, the secrets of Life itself. You may hear my voice in the wind, in the rustle of the leaves, or the tinkling of a wind chime, or the sounds around you as you go about your daily life. And when you hear it, listen! You're learning. And you're going to keep right on learning and making the connections that will allow your unconscious mind the freedom to assist you in all those things ... that's right, your learning."
 * **[Analyse du Pattern]** : Régression en âge permissive (*"little, little girl"*) couplée à une réification de la voix du thérapeute comme objet transitionnel universel. La voix est transmutée en éléments environnementaux (vent, arbres, feuilles, carillons), ancrant la suggestion d'apprentissage dans le quotidien du sujet post-séance. La conclusion utilise l'ambiguïté phonologique (*"right on"* / *"write on"*) et le jeu phonétique entre *"You're learning"* (verbe au présent continu) et *"your learning"* (nominalisation possessive), solidifiant le processus comme une réalité acquise.
+

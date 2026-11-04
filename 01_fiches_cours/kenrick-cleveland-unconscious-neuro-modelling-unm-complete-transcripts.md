@@ -77,10 +77,39 @@ Le fil conducteur est la **vérité processuelle** : transformer chaque intentio
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 112-248]** : Induction par Fatigue Oculomotrice & Relâchement Somatique (NIS Induction) — *Protocole :* Induction par Fatigue Oculomotrice & Relâchement Somatique (NIS Induction) | *Mécanisme :* Le Levier de l'Énoncé d'Être (Being Statement) | *Verbatim :* La Commande d'Enchâssement Vocal
+- **Tranche 2 [Lignes 250-379]** : Ingénierie et Calibrage d'un Being Statement Opératoire — *Protocole :* Ingénierie et Calibrage d'un Being Statement Opératoire | *Verbatim :* Démystification de l'Attraction Passive
+- **Tranche 3 [Lignes 381-515]** : Désamorçage de l'Indigence et Neutralisation du Besoin Réactif — *Protocole :* Désamorçage de l'Indigence et Neutralisation du Besoin Réactif | *Verbatim :* Désamorçage de l'urgence catastrophique par questionnement récursif
+- **Tranche 4 [Lignes 517-645]** : Diagnostic Graphique de Trajectoire & Détection de Fondations Défaillantes — *Protocole :* Diagnostic Graphique de Trajectoire & Détection de Fondations Défaillantes | *Mécanisme :* Le Verrouillage Neurologique par l'Identité d'Action : Being Statements | *Verbatim :* Le Déverrouillage d'Omnipotence et la Présupposition Opératoire
+- **Tranche 5 [Lignes 647-764]** : d'Induction & Neuro-Imprinting (NIS) — *Protocole :* d'Induction & Neuro-Imprinting (NIS) | *Verbatim :* Double-Lien d'Écoute et Amnésie Permissive
+- **Tranche 6 [Lignes 766-904]** : Induction d'Imprégnation Neurologique par Rupture Oculo-Mésencéphalique — *Protocole :* Induction d'Imprégnation Neurologique par Rupture Oculo-Mésencéphalique | *Mécanisme :* La dynamique d'Imprégnation Neurologique par Boucle Somato-Sensorielle | *Verbatim :* Induction de Voix Introjectée et Présupposition Temporelle
+- **Tranche 7 [Lignes 906-1015]** : Cycle d'Imprégnation Neurologique sur 31 Jours (The 31-Day Neuro Imprinting System) — *Protocole :* Cycle d'Imprégnation Neurologique sur 31 Jours (The 31-Day Neuro Imprinting System) | *Mécanisme :* Le Choix d'Être comme Pare-Feu Neurologique et Filtre d'Identité | *Verbatim :* Le Double Choix Contraint (Présupposition d'Échec de l'Ego)
+- **Tranche 8 [Lignes 1017-1169]** : Rédaction et Imprégnation du « Being Statement » (Étape Préalable Obligatoire) — *Protocole :* Rédaction et Imprégnation du « Being Statement » (Étape Préalable Obligatoire) | *Verbatim :* La Formule Archétypale du Being Statement
+- **Tranche 9 [Lignes 1171-1375]** : Le Fractionnement Audio-Visuel Kasina & Conditionnement Réflexe à la Cloche/Tonalité — *Protocole :* Le Fractionnement Audio-Visuel Kasina & Conditionnement Réflexe à la Cloche/Tonalité | *Mécanisme :* Le « Vacuum Effect » (Effet de Vide d'Aspiration Neurologique) | *Verbatim :* La Fusion Identitaire par Ambiguïté Grammaticale
+- **Tranche 10 [Lignes 1377-1505]** : L'Incorporation du Soi Futur Modélisateur (Protocole "Unzip & Stepping-In") — *Protocole :* L'Incorporation du Soi Futur Modélisateur (Protocole "Unzip & Stepping-In") | *Mécanisme :* Effet d'Appel d'Air Inconscient : Le « State Vacuum » | *Verbatim :* La rupture de profondeur par le truisme de demi-enveloppement
+- **Tranche 11 [Lignes 1507-1657]** : A : Boucle de Conditionnement Vidéo Thêta (Step 2C) — *Protocole :* A : Boucle de Conditionnement Vidéo Thêta (Step 2C) | *Mécanisme :* Fixation et fatigue oculaire supra-oculaire couplée au release parasympathique | *Verbatim :* L'installation de la voix directrice interne
+- **Tranche 12 [Lignes 1659-1805]** : L'Induction Neuro-Imprinting (Entrée en État Thêta avec Son/Lumière) — *Protocole :* L'Induction Neuro-Imprinting (Entrée en État Thêta avec Son/Lumière) | *Verbatim :* La Fusion Visuelle et Somatique de Début de Transe
+- **Tranche 13 [Lignes 1807-1951]** : « Double-Track Neuro-Imprinting & Cross-Mapping Vidéo » — *Protocole :* « Double-Track Neuro-Imprinting & Cross-Mapping Vidéo » | *Verbatim :* Séquence d'Induction Oculaire & Double Lien d'Absorption
+- **Tranche 14 [Lignes 1953-2086]** : L'Induction Standard de Neuro-Imprégnation (UNM Imprinting Protocol) — *Protocole :* L'Induction Standard de Neuro-Imprégnation (UNM Imprinting Protocol) | *Mécanisme :* Levier : Le Récit de Destinée & Mythologie Personnelle Déclarée (Origin Story Anchoring) | *Verbatim :* La Présupposition d'Intégration Temporelle Future
+- **Tranche 15 [Lignes 2088-2234]** : Désamorçage de Résistance par Prescription de Rétention et Accord Fictif — *Protocole :* Désamorçage de Résistance par Prescription de Rétention et Accord Fictif
+- **Tranche 16 [Lignes 2236-2412]** : L'Intervention Paradoxale Hédonique (Cas de l'Allergie / Somatisation Réactive) — *Protocole :* L'Intervention Paradoxale Hédonique (Cas de l'Allergie / Somatisation Réactive) | *Verbatim :* Verbatim 1 : L'Injonction Paradoxale Hédonique (Erickson)
+- **Tranche 17 [Lignes 2414-2596]** : Induction Standard d'Empreinte Neurologique Inconsciente (NIS - Neuro Imprinting Session) — *Protocole :* Induction Standard d'Empreinte Neurologique Inconsciente (NIS - Neuro Imprinting Session) | *Mécanisme :* Activation du Système de Neurones Miroirs par Association Somatosensorielle Complète | *Verbatim :* La Bascule Oculaire et l'Effondrement du Tonus
+- **Tranche 18 [Lignes 2598-2715]** : Induction d'Empreinte Neuro-Modélisatrice (Séquence Vidéo Kasina) — *Protocole :* Induction d'Empreinte Neuro-Modélisatrice (Séquence Vidéo Kasina) | *Mécanisme :* Entraînement Cérébral Multimodal & Amplification Somato-Optique | *Verbatim :* La Bascule Oculaire & l'Enchaînement Présuppositionnel
+- **Tranche 19 [Lignes 2717-2837]** : Incarnation Sensorimotrice du Modèle d'Excellence ("Unzipping & Jump-In") — *Protocole :* Incarnation Sensorimotrice du Modèle d'Excellence ("Unzipping & Jump-In") | *Mécanisme :* Verrouillage de l'empreinte neuronale et non-dispersion cognitive | *Verbatim :* La rupture de l'illusion de contrôle et l'ancrage instantané
+- **Tranche 20 [Lignes 2839-2946]** : « The Zipper Inhabitation » (Prise de Possession Somatique du Modèle) — *Protocole :* « The Zipper Inhabitation » (Prise de Possession Somatique du Modèle) | *Mécanisme :* Le « Stepping In » Somatosensoriel Total vs Observation Dissociée | *Verbatim :* La Désactivation de la Pression d'Entrée & L'Inhabitation Instantanée
+- **Tranche 21 [Lignes 2948-3054]** : d'Installation et d'Opération de la Technologie d'Empreinte (KASINA / SpectraStrobe) — *Protocole :* d'Installation et d'Opération de la Technologie d'Empreinte (KASINA / SpectraStrobe) | *Verbatim :* La négation du contrôle conscient et le double lien d'inévitabilité
+- **Tranche 22 [Lignes 3056-3192]** : Réglage d'Intensité & Rééquilibrage Postural en Session d'Imprégnation (NIS) — *Protocole :* Réglage d'Intensité & Rééquilibrage Postural en Session d'Imprégnation (NIS) | *Mécanisme :* Levier Somatosensoriel d'Inconfort Stratégique contre la Dérive Léthargique | *Verbatim :* Le Recadrage Ontologique de la Pensée comme Comportement
+- **Tranche 23 [Lignes 3194-3298]** : d'Assimilation Sécurisée d'un Modèle Neuro-Inconscient (UNM Delivery Framework) — *Protocole :* d'Assimilation Sécurisée d'un Modèle Neuro-Inconscient (UNM Delivery Framework) | *Mécanisme :* Le Danger de l'Absorption Holistique en Modélisation Inconsciente (Le "Bleed-Through" Pathologique) | *Verbatim :* Suggestion de Construction Inconsciente Incrémentale
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 23 ---
+## Tranche 1 / 23 : Induction par Fatigue Oculomotrice & Relâchement Somatique (NIS Induction)
 
 Voici l'analyse opératoire intégrale de la tranche 1/23 du cours **Unconscious Neuro Modelling (UNM Complete)** de Kenrick Cleveland.
 
@@ -218,8 +247,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/23 du cours **Unconscious
   * *Rupture de pattern brutale :* Utilisation d'un registre direct et familier (*« bullshit »*, *« damn door »*) pour briser la léthargie de complaisance du sujet.
   * *Recadrage opérationnel :* La visualisation n'est plus une fin mystique, mais uniquement l'étalonnage préalable du SRA, réhabilitant l'obligation motrice et comportementale comme seule preuve de validité du modèle.
 
-
-## --- Tranche 2 / 23 ---
+## Tranche 2 / 23 : Ingénierie et Calibrage d'un Being Statement Opératoire
 
 Voici l'analyse opératoire intégrale de la tranche 2/23 du cours *Unconscious Neuro Modelling (UNM Complete)* par Kenrick Cleveland.
 
@@ -350,8 +378,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/23 du cours *Unconscious 
   - *Dialogue socratique hypnotique (Chaining de scénarios) :* Enchaînement itératif de la formule invariante *« Okay, and then what? »*. Ce pattern syntaxique agit comme un bélier contre l'arrêt sur image traumatique de la peur, forçant la cognition à traverser la zone rouge sans s'y arrêter.
   - *Clôture par truisme rassurant (Future Pacing de sécurité) :* *« So you're going to be okay. »* La conclusion est délivrée comme une conséquence logique incontestable de la simulation mentale qui vient d'être vécue.
 
-
-## --- Tranche 3 / 23 ---
+## Tranche 3 / 23 : Désamorçage de l'Indigence et Neutralisation du Besoin Réactif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -487,8 +514,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/23 du cours *Unconscious 
 > « You first are making a being statement. Everything flows from who you are. It is not about doing in order to become. It's about becoming, choosing who we are. Which then produces the actions of that kind of person. »
 * **[Analyse du Pattern]** : Inversion de pattern linguistique classique de type Faire -> Avoir -> Être. Le formateur utilise un recadrage de niveau logique (au sens de Dilts) : l'identité gouverne le comportement. La formule modale déclarative (*« Everything flows from who you are »*) agit comme un postulat axiomatique. En dissociant le « devenir » du « faire préalable » (*« It is not about doing in order to become »*), il supprime la barrière de la justification par l'effort et installe l'identité comme une décision déclarative immédiate qui engendre organiquement les comportements appropriés.
 
-
-## --- Tranche 4 / 23 ---
+## Tranche 4 / 23 : Diagnostic Graphique de Trajectoire & Détection de Fondations Défaillantes
 
 Voici l'analyse opératoire intégrale de la tranche 4/23 du cours *Unconscious Neuro Modelling (UNM Complete)* dispensé par Kenrick Cleveland.
 
@@ -618,8 +644,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/23 du cours *Unconscious 
   - **Personnification de l'existence** (*« Persuade your life »*) : Déplacement ontologique audacieux où « la vie » n'est plus un environnement passif subi, mais une entité relationnelle malléable que le sujet doit séduire et influencer.
   - **Cascade d'intensité émotionnelle** (*« want $\rightarrow$ need $\rightarrow$ desire $\rightarrow$ love »*) : Empilement graduel de critères de motivation montant du désir cognitif superficiel (*want*) jusqu'à l'attachement limbique profond (*love*), verrouillant l'adhésion totale du système nerveux.
 
-
-## --- Tranche 5 / 23 ---
+## Tranche 5 / 23 : d'Induction & Neuro-Imprinting (NIS)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -738,8 +763,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/23 du cours *Unconscious 
 
 * **[Analyse du Pattern]** : **Redéfinition sémantique (*Sleight of Mouth*)** et **question rhétorique de synchronisation (*Tag question*)**. En requalifiant la « pensée » comme une forme active de « comportement moteur » (*thinking is doing as well, isn't it?*), il élimine la passivité cognitive. Ensuite, l'imbrication syntaxique en cascade (*flows into... which flows into... which flows into*) crée une boucle de rétroaction infinie d'auto-validation neuro-comportementale (*ouroboros cybernétique*).
 
-
-## --- Tranche 6 / 23 ---
+## Tranche 6 / 23 : Induction d'Imprégnation Neurologique par Rupture Oculo-Mésencéphalique
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 6/23.
 
@@ -879,8 +903,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Reframing syntaxique par ajout de prédicat modal :** Remplacement de l'état statique ("*I am a business owner*") par un état de processus évolutif ("*I am the person that learns what an extremely successful business owner is*").
   - **Sécurisation de la congruence :** En intégrant le verbe d'action épistémique *learns*, Cleveland neutralise le syndrome de l'imposteur : le sujet est immédiatement intègre dans son identité présente, car il est factuellement en train d'apprendre, ce qui libère l'action sans friction psychologique.
 
-
-## --- Tranche 7 / 23 ---
+## Tranche 7 / 23 : Cycle d'Imprégnation Neurologique sur 31 Jours (The 31-Day Neuro Imprinting System)
 
 Voici l'extraction opératoire et l'analyse d'ingénierie modélisatrice de la tranche 7/23 d'*Unconscious Neuro Modelling (UNM)* de Kenrick Cleveland.
 
@@ -991,8 +1014,7 @@ Voici l'extraction opératoire et l'analyse d'ingénierie modélisatrice de la t
 > **"I bargained with life for a penny, well, because I believed that is who I was and what I was worth... Since I was getting what I believed I was worth, my ego sabotaged my efforts and no matter how I begged or wished or believed, I was getting what I asked for... All you had to do was to become the person who earned more. Do what that person does and life would have given it."**
 - **[Analyse du Pattern]** : *Recadrage de causalité & Rétrogradation de l'action sous l'identité.* Cleveland déconstruit l'illusion du travail acharné : supplier (*"begged"*), souhaiter (*"wished"*) ou croire consciemment (*"believed"*) est inutile si le filtre identitaire fondamental est réglé sur la pénurie. Il boucle sur le triomphe de l'équation ontologique : l'Avoir (*Have*) découle mécaniquement du Faire (*Do*), qui lui-même n'est qu'un sous-produit spontané de l'Être (*Be*).
 
-
-## --- Tranche 8 / 23 ---
+## Tranche 8 / 23 : Rédaction et Imprégnation du « Being Statement » (Étape Préalable Obligatoire)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1146,8 +1168,7 @@ Voici l'extraction opératoire et l'analyse d'ingénierie modélisatrice de la t
   - *Métaphore thermodynamique du vide (« vacuum »)* : Attribue une agentivité mécanique au vide (*« begins to want to fill your mind »*), convertissant l'apprentissage en une aspiration automatique plutôt qu'en un effort d'assimilation.
   - *Rupture syntaxique et phrases nominales tronquées* : Passage brutal de propositions fluides à des chocs linguistiques courts : *« The lines blur. No difference. You and the model are one. »* Cette compression syntaxique reflète directement la déconstruction de la frontière de l'Ego, forçant le système nerveux à valider l'identité partagée avec le modèle d'excellence.
 
-
-## --- Tranche 9 / 23 ---
+## Tranche 9 / 23 : Le Fractionnement Audio-Visuel Kasina & Conditionnement Réflexe à la Cloche/Tonalité
 
 Voici l'analyse d'ingénierie opératoire de la tranche 9/23 du cours *Unconscious Neuro Modelling (UNM Complete)* de Kenrick Cleveland.
 
@@ -1353,8 +1374,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/23 du cours *Unconscio
   - **Utilisation du doute comme levier d'approfondissement** : Si le sujet pense qu'il n'est pas assez en transe (résistance ou doute classique), Cleveland valide cette idée en la recadrant : ce n'est pas un échec, c'est la preuve qu'il n'est qu'à 50 % de son potentiel d'absorption.
   - **Liaison de cause à effet automatique** : *« and automatically, this causes you to just sink more fully »*. La prise de conscience d'une marge de progression devient elle-même le déclencheur somatique d'un doublement immédiat de la profondeur de transe.
 
-
-## --- Tranche 10 / 23 ---
+## Tranche 10 / 23 : L'Incorporation du Soi Futur Modélisateur (Protocole "Unzip & Stepping-In")
 
 Voici l'analyse opérationnelle chirurgicale de la tranche 10/23 du cursus *Unconscious Neuro Modelling (UNM)* de Kenrick Cleveland.
 
@@ -1484,8 +1504,7 @@ Voici l'analyse opérationnelle chirurgicale de la tranche 10/23 du cursus *Unco
 
 * **[Analyse du Pattern] :** **Rétro-ingénierie épistémologique + Présupposition d'existence + Nominalisation catalytique (« begin to crystallize »).** La question ne demande pas si l'auteur a des croyances ou si le texte est bon, mais tient pour acquis que les mots lus ne peuvent provenir que d'un jeu précis de valeurs/croyances. L'utilisation du prédicat *« step into »* assure le glissement de l'analyse cognitive vers l'incorporation identitaire directe (*« as if they were your own »*).
 
-
-## --- Tranche 11 / 23 ---
+## Tranche 11 / 23 : A : Boucle de Conditionnement Vidéo Thêta (Step 2C)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 11/23.
 
@@ -1637,8 +1656,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Citation enchâssée auto-suggestive** (*"you find yourself saying, my life is getting better..."*), forçant le sujet à vocaliser intérieurement à la première personne (*"my life..."*) la suggestion d'amélioration continue.
   - **Allitération et clôture d'injonction universelle** (*"in all ways, always"*), associant l'omniprésence spatiale/méthodique (*all ways*) à la permanence temporelle absolue (*always*).
 
-
-## --- Tranche 12 / 23 ---
+## Tranche 12 / 23 : L'Induction Neuro-Imprinting (Entrée en État Thêta avec Son/Lumière)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 12/23 du cursus *Unconscious Neuro Modelling (UNM Complete)* de Kenrick Cleveland.
 
@@ -1786,8 +1804,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 12/23 du cursus *Unco
   - **Pont trans-états (State-bridging) :** Lier le rêve à l'état de veille (*« ask within a dream... remember asking this in a dream »*).
   - **Commande temporelle directe (Time distortion / Anchor drop) :** Utilisation du mot isolé *« Now. »* en fin de clause pour verrouiller l'intégration somatique dans l'instant présent.
 
-
-## --- Tranche 13 / 23 ---
+## Tranche 13 / 23 : « Double-Track Neuro-Imprinting & Cross-Mapping Vidéo »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1933,8 +1950,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 12/23 du cursus *Unco
   - *Rupture des lois causales* : La révélation technique (*"You stepped on the clutch"* = en appuyant sur l'embrayage au lieu du frein, l'engin était en roue libre complète dans une pente abrupte sans aucune force de freinage mécanique) accentue l'incompréhension rationnelle. L'arrêt net du tracteur devient un événement inexplicable.
   - *Présupposition d'invulnérabilité et de prédestination* : La sentence finale (*"You have no right to be alive... It should have gone into the hole"*) frappe le système nerveux de l'auditeur. Puisque le sujet est associé dans le corps de Kenrick au moment exact où cette phrase est prononcée, cette métaphore installe au plus profond de l'inconscient une conviction d'immunité, de guidance et de réussite inéluctable dans ses futures démarches de persuasion.
 
-
-## --- Tranche 14 / 23 ---
+## Tranche 14 / 23 : L'Induction Standard de Neuro-Imprégnation (UNM Imprinting Protocol)
 
 Voici l'analyse modélisatrice intégrale de la **tranche 14/23** de la transcription brute du cours *Unconscious Neuro Modelling (UNM Complete)* de **Kenrick Cleveland**.
 
@@ -2069,8 +2085,7 @@ Voici l'analyse modélisatrice intégrale de la **tranche 14/23** de la transcri
   - **Structure :** Répétition anaphorique du verbe modal d'attente péremptoire (*"I expect... I expect... I expect"*), reliant l'attente du thérapeute à la physiologie du patient.
   - **Mécanisme :** Établissement d'un cadre opératoire déculpabilisant et omnipotent : en neutralisant le critère de profondeur de transe (*depth of trance*), Erickson retire au patient toute possibilité de résistance. Quoi que fasse le patient (qu'il bavarde, s'agite ou résiste superficiellement), l'intervention est cadrée comme agissant au niveau thérapeutique inconscient le plus profond.
 
-
-## --- Tranche 15 / 23 ---
+## Tranche 15 / 23 : Désamorçage de Résistance par Prescription de Rétention et Accord Fictif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2218,8 +2233,7 @@ Voici l'analyse modélisatrice intégrale de la **tranche 14/23** de la transcri
 > "The depth of this material is so profound that it will continue unfolding for you for years. And it doesn't really matter how many years. Maybe it will continue unfolding for 10 or 15 or 20 years. And it unfolds as you continue to dwell, to reflect on these skills."
 * **[Analyse du Pattern]** : Suggestion à très longue latence temporelle (Pacing & Leading temporel). L'utilisation de durées vertigineuses (10, 15, 20 ans) neutralise l'impatience du facteur critique, tout en verrouillant la valeur perçue du matériau comme une ressource inépuisable qui s'active automatiquement dès que le sujet y repense.
 
-
-## --- Tranche 16 / 23 ---
+## Tranche 16 / 23 : L'Intervention Paradoxale Hédonique (Cas de l'Allergie / Somatisation Réactive)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2397,8 +2411,7 @@ Voici l'analyse modélisatrice intégrale de la **tranche 14/23** de la transcri
 > « What must be true for the author to have written the words you read just now? What beliefs and values must this author have in order to have written this? (...) You step into these beliefs and values as if they were your own, and you take them on as your own. »
 * **[Analyse du Pattern]** : Utilisation du modal de nécessité logique (« *What must be true... what beliefs and values must this author have...* ») opérant directement sur la structure profonde (niveaux logiques de Dilts / présuppositions d'existence). La question force le système cognitif à modéliser la structure de la réalité de l'auteur plutôt que son contenu de surface. Transition directe vers une commande spatio-identitaire (« *You step into... as if they were your own... take them on* ») réalisant l'équivalence neuro-linguistique entre le modèle et l'opérateur.
 
-
-## --- Tranche 17 / 23 ---
+## Tranche 17 / 23 : Induction Standard d'Empreinte Neurologique Inconsciente (NIS - Neuro Imprinting Session)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2582,8 +2595,7 @@ Voici l'analyse modélisatrice intégrale de la **tranche 14/23** de la transcri
     2. « will you soon find yourself automatically using » installe une dissociation où le sujet s'observera lui-même agir sans effort délibéré.  
     3. L'alternative finale (« Will this happen first outside your awareness? Or might you begin hearing his voice... ») est un piège linguistique parfait : que le sujet choisisse l'option A (action subliminale hors conscience) ou l'option B (hallucination auditive guidée), il valide l'hypothèse sous-jacente que le modèle opère désormais de façon autonome dans sa psyché.
 
-
-## --- Tranche 18 / 23 ---
+## Tranche 18 / 23 : Induction d'Empreinte Neuro-Modélisatrice (Séquence Vidéo Kasina)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 18/23 de *Unconscious Neuro Modelling (UNM Complete)* de Kenrick Cleveland.
 
@@ -2702,8 +2714,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 18/23 de
   * **Présupposition de similitude inévitable :** *"how am I like that and becoming even more so"*. La similitude avec le modèle n'est plus remise en cause : seul le *comment* de son amplification progressive est examiné.
   * **Pont inconscient-conscient calibré :** Cadrage du conscient comme simple spectateur qui s'émerveille après coup des compétences déjà implémentées à son insu (*"take notice of those aspects... ingrained in my unconscious behavior"*).
 
-
-## --- Tranche 19 / 23 ---
+## Tranche 19 / 23 : Incarnation Sensorimotrice du Modèle d'Excellence ("Unzipping & Jump-In")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2825,8 +2836,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 18/23 de
   * **Double lien éricksonien (Double Bind)** : L'illusion de choix est confinée à la modalité d'exécution (*"which instrument do you want to play?"*), tandis que la directive mère (*"être impliqué dans la musique"*) est présupposée comme inévitable et non négociable.
   * **Recadrage de gratitude rétrospective** : L'imposition de contrainte est recadrée comme un don inestimable, validant la discipline et la rigueur du programme de modélisation neuro-inconsciente actuel.
 
-
-## --- Tranche 20 / 23 ---
+## Tranche 20 / 23 : « The Zipper Inhabitation » (Prise de Possession Somatique du Modèle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2935,8 +2945,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 18/23 de
   * **Contraste d'amplitude sensorielle :** Métaphore polarisante classique (*« difference between night and day »*) combinée à la trithérapie d'intensificateurs (*« much, much, much more powerful »*).
   * **Suppression de la responsabilité de performance :** L'affirmation *"It doesn't really require you to have much in the way of ability. It does it for you"* neutralise l'anxiété de l'opérateur novice. Le dispositif technologique est posé comme un tiers infaillible qui pilote la neurologie de manière mécanique, renforçant la soumission et l'abandon psychologique à la machine d'entraînement.
 
-
-## --- Tranche 21 / 23 ---
+## Tranche 21 / 23 : d'Installation et d'Opération de la Technologie d'Empreinte (KASINA / SpectraStrobe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3044,8 +3053,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 18/23 de
 > "So Clay, you absolutely should be following along for best results. When I say open your eyes, I'm not kidding. I don't mean it figuratively. I don't mean doing it, you know, in your imagination, I mean, if I want you to be doing something in your imagination, I will be telling you that. So you absolutely should be paying attention."
 - **[Analyse du Pattern]** : Rupture de pattern méta-linguistique. Le formateur détruit net le réflexe habituel du sujet d'internaliser passivement les suggestions sous forme de visualisations molles. L'emploi d'adverbes catégoriques (*"absolutely"*, *"figuratively"*) et de contrastes de cadrage redéfinit l'espace d'apprentissage : la transe hypnotique moderne exige une réponse psychomotrice calibrée dans le réel somatique pour valider l'ancrage neural.
 
-
-## --- Tranche 22 / 23 ---
+## Tranche 22 / 23 : Réglage d'Intensité & Rééquilibrage Postural en Session d'Imprégnation (NIS)
 
 Voici l'analyse opératoire intégrale de la tranche 22/23 du cours **"Unconscious Neuro Modelling (UNM Complete)"** de Kenrick Cleveland.
 
@@ -3183,8 +3191,7 @@ Voici l'analyse opératoire intégrale de la tranche 22/23 du cours **"Unconscio
   * **Contraste de compétences asymétrique** : Met en opposition l'impuissance du thérapeute standard face au monde marchand et la facilité de l'expert en persuasion pour injecter une décision de transformation.
   * **Transduction opératoire directe** : Établit que maîtriser la vente commerciale confère automatiquement la maîtrise du contournement des résistances psychologiques inconscientes chez le patient.
 
-
-## --- Tranche 23 / 23 ---
+## Tranche 23 / 23 : d'Assimilation Sécurisée d'un Modèle Neuro-Inconscient (UNM Delivery Framework)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 23/23 de la transcription du cours *Unconscious Neuro Modelling (UNM Complete)* par Kenrick Cleveland.
 
@@ -3289,3 +3296,4 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 23/23 de la transcrip
   - **Truisme d'accord initial** (*"It's strange enough to..."*) qui valide la résistance naturelle du sujet face à l'inconnu de la modélisation.
   - **Présupposition de transformation réussie** (*"...and then turn them into your own"* : le passage de l'emprunt extérieur à l'assimilation identitaire intime est présupposé inéluctable).
   - **Cadre de sécurisation absolue** (*"eliminated the problems"*) qui désactive le réflexe de défense amygdalien de l'apprenant en positionnant le programme comme un espace stérile de tout danger psychologique.
+

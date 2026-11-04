@@ -92,10 +92,41 @@ Toutes les interventions du cours suivent une même dynamique non linéaire :
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 129-266]** : A : L'Expansion d'Attention Multi-Sensorielle ("What were you not... that you can now?") — *Protocole :* A : L'Expansion d'Attention Multi-Sensorielle ("What were you not... that you can now?") | *Verbatim :* L'Induction Préalable de Non-Garantie & Présupposition de Changement Spontané
+- **Tranche 2 [Lignes 268-434]** : The Synesthesia Splitter & Creative Mobilization Protocol — *Protocole :* The Synesthesia Splitter & Creative Mobilization Protocol | *Mécanisme :* Spatial Splitting & Externalisation Symbolique (Synesthesia Splitter) | *Verbatim :* Le Découplage Synesthésique Spatial
+- **Tranche 3 [Lignes 436-547]** : A : Recadrage Spatial & Systémique par la Relation (Relational Second Position) — *Protocole :* A : Recadrage Spatial & Systémique par la Relation (Relational Second Position)
+- **Tranche 4 [Lignes 549-651]** : Recadrage Relationnel Rhizomatique d'une Nominalisation (Démonstration avec Dave) — *Protocole :* Recadrage Relationnel Rhizomatique d'une Nominalisation (Démonstration avec Dave) | *Mécanisme :* Déplacement de la relation au problème (plutôt que le contenu du problème)
+- **Tranche 5 [Lignes 653-770]** : A : Intégration Trans-Conceptuelle "Être l'État" (Démonstration Dave) — *Protocole :* A : Intégration Trans-Conceptuelle "Être l'État" (Démonstration Dave)
+- **Tranche 6 [Lignes 772-895]** : Réduction du Remplissage Perceptuel par l'Apaisement Cardiaque et Sensoriel — *Protocole :* Réduction du Remplissage Perceptuel par l'Apaisement Cardiaque et Sensoriel | *Verbatim :* L'Ambiguïté de Superposition (Immédiateté vs Justesse)
+- **Tranche 7 [Lignes 897-997]** : The Changing Relationships & Positive Attributes Pattern — *Protocole :* The Changing Relationships & Positive Attributes Pattern | *Verbatim :* Dénominationalisation du Cadre Temporel
+- **Tranche 8 [Lignes 999-1092]** : L'extraction et l'entraînement aux recadrages de contexte (Presupposition / Attribute Mining) — *Protocole :* L'extraction et l'entraînement aux recadrages de contexte (Presupposition / Attribute Mining) | *Mécanisme :* Dérivation d'attributs positifs par présupposition d'existence | *Verbatim :* Le recadrage présuppositionnel de la compétence involontaire
+- **Tranche 9 [Lignes 1094-1197]** : Le Recodage Relationnel & Incarnation Archétypale (Page 15) — *Protocole :* Le Recodage Relationnel & Incarnation Archétypale (Page 15) | *Mécanisme :* Le Contournement du « I » par le Chunk-Up Relationnel (Bypassing the Ego/Default Mode Network) | *Verbatim :* Le Glissement Archétypal Multi-Sensoriel
+- **Tranche 10 [Lignes 1199-1337]** : Le "Synesthesia Splitter" Récursif avec Attribut Positif Dérivé — *Protocole :* Le "Synesthesia Splitter" Récursif avec Attribut Positif Dérivé | *Verbatim :* La Saturation Spatiale du Présent vs Problème Dépassé
+- **Tranche 11 [Lignes 1339-1505]** : The Alpha Sequence (Induction Somato-Vagale Rapide) — *Protocole :* The Alpha Sequence (Induction Somato-Vagale Rapide) | *Mécanisme :* Squeezing the Word (Transmission Somato-Tonale de l'État) | *Verbatim :* Modélisation de l'Ancrage Auditif Glissant (Contenu Absurde / Impact Somatique Pur)
+- **Tranche 12 [Lignes 1507-1681]** : « Backing into Nothingness » (avec Dérivation Ressource) — *Protocole :* « Backing into Nothingness » (avec Dérivation Ressource) | *Verbatim :* Verbatim 1 : Le Verrouillage de la Vacuité Arrière
+- **Tranche 13 [Lignes 1683-1815]** : Backing into Nothingness (alias "The WWT Pattern" / What Was That?) — *Protocole :* Backing into Nothingness (alias "The WWT Pattern" / What Was That?) | *Mécanisme :* L'Hypothèse "Fit Beats Truth" et l'Interface Perceptive (Donald Hoffman) | *Verbatim :* La rupture de l'interface et la surprise thérapeutique
+- **Tranche 14 [Lignes 1817-1926]** : d'Éveil de la Lucidité sur une Partie Piégée (Waking Lucidity Induction) — *Protocole :* d'Éveil de la Lucidité sur une Partie Piégée (Waking Lucidity Induction) | *Mécanisme :* Le « Cerveau Bayésien » et le Piège du Succès Initial | *Verbatim :* s Verbatim
+- **Tranche 15 [Lignes 1928-2006]** : La Bascule « Somebody -> Nobody -> Anybody » avec Vérification d'Erreur de Prédiction — *Protocole :* La Bascule « Somebody -> Nobody -> Anybody » avec Vérification d'Erreur de Prédiction
+- **Tranche 16 [Lignes 2008-2197]** : « Backing into Nothingness » (Reculer dans le Néant) — *Protocole :* « Backing into Nothingness » (Reculer dans le Néant) | *Mécanisme :* Le « DMN Quieting » et la Résolution Perceptive (Ralentir le Train) | *Verbatim :* Le Recadrage de la Douleur vs Souffrance (Première et Seconde Flèche)
+- **Tranche 17 [Lignes 2199-2344]** : « Trance-Ending Then to Now » (Sortie de Transe Passé/Présent) — *Protocole :* « Trance-Ending Then to Now » (Sortie de Transe Passé/Présent) | *Mécanisme :* Le Levier de l'« Émergence par le Vide » (The Nothing State as Generative Void) | *Verbatim :* La Sortie Temporelle et l'Ambiguïté Phonétique sur « Right »
+- **Tranche 18 [Lignes 2346-2535]** : Dé-réification du Passé par Séparateurs Spatio-Temporels (The Round and Around / Here-Now vs... — *Protocole :* Dé-réification du Passé par Séparateurs Spatio-Temporels (The Round and Around / Here-Now vs That-Then Pattern) | *Mécanisme :* Le Quadruplet de Dissociation et Déplacement Spatial/Temporel : Just / That / Then / There vs All / This / Here / Now | *Verbatim :* L'Amorce de l'Ambiguïté Phonétique et Temporelle
+- **Tranche 19 [Lignes 2537-2674]** : d'Itération Récursive Présent/Mémoire (Modèle Trance Ending Then to Now) — *Protocole :* d'Itération Récursive Présent/Mémoire (Modèle Trance Ending Then to Now) | *Verbatim :* Expansion Spatiale par Ambiguïté de Portée
+- **Tranche 20 [Lignes 2676-2791]** : L'Induction du "Recul dans le Rien" (Backing into Nothing Pattern) — *Protocole :* L'Induction du "Recul dans le Rien" (Backing into Nothing Pattern) | *Mécanisme :* Le Cerveau Prédictif et la boucle d'inférence inversée (REBUS & Traitement Top-Down)
+- **Tranche 21 [Lignes 2793-2914]** : Recursive Attention Shifting (Du "Then" au "Now" vers le "Nothingness") — *Protocole :* Recursive Attention Shifting (Du "Then" au "Now" vers le "Nothingness") | *Verbatim :* Le Méta-Modèle de la Transe Interstitielle
+- **Tranche 22 [Lignes 2916-3081]** : Beyond Goals 4.0 (Manifestation par l'État de Rien) — *Protocole :* Beyond Goals 4.0 (Manifestation par l'État de Rien) | *Mécanisme :* Le Mouvement Identitaire : Somebody $\rightarrow$ Nobody $\rightarrow$ Anybody $\rightarrow$ New Somebody | *Verbatim :* Le Levier du Néant Postérieur
+- **Tranche 23 [Lignes 3083-3211]** : La Boucle Récursive d'Évacuation Temporelle ("Now vs Remembered Image Loop") — *Protocole :* La Boucle Récursive d'Évacuation Temporelle ("Now vs Remembered Image Loop") | *Verbatim :* La question de bascule attentionnelle
+- **Tranche 24 [Lignes 3213-3364]** : A : Élimination Conversationnelle par Séparation Temporelle & Prépositions Spatiales (Conver... — *Protocole :* A : Élimination Conversationnelle par Séparation Temporelle & Prépositions Spatiales (Conversational Distance Shifting) | *Mécanisme :* Le « Future Pacing » Onirique & l'Équivalence Somatique | *Verbatim :* La Triple Dissociation par Prépositions et Verbes Temporels
+- **Tranche 25 [Lignes 3366-3488]** : Le "Deep Pressure Test" & Validation Rhizomatique de Sortie — *Protocole :* Le "Deep Pressure Test" & Validation Rhizomatique de Sortie | *Mécanisme :* Le Test de Résilience par Multiplicité Synaptique & Sortie Automatique | *Verbatim :* La Reconnexion à la Compétence Évolutive Implicite
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : A : L'Expansion d'Attention Multi-Sensorielle ("What were you not... that you can now?")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -234,8 +265,7 @@ Toutes les interventions du cours suivent une même dynamique non linéaire :
 > *"There's a sadness, yeah, yeah. Now here's the good news: you can't do sad if you don't care, you know."*
 * **[Analyse du Pattern] :** **Recadrage de critère par équivalence complexe positive (*Critique/Value Reframe*)**. En une fraction de seconde, Overdurf prend le symptôme douloureux (la tristesse face au flétrissement perçu) et le redéfinit comme la preuve irréfutable d'une valeur essentielle sous-jacente (l'amour, l'importance, le soin). La tristesse cesse d'être une pathologie ou un blocage pour devenir le carburant ressource de la relation thérapeutique.
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : The Synesthesia Splitter & Creative Mobilization Protocol
 
 Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cours de John Overdurf (*12 Daze Bundle 2022*).
 
@@ -403,8 +433,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
   - *Triple emboîtement d'injonction d'effort voué à l'échec* : L'utilisation itérative de « *try to not...* » exploite le postulat ericksonien selon lequel tenter consciemment de ne pas faire une chose oblige le système nerveux à se la représenter et à l'amorcer motrice-ment.
   - *Double négation neurologique* : « *not possible to not* » verrouille l'obligation d'agir au niveau inconscient tout en laissant l'ego conscient constater sa propre « impuissance » bienheureuse face à la pulsion créative.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : A : Recadrage Spatial & Systémique par la Relation (Relational Second Position)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -517,8 +546,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
 ```
 * **[Analyse du Pattern]** : *Recadrage par inclusion spatiale totale (Container Metaphor).* En transformant le sujet en le lieu physique qui contient le problème (*"be your house"*), Overdurf modifie l'échelle de proportion : le conflit est réduit à une sous-partie minuscule et circonscrite (*"just this one room"*), tandis que l'ensemble du système dispose déjà de zones de paix validées (*"a room that they sleep in together and everything's okay"*). La charge émotionnelle se dilue mécaniquement dans la structure globale du conteneur.
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : Recadrage Relationnel Rhizomatique d'une Nominalisation (Démonstration avec Dave)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -622,8 +650,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
 > **"You kept moving within the limitations that were there that aren't now."**
 * **[Analyse du Pattern]** : Shift temporel d'évacuation par juxtaposition syntaxique. Overdurf enferme les limitations dans un passé révolu (*« that were there »*) et installe instantanément la réalité présente de leur disparition (*« that aren't now »*), ancrant la transformation dans l'espace temporel immédiat sans possibilité de régression.
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : A : Intégration Trans-Conceptuelle "Être l'État" (Démonstration Dave)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -742,8 +769,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
 ```
 * **[Analyse du Pattern]** : Rupture de pattern kinesthésique et prosodique d'urgence bienveillante. L'accumulation d'onomatopées brèves et répétitives (*whoa, wait*) agit comme une commande sous-corticale de gel moteur. Elle interrompt l'hyper-ventilation sémantique du client, annule la transe du problème en cours de construction et force le système nerveux à réinitialiser son seuil d'éveil sensoriel.
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : Réduction du Remplissage Perceptuel par l'Apaisement Cardiaque et Sensoriel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -868,8 +894,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
 * **[Analyse du Pattern]** :
   *Monologue intérieur inductif et recadrage d'identité (Oceanic Unboundlessness).* Utilisation de structures en double négation et recadrage de la mort/disparition psychologique en transformation de phase. La suggestion court-circuite la peur d'annihilation de l'Ego en substituant au concept de « fin » celui de « métamorphose interconnectée ». Le truisme terminal « It's all okay » agit comme une commande post-hypnotique globale venant ancrer la sécurité somatique profonde.
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : The Changing Relationships & Positive Attributes Pattern
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -971,8 +996,7 @@ Voici l'analyse modélisée de la tranche 2/25 de la transcription brute du cour
 
 * **[Analyse du Pattern]** : Recadrage de contexte par présupposition d'excellence opérationnelle. En qualifiant le symptôme de « *persistent as hell* » et « *resilient* », Overdurf valide paradoxalement la compétence du système inconscient (« *keep doing what it's doing* » malgré les changements extérieurs). Ce pattern convertit l'obstination pathologique en ressource de stabilité cognitive.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : L'extraction et l'entraînement aux recadrages de contexte (Presupposition / Attribute Mining)
 
 Voici l'analyse opératoire intégrale de la tranche 8/25 du séminaire *12 Daze Bundle 2022* de John Overdurf (*TCU Integration Lab - Liberating the Mind, Changing Relationships*).
 
@@ -1067,8 +1091,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/25 du séminaire *12 Daze
 > "So as compassion, what does this situation look like? What does compassion have to say about this situation?"
 - **[Analyse du Pattern]** : Réification et animation d'une nominalisation abstraite (*compassion*). En demandant ce que la compassion *« a à dire »* ou *« à quoi ressemble la scène depuis elle »*, le formateur déclenche une seconde position instantanée sans passer par l'histoire du sujet. Ce pattern génère un dialogue interne neuf et découplé des ruminations du DMN.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Le Recodage Relationnel & Incarnation Archétypale (Page 15)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche d'enseignement de John Overdurf.
 
@@ -1173,8 +1196,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **« What's your relationship to all of that among all the other relationships to everything else you weren't including which are possible each moment? Now as you think about it, what's really happening right now? »**
 * **[Analyse du Pattern] :** Empilement récursif de quantificateurs universels (*all, everything else*) combiné à une présupposition d'omission temporelle (*weren't including which are possible each moment*). Cette surcharge sémantique force une rupture totale de la syntaxe interne (saturation cognitive / crash de l'ordinateur central). Elle est immédiatement suivie d'une commande de réorientation kinesthésique et temporelle brutale dans le présent brut (*« what's really happening right now? »*).
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Le "Synesthesia Splitter" Récursif avec Attribut Positif Dérivé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1314,8 +1336,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - Présupposition d'action future : *"moving forward in life"*.
   - Ambiguïté ponctuationnelle finale avec l'adverbe pivot *"really"* : amplifie soit l'observation des différences (*"what's new and different, really"*) soit l'intégration kinesthésique profonde (*"really taking in the good"*).
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : The Alpha Sequence (Induction Somato-Vagale Rapide)
 
 Voici l’extraction intégrale, opératoire et rigoureuse de la tranche 11/25 du cours *12 Daze Bundle 2022* de John Overdurf.
 
@@ -1483,8 +1504,7 @@ Voici l’extraction intégrale, opératoire et rigoureuse de la tranche 11/25 d
     *   *Quantificateur réducteur de menace* : *"just enough peace"* rend l'opération accessible immédiatement sans saut quantique menaçant pour l'homéostasie.
     *   *Contrainte de proportionnalité stricte (Calcul des prédicats)* : *"Only let go... to the extent that you're feeling peaceful"*. La négation restrictive conditionnelle ("ne lâcher que dans la mesure exacte où") donne un contrôle total au sujet : il est impossible pour l'esprit critique de résister, puisque la perte du symptôme est conditionnée par l'arrivée d'une ressource équivalente.
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : « Backing into Nothingness » (avec Dérivation Ressource)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1660,8 +1680,7 @@ Indiqué pour libérer instantanément une réactivité émotionnelle récurrent
   * **Rupture de rythme staccato** (*« but but but but »*) : Arrête net le réflexe moteur automatique du réveil pour capter toute la vigilance résiduelle du sujet.  
   * **Lien de contingence conditionnelle (Contingent Awakening)** (*« only to the extent that it can make whatever connections it needs to make »*) : Les yeux ne peuvent pas physiquement s'ouvrir tant que le cerveau n'a pas réorganisé ses réseaux synaptiques et intégré le recadrage. Si les yeux s'ouvrent, c'est la preuve neurobiologique irréfutable que le travail d'intégration inconsciente est validé.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : Backing into Nothingness (alias "The WWT Pattern" / What Was That?)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 13/25 du cours *12 Daze Bundle 2022 - Transcripts* de John Overdurf (*Backing into Nothingness* / *The WWT Pattern*).
 
@@ -1795,8 +1814,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 13/25 du
   * **Scission sémantique hypnotique (*Splitting*) :** Transformation du mot courant *« nothing »* (rien, néant) en *« No thing »* (absence de chose matérielle / espace de pure potentialité non-réifiée).
   * **Truisme récursif :** Lier l'incapacité prédictive à l'absence de concepts formés dissout le cadre de référence habituel du sujet, conditionnant le système nerveux à accepter la vacuité cognitive non pas comme un manque, mais comme l'état originel de ressources pures (*beginner's mind*).
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : d'Éveil de la Lucidité sur une Partie Piégée (Waking Lucidity Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1907,8 +1925,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 13/25 du
 > "Look, it's not worth, I'm not, let's just not go here. You know? It's like, whatever I'm going to say is going to be basically shit. It's not going to work. And it's a result of being in basically a dissociated regressed state..."
 * **[Analyse du Pattern]** : Modélisation par auto-divulgation brute (*vulnerability framing*). En employant un langage cru et direct (« *basically shit* »), Overdurf crée une rupture brutale avec le jargon académique pour fixer une règle opératoire intransigeante : le rejet absolu de toute négociation verbale lorsque le système opère depuis une partie régressée.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : La Bascule « Somebody -> Nobody -> Anybody » avec Vérification d'Erreur de Prédiction
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1988,8 +2005,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 13/25 du
 > **"It's like you're getting the person without them realizing it's happening, the headset gets flung off for a little bit. And so now the organizing principles that they had been using to keep the certainty going, even if it's problematic, they're free from temporarily."**
 * **[Analyse du Pattern]** : Métaphore analogique incarnée (empruntée à Donald Hoffman) couplée à des présuppositions temporelles libératrices (*« temporarily »*, *« for a little bit »*). L'emploi de la voix passive et du détachement (*« the headset gets flung off »*) évite toute résistance égoïque : le changement n'est pas un combat de volonté, mais une déconnexion mécanique sans effort.
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : « Backing into Nothingness » (Reculer dans le Néant)
 
 Voici l'analyse opératoire intégrale de la tranche 16/25 du cours *12 Daze Bundle 2022* de John Overdurf.
 
@@ -2180,8 +2196,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/25 du cours *12 Daze Bun
   - **Recadrage ontologique universel :** *« and everything started with nothing »* transforme l'absence/le vide en matrice de potentiel infini (passage du zéro à la création).
   - **Enchâssement spatial et micro-orientation d'action :** *« coming from this space »* conditionne la décision future à l'état de vacuité non conflictuel, tandis que *« smallest next step »* élimine la résistance cognitive en réduisant l'action future à son seuil minimal d'effort.
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : « Trance-Ending Then to Now » (Sortie de Transe Passé/Présent)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 17/25 selon la structure demandée :
 
@@ -2328,8 +2343,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 17/25 selon
   - **Démystification de la transe du problème :** Overdurf utilise une série de truismes comportementaux élémentaires pour démontrer l'inutilité de la sophistication thérapeutique lorsque le sujet se réassocie à son pouvoir d'action immédiat.
   - **Recadrage par contraste d'effort :** Il met en opposition l'élaboration lourde de protocoles (*swish pattern*, *phobia model*) avec la simplicité du réajustement somatique immédiat (*« shift your position »*, *« stand up »*), ramenant le lieu de contrôle à l'intérieur du corps dans l'instant présent.
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : Dé-réification du Passé par Séparateurs Spatio-Temporels (The Round and Around / Here-Now vs...
 
 Voici l'analyse modélisée et opératoire complète de la tranche 18/25 du séminaire *12 Daze Bundle 2022* de John Overdurf.
 
@@ -2520,8 +2534,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 18/25 du sém
 ```
 - **[Analyse du Pattern]** : Induction expansive par ambiguïté de portée (*scope ambiguity*). L'injonction paradoxale permissive (*« you don't have to say it out loud »*) libère le sujet de l'obligation de verbalisation pour activer un balayage trans-dérivationnel profond. La formulation multidimensionnelle (*« on every dimension, beyond what you can even see »*) provoque une dilatation du champ de conscience, reléguant le problème initial au rang de point infinitésimal non significatif.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : d'Itération Récursive Présent/Mémoire (Modèle Trance Ending Then to Now)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2660,8 +2673,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 18/25 du sém
   * **Double lien intégratif** : Ce pattern linguistique neutralise à la fois la fuite en avant (anxiété du futur) et la rumination répressive (lutte contre le passé), contraignant le système nerveux à se déposer dans l'instant pour réconcilier l'ensemble de la ligne temporelle.
   * **Distorsion comparative expansive** : La formulation *"everything that is more than any of what was"* ouvre un champ de possibilités futures non contraint par les données historiques du sujet.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : L'Induction du "Recul dans le Rien" (Backing into Nothing Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2778,8 +2790,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 18/25 du sém
   > « The normal person's flicker rate is 30 to 60 frames per second. But, you know, if you slow it down in a movie, it could be 24 and it seems continuous. If you slow it down less than that, what you're looking at doesn't seem continuous anymore. And you start to see gaps in between what you're seeing... »
   * **[Analyse du Pattern]** : Empilement de truismes scientifiques à valeur d'isomorphisme hypnotique. En décrivant un mécanisme externe (le projecteur cinématographique et la persistance rétinienne), Overdurf introduit une commande cachée guidant la décélération de l'échantillonnage de la réalité chez le sujet, ouvrant l'attention aux intervalles vides (*gaps in between*) précurseurs de la transe somnambulique.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : Recursive Attention Shifting (Du "Then" au "Now" vers le "Nothingness")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2902,8 +2913,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 18/25 du sém
 > **John Overdurf :** « I want you to think, think about what you remembered, past tense, about that situation, which is before that. »
 * **[Analyse du Pattern]** : Dissociation récursive multi-niveaux. Le sujet dans le présent (*now*) doit penser à ce dont il *s'est souvenu* (niveau 1 passé), à propos d'une situation qui était *encore antérieure à ce souvenir* (niveau 2 antérieur : *before that*). Cette cascade de tiroirs temporels éloigne tellement la charge affective que le système nerveux abandonne la réponse émotionnelle.
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : Beyond Goals 4.0 (Manifestation par l'État de Rien)
 
 Voici l'analyse modélisée et opératoire de la tranche 22/25 du cours *12 Daze Bundle 2022* de John Overdurf.
 
@@ -3070,8 +3080,7 @@ Voici l'analyse modélisée et opératoire de la tranche 22/25 du cours *12 Daze
 > « If the image wasn't popping into your head, what would you be paying attention to instead? [...] What's really happening now. The thing you just said. Yeah. On purpose. Now. That's what you would rather be doing. Yeah. As opposed to what might have happened before. »
 * **[Analyse du Pattern]** : Questionnement hypothétique négatif (*« If the image wasn't... »*) qui force le système neurologique à concevoir l'absence du symptôme et à créer un vide d'attention. Dès que le sujet propose l'alternative (la présence immédiate), Overdurf verrouille l'état par empilement d'ancrages linguistiques déictiques (*« On purpose. Now. »*). Il scelle ensuite la séparation par un contraste d'évidence binaire polarisé (*« That's what you would rather be doing... As opposed to what might have happened before »*), reléguant le traumatisme au statut de simple virtualité passée dévitalisée (*« might have happened »*).
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : La Boucle Récursive d'Évacuation Temporelle ("Now vs Remembered Image Loop")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3201,8 +3210,7 @@ Voici l'analyse modélisée et opératoire de la tranche 22/25 du cours *12 Daze
 
 * **[Analyse du Pattern]** : Double marquage temporel par répétition régressive (*« like it used to... like it used to »*). L'utilisation de *used to* marque linguistiquement l'obsolescence définitive du symptôme au moment même où le praticien demande formellement de le tester, empêchant la réactivation de l'ancien état kinesthésique.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : A : Élimination Conversationnelle par Séparation Temporelle & Prépositions Spatiales (Conver...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/25.
 
@@ -3355,8 +3363,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/25.
   - Le contraste temporel *« back then »* versus *« where you are now »* valide le succès de la traversée de l'inconnu.
   - La clause finale découple la survie et la réussite de la compulsion analytique consciente (*« didn't even really have to do with figuring it out »*) pour la transférer aux processus automatiques d'évolution somatique inconsciente (*« continuing to evolve and change »*).
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : Le "Deep Pressure Test" & Validation Rhizomatique de Sortie
 
 Voici l'extraction opératoire intégrale de la **tranche 25/25** du cours *"12 Daze Bundle 2022 - Transcripts"* (comprenant la clôture de la démonstration avec Larissa, le débriefing d'intégration, puis l'introduction/induction du programme *"Liberating the Mind: Changing Relationships"*).
 
@@ -3479,3 +3486,4 @@ Voici l'extraction opératoire intégrale de la **tranche 25/25** du cours *"12 
   - *Validation par tiers extérieur (Post-hypnotic Framing) :* Installe une suggestion post-hypnotique redoutable : le changement sera validé lorsqu'une autre personne fera un commentaire spontané. Cela évite l'auto-surveillance obsessionnelle du client qui scruterait ses moindres ressentis pour "vérifier si ça marche".
   - *Présupposition de surprise agréable :* L'effet est qualifié de façon indiscutable ("pleasantly surprises you").
   - *Clôture par l'inconnaissable :* "Who knows what it'll be? There's just no way to know in advance." scelle la suggestion dans l'ambiguïté ouverte, forçant l'esprit conscient à abandonner le contrôle pour laisser le système biologique opérer.
+

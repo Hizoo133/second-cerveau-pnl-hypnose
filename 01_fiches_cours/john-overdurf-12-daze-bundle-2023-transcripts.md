@@ -72,10 +72,37 @@ $$\text{Désidentification Ontologique} \longrightarrow \text{Séparation Spatio
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 105-261]** : Démonstration / Protocole A : La Rupture d'Hallucination Négative par le « Yes-Set inversé »... — *Protocole :* Démonstration / Protocole A : La Rupture d'Hallucination Négative par le « Yes-Set inversé » (Le pattern de l'éléphant rose / du baudet) | *Mécanisme :* La dissociation ontologique Soi / Outils cognitifs (Abus de l'imagination et de la mémoire) | *Verbatim :* Le cadrage de l'addiction cognitive
+- **Tranche 2 [Lignes 263-385]** : A : Induction de Présence Sensorielle & Catalepsie par Commutation Attentionnelle — *Protocole :* A : Induction de Présence Sensorielle & Catalepsie par Commutation Attentionnelle | *Verbatim :* La Double Ambiguïté Phonétique de Larissa Goldstein
+- **Tranche 3 [Lignes 387-515]** : The Tao of Now (Désensibilisation Spatialisée & Récursion Temporelle) — *Protocole :* The Tao of Now (Désensibilisation Spatialisée & Récursion Temporelle)
+- **Tranche 4 [Lignes 517-649]** : A : La Boucle Récursive de Dissociation Spatiale ("Here Now / There Then") — *Protocole :* A : La Boucle Récursive de Dissociation Spatiale ("Here Now / There Then") | *Verbatim :* Rupture d'ancrage spatio-temporel et recadrage du déclencheur
+- **Tranche 5 [Lignes 651-841]** : Le Déploiement Cartésien Non-Linéaire (Quadrants de Négation) — *Protocole :* Le Déploiement Cartésien Non-Linéaire (Quadrants de Négation) | *Mécanisme :* Reconsolidation par Inoculation Somatique Pré-Cognitive | *Verbatim :* Verbatim 1 : L'Inverse Cartésien en Question Ouverte
+- **Tranche 6 [Lignes 843-984]** : A : L'Intervention Systémique sur la Relation (Third Entity Work) — *Protocole :* A : L'Intervention Systémique sur la Relation (Third Entity Work) | *Verbatim :* L'Émergence du Tiers Relationnel
+- **Tranche 7 [Lignes 986-1146]** : Désamorçage de souvenir traumatique par la Séquence Alpha et la Matrice du Rien — *Protocole :* Désamorçage de souvenir traumatique par la Séquence Alpha et la Matrice du Rien | *Mécanisme :* Le paradoxe de la plénitude du vide (Full of Nothing / Nothing with Full) | *Verbatim :* La question de défocalisation et de saturation périphérique
+- **Tranche 8 [Lignes 1148-1242]** : STP (Somatic / State Trance Pattern) : Désenchantement et Mise à Jour de l'Habitude par Prés... — *Protocole :* STP (Somatic / State Trance Pattern) : Désenchantement et Mise à Jour de l'Habitude par Présence Sensorielle | *Mécanisme :* Le Recadrage de Présupposition d'Apprentissage Inconscient | *Verbatim :* Présupposition d'Apprentissage Avant Libération
+- **Tranche 9 [Lignes 1244-1366]** : La Désactivation Somatique Curieuse du Déclencheur (Modèle Brewer-Overdurf) — *Protocole :* La Désactivation Somatique Curieuse du Déclencheur (Modèle Brewer-Overdurf) | *Verbatim :* La Prescription du Comportement sans Pression
+- **Tranche 10 [Lignes 1368-1521]** : Désamorçage de Boucle d'Habitude & Réévaluation de Récompense (STP / Sensory Habit Update) — *Protocole :* Désamorçage de Boucle d'Habitude & Réévaluation de Récompense (STP / Sensory Habit Update) | *Mécanisme :* Le Levier de l'Erreur de Prédiction et la Réévaluation de la Récompense (Prediction Error & Reward Update) | *Verbatim :* La question d'attracteur d'état final
+- **Tranche 11 [Lignes 1523-1665]** : Sensation Transformation & Habit Loop Unhooking (Désamorçage de l'Habit Loop Somatique du Ré... — *Protocole :* Sensation Transformation & Habit Loop Unhooking (Désamorçage de l'Habit Loop Somatique du Réveil Précoce)
+- **Tranche 12 [Lignes 1667-1771]** : Protocole de Désensibilisation et Inversion des Boucles d'Habitude (Démonstration sur Carla) — *Protocole :* Protocole de Désensibilisation et Inversion des Boucles d'Habitude (Démonstration sur Carla) | *Mécanisme :* Traitement de la Conséquence Ultime en Amont (Worst-Case First Inoculation)
+- **Tranche 13 [Lignes 1773-1925]** : Utilisation Sécurisée de l'Entraînement Neuro-Acoustique (Brainwave Entrainment Protocol) — *Protocole :* Utilisation Sécurisée de l'Entraînement Neuro-Acoustique (Brainwave Entrainment Protocol) | *Mécanisme :* Le Karma comme Inférence Bayésienne (Bayesian Inference & Pattern Matching Cérébral) | *Verbatim :* La Redéfinition du Karma en Inférence Bayésienne
+- **Tranche 14 [Lignes 1927-2055]** : A : L'Exploitation Somatique de la Confusion Post-Vide (Somatic Confusion-to-Resource Collapse) — *Protocole :* A : L'Exploitation Somatique de la Confusion Post-Vide (Somatic Confusion-to-Resource Collapse)
+- **Tranche 15 [Lignes 2057-2181]** : La Matrice Autoréférentielle Récursive (Spurious Not & Tag Question) — *Protocole :* La Matrice Autoréférentielle Récursive (Spurious Not & Tag Question) | *Verbatim :* s Verbatim
+- **Tranche 16 [Lignes 2183-2302]** : A : La Boucle de Déstabilisation Identitaire par Négation Récursive — *Protocole :* A : La Boucle de Déstabilisation Identitaire par Négation Récursive | *Verbatim :* Verbatim 1 : L'Essorage de l'Identité par Négation Récursive
+- **Tranche 17 [Lignes 2304-2479]** : La Dénominalisation Somato-Temporelle (« From Freeze-Frame to Movie ») — *Protocole :* La Dénominalisation Somato-Temporelle (« From Freeze-Frame to Movie ») | *Mécanisme :* La Relativité Dépendante de l'État des Valeurs (State-Dependent Values) | *Verbatim :* La Dénominalisation Cinétique au Téléphone
+- **Tranche 18 [Lignes 2481-2641]** : Recalibrage Spatial & Somatique par l'Espace Intermédiaire (The Space In-Between Shift) — *Protocole :* Recalibrage Spatial & Somatique par l'Espace Intermédiaire (The Space In-Between Shift) | *Mécanisme :* Le Principe Rhizomatique de l'Espace Intermédiaire (The Space In-Between) | *Verbatim :* La Bascule Somatique vers l'Espace Intermédiaire
+- **Tranche 19 [Lignes 2643-2769]** : A : Induction de Groupe Rhizomatique (Dilatation de l'Image/Porte) — *Protocole :* A : Induction de Groupe Rhizomatique (Dilatation de l'Image/Porte)
+- **Tranche 20 [Lignes 2771-2903]** : A : Retraduction Rhizomique de Traumatisme / Phobie (Cas d'agression physique) — *Protocole :* A : Retraduction Rhizomique de Traumatisme / Phobie (Cas d'agression physique)
+- **Tranche 21 [Lignes 2905-3074]** : La Boucle de Reconsolidation Kinesthésique Inversée (Reverse Playback Timeline Protocol) — *Protocole :* La Boucle de Reconsolidation Kinesthésique Inversée (Reverse Playback Timeline Protocol) | *Verbatim :* L'Inversion et le Rembobinage Associé
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 21 ---
+## Tranche 1 / 21 : Démonstration / Protocole A : La Rupture d'Hallucination Négative par le « Yes-Set inversé »...
 
 Voici l’analyse modélisatrice complète, opératoire et rigoureuse de la tranche 1/21 du cours *12 Daze Bundle 2023 - Transcripts* de John Overdurf (*Track 1 Leader* & *Track 2 - Tao of Now Content*).
 
@@ -233,8 +260,7 @@ Voici l’analyse modélisatrice complète, opératoire et rigoureuse de la tran
   * *Double lien temporel et spatial d'Erickson :* *After viewing... during it... in anticipation... take a few days... or maybe not*. Quelle que soit la temporalité vécue par le sujet, elle valide la suggestion que le changement a lieu.
   * *Dissociation conscient/inconscient avec commande temporelle ouverte :* Suggère que l'esprit conscient peut ne rien voir tandis que l'inconscient exprime déjà la transformation en dehors de toute perception vigile (*outside of your awareness*), ce qui immunise le processus contre tout doute ou contrôle analytique.
 
-
-## --- Tranche 2 / 21 ---
+## Tranche 2 / 21 : A : Induction de Présence Sensorielle & Catalepsie par Commutation Attentionnelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -358,8 +384,7 @@ Voici l’analyse modélisatrice complète, opératoire et rigoureuse de la tran
 
 * **[Analyse du Pattern]** : Stratégie de recadrage par saturation, dévalorisation lexicale et prescription paradoxale du symptôme. Le praticien commence par dénominaliser et trivialiser le processus cognitif (« *recycled stuff* », « *recycled nonsense* »), le déconnectant de toute valeur de vérité ou d'identité. Il énumère ensuite des truismes d'observation pour synchroniser le bavardage interne du sujet (« *agree, disagree, what the person's wearing* »). Enfin, il utilise la technique ericksonienne de la double contrainte par permission sarcastique (« *Go ahead, have your interesting thoughts. And suffer.* ») : le système du sujet ne peut plus s'associer à ses pensées sans que s'y accole automatiquement l'étiquette d'absurdité et de choix délibéré de souffrir.
 
-
-## --- Tranche 3 / 21 ---
+## Tranche 3 / 21 : The Tao of Now (Désensibilisation Spatialisée & Récursion Temporelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -489,8 +514,7 @@ Voici l’analyse modélisatrice complète, opératoire et rigoureuse de la tran
 > **"Another adjustment in the presence of what had been a trigger a while back that isn't anymore."**
 - **[Analyse du Pattern]** : *Déplacement des temps grammaticaux (Tense Shift) et présupposition de clôture définitive.* En employant le past perfect / pluperfect (*"what had been a trigger a while back"*) juxtaposé au présent négatif catégorique (*"that isn't anymore"*), la structure linguistique relègue le déclencheur dans un passé lointain et scelle verbalement son inefficacité totale dans le temps présent.
 
-
-## --- Tranche 4 / 21 ---
+## Tranche 4 / 21 : A : La Boucle Récursive de Dissociation Spatiale ("Here Now / There Then")
 
 Voici l'analyse opératoire intégrale de la tranche 4/21 de la transcription de John Overdurf (*12 Daze Bundle 2023 - Transcripts*).
 
@@ -624,8 +648,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/21 de la transcription de
 * **[Analyse du Pattern]** :  
   Liaison de contingence transdérivationnelle liant l'état de confusion (*"don't know"*) à une certitude somatique (*"know what's going to happen"*, *"recognize when you're here"*). Overdurf transforme le sentiment de perte de contrôle intellectuel en un ancrage de réussite et de présence somatique.
 
-
-## --- Tranche 5 / 21 ---
+## Tranche 5 / 21 : Le Déploiement Cartésien Non-Linéaire (Quadrants de Négation)
 
 Voici l'extraction exhaustive, chirurgicale et sans filtre conceptuel de la **tranche 5/21** du séminaire *12 Daze Bundle 2023* de **John Overdurf**.
 
@@ -817,8 +840,7 @@ Voici l'extraction exhaustive, chirurgicale et sans filtre conceptuel de la **tr
 > *"And Sue, I want you to see you out there with Dave. And you're both seeing you guys out there as a couple... But then there's this third thing, y'all. It's called your relationship. And when you look at those two people as you know them, what is their relationship?... And when they're having this kind of argument, how is love feeling?... So what would love have to say to these two people?"*
 * **[Analyse du Pattern] :** Double dissociation spatiale d'emblée (*« see you out there »*), suivie de la réification linguistique d'une nominalisation relationnelle (*« this third thing... your relationship »*). Le recadrage anthropomorphique (*« how is love feeling? »*, *« what would love have to say? »*) court-circuite les egos en conflit en subordonnant les deux individus à la volonté écologique de l'entité systémique supérieure qu'ils ont eux-mêmes nommée.
 
-
-## --- Tranche 6 / 21 ---
+## Tranche 6 / 21 : A : L'Intervention Systémique sur la Relation (Third Entity Work)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -961,8 +983,7 @@ Voici l'extraction exhaustive, chirurgicale et sans filtre conceptuel de la **tr
   - **Permission d'ignorance et décharge de la conscience critique :** *« And you don't have to know that right now »* court-circuite le besoin d'effort intellectuel et approfondit la transe réceptive.
   - **Ratification et recadrage hypnotique du vide mental :** Dès que le sujet annonce qu'aucun mot ne vient (*« nothing coming up »*), Overdurf utilise ce vide non comme une panne, mais comme l'état ressource d'apaisement recherché (*« So that's what your life can be like when nothing's coming up »*), liant directement le silence mental à la nouvelle réalité neurologique du sujet.
 
-
-## --- Tranche 7 / 21 ---
+## Tranche 7 / 21 : Désamorçage de souvenir traumatique par la Séquence Alpha et la Matrice du Rien
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de la transcription brute de John Overdurf ("12 Daze Bundle 2023").
 
@@ -1124,8 +1145,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de 
   - **Ancrage kinesthésique viscéral** : Réduction du choix existentiel (*rester en vie / s'ancrer dans le présent*) à une décision sensorielle gustative binaire, incontrôlable intellectuellement.
   - **Condensation de commandes par juxtaposition** : L'enchaînement rythmé *"Stay"* -> *"Now"* -> *"Stay now"* fusionne la décision de vivre (*Stay*) avec l'instant présent (*Now*), créant un ancrage linguistique hypnotique puissant et mémorisable.
 
-
-## --- Tranche 8 / 21 ---
+## Tranche 8 / 21 : STP (Somatic / State Trance Pattern) : Désenchantement et Mise à Jour de l'Habitude par Prés...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1221,8 +1241,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de 
 
 * **[Analyse du Pattern]** : Prosopopée neurologique (*le cerveau qui parle*) et ancrage de contraste sensoriel direct. L'utilisation d'une voix interne personnifiée (*"the brain goes: John, guess what?..."*) permet d'extérioriser le processus de décision en le déchargeant de toute culpabilité consciente. La comparaison kinesthésique directe (*"Light feels a lot better than sleepy"*) court-circuite le cortex rationnel en fondant le choix sur une évidence sensorielle corporelle, renforcée par la répétition hypnotique en truisme : *"It has to be a feeling"*.
 
-
-## --- Tranche 9 / 21 ---
+## Tranche 9 / 21 : La Désactivation Somatique Curieuse du Déclencheur (Modèle Brewer-Overdurf)
 
 Voici l'analyse opératoire intégrale de la tranche 9/21 du cours *12 Daze Bundle 2023* de John Overdurf, structurée selon les règles strictes d'ingénierie et d'ontologie émergente.
 
@@ -1346,8 +1365,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/21 du cours *12 Daze Bund
 > « So what he says to turn inward with curiosity towards sensations which are concluded into the problem. Curiosity... instead it's like turn inward and go, am I really breathing right now in this moment? »
 - **[Analyse du Pattern]** : Commande cachée en citation indirecte et rupture de pattern par interrogation sensorielle. L'expression *« turn inward with curiosity towards sensations »* opère syntaxiquement comme une directive hypnotique directe vers les récepteurs intéroceptifs. La question enchâssée (*« am I really breathing right now in this moment? »*) casse net l'illusion de certitude cognitive en obligeant le système attentionnel à quitter les prédictions mémorielles pour vérifier la réalité physique présente.
 
-
-## --- Tranche 10 / 21 ---
+## Tranche 10 / 21 : Désamorçage de Boucle d'Habitude & Réévaluation de Récompense (STP / Sensory Habit Update)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1502,8 +1520,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/21 du cours *12 Daze Bund
 
 * **[Analyse du Pattern]** : Enchaînement de suggestions post-hypnotiques conversationnelles et d'amnésie structurelle du problème. Overdurf associe le réveil nocturne futur à une raison parfaitement banale et biologique (aller aux toilettes), retirant toute signification pathologique. Il empile ensuite une équivalence complexe et un ancrage temporel : se réveiller la nuit devient désormais une *« opportunité d'apprécier »* la plénitude de sa journée, reliée par un pont de similitude sensorielle à la facilité de l'endormissement du soir (*« just like you were falling asleep when you first fell asleep, which was no problem »*).
 
-
-## --- Tranche 11 / 21 ---
+## Tranche 11 / 21 : Sensation Transformation & Habit Loop Unhooking (Désamorçage de l'Habit Loop Somatique du Ré...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1647,8 +1664,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/21 du cours *12 Daze Bund
 
   * **[Analyse du Pattern]** : Métaphore enchâssée d'autorité (« Sadhguru says... ») employée pour implanter une vérité biologique irréfutable (« your nose does » porter l'empreinte génétique). Par analogie inductive, Overdurf glisse de la mémoire génétique indéniable de la forme du nez vers la mémoire somatique du sommeil profond et spontané. Le lien causal implicite suggère que la capacité à dormir d'un sommeil réparateur est inscrite dans l'ADN du sujet au-delà de ses perturbations psychologiques conscientes récentes.
 
-
-## --- Tranche 12 / 21 ---
+## Tranche 12 / 21 : Protocole de Désensibilisation et Inversion des Boucles d'Habitude (Démonstration sur Carla)
 
 Voici l'extraction exhaustive, structurée et purement opératoire de la tranche 12/21 du cours *12 Daze Bundle 2023* de John Overdurf.
 
@@ -1754,8 +1770,7 @@ Voici l'extraction exhaustive, structurée et purement opératoire de la tranche
   > "And let's say you wake up and just notice first of all when you wake up what's happening like right in here. Yeah. Hmm. That's weird, huh? So what's happening? Nothing. That's right, nothing's happening. You're even a little surprised yourself, aren't you?"
   * **[Analyse du Pattern]** : *Semis de suggestion post-hypnotique et ratification de la surprise*. En introduisant le constat *« That's weird, huh? »* avant même que le sujet ne décrive son état, Overdurf présuppose que la réponse symptomatique antérieure a disparu. Lorsque le client valide le vide émotionnel (*« Nothing »*), le formateur ratifie immédiatement la surprise comme preuve tangible d'une reconfiguration neurologique inconsciente réussie.
 
-
-## --- Tranche 13 / 21 ---
+## Tranche 13 / 21 : Utilisation Sécurisée de l'Entraînement Neuro-Acoustique (Brainwave Entrainment Protocol)
 
 Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bundle 2023* de John Overdurf.
 
@@ -1909,8 +1924,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bun
   - **Présupposition de totalité par quantification universelle :** La phrase *« consider all the possible futures that you could have »* surcharge délibérément la mémoire de travail en utilisant le quantificateur *« all »* appliqué au concept abstrait et non fini de *« possible futures »*.
   - **Induction tridimensionnelle du champ attentionnel :** Force le système nerveux à désactiver le focus fovéal fermé pour passer en vision périphérique et traitement expansif holistique, condition préalable indispensable pour déjouer les focalisations de problème.
 
-
-## --- Tranche 14 / 21 ---
+## Tranche 14 / 21 : A : L'Exploitation Somatique de la Confusion Post-Vide (Somatic Confusion-to-Resource Collapse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2040,8 +2054,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bun
 > **"Is it really easier at this point? [...] Do you not deserve that belief?"**
 - **[Analyse du Pattern]** : Concaténation d'une interruption de pattern interrogative et d'une auto-référence non-linéaire (*apply-to-self*) articulée par une négation spurieuse. Le critère d'indignité (*"I don't deserve..."*) est instantanément retourné contre la croyance d'indignité elle-même, provoquant une boucle récursive qui effondre la structure logique du symptôme.
 
-
-## --- Tranche 15 / 21 ---
+## Tranche 15 / 21 : La Matrice Autoréférentielle Récursive (Spurious Not & Tag Question)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2167,8 +2180,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bun
 > "So you're not trusting me, are you not? ... Trusting me, I mean."
 * **[Analyse du Pattern]** : Synchronisation/Pacing conversationnel radical sur un schéma paranoïaque ou méfiant. L'utilisation en miroir du verbe de méfiance rétro-appliqué sur la relation thérapeutique réinitialise le cadre : la résistance est intégrée comme une boucle fermée, ouvrant une brèche relationnelle immédiate.
 
-
-## --- Tranche 16 / 21 ---
+## Tranche 16 / 21 : A : La Boucle de Déstabilisation Identitaire par Négation Récursive
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2289,8 +2301,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bun
   - *Primauté de la dynamique vectorielle sur les entités isolées* (`"not lie in the units alone, but rather in the directions of motion"`) : oriente l'attention du praticien non pas sur les symptômes/états étiquetés, mais sur la direction du mouvement attentionnel et somatique.  
   - *Dénominalisation radicale et prédicat de conjonction perpétuelle* (`"not a thing, but processing. Characterized by and, and, and..."`) : l'accumulation répétitive de la conjonction de coordination `"and"` suspend la clôture syntaxique, maintenant le système nerveux ouvert sur un continuum infini d'associations libres.
 
-
-## --- Tranche 17 / 21 ---
+## Tranche 17 / 21 : La Dénominalisation Somato-Temporelle (« From Freeze-Frame to Movie »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2467,8 +2478,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *12 Daze Bun
   * **Structure réflexive circulaire (Boucle étrange)** : *« consciousness getting to know consciousness »* annule la dualité sujet/objet. Celui qui sait et ce qui est su sont fusionnés dans un seul et même processus dynamique d'auto-exploration.
   * **Réduction unificatrice terminale** : *« That’s all it is »* efface toute la complexité mentale antérieure, induisant un état de vacuité et de repos de l'esprit par élimination de toute quête d'explication supplémentaire.
 
-
-## --- Tranche 18 / 21 ---
+## Tranche 18 / 21 : Recalibrage Spatial & Somatique par l'Espace Intermédiaire (The Space In-Between Shift)
 
 Voici l'extraction opératoire chirurgicale et l'analyse modélisatrice de la tranche 18/21 du cours *12 Daze Bundle 2023* de John Overdurf.
 
@@ -2630,8 +2640,7 @@ Voici l'extraction opératoire chirurgicale et l'analyse modélisatrice de la tr
   - **Négation d'attention :** *« that you weren't noticing »* présuppose l'existence de couches d'informations déjà prêtes à émerger hors du champ conscient.
   - **Suggestion d'enrichissement organique :** L'association du mouvement kinesthésique à un changement qualitatif (*« enrich your experience »*) libère la représentation mentale de sa rigidité pathologique sans confrontation directe.
 
-
-## --- Tranche 19 / 21 ---
+## Tranche 19 / 21 : A : Induction de Groupe Rhizomatique (Dilatation de l'Image/Porte)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2759,8 +2768,7 @@ Voici l'extraction opératoire chirurgicale et l'analyse modélisatrice de la tr
 > "Now, as you are feeling free and strong inside this movie, run it backwards, all the way back, all the way back, all the way back, all the way back until we'll say the initial feeling is feeling curious... curious and free."
 - **[Analyse du Pattern]** : Commande directe de rembobinage associée à une répétition hypnotique à cadence rythmée (*all the way back*). L'incorporation des états ressources (*free and strong* au début, *curious and free* à l'arrivée) encadre la boucle par une double ancre kinesthésique positive, dissolvant l'empreinte traumatique intermédiaire.
 
-
-## --- Tranche 20 / 21 ---
+## Tranche 20 / 21 : A : Retraduction Rhizomique de Traumatisme / Phobie (Cas d'agression physique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2894,8 +2902,7 @@ Voici l'extraction opératoire chirurgicale et l'analyse modélisatrice de la tr
 > **« As you go into peripheral vision, and you would know, if you, you're just, that's right, looking out there, and you can notice my hand right here, right? So having a sense of this space out here, just go ahead, and what I want you to do is run that movie, starting there with Annabella, where she's, you know, young, and she's riding. And have it go really fast... all the way through all those periods all the way out until awesome got it going on... and now have the sense that you could jump into her and now run it backwards... and now you're on a horse... and what's it feel like? »**
 * **[Analyse du Pattern]** : *Induction périphérique couplée à une commande kinesthésique d'association temporelle.* Overdurf ancre d'abord l'état neurovégétatif parasympathique par la vision périphérique (*notice my hand*). Dès que la calibration indique l'accès à la transe, il enchaîne sans pause avec des commandes de défilement rapide, ponctuées d'un basculement immédiat de position perceptive : passage de la 3e personne (« *jump into her* ») à la 1re personne au présent indicatif (« *and now you're on a horse* »). La question finale est une injonction d'accès somatosensoriel pur.
 
-
-## --- Tranche 21 / 21 ---
+## Tranche 21 / 21 : La Boucle de Reconsolidation Kinesthésique Inversée (Reverse Playback Timeline Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3065,3 +3072,4 @@ Voici l'extraction opératoire chirurgicale et l'analyse modélisatrice de la tr
 * **[Analyse du Pattern]** :
   - *Défi direct d'évocation du déclencheur négatif* (« try and get some of... the soldiers saying the weird stuff »).
   - *Recadrage fonctionnel de la disparition des symptômes* : « Unnecessary, right? They've done their job. They're done. » Les anciennes défenses/peurs ne sont pas combattues ou vaincues ; elles sont déclarées obsolètes parce que leur mission adaptative est accomplie, éliminant tout conflit interne résiduel.
+

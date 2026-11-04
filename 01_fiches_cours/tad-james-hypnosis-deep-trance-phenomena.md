@@ -80,10 +80,28 @@ Voici la **Synthèse Architecturale du Cours** modélisée à partir des mécani
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 104-205]** : A : Élicitation et Mobilisation de l'Imagerie Idéodynamique Thérapeutique — *Protocole :* A : Élicitation et Mobilisation de l'Imagerie Idéodynamique Thérapeutique | *Verbatim :* La Prise de Conscience Sensorielle Fractionnée
+- **Tranche 2 [Lignes 207-406]** : Induction du "Learning State" (État d'Apprentissage Braidien) — *Protocole :* Induction du "Learning State" (État d'Apprentissage Braidien) | *Verbatim :* La Transition Conversationnelle d'Erickson
+- **Tranche 3 [Lignes 408-583]** : Recueil de l'Histoire Personnelle Détaillée & Détection de Cause Racine — *Protocole :* Recueil de l'Histoire Personnelle Détaillée & Détection de Cause Racine | *Mécanisme :* Élicitation de la hiérarchie du problème par le Chunking dynamique | *Verbatim :* Pattern 1 : Recadrage de la Suggestibilité (Lien de Santé & Auto-Contrôle)
+- **Tranche 4 [Lignes 585-789]** : Induction par la Série de Questions (Question Set Induction) — *Protocole :* Induction par la Série de Questions (Question Set Induction) | *Verbatim :* Verbatim 1 : L'Ambiguïté de Ponctuation et Commande Cachée
+- **Tranche 5 [Lignes 791-927]** : A : Induction Ericksonienne N°2 – Lévitation du Bras par Synchronisation Respiratoire — *Protocole :* A : Induction Ericksonienne N°2 – Lévitation du Bras par Synchronisation Respiratoire | *Verbatim :* Double lien temporel et rupture d'attention sur les yeux
+- **Tranche 6 [Lignes 929-1087]** : Calibration et Établissement des Réponses Idéomotrices au Pendule — *Protocole :* Calibration et Établissement des Réponses Idéomotrices au Pendule | *Verbatim :* Verbatim 1 : L'ensemencement du signal idéomoteur
+- **Tranche 7 [Lignes 1089-1313]** : A : Induction par Métaphores Enchâssées Multiples (Format 5 Boucles) — *Protocole :* A : Induction par Métaphores Enchâssées Multiples (Format 5 Boucles) | *Verbatim :* Verbatim 1 : La métaphore profonde de régulation (Erickson / Tad James)
+- **Tranche 8 [Lignes 1315-1538]** : A : Installation et Réparation d'une Hallucination Positive en Transe — *Protocole :* A : Installation et Réparation d'une Hallucination Positive en Transe | *Verbatim :* Verbatim 1 : L'amorce de l'hallucination positive par boucle conditionnelle
+- **Tranche 9 [Lignes 1540-1715]** : A : Induction Dave Elman n°2 (Version Rapide & Directe) — *Protocole :* A : Induction Dave Elman n°2 (Version Rapide & Directe) | *Mécanisme :* Décharge motrice par la simulation d'incompétence ("Pretend") | *Verbatim :* s Verbatim & Patterns Linguistiques
+- **Tranche 10 [Lignes 1717-2002]** : Clôture Écologique, Dé-suggestion et Réveil — *Protocole :* Clôture Écologique, Dé-suggestion et Réveil | *Verbatim :* Formule d'abrogation des suggestions de test
+- **Tranche 11 [Lignes 2004-2088]** : Le Protocole du Test d'Induction Progressive (Progressive Test Induction - Synthèse James /... — *Protocole :* Le Protocole du Test d'Induction Progressive (Progressive Test Induction - Synthèse James / Estabrooks / LeCron) | *Mécanisme :* Architecture Cumulative de la Profondeur Hypnotique (Échelle Progressive de Somnambulisme)
+- **Tranche 12 [Lignes 2090-2165]** : Prise d'Espace et Ancrage d'États Collectifs (Presenting Magically Protocol) — *Protocole :* Prise d'Espace et Ancrage d'États Collectifs (Presenting Magically Protocol) | *Mécanisme :* Ancrage Spatial et Gestuelle d'Accès Inconscient | *Verbatim :* Verbatim 1 : Structuration de la Présentation Hypnotique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 12 ---
+## Tranche 1 / 12 : A : Élicitation et Mobilisation de l'Imagerie Idéodynamique Thérapeutique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -186,8 +204,7 @@ Voici la **Synthèse Architecturale du Cours** modélisée à partir des mécani
 - **[Analyse du Pattern]** :
   - *Effet syntaxique* : **Pacing d'un schéma universel et décompte hypnotique camouflé**. Le récit utilise le présent de narration pour forcer l'identification immédiate (*You get... you look up...*). Le décompte numérique (*one... two... three...*) reproduit exactement le rythme d'un approfondissement hypnotique standard, et la boucle se clôt par une rupture de schéma/amnésie transitoire (*wait!... is this seven?*), normalisant la transe comme une micro-amnésie dissociative familière.
 
-
-## --- Tranche 2 / 12 ---
+## Tranche 2 / 12 : Induction du "Learning State" (État d'Apprentissage Braidien)
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 2/12.
 
@@ -388,8 +405,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 2/12.
   * **f. Pause inattendue (Punctuation Pause)** : La rupture prosodique isole temporairement l'expression suggestive avant de réinjecter un nom inoffensif (*"read this..."* -> transe/suggestion, puis clarification différée : *"...book"*).
   * **g. Phrase incomplète** : Suspension délibérée de la structure de phrase qui laisse l'objet non défini, obligeant l'inconscient du sujet à projeter ses propres attentes pour clore la forme (*Gestalt closure*).
 
-
-## --- Tranche 3 / 12 ---
+## Tranche 3 / 12 : Recueil de l'Histoire Personnelle Détaillée & Détection de Cause Racine
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -566,8 +582,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 2/12.
 | **Stade 5** | Transe Profonde (Somnambulisme) | Hallucinations positives (visuelles & auditives), Suggestions post-hypnotiques complexes | Perception d'objets inexistants yeux ouverts (balle de tennis) ; exécution post-hypnotique impérative différée. |
 | **Stade 6** | Transe Somnambulique Profonde / Esdaile | Hallucinations négatives, Anesthésie chirurgicale complète, État comateux | Disparition perceptive d'objets présents ; chirurgie/dentisterie sans anesthésique chimique. |
 
-
-## --- Tranche 4 / 12 ---
+## Tranche 4 / 12 : Induction par la Série de Questions (Question Set Induction)
 
 Voici l'analyse opératoire intégrale de la tranche 4/12 du cours de Tad James (*Hypnosis - Deep Trance Phenomena*).
 
@@ -773,8 +788,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/12 du cours de Tad James 
 
 * **[Analyse du Pattern] :** Manœuvre d'invalidation stratégique feinte. En adoptant le rôle de l'évaluateur sceptique, l'hypnothérapeute pousse le client dans une dynamique d'escalade d'affirmation. Le client réitère son certicat interne de changement trois fois de suite avec intensité croissante, scellant son propre convincer sans interférence extérieure.
 
-
-## --- Tranche 5 / 12 ---
+## Tranche 5 / 12 : A : Induction Ericksonienne N°2 – Lévitation du Bras par Synchronisation Respiratoire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -912,8 +926,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/12 du cours de Tad James 
   - **Recadrage de la notion de lenteur** : qualifier 24 heures de *"long, long time"* relativise complètement l'échelle de temps médicale habituelle, forçant l'esprit du sujet à concevoir une résolution biologique ultra-accélérée comme étant la norme maximale.
   - **Fausse alternative de choix** (*"Which would you prefer?"*) : donne à l'inconscient une entière autonomie de surface pour mieux verrouiller l'engagement d'action sous 24 heures.
 
-
-## --- Tranche 6 / 12 ---
+## Tranche 6 / 12 : Calibration et Établissement des Réponses Idéomotrices au Pendule
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1073,8 +1086,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/12 du cours de Tad James 
   - **Commande enchâssée marquée vocalement (*Analogue Marking*)** : *"LEARN HYPNOSIS EASILY AND EFFORTLESSLY"* implantée directement au niveau inconscient sous le couvert d'un commentaire anodin sur l'histoire d'Erickson.
   - **Double mouvement d'évacuation de l'effort** : Libère le sujet de l'obligation de performance (ne pas avoir à écrire 30 pages) pour focaliser toute son énergie sur l'acuité sensorielle pure (*"observe and utilize more"*).
 
-
-## --- Tranche 7 / 12 ---
+## Tranche 7 / 12 : A : Induction par Métaphores Enchâssées Multiples (Format 5 Boucles)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1300,8 +1312,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/12 du cours de Tad James 
   - **Présupposition préemptive** : « In a moment, you may hear... » anticipe le stimulus pour en prendre le contrôle avant que le client n'en fasse un facteur d'interruption.
   - **Isomorphisme de polarité (Dehors/Dedans - Vitesse/Profondeur)** : Relie la dynamique de précipitation externe (« rushing to go somewhere ») à une dynamique d'intériorisation progressive (« go more deeply inside »), transformant un bruit parasite en un levier d'approfondissement somatique.
 
-
-## --- Tranche 8 / 12 ---
+## Tranche 8 / 12 : A : Installation et Réparation d'une Hallucination Positive en Transe
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1526,8 +1537,7 @@ And when you are talking to a client and searching for the next thing to say, yo
 ```
 * **[Analyse du Pattern]** : Couplage progressif entre émission phonatoire motrice et doublement de l'inhibition corticale (*« With each number... double your mental relaxation »*). Présupposition temporelle d'amnésie précoce (*« by the time you reach the number 98, or maybe even sooner »*), fixant une limite cognitive stricte au-delà de laquelle la structure numérique s'effondre. Réattribution intégrale de la responsabilité au sujet (*« you have to do this; I can't do it for you »*), éliminant toute réactance contre l'hypnotiseur. Utilisation d'une séquence de verbes d'action impératifs à haute intensité directive (*« Dispel them. Banish them. Put them out »*), suivie de la question-test ultime en majuscules fermant le piège logique de l'amnésie : *« ARE THEY ALL GONE? »*. Une réponse affirmative valide immédiatement l'entrée dans le somnambulisme profond (stade du vide mental / *the void*).
 
-
-## --- Tranche 9 / 12 ---
+## Tranche 9 / 12 : A : Induction Dave Elman n°2 (Version Rapide & Directe)
 
 Voici l'analyse complète, chirurgicale et opératoire de la tranche 9/12 du cours de Tad James (*Hypnosis - Deep Trance Phenomena* / *Hypnosis: A Comprehensive Guide*).
 
@@ -1704,8 +1714,7 @@ Voici l'analyse complète, chirurgicale et opératoire de la tranche 9/12 du cou
 >   - **Empilement de truismes et normalisation de l'amnésie** : Déconstruit l'enjeu de l'oubli en l'associant à des événements triviaux réels du quotidien (le déjeuner d'il y a 14 jours, un bout de papier perdu).  
 >   - **Dissociation fonctionnelle Conscient / Inconscient** : Scission nette des tâches cognitives ordonnant au conscient d'abandonner l'information pendant que l'inconscient reçoit l'ordre direct de la mémoriser et de l'exécuter.
 
-
-## --- Tranche 10 / 12 ---
+## Tranche 10 / 12 : Clôture Écologique, Dé-suggestion et Réveil
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 10/12 du cours de Tad James (*Hypnosis - Deep Trance Phenomena* / *Hypnosis: A Comprehensive Guide*).
 
@@ -1992,8 +2001,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - *Effacement de la frontière fiction/réalité (Trance Collapsing)* : Le mot *"pretend"* est répété trois fois en conjonction avec des verbes d'inhibition réelle (*"they won't work"*), créant un glissement neurologique progressif où feindre la catalepsie devient indistinct de la catalepsie réelle.
   - *Renforcement positif congruent* : *"Test them hard... that's right"*. Valide l'absence de mouvement comme une confirmation éclatante du succès du protocole.
 
-
-## --- Tranche 11 / 12 ---
+## Tranche 11 / 12 : Le Protocole du Test d'Induction Progressive (Progressive Test Induction - Synthèse James /...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2079,8 +2087,7 @@ Cette tranche étant constituée de l'index de référence de l'ouvrage pédagog
   > "And as you hear the sound of my voice, and as that pendulum begins to swing, it means that your unconscious mind is already communicating with you directly."
   * [Analyse du Pattern] : **Complexe Équivalence via conjonction causale**. Deux faits sensoriels indéniables et vérifiables dans le présent (*hearing voice*, *pendulum swinging*) sont liés par le verbe sémantique *"it means that"* à une conclusion arbitraire choisie par l'hypnothérapeute (*unconscious mind communicating*). Le système nerveux accepte la conclusion comme un truisme du fait de la validité sensorielle des deux premières propositions.
 
-
-## --- Tranche 12 / 12 ---
+## Tranche 12 / 12 : Prise d'Espace et Ancrage d'États Collectifs (Presenting Magically Protocol)
 
 ### Diagnostic de la Tranche Source Fournie
 
@@ -2156,3 +2163,4 @@ Cette tranche étant constituée de l'index de référence de l'ouvrage pédagog
 * **[Analyse du Pattern] :**  
   - **Séquençage hypnotique classique (du conscient vers l'inconscient somatique) :** La progression s'amorce sur l'intellect critique (*myths and misconceptions*), glisse vers l'alliance relationnelle (*rapport-building*), installe les inducteurs linguistiques (*language forms, inductions*), pour aboutir à l'autonomie involontaire du système nerveux (*utilization of ideodynamic responses*).
   - **Extension de cadre (Chunking Up) :** L'élargissement final de la thérapie verbale vers les altérations somatiques lourdes (*medicine, dentistry, life-challenging diseases*) présuppose la puissance somato-motrice totale du verbe hypnotique sur la biologie.
+

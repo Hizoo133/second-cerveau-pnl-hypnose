@@ -59,10 +59,62 @@
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 117-182]** : d'Intronisation & Déminage des Croyances Limitantes (Format Dialogue Socratique Simulé) — *Protocole :* d'Intronisation & Déminage des Croyances Limitantes (Format Dialogue Socratique Simulé)
+- **Tranche 2 [Lignes 184-271]** : d'Installation Identitaire Instantanée : "The Magic Words" — *Protocole :* d'Installation Identitaire Instantanée : "The Magic Words"
+- **Tranche 3 [Lignes 273-382]** : A : La Calibration par les 5 Écoutes Systémiques — *Protocole :* A : La Calibration par les 5 Écoutes Systémiques | *Verbatim :* La Bascule Somatique de l'Écoute
+- **Tranche 4 [Lignes 384-521]** : Désamorçage de l'Effet Observateur (4 Niveaux de Contournement de Heisenberg) — *Protocole :* Désamorçage de l'Effet Observateur (4 Niveaux de Contournement de Heisenberg) | *Mécanisme :* Dissection Sensorielle et Cristallisation Verbale | *Verbatim :* La Dissection Kinesthésique
+- **Tranche 5 [Lignes 523-709]** : Le Recadrage de Servitude en Quête de Maîtrise (Protocole Rico Medellin) — *Protocole :* Le Recadrage de Servitude en Quête de Maîtrise (Protocole Rico Medellin) | *Mécanisme :* Le Levier de l'Espace Liminal Public/Privé et la Posture Démiurgique | *Verbatim :* La Transcendance Spatiale Démiurgique
+- **Tranche 6 [Lignes 711-819]** : d'Audit et d'Instillation de la Valeur Endogène (Lens 7) — *Protocole :* d'Audit et d'Instillation de la Valeur Endogène (Lens 7)
+- **Tranche 7 [Lignes 821-969]** : Le Double Regard Holographique (Lens 10 - Skin & Skeleton) — *Protocole :* Le Double Regard Holographique (Lens 10 - Skin & Skeleton) | *Mécanisme :* Double Focalisation Concomitante : La Vision Holographique (Skin & Skeleton) | *Verbatim :* Le Double Pacing Phénoménologique-Structurel
+- **Tranche 8 [Lignes 971-1146]** : Utilisation de la Lentille de Résonance (12) & Le Levier de Résonance Thématique Subconsciente — *Protocole :* Utilisation de la Lentille de Résonance (12) | *Mécanisme :* Le Levier de Résonance Thématique Subconsciente | *Verbatim :* Le Véhicule Métaphorique du Thème
+- **Tranche 9 [Lignes 1148-1323]** : L'Incubation Délibérée ("Give It and Leave It") — *Protocole :* L'Incubation Délibérée ("Give It and Leave It") | *Mécanisme :* Dérivation des Appétits Primitifs & Homéostasie Émotionnelle | *Verbatim :* s Verbatim & Analyses
+- **Tranche 10 [Lignes 1325-1428]** : Le Sas des Huit Filtres (Lens 15) & Cartographie et Atténuation des Risques (Lens 16) — *Protocole :* Le Sas des Huit Filtres (Lens 15) | *Mécanisme :* Le Filtre Rétroactif et l'Étalonnage Vivant (calibrageenaction feedbackloopcalibration)
+- **Tranche 11 [Lignes 1430-1552]** : Le Prototypage Papier de Flux Dynamique (Paper Metronome Engine) — *Protocole :* Le Prototypage Papier de Flux Dynamique (Paper Metronome Engine)
+- **Tranche 12 [Lignes 1554-1687]** : d'Harmonisation d'une Tâche Multi-Profils (L'Équilibrage Inclusif par Double Métrique) — *Protocole :* d'Harmonisation d'une Tâche Multi-Profils (L'Équilibrage Inclusif par Double Métrique)
+- **Tranche 13 [Lignes 1689-1830]** : Le Démonstrateur de Contrôle Subconscient (« Boast to Toaster ») — *Protocole :* Le Démonstrateur de Contrôle Subconscient (« Boast to Toaster »)
+- **Tranche 14 [Lignes 1832-1985]** : Le Détecteur & Réparateur de Rupture de Flow (Lens of Flow) — *Protocole :* Le Détecteur & Réparateur de Rupture de Flow (Lens of Flow) | *Verbatim :* La Cadence Hypnotique de l'Oscillation
+- **Tranche 15 [Lignes 1987-2134]** : Audit et Étalonnage du Jugement (25 The Lens of Judgment) — *Protocole :* Audit et Étalonnage du Jugement (25 The Lens of Judgment) | *Mécanisme :* Le Besoin d'Évaluation Objective et le Levier d'Estime | *Verbatim :* Le Recadrage du Besoin de Jugement
+- **Tranche 16 [Lignes 2136-2235]** : Ensemencement & Culture de l'Émergence Stratégique — *Protocole :* Ensemencement & Culture de l'Émergence Stratégique | *Mécanisme :* Le Ratio Émergentiel Verbe-Stratégie (Architecture de la Liberté Subconsciente) | *Verbatim :* La Puissance Émergente de la Richesse d'Affordance
+- **Tranche 17 [Lignes 2237-2376]** : Audit & Décomposition des Compétences Réelles (Lens 34: The Lens of Skill) — *Protocole :* Audit & Décomposition des Compétences Réelles (Lens 34: The Lens of Skill) | *Verbatim :* La Déconstruction Réel / Virtuel
+- **Tranche 18 [Lignes 2378-2476]** : Extraction d'Assistance par Recadrage de Défi ("Gombaud’s Solicitation") — *Protocole :* Extraction d'Assistance par Recadrage de Défi ("Gombaud’s Solicitation")
+- **Tranche 19 [Lignes 2478-2603]** : Calibrage d'un Système par Élimination de Stratégie Dominante — *Protocole :* Calibrage d'un Système par Élimination de Stratégie Dominante | *Mécanisme :* Boucle Cybernétique Modèle-Prototype (Co-adaptive Calibration Loop) | *Verbatim :* La boucle réflexive modèle-réalité
+- **Tranche 20 [Lignes 2605-2742]** : L'Atterrissage Forcé / Clôture Dramatique Programmée (Technique "Armageddon") — *Protocole :* L'Atterrissage Forcé / Clôture Dramatique Programmée (Technique "Armageddon") | *Mécanisme :* La dynamique d'oscillation Coopération / Compétition et le Dilemme d'Alignement Social | *Verbatim :* La Déclaration de Soumission au Jugement
+- **Tranche 21 [Lignes 2744-2873]** : La Compression Polyvalente d'Élégance (Lens of Elegance) — *Protocole :* La Compression Polyvalente d'Élégance (Lens of Elegance) | *Mécanisme :* Émergence par Règle Unique vs Surcharge Prescriptive (Natural vs. Artificial Balancing) | *Verbatim :* Verbatim 1 : L'Élégance comme Système Émergent
+- **Tranche 22 [Lignes 2875-2985]** : Conception & Audit d'un Puzzle Thérapeutique ou Cognitif — *Protocole :* Conception & Audit d'un Puzzle Thérapeutique ou Cognitif
+- **Tranche 23 [Lignes 2987-3080]** : Détection et Ancrage de la Transparence Somatique (La Lentille de la Transparence) — *Protocole :* Détection et Ancrage de la Transparence Somatique (La Lentille de la Transparence) | *Mécanisme :* La Couche Virtuelle Médiatrice et le Gradient d'Abstraction Émotionnelle | *Verbatim :* La bascule de l'avatar au « Je » (Dissociation vs Association)
+- **Tranche 24 [Lignes 3082-3201]** : Recalibrage de la Courbe d'Expérience (L'Approche Mark Tripp / Jesse Schell) — *Protocole :* Recalibrage de la Courbe d'Expérience (L'Approche Mark Tripp / Jesse Schell) | *Mécanisme :* Architecture des Modes & Préservation de l'Écologie Cognitive | *Verbatim :* La Leçon Initiatique du Mentor (Recadrage Méta-Perceptuel)
+- **Tranche 25 [Lignes 3203-3284]** : Diagnostic et Correction d'une Courbe d'Intérêt (Cas Magic Carpet / Bob Bates) — *Protocole :* Diagnostic et Correction d'une Courbe d'Intérêt (Cas Magic Carpet / Bob Bates)
+- **Tranche 26 [Lignes 3286-3403]** : Construction et Alignement du « Story Stack » (Dépilement Neuro-Fonctionnel) — *Protocole :* Construction et Alignement du « Story Stack » (Dépilement Neuro-Fonctionnel)
+- **Tranche 27 [Lignes 3405-3538]** : Diagnostic Électrique du Récit par le Monomythe (The Circuit Tester) — *Protocole :* Diagnostic Électrique du Récit par le Monomythe (The Circuit Tester)
+- **Tranche 28 [Lignes 3540-3678]** : Restriction Stratégique des Choix (Méthode des "Six Parfums") — *Protocole :* Restriction Stratégique des Choix (Méthode des "Six Parfums") | *Mécanisme :* L'Illusion de Liberté et Réduction de Charge Cognitive | *Verbatim :* Le Recadrage du Réel
+- **Tranche 29 [Lignes 3680-3776]** : Conception d'Agents en Collusion Narrative (Lentille 82) — *Protocole :* Conception d'Agents en Collusion Narrative (Lentille 82) | *Mécanisme :* La Collusion Diégétique / Téléologique (Double-Agenda de l'Agent) | *Verbatim :* La Formule du Leader Invisible
+- **Tranche 30 [Lignes 3778-3915]** : Calibrage et Incarnation Somatique du Statut (Exercice Johnstone / Schell) — *Protocole :* Calibrage et Incarnation Somatique du Statut (Exercice Johnstone / Schell)
+- **Tranche 31 [Lignes 3917-4037]** : La Grille de Matrice de Transformation (The Character Transformation Matrix) — *Protocole :* La Grille de Matrice de Transformation (The Character Transformation Matrix) | *Verbatim :* La Puissance Économique du Signal Périphérique
+- **Tranche 32 [Lignes 4039-4178]** : Calibrage et Compensation Spatiale en Vue Third-Person (Méthode Max Payne) — *Protocole :* Calibrage et Compensation Spatiale en Vue Third-Person (Méthode Max Payne) | *Verbatim :* La Fragilité de la Transe et l'Erreur Épistémologique du Gameplay
+- **Tranche 33 [Lignes 4180-4310]** : A : Guidage Perceptif par Claustration Spatialisée (Head-Movement Induction) — *Protocole :* A : Guidage Perceptif par Claustration Spatialisée (Head-Movement Induction) | *Verbatim :* La régression sous alarme métacognitive
+- **Tranche 34 [Lignes 4312-4466]** : Calibrage Subconscient de l'Atmosphère (Technique Kyle Gabler) — *Protocole :* Calibrage Subconscient de l'Atmosphère (Technique Kyle Gabler) | *Mécanisme :* L'Illusion de Profondeur Fractale par les "Montagnes Lointaines" (Distant Mountains) | *Verbatim :* La Leçon de John Hench sur la Proximité du Réel
+- **Tranche 35 [Lignes 4468-4614]** : Recadrage Énergétique d'un Collaborateur Désaligné ("The Ship Shift") — *Protocole :* Recadrage Énergétique d'un Collaborateur Désaligné ("The Ship Shift") | *Mécanisme :* L'Ingénierie de l'Architecture Spatiale et Répétition de Collision Sociale | *Verbatim :* La Transmutation du Secret du Succès
+- **Tranche 36 [Lignes 4616-4776]** : Restauration de l'Investissement par Translation de Focus Affectif (The Ship-Star Pivot) — *Protocole :* Restauration de l'Investissement par Translation de Focus Affectif (The Ship-Star Pivot) | *Verbatim :* La Bascule d'Héroïsme
+- **Tranche 37 [Lignes 4778-4914]** : A : La Matrice d'Émergence Documentaire — *Protocole :* A : La Matrice d'Émergence Documentaire | *Verbatim :* Le Déplacement de la Mémoire de Travail
+- **Tranche 38 [Lignes 4916-5073]** : Le Déverrouillage de Permission Critique (Ego-Drop & Safe Harbor Elicitation) — *Protocole :* Le Déverrouillage de Permission Critique (Ego-Drop & Safe Harbor Elicitation) | *Verbatim :* L'Injonction de Permission Vulnérable
+- **Tranche 39 [Lignes 5075-5256]** : Le Filtre de Conversion Fondatrice (Lentille 104 de la Technologie) — *Protocole :* Le Filtre de Conversion Fondatrice (Lentille 104 de la Technologie) | *Mécanisme :* Leurre de la Nouveauté Technologique vs But Téléologique Expérientiel | *Verbatim :* Extrait 1 : Le Double Recadrage du Gâteau et de la Cerise
+- **Tranche 40 [Lignes 5258-5415]** : A : La Désescalade de la Mauvaise Suggestion (Extraction de Problème Non Formulé) — *Protocole :* A : La Désescalade de la Mauvaise Suggestion (Extraction de Problème Non Formulé) | *Mécanisme :* Le Décodage Dérivationnel des Couches de Désir (The Three Layers of Desire) | *Verbatim :* La Fausse Évidence et le Décrochage Ironique
+- **Tranche 41 [Lignes 5417-5519]** : Récupération d'État Ressource de Haute Confiance par Auto-Ancrage Visu-Séquentiel — *Protocole :* Récupération d'État Ressource de Haute Confiance par Auto-Ancrage Visu-Séquentiel
+- **Tranche 42 [Lignes 5521-5632]** : Le Test de Réalité du Marché (Reality Calibration Drill) — *Protocole :* Le Test de Réalité du Marché (Reality Calibration Drill)
+- **Tranche 43 [Lignes 5634-5810]** : Le Creuset de Recadrage Systémique par Inversion de Camp — *Protocole :* Le Creuset de Recadrage Systémique par Inversion de Camp | *Verbatim :* La Présupposition de Propriété par la Curiosité
+- **Tranche 44 [Lignes 5812-5919]** : Le Rituel d'Imposition de l'Anneau Invisible (Passage de Témoin Éthique) — *Protocole :* Le Rituel d'Imposition de l'Anneau Invisible (Passage de Témoin Éthique)
+- **Tranche 45 [Lignes 5921-6000]** : d'Accès Mnémonique à l'Enfant Intérieur par Translation de Cohorte (The Grade-Access Shift) — *Protocole :* d'Accès Mnémonique à l'Enfant Intérieur par Translation de Cohorte (The Grade-Access Shift) | *Verbatim :* La Clé de Régression par le Récipient de Cohorte
+- **Tranche 46 [Lignes 6002-6090]** : d'Audit Perceptuel Multi-Lentilles (Extrait de l'Index des Lentilles) — *Protocole :* d'Audit Perceptuel Multi-Lentilles (Extrait de l'Index des Lentilles) | *Mécanisme :* Le Réseau de Référence Interne (Ontologie & Indexation d'Expérience)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 46 ---
+## Tranche 1 / 46 : d'Intronisation & Déminage des Croyances Limitantes (Format Dialogue Socratique Simulé)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -129,8 +181,7 @@
 > "It is like the relationship between architects and carpenters: an architect does not need to know everything the carpenter knows, but an architect must know everything the carpenter is capable of."
 - **[Analyse du Pattern]** : **Recadrage par isomorphisme métaphorique et distinction d'échelle.** Utilisation d'un chiasme structurel (« know everything the carpenter knows » vs « know everything the carpenter is capable of »). Ce pattern linguistique opère une redéfinition nette des responsabilités cognitives : il libère le sujet de l'obligation de compétence opérationnelle tout en posant une exigence stricte de vision systémique.
 
-
-## --- Tranche 2 / 46 ---
+## Tranche 2 / 46 : d'Installation Identitaire Instantanée : "The Magic Words"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -219,8 +270,7 @@
 > **"And where did this come from? Well, what do we do when we listen? We tip our head to one side—our head literally lists, as a boat at sea. And when we tip to one side, we put ourselves off balance; we accept the possibility of upset. When we listen deeply, we put ourselves in a position of risk."**
 * **[Analyse du Pattern]** : Pont métaphorique par ambiguïté étymologique/homophonique (*listen* / *list*). Schell ancre somatiquement un concept abstrait (l'écoute ouverte) dans une sensation vestibulaire physique (le tangage d'un bateau, le déséquilibre). Ce glissement kinesthésique recadre l'écoute non plus comme un acte auditif passif, mais comme un acte physique de prise de risque et de déstabilisation du système de croyances.
 
-
-## --- Tranche 3 / 46 ---
+## Tranche 3 / 46 : A : La Calibration par les 5 Écoutes Systémiques
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -331,8 +381,7 @@
 > I am a game designer."*
 * **[Analyse du Pattern]** : Suggestion post-hypnotique directe sous forme de mantra répétitif à haute fréquence. L'utilisation du pré-cadrage *"magic words"* autorise la régression ludique (suspension du jugement critique de l'adulte), tandis que la quadruple répétition au temps présent (*"I am..."*) ancre l'état d'identité au niveau neurologique profond, court-circuitant tout doute résiduel sur la légitimité.
 
-
-## --- Tranche 4 / 46 ---
+## Tranche 4 / 46 : Désamorçage de l'Effet Observateur (4 Niveaux de Contournement de Heisenberg)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -471,8 +520,7 @@
 
 * **[Analyse du Pattern]** : *Recadrage archétypal et naturalisation de la transe par impératif évolutif.* Schell utilise le truisme anthropologique pour normaliser l'état hypnotique (« *the trance we fall into* »). Il relie la suggestibilité visuelle et l'immobilité contemplative à un mécanisme de survie génétique fondamental (« *survival advantage* »), avant de transférer métaphoriquement toute la charge émotionnelle et rituelle du feu sacré ancestral vers l'écran contemporain (« *this modern fire tells its own stories* »).
 
-
-## --- Tranche 5 / 46 ---
+## Tranche 5 / 46 : Le Recadrage de Servitude en Quête de Maîtrise (Protocole Rico Medellin)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -660,8 +708,7 @@
   - **Juxtaposition d'états de transe :** *« When we play... very important »* vs *« Outside... completely unimportant »*. Schell pointe la ligne de démarcation exacte où la transe opère : la valeur n'appartient pas à l'objet matériel, mais à la foi collective injectée dans le cercle magique des règles.
   - **Règle diagnostique opératoire :** La capacité d'un système à générer de la valeur ex nihilo (*endogenous value*) devient le thermomètre direct de la puissance d'absorption et de fascination du dispositif (*« an excellent measure of how compelling a game really is »*).
 
-
-## --- Tranche 6 / 46 ---
+## Tranche 6 / 46 : d'Audit et d'Instillation de la Valeur Endogène (Lens 7)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -771,8 +818,7 @@
 > "The marching invaders made a sort of heartbeat noise, and as they sped up, the heartbeat sped up, which had a very visceral effect on the player."
 - **[Analyse du Pattern]** : Pacing somatique direct et métaphore biologique. L'association du stimulus sonore au bruit du cœur humain exploite un bio-feedback auditif subliminal, induisant une accélération physiologique involontaire par synchronisation externe.
 
-
-## --- Tranche 7 / 46 ---
+## Tranche 7 / 46 : Le Double Regard Holographique (Lens 10 - Skin & Skeleton)
 
 Voici l'extraction opératoire intégrale de la tranche 7/46 de *The Art of Game Design* par Jesse Schell, modélisée selon les prismes de la PNL avancée, de l'hypnose ericksonienne/conversationnelle et de la modélisation symbolique.
 
@@ -922,8 +968,7 @@ Voici l'extraction opératoire intégrale de la tranche 7/46 de *The Art of Game
   - **Métaphore somatique d'ébranlement :** L'usage du prédicat kinesthésique intense *« shakes us to our very core »* contourne la réflexion intellectuelle pour évoquer une déstabilisation viscérale involontaire.
   - **Double contrainte hypnotique (Puissance / Occultation) :** *« The fact that these things are hidden gives them power but also makes them hard for us to find »* crée une tension hypnotique classique où la difficulté même de la quête valide la valeur inestimable de ce qui va être découvert lors de la descente introspective.
 
-
-## --- Tranche 8 / 46 ---
+## Tranche 8 / 46 : Utilisation de la Lentille de Résonance (12) & Le Levier de Résonance Thématique Subconsciente
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/46 du cours de Jesse Schell (*The Art of Game Design*).
 
@@ -1100,8 +1145,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/46 du c
   * **Contraste kinesthésique sous-modalitaire** : Opposition entre « *cluttered and cramped* » (sensation de compression, tension céphalique) et « *clean and open* » (espace, clarté, décompression).
   * **Ancrage nominalisé exotique** : L'introduction du terme japonais *mizu no kokoro* (« l'esprit comme l'eau ») agit comme une étiquette mnémonique forte et stable pour un état d'ataraxie et de disponibilité attentionnelle totale.
 
-
-## --- Tranche 9 / 46 ---
+## Tranche 9 / 46 : L'Incubation Délibérée ("Give It and Leave It")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1278,8 +1322,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/46 du c
 ```
 * **[Analyse du Pattern]** : **Recadrage d'analogie de valeur (Choc d'objets métaphoriques)**. Destruction du rapport sacré à la production mentale. L'antithèse porcelaine précieuse / gobelet jetable opère une désactivation radicale du perfectionnisme névrotique. L'injonction finale *"go get another one"* banalise l'acte créatif en simple geste logistique consommable.
 
-
-## --- Tranche 10 / 46 ---
+## Tranche 10 / 46 : Le Sas des Huit Filtres (Lens 15) & Cartographie et Atténuation des Risques (Lens 16)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of Game Design* par Jesse Schell.
 
@@ -1384,8 +1427,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of
 > **"Plan to throw one away—you will anyway."**
 * **[Analyse du Pattern]** : Double lien implicite et truisme de fatalité temporelle. Qu'on le veuille ou non, la première version sera détruite par la réalité ; dès lors, la seule posture rationnelle restante est d'accepter activement et délibérément ce qui adviendra de toute façon passivement dans la douleur.
 
-
-## --- Tranche 11 / 46 ---
+## Tranche 11 / 46 : Le Prototypage Papier de Flux Dynamique (Paper Metronome Engine)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1509,8 +1551,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of
 > **"You must become intimate with their thoughts, their emotions, their fears, and their desires. Some of these will be so secret that your players themselves are not even consciously aware of them..."**
 * **[Analyse du Pattern]** : Suggestion d'omniscience et truisme ericksonien sur les processus inconscients. Utilisation du verbe modal d'obligation (*"You must become intimate"*) suivi de la nominalisation de désirs hors d'atteinte du conscient, présupposant que le concepteur a le devoir et la capacité de se connecter à la dimension refoulée ou tacite de l'expérience du joueur.
 
-
-## --- Tranche 12 / 46 ---
+## Tranche 12 / 46 : d'Harmonisation d'une Tâche Multi-Profils (L'Équilibrage Inclusif par Double Métrique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1645,8 +1686,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of
 
 * **[Analyse du Pattern]** : Induction conversationnelle de transe par contraste d'effort et empilement d'adverbes de facilitation (« effortlessly », « easily »). La phrase transfère l'agentivité de l'acte de croyance du sujet vers le système (« the game itself seems to suspend »), induisant une régression passive où l'esprit du sujet (« your mind ») est nominalisé et guidé en transe profonde sans résistance volontaire (« enters and stays »).
 
-
-## --- Tranche 13 / 46 ---
+## Tranche 13 / 46 : Le Démonstrateur de Contrôle Subconscient (« Boast to Toaster »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1789,8 +1829,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of
   - **Structure d'induction de pouvoir (Cause-à-effet conditionnel)** : La formule « if you can understand and control... you will create... » agit comme une puissante suggestion post-hypnotique pour le praticien/concepteur. 
   - **Surenchère d'intensité (Hyper-réalité)** : La clausule finale « feel as real, or more real, than reality itself » brise les limites du cadre physique pour promettre la création d'états d'absorption sensorielle totale surpassant le réel du quotidien.
 
-
-## --- Tranche 14 / 46 ---
+## Tranche 14 / 46 : Le Détecteur & Réparateur de Rupture de Flow (Lens of Flow)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1945,8 +1984,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 10/46 de *The Art of
 > "Again, we send you a big red button in the mail, and this time when you push it, bam! You instantly win! But that’s not such an amazing software product, is it? In fact, it might be the worst game ever. What is it that makes these two applications so radically different? Simply this: I 'hafta' do my taxes, but I 'wanna' play a game."
 * **[Analyse du Pattern]** : Établissement d'une boucle d'ancrage somatique et visuelle (*"big red button... bam!"*) appliquée successivement à deux contextes antinomiques. L'ancrage est d'abord validé sur la suppression de douleur (faire ses impôts), puis immédiatement réutilisé pour créer un court-circuit cognitif sur le plaisir ludique. La question rhétorique installe le vide analytique, immédiatement comblé par la distinction linguistique pivot entre deux états neurologiques : l'impératif subi (*"hafta"*) vs le désir autonome (*"wanna"*).
 
-
-## --- Tranche 15 / 46 ---
+## Tranche 15 / 46 : Audit et Étalonnage du Jugement (25 The Lens of Judgment)
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 15/46 du cours de Jesse Schell.
 
@@ -2095,8 +2133,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 15/46 du co
   - **Présupposition d'action future inévitable** (*"will help you channel"*).
   - **Commande paradoxale et induction de complicité hypnotique** (*"Take it, but don’t tell anyone"*). L'injonction d'interdiction de divulguer (*"don’t tell anyone"*) crée instantanément une valeur de rareté artificielle et force l'appropriation inconsciente de la lentille sous le sceau de l'initiation secrète.
 
-
-## --- Tranche 16 / 46 ---
+## Tranche 16 / 46 : Ensemencement & Culture de l'Émergence Stratégique
 
 Voici l'analyse opératoire intégrale de la tranche 16/46 du cours de Jesse Schell, modélisée selon les prismes de la PNL avancée, de l'hypnose conversationnelle, de la modélisation symbolique et des sciences cognitives.
 
@@ -2197,8 +2234,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/46 du cours de Jesse Sch
 > *"The player might be just as sloppy at mashing the controller buttons as they ever were, but by mashing them enough times, they might be rewarded with a higher level of virtual skill, which allows their character to become a faster, more powerful swordfighter... Virtual skills are a great way to give a player a feeling of power. Taken too far, it can feel hollow..."*
 * **[Analyse du Pattern]** : Dissociation nette entre l'ego physique du joueur (*sloppy at mashing*) et la projection hallucinatoire identitaire de l'avatar (*faster, more powerful swordfighter*). Le mot *hollow* (creux/vide) agit comme une rupture somatique viscérale, calibrant précisément la frontière entre un ancrage de compétence interne réelle et une simple simulation externe de puissance.
 
-
-## --- Tranche 17 / 46 ---
+## Tranche 17 / 46 : Audit & Décomposition des Compétences Réelles (Lens 34: The Lens of Skill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2339,8 +2375,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/46 du cours de Jesse Sch
   - **Recadrage historique à autorité maximale :** Élévation de l'étiquette péjorative (*"stupid questions"*) au rang d'initiateur de génie scientifique (dette de Pascal et Fermat envers Gombaud).
   - **Post-suggestion ouverte (Truisme inductif) :** *"Your stupid question might lead to a great truth of its own—but you’ll never know unless you ask."* Structure en lien de cause à effet classique : le refus d'agir est lié à l'ignorance éternelle, créant une tension somatique qui ne peut être déchargée que par l'audace de poser la question.
 
-
-## --- Tranche 18 / 46 ---
+## Tranche 18 / 46 : Extraction d'Assistance par Recadrage de Défi ("Gombaud’s Solicitation")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2440,8 +2475,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/46 du cours de Jesse Sch
 > "The model informs the balance, and the balancing informs the model."
 - **[Analyse du Pattern]** : **Chiasme hypnotique & Boucle de rétroaction fermée**. Structure syntaxique en miroir créant une boucle de circularité causale parfaite. Ce pattern linguistique court-circuite la recherche linéaire de cause à effet et installe chez le praticien une croyance de processus récursif où théorie et pratique s'engendrent mutuellement.
 
-
-## --- Tranche 19 / 46 ---
+## Tranche 19 / 46 : Calibrage d'un Système par Élimination de Stratégie Dominante
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2568,8 +2602,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/46 du cours de Jesse Sch
 > "Are my players here to be judged (skill) or to take risks (chance)? Skill tends to be more serious than chance: is my game serious or casual?"
 * **[Analyse du Pattern]** : *Double lien exclusif et polarisation identitaire*. L'auteur contraint l'espace cognitif en deux polarités étanches : être évalué/jugé versus parier/prendre des risques. Il lie ensuite sémantiquement l'axe technique à un affect lourd (*serious*) et l'axe aléatoire à un affect détendu (*casual*), forçant une clarification ontologique de la cible visée.
 
-
-## --- Tranche 20 / 46 ---
+## Tranche 20 / 46 : L'Atterrissage Forcé / Clôture Dramatique Programmée (Technique "Armageddon")
 
 Voici l'extraction opératoire intégrale de la tranche 20/46 de *The Art of Game Design* de Jesse Schell, structurée selon les exigences strictes de la modélisation comportementale, cognitive et ericksonienne.
 
@@ -2708,8 +2741,7 @@ Voici l'extraction opératoire intégrale de la tranche 20/46 de *The Art of Gam
   - *Pattern de Négation Inversive (Antithèse Épurative) :* Déconstruit la croyance accumulative classique (perfection = abondance) pour réorienter l'esprit vers le dépouillement essentiel.
   - *Recadrage Opératoire :* Place la valeur dans la soustraction, forçant le praticien à supprimer tout le superflu jusqu'à ce que la structure nue porte l'intégralité de la fonction.
 
-
-## --- Tranche 21 / 46 ---
+## Tranche 21 / 46 : La Compression Polyvalente d'Élégance (Lens of Elegance)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2840,8 +2872,7 @@ Voici l'extraction opératoire intégrale de la tranche 20/46 de *The Art of Gam
 > "The Riddle we can guess / We speedily despise— / Not anything is stale so long / As Yesterday’s surprise."
 * **[Analyse du Pattern]** : Recadrage poétique de l'entropie cognitive. Le vers d'Emily Dickinson fonctionne comme un ancrage de dévaluation instantanée de la certitude : dès que l'inconnu est réduit au connu (*"guess"*), l'affect passe sans transition de la fascination au mépris (*"speedily despise"*). Ce pattern démontre syntaxiquement que le moteur du jeu et de la transe réside dans le gradient d'incertitude et non dans la possession passive de la solution.
 
-
-## --- Tranche 22 / 46 ---
+## Tranche 22 / 46 : Conception & Audit d'un Puzzle Thérapeutique ou Cognitif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2953,8 +2984,7 @@ Voici l'extraction opératoire intégrale de la tranche 20/46 de *The Art of Gam
 > "Feeling powerful = feeling in control. Do your players feel powerful? Can you make them feel more powerful somehow?"
 * **[Analyse du Pattern]** : Équivalence complexe directe posée comme un axiome mathématique universel. Enchaînement immédiat de deux questions fermées orientées vers une recherche transdérivationnelle, forçant l'esprit du concepteur à focaliser ses représentations internes sur l'induction du sentiment de toute-puissance chez l'utilisateur.
 
-
-## --- Tranche 23 / 46 ---
+## Tranche 23 / 46 : Détection et Ancrage de la Transparence Somatique (La Lentille de la Transparence)
 
 Voici l’extraction et la modélisation opératoire intégrale de la tranche 23/46.
 
@@ -3049,8 +3079,7 @@ Voici l’extraction et la modélisation opératoire intégrale de la tranche 23
 > "When a system shows a lot of second-order motion that a player can easily control and that gives the player a lot of power and rewards, we say that it is a juicy system—like a ripe peach, just a little bit of interaction with it gives you a continuous flow of delicious reward."
 * **[Analyse du Pattern]** : Ancrage multisensoriel par empilement de sous-modalités gustatives, tactiles et kinesthésiques (*"juicy"*, *"ripe peach"*, *"continuous flow of delicious reward"*). Schell opère une commande enchâssée sur la valeur hédonique de l'interaction : la friction mécanique disparaît pour être assimilée à une gratification viscérale immédiate, où un investissement physique minime (*"just a little bit of interaction"*) garantit l'abondance passive de sensations agréables.
 
-
-## --- Tranche 24 / 46 ---
+## Tranche 24 / 46 : Recalibrage de la Courbe d'Expérience (L'Approche Mark Tripp / Jesse Schell)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3171,8 +3200,7 @@ L'interface n'est pas un ensemble de boutons ou de pixels : c'est une passerelle
   - *Allitération évocatrice et dévalorisation tonale* : "dismal dullness" et "peters out" provoquent une chute du tonus affectif, marquant l'échec tragique d'un design incapable de soutenir l'éveil du système nerveux.
   - *Rupture cynique de pertinence* : "not that it matters, since the guest probably gave up on it some time ago", soulignant la stérilité absolue d'un bon travail final si le lien hypnotique a été brisé en amont.
 
-
-## --- Tranche 25 / 46 ---
+## Tranche 25 / 46 : Diagnostic et Correction d'une Courbe d'Intérêt (Cas Magic Carpet / Bob Bates)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3255,8 +3283,7 @@ L'interface n'est pas un ensemble de boutons ou de pixels : c'est une passerelle
 > "I played Liar’s Dice with some school-age kids recently, which is a completely abstract dice game. They liked the game, but after a few rounds, one of them said, 'Let’s pretend we are pirates—playing for our souls!' which was greeted with enthusiasm all around the table."
 - **[Analyse du Pattern]** : Induction métaphorique d'état identitaire d'urgence. Le simple recadrage nominal (*"pirates"*) couplé à une mise en jeu ontologique ultime (*"playing for our souls"*) transforme instantanément un calcul de probabilité aride en une hallucination collective kinesthésique à fort engagement affectif.
 
-
-## --- Tranche 26 / 46 ---
+## Tranche 26 / 46 : Construction et Alignement du « Story Stack » (Dépilement Neuro-Fonctionnel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3375,8 +3402,7 @@ L'interface n'est pas un ensemble de boutons ou de pixels : c'est une passerelle
 > "Story should not be the master of the game but rather a willing servant, using its flexibility to create the greatest game experience possible. If ever you find yourself, or someone on your team, saying 'we can’t do that… it goes against the story,' it is a clear signal that story has tricked you, trapped you, and taken over your game."
 * **[Analyse du Pattern]** : Recadrage métaphorique anthropomorphique (Maître vs Serviteur complaisant) suivi d'une commande d'ancrage d'alerte (*"it is a clear signal that..."*) avec allitération d'impact ternaire (*"tricked you, trapped you, and taken over"*). Schell installe un déclencheur post-hypnotique pour que toute rigidité narrative future soit perçue comme un piège prédateur.
 
-
-## --- Tranche 27 / 46 ---
+## Tranche 27 / 46 : Diagnostic Électrique du Récit par le Monomythe (The Circuit Tester)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3511,8 +3537,7 @@ We don’t always have to give the player true freedom—we only have to give th
 ```
 * **[Analyse du Pattern]** : Rupture de pattern par question piège et recadrage ontologique. Schell installe une présupposition commune (« we have to give them freedom, right? »), la fracasse d'un monosyllabe brutal (« Wrong. »), puis opère une distinction capitale entre l'état objectif (« true freedom ») et la réalité subjective (« feeling of freedom »), scellée par le truisme solipsiste fondamental : *« all that's real is what you feel »*.
 
-
-## --- Tranche 28 / 46 ---
+## Tranche 28 / 46 : Restriction Stratégique des Choix (Méthode des "Six Parfums")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3652,8 +3677,7 @@ We don’t always have to give the player true freedom—we only have to give th
 
 * **[Analyse du Pattern]** : Rupture de pattern stratégique et recadrage du rôle de l'adversaire. L'opérateur exploite le biais de fixation de l'attention (*« fixed on their goal »*) pour convertir un stimulus répulsif (l'ennemi) en inducteur de trajectoire. La fuite feinte agit comme un leurre cinétique où le sujet croit dominer et chasser, alors qu'il est littéralement aimanté vers la position choisie par l'opérateur.
 
-
-## --- Tranche 29 / 46 ---
+## Tranche 29 / 46 : Conception d'Agents en Collusion Narrative (Lentille 82)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 29/46 du cours de Jesse Schell.
 
@@ -3751,8 +3775,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > « There is something magical about the character that a player controls in a game, so magical that we give that character a special name: the avatar. The word is derived from a Sanskrit word that refers to a god magically taking physical form on earth. And the name is well chosen for a game character, since a similarly magical transformation takes place when players use their avatar to enter the world of the game. »
 * **[Analyse du Pattern]** : Ancrage étymologique à haute charge métaphorique et sacralisation symbolique. Schell induit un recadrage identitaire radical : le joueur n'est pas un opérateur extérieur manipulant une figurine, il est une divinité descendante prenant chair dans un univers matériel fini. Ce saut métaphorique installe une transe d'incarnation descendante où l'esprit accepte instantanément les limitations physiques de l'avatar pour faire l'expérience de la matérialité du monde virtuel.
 
-
-## --- Tranche 30 / 46 ---
+## Tranche 30 / 46 : Calibrage et Incarnation Somatique du Statut (Exercice Johnstone / Schell)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3891,8 +3914,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > **"Status is not a matter of who you are; status is something you do."**
 * **[Analyse du Pattern]** : *Recadrage ontologique vers le comportemental (Sleight of Mouth : Redéfinition).* Schell déloge le concept de "statut" de la sphère identitaire rigide (l'Être : *« who you are »*) pour le repositionner entièrement dans la sphère du contrôle moteur dynamique (le Faire : *« something you do »*). Cela dissout toute impuissance apprise : si le statut est un comportement, il devient instantanément programmable et modifiable à volonté.
 
-
-## --- Tranche 31 / 46 ---
+## Tranche 31 / 46 : La Grille de Matrice de Transformation (The Character Transformation Matrix)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4014,8 +4036,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   *Empilement de suggestions nominalisées et anaphore hypnotique ("They feel...")*.
   Chaque prédicat utilise le verbe somatique "feel" pour contourner le traitement logique de l'architecture et induire un état de résonance interne. L'escalade graduelle part du physiologique direct ("alive", "comfortable") vers le transcendantal ("egoless", "eternal"), avant d'ancrer le tout dans un critère d'intégrité systémique pure : l'absence absolue de contradiction interne. C'est la description textuelle d'un état d'unification hypnotique (Core State).
 
-
-## --- Tranche 32 / 46 ---
+## Tranche 32 / 46 : Calibrage et Compensation Spatiale en Vue Third-Person (Méthode Max Payne)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4156,8 +4177,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Généralisation truistique par échec programmé** : « *try to draw a map [...] Most people find this quite difficult* » utilise le verbe « try » (présupposant l'échec ou la difficulté de l'effort) pour amener le sujet à constater lui-même la limite de son système de représentation.
   - **Recadrage de la nominalisation spatiale** : Substitution de l'absolu par le relationnel (« *relatively, not absolutely* »), légitimant l'illusionnisme de la mise en scène au détriment de la précision géométrique.
 
-
-## --- Tranche 33 / 46 ---
+## Tranche 33 / 46 : A : Guidage Perceptif par Claustration Spatialisée (Head-Movement Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4289,8 +4309,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Métaphore de l'enfant intérieur** : Inviter l'hémisphère droit à *"come out and play"* désamorce l'effort cognitif laborieux et recontextualise l'observation minutieuse en jeu sensoriel spontané.
   - **Scission identitaire fonctionnelle** : Sépare le sujet en deux entités distinctes dont l'une est dotée de capacités de perception inaccessibles à l'autre.
 
-
-## --- Tranche 34 / 46 ---
+## Tranche 34 / 46 : Calibrage Subconscient de l'Atmosphère (Technique Kyle Gabler)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 34/46.
 
@@ -4446,8 +4465,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Appel à la blessure narcissique universelle :* Emploi du mot viscéral familier "chump" (le pigeon, le dindon de la farce), qui déclenche immédiatement une répulsion somatique viscérale chez l'interlocuteur.
   * *Chapelet d'injonctions interrogatives ouvertes :* Conduite guidée de l'esprit du concepteur par un resserrement progressif de la vigilance, passant du détail technique de la faille ("Can players cheat?") à l'état de lien d'attachement relationnel ultime ("Do players trust my game?").
 
-
-## --- Tranche 35 / 46 ---
+## Tranche 35 / 46 : Recadrage Énergétique d'un Collaborateur Désaligné ("The Ship Shift")
 
 Voici l'extraction opératoire complète et sans filtre de la tranche 35/46 du cours de Jesse Schell, analysée selon les grilles de la PNL avancée, de l'ingénierie systémique et de l'hypnose conversationnelle.
 
@@ -4595,8 +4613,7 @@ Voici l'extraction opératoire complète et sans filtre de la tranche 35/46 du c
 
 * **[Analyse du Pattern]** : Enchâssement de scripts comportementaux concrets à la première personne (*"I owe you one!"*), créant une simulation mentale automatique chez le lecteur. Schell lie ensuite cette dette contractuelle à un levier d'évitement de douleur universel via le postulat de la peur du rejet tribal (*"no one wants to be negatively judged"*). La conjonction causale implicite suggère que la loyauté envers un jeu virtuel repose en fait sur la terreur sociale d'une faillite d'engagement personnel face à ses pairs.
 
-
-## --- Tranche 36 / 46 ---
+## Tranche 36 / 46 : Restauration de l'Investissement par Translation de Focus Affectif (The Ship-Star Pivot)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4758,8 +4775,7 @@ Voici l'extraction opératoire complète et sans filtre de la tranche 35/46 du c
   2. *Balayage temporel absolu* (« never has existed... never will exist ») qui verrouille toute possibilité d'exception passée, présente ou future.
   3. *Double lien d'invalidation sociale* (« a fool or a liar ») : disqualifie radicalement toute autorité extérieure promettant une recette miracle, forçant l'apprenant à quitter l'illusion d'une béquille procédurale pour embrasser l'incertitude pragmatique du feedback réel.
 
-
-## --- Tranche 37 / 46 ---
+## Tranche 37 / 46 : A : La Matrice d'Émergence Documentaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4897,8 +4913,7 @@ Voici l'extraction opératoire complète et sans filtre de la tranche 35/46 du c
   - *Recadrage binaire neutre-positif (Victoire structurelle garantie) :* Élimine l'issue négative par recalibrage sémantique (« If they do, great. If they don’t, also great! »).
   - *Commande directe d'émancipation somatique :* Enchaînement impératif fluide (« Let go of your fears and embrace playtesting ») repositionnant l'événement redouté en « opportunité » mécanique de raffinement opérationnel.
 
-
-## --- Tranche 38 / 46 ---
+## Tranche 38 / 46 : Le Déverrouillage de Permission Critique (Ego-Drop & Safe Harbor Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5057,8 +5072,7 @@ Voici l'extraction opératoire complète et sans filtre de la tranche 35/46 du c
   - **Prédicats de ciselage kinesthésique** : L'emploi de verbes d'action micro-somatique (*"trimming a word here, and adding a phrase there"*) installe un calibrage d'ajustement fin inconscient.
   - **Contraste de polarité et induction de valeur** : Mettre en opposition les tutoriels existants (*"terrible"*) avec la création issue du protocole (*"aura of excellence"*) induit une fierté et une motivation d'ancrage profondes chez le concepteur.
 
-
-## --- Tranche 39 / 46 ---
+## Tranche 39 / 46 : Le Filtre de Conversion Fondatrice (Lentille 104 de la Technologie)
 
 Voici l'extraction opératoire complète, exhaustive et modélisée de la tranche 39/46 du cours de Jesse Schell.
 
@@ -5241,8 +5255,7 @@ Voici l'extraction opératoire complète, exhaustive et modélisée de la tranch
   - **Polarisation Binaire (Double Lien Déguisé) :** Division du monde en deux catégories étanches (« happy » vs « cranky »), forçant l'auditeur à choisir d'appartenir au camp des concepteurs heureux.
   - **Recadrage de la Négociation comme Prédicteur de Bonheur :** La capacité relationnelle à gérer les avis contradictoires d'un tiers n'est plus présentée comme une corvée administrative ou une compromission honteuse, mais comme le prédicteur structurel de la satisfaction de vie (« single greatest indicator of whether you will be happy »). Ce recadrage neutralise l'ego d'artiste au profit de la flexibilité comportementale.
 
-
-## --- Tranche 40 / 46 ---
+## Tranche 40 / 46 : A : La Désescalade de la Mauvaise Suggestion (Extraction de Problème Non Formulé)
 
 Voici l'analyse opératoire de la tranche 40/46 du cours de Jesse Schell, extraite selon les règles de modélisation systémique, PNL et hypnose conversationnelle.
 
@@ -5401,8 +5414,7 @@ Voici l'analyse opératoire de la tranche 40/46 du cours de Jesse Schell, extrai
 
 * **[Analyse du Pattern] :** Question rhétorique en miroir inversé formulée sous forme de présupposition de symétrie morale. La phrase présuppose irrévocablement : *« Votre niveau d'investissement matériel envers votre propre projet détermine mathématiquement notre droit moral à nous en désintéresser »*. C'est un électrochoc linguistique qui détruit toute posture d'amateurisme en liant l'effort visible à la crédibilité perçue.
 
-
-## --- Tranche 41 / 46 ---
+## Tranche 41 / 46 : Récupération d'État Ressource de Haute Confiance par Auto-Ancrage Visu-Séquentiel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5506,8 +5518,7 @@ Voici l'analyse opératoire de la tranche 40/46 du cours de Jesse Schell, extrai
 > **"Making money is a lot like a game—when you consider it from that point of view, it can actually be kind of fun to think about."**
 - **[Analyse du Pattern]** : Recadrage de cadre de référence (Reframing via Metaphorical Isomorphism). Transfert des affects positifs liés au « jeu » (plaisir, curiosité, maîtrise) vers un domaine initialement anxiogène ou méprisé par le créatif (« *making money* »), induit par une clause de subordination temporelle (« *when you consider it from that point of view* ») qui présuppose le basculement perceptif comme inévitable.
 
-
-## --- Tranche 42 / 46 ---
+## Tranche 42 / 46 : Le Test de Réalité du Marché (Reality Calibration Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5620,8 +5631,7 @@ Voici l'analyse opératoire de la tranche 40/46 du cours de Jesse Schell, extrai
 > "In other words, in some cases, a flawed simulation can be more instructive than a perfect one!"
 * **[Analyse du Pattern]** : Paradoxe provocateur et inversion de présupposition. En affirmant que le défaut surpasse la perfection, Schell induit une confusion salutaire qui libère le concepteur/praticien de l'inhibition perfectionniste, tout en orientant l'attention sur l'analyse active des écarts cognitifs.
 
-
-## --- Tranche 43 / 46 ---
+## Tranche 43 / 46 : Le Creuset de Recadrage Systémique par Inversion de Camp
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5799,8 +5809,7 @@ Take care of the small box"
   - **Confusion spatiale et transe d'expansion/contraction :** Induction hypnotique par manipulation de sous-modalités de taille et d'espace. Provoque une surcharge de la représentation spatiale du cerveau gauche.
   - **Double ancrage de fragilité et de responsabilité :** *Easily steal it easily lose it / Take care of the small box*. Métaphore archétypale du soi, de l'inconscient ou de l'esprit du joueur/sujet : immense par son potentiel, mais minuscule et vulnérable entre les mains de l'opérateur. Suggestion post-hypnotique de bienveillance et d'écologie absolue.
 
-
-## --- Tranche 44 / 46 ---
+## Tranche 44 / 46 : Le Rituel d'Imposition de l'Anneau Invisible (Passage de Témoin Éthique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5909,8 +5918,7 @@ Take care of the small box"
 > **"Maybe it is because you can see something in your mind’s eye that you feel will change someone’s life. Maybe it is because of something wonderful that you experienced once, and you want to share it with the world. Maybe something terrible happened to someone you loved, and you want to be sure it never happens again, to anyone. No one can know this purpose but you, and no one needs to know it but you."**
 * [Analyse du Pattern] : Structure d'élicitation en anaphore trilatérale (« *Maybe it is because...* ») couvrant l'intégralité du spectre motivationnel ericksonien : le futur visuel projeté, le passé kinesthésique positif de partage, et le passé traumatique réparateur. Le rythme ternaire se conclut par une prescription d'autonomie et de secret absolu, protégeant la source de motivation contre toute dilution sociale ou jugement extérieur.
 
-
-## --- Tranche 45 / 46 ---
+## Tranche 45 / 46 : d'Accès Mnémonique à l'Enfant Intérieur par Translation de Cohorte (The Grade-Access Shift)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5991,8 +5999,7 @@ Take care of the small box"
   - *Suggestion d'impact somatique différé* : « *I still lie awake at night thinking about this* » est un méta-commentaire qui agit comme une commande de profondeur : il installe chez l'auditeur/lecteur l'obligation implicite de laisser cette idée résonner, infuser et perturber son propre sommeil et ses certitudes sur l'irréversibilité des actes.
   - *Recadrage cosmologique de l'enjeu dramatique* : Présupposition que la valeur d'une décision est strictement proportionnelle à l'impossibilité de l'effacer, créant une tension d'ancrage maximale dans le temps présent.
 
-
-## --- Tranche 46 / 46 ---
+## Tranche 46 / 46 : d'Audit Perceptuel Multi-Lentilles (Extrait de l'Index des Lentilles)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6081,3 +6088,4 @@ En tant que section terminale regroupant la fin de la bibliographie et l'index t
 *   **Citation Verbatim 5 :**
     > "Lenses: Essential Experience, Holographic Design, Juiciness, Meaningful Choice, Triangularity, Nameless Quality, Raven, Secret Purpose."
     *   **[Analyse du Pattern]** : Utilisation d'étiquettes métaphoriques à haut pouvoir évocateur et d'ancrages archétypaux (*Raven*, *Secret Purpose*, *Nameless Quality* - emprunté à Christopher Alexander). Ce pattern de dénomination crée une induction de recherche transdérivationnelle chez le praticien : l'absence de définition réductrice immédiate oblige l'inconscient à sonder sa propre expérience intérieure pour donner du sens à la structure du système observé.
+

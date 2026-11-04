@@ -100,10 +100,35 @@ L'architecture conceptuelle déployée par Rosen s'articule autour de 6 pôles o
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 131-230]** : A : L'Introjection de Voix et Régression Ressources (My Voice Will Go With You) — *Protocole :* A : L'Introjection de Voix et Régression Ressources (My Voice Will Go With You) | *Verbatim :* La régression ressource avec ancrage vocal continu
+- **Tranche 2 [Lignes 232-373]** : A : Recadrage de la Victime par Inversion Somatique Agressive ("Vicious Pleasure") — *Protocole :* A : Recadrage de la Victime par Inversion Somatique Agressive ("Vicious Pleasure")
+- **Tranche 3 [Lignes 375-504]** : A : Recadrage de la "Non-Hypnotisabilité" & Désamorçage du Contrôle Conscient — *Protocole :* A : Recadrage de la "Non-Hypnotisabilité" & Désamorçage du Contrôle Conscient
+- **Tranche 4 [Lignes 506-659]** : A : La Prescription Kinesthésique Incompatible (Modèle "Dilatation & Confort") — *Protocole :* A : La Prescription Kinesthésique Incompatible (Modèle "Dilatation & Confort") | *Verbatim :* Le Double Défi Temporel et Finitude de la Querelle
+- **Tranche 5 [Lignes 661-819]** : Utilisation et transmutation de stigmate par focalisation inversée ("The Beauty Spot Reframi... — *Protocole :* Utilisation et transmutation de stigmate par focalisation inversée ("The Beauty Spot Reframing")
+- **Tranche 6 [Lignes 821-999]** : Désamorçage Phobique par Régression Pré-Traumatique & Récriture Sensorielle — *Protocole :* Désamorçage Phobique par Régression Pré-Traumatique & Récriture Sensorielle
+- **Tranche 7 [Lignes 1001-1152]** : Désamorçage Phobique Somatique par Dissociation Céphalique et Recadrage Digestif — *Protocole :* Désamorçage Phobique Somatique par Dissociation Céphalique et Recadrage Digestif | *Mécanisme :* Dissociation Somato-Céphalique Sélective et Décharge Musculaire Réflexe | *Verbatim :* Suggestion de Dissociation et Dispersion Vocale Multicanale
+- **Tranche 8 [Lignes 1154-1279]** : Désamorçage de l'Anxiété de Performance Cumulative (Le "Premier Trou Perpétuel") — *Protocole :* Désamorçage de l'Anxiété de Performance Cumulative (Le "Premier Trou Perpétuel") | *Mécanisme :* L'Établissement du Cadre Référentiel Arbitraire & Extension de Limite | *Verbatim :* Verbatim 1 : La Poutre Entre Deux Immeubles
+- **Tranche 9 [Lignes 1281-1489]** : Désinhibition Graduelle par Épreuve de Réalité Inversée (Cas "Sin") — *Protocole :* Désinhibition Graduelle par Épreuve de Réalité Inversée (Cas "Sin") | *Mécanisme :* Activation d'un Savoir Implicite Oublié (Resource Reactivation vs. Habitual Illusion)
+- **Tranche 10 [Lignes 1491-1634]** : Protocole du « Faux Rituel d'Adieu » (Prescription de Séduction Déguisée) — *Protocole :* Protocole du « Faux Rituel d'Adieu » (Prescription de Séduction Déguisée) | *Verbatim :* Le Recadrage du Sevrage par l'Épreuve Radicale
+- **Tranche 11 [Lignes 1636-1765]** : A : L'Ordalie Graduée de Déplacement (Cas du policier retraité) — *Protocole :* A : L'Ordalie Graduée de Déplacement (Cas du policier retraité) | *Mécanisme :* Le Recadrage par Reclassification Catégorielle | *Verbatim :* La Prescription de Style à Ordalie Temporelle
+- **Tranche 12 [Lignes 1767-1907]** : Recadrage Provocatif de la Somatisation (Cas du Psoriasis) — *Protocole :* Recadrage Provocatif de la Somatisation (Cas du Psoriasis) | *Verbatim :* s Verbatim & Analyses
+- **Tranche 13 [Lignes 1909-2061]** : Réduction de la Douleur Chronique par Isomorphisme Métier & Tâche Déviante (Modèle "Calluses") — *Protocole :* Réduction de la Douleur Chronique par Isomorphisme Métier & Tâche Déviante (Modèle "Calluses") | *Verbatim :* Le Recadrage Temporel de Convalescence
+- **Tranche 14 [Lignes 2063-2256]** : Le Test Environnemental Imposé (Calibration de Surdité chez le Nourrisson / Enfant Non-Verbal) — *Protocole :* Le Test Environnemental Imposé (Calibration de Surdité chez le Nourrisson / Enfant Non-Verbal)
+- **Tranche 15 [Lignes 2258-2392]** : Réduction du Délire Référentiel par Sur-Inclusion Universelle (Technique du Miroir Textuel) — *Protocole :* Réduction du Délire Référentiel par Sur-Inclusion Universelle (Technique du Miroir Textuel) | *Mécanisme :* Détournement Attentionnel par Curiosité Réfractaire & Frustration Ciblée | *Verbatim :* La Synchronisation Absurde & Déverrouillage d'Anamnèse
+- **Tranche 16 [Lignes 2394-2504]** : Le Déraillement Conversationnel Systémique (The Derailment Move) — *Protocole :* Le Déraillement Conversationnel Systémique (The Derailment Move) | *Verbatim :* Le Recadrage Universel de la Manipulation
+- **Tranche 17 [Lignes 2506-2648]** : Le Déraillement Sémantique Instantané (Derailment) — *Protocole :* Le Déraillement Sémantique Instantané (Derailment) | *Mécanisme :* Rupture Radicale de Pattern par Non-Sequitur (patterninterrupt derailment semanticshock)
+- **Tranche 18 [Lignes 2650-2790]** : Recadrage Développant de la Rébellion et Fixation de Limites Inviolables — *Protocole :* Recadrage Développant de la Rébellion et Fixation de Limites Inviolables
+- **Tranche 19 [Lignes 2792-2916]** : L'Épreuve du Miroir Asymétrique (Traitement de l'Oubli / Fuite d'Engagement) — *Protocole :* L'Épreuve du Miroir Asymétrique (Traitement de l'Oubli / Fuite d'Engagement) | *Verbatim :* Le Double-Lien d'Attente et la Prescription Temporelle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 19 ---
+## Tranche 1 / 19 : A : L'Introjection de Voix et Régression Ressources (My Voice Will Go With You)
 
 Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Rosen (*My Voice Will Go With You*).
 
@@ -204,8 +229,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
 *   **[Analyse du Pattern]** :
     *   *Liaison séquentielle de cause à effet implicite ("Then")* : La temporalité simple (*venir écouter -> rentrer chez soi -> modifier sa pratique*) présuppose qu'aucun effort conscient d'intégration n'est nécessaire. L'action d'écouter les récits entraîne inévitablement et mécaniquement une transformation des comportements cliniques réels.
 
-
-## --- Tranche 2 / 19 ---
+## Tranche 2 / 19 : A : Recadrage de la Victime par Inversion Somatique Agressive ("Vicious Pleasure")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -348,8 +372,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
 > **"Did you know that every blade of grass is a different shade of green?"**
 - **[Analyse du Pattern]** : Question rhétorique à orientation de recherche transdérivationnelle. Force l'attention à quitter le dialogue interne pour se focaliser sur des micro-distinctions perceptives visuelles dans l'environnement immédiat. Déclenche une ouverture sensorielle immédiate et défait la rigidité des filtres cognitifs en introduisant l'appréciation de la nuance infinie.
 
-
-## --- Tranche 3 / 19 ---
+## Tranche 3 / 19 : A : Recadrage de la "Non-Hypnotisabilité" & Désamorçage du Contrôle Conscient
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -480,8 +503,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
   - La première partie fige l'impossibilité, la maladresse et l'échec dans le passé révolu à l'aide de modaux passés (*"would give way"*, *"got your feet crossed"*, *"couldn't stand up"*).
   - La seconde partie bascule abruptement au présent indicatif actif (*"Then you discover"*, *"You alter your body balance"*, *"turning your head"*), ce qui transforme la description d'un processus infantile lointain en une suggestion kinesthésique directe et opératoire vécue en temps réel par le sujet dans sa transe.
 
-
-## --- Tranche 4 / 19 ---
+## Tranche 4 / 19 : A : La Prescription Kinesthésique Incompatible (Modèle "Dilatation & Confort")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -636,8 +658,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
   - *Analogie morphologique puissante :* La métaphore compare l'intervention thérapeutique à une chiquenaude minime au sommet et le changement inconscient à une masse auto-génératrice d'énergie cinétique (*avalanche*).  
   - *Validation écologique absolue :* La formule *"fits the shape of the mountain"* enseigne que le praticien ne détermine pas la trajectoire exacte : c'est l'histoire naturelle et la topographie psychique du patient qui sculptent la forme finale de la guérison.
 
-
-## --- Tranche 5 / 19 ---
+## Tranche 5 / 19 : Utilisation et transmutation de stigmate par focalisation inversée ("The Beauty Spot Reframi...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -797,8 +818,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
 > "All your lives you have been learning things, transferring that knowledge to your unconscious and using, automatically, the end results of the learning... there is a language you don't understand—although you once did."
 * **[Analyse du Pattern]** : Enchâssement d'un pont temporel et d'une présupposition d'amnésie développementale. Erickson utilise l'apprentissage du langage chez l'enfant (*"dink-a-wa-wa"*) comme truisme historique indiscutable pour présupposer que le sujet adulte possède déjà en mémoire des langages et des solutions oubliés. La formule *"there is a language you don't understand—although you once did"* réactive la réceptivité inconsciente en suggérant que la guérison n'est pas une acquisition externe, mais la réactivation d'un savoir antérieur régressif.
 
-
-## --- Tranche 6 / 19 ---
+## Tranche 6 / 19 : Désamorçage Phobique par Régression Pré-Traumatique & Récriture Sensorielle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -978,8 +998,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/19 du texte de Sidney Ros
 > "And I want you to choose some time in the past when you were a very, very little girl. And my voice will go with you. And my voice will change into that of your parents, your neighbors, your friends, your schoolmates, your playmates, your teachers."
 - **[Analyse du Pattern]** : Commande d'incorporation vocale et régression sécurisante ("My voice will go with you"). La polymorphie suggestive ("my voice will change into...") transférait l'autorité et le guidage du praticien dans toutes les figures signifiantes et familières du paysage mnésique de la patiente, neutralisant tout risque de rejet critique ou de désorientation panique dans le souvenir.
 
-
-## --- Tranche 7 / 19 ---
+## Tranche 7 / 19 : Désamorçage Phobique Somatique par Dissociation Céphalique et Recadrage Digestif
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 7/19 de l'ouvrage *My Voice Will Go With You* (commentée par Sidney Rosen).
 
@@ -1132,8 +1151,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 - **[Analyse du Pattern] :** 
   - *Enchaînement de truismes par rétrécissement sensoriel :* Le sujet est contraint par sa propre logique sensorielle de concéder l'impossibilité de discerner 1/16 puis 1/8 de pouce. L'esprit inconscient intègre alors que le dépassement de la limite est physiquement équivalent à ce qu'il maîtrise déjà parfaitement, neutralisant la barrière psychologique du lancer.
 
-
-## --- Tranche 8 / 19 ---
+## Tranche 8 / 19 : Désamorçage de l'Anxiété de Performance Cumulative (Le "Premier Trou Perpétuel")
 
 Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice Will Go With You* (présenté par Sidney Rosen).
 
@@ -1260,8 +1278,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice
 > *"Now, having a dry bed is a very difficult job. You might have your first dry bed in two weeks. And there has to be a lot of practice, starting and stopping. Some days you may forget to practice starting and stopping. That's all right. Your body will be good to you. It will always give you further opportunities... It would surprise me very much if you had a permanently dry bed within three months. It would also surprise me if you didn't have a permanently dry bed within six months."*
 - **[Analyse du Pattern] :** Structure de double lien temporel avec anticipation des rechutes. En déclarant que l'objectif est *"a very difficult job"*, la résistance critique est contournée. La permissivité face à l'oubli (*"Some days you may forget... That's all right"*) détruit par avance le découragement lié à la rechute. L'antithèse des deux surprises finales enferme le pronostic dans un étau thérapeutique rigide : le succès est rendu suspect avant 3 mois (protégeant contre la déception d'un échec rapide) mais inéluctable avant 6 mois.
 
-
-## --- Tranche 9 / 19 ---
+## Tranche 9 / 19 : Désinhibition Graduelle par Épreuve de Réalité Inversée (Cas "Sin")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1471,8 +1488,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice
   - **Double lien temporel et physiologique** : Le cadrage arithmétique rassurant (*"You can't gorge enough to offset your losses"*) protège l'adhésion cognitive, tandis que l'obligation de se gaver toute la journée (*"all day Sunday"*) transforme la pulsion récréative en une charge digestive inconfortable et répulsive.
   - **Re-fermeture de boucle comportementale** : L'injonction sèche *"And the following Monday go back to your diet"* rétablit le cadre sans négociation possible, intégrant le symptôme au sein d'une séquence rigoureusement prévisible.
 
-
-## --- Tranche 10 / 19 ---
+## Tranche 10 / 19 : Protocole du « Faux Rituel d'Adieu » (Prescription de Séduction Déguisée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1617,8 +1633,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice
   - *Métaphore de requalification biologique ("nail diet", "feed")* : Recontextualise l'onychophagie non pas comme un tic nerveux coupable, mais comme un apport nutritif normal, déculpabilisant le patient et désarmant sa posture de défense.
   - *Double lien à choix illusoire* : La certitude affirmée par le praticien (*"I'm absolutely positive"*) ne porte pas sur l'arrêt de la compulsion, mais sur la suffisance d'un sous-ensemble (9 doigts au lieu de 10). En acceptant cette concession arithmétique, le sujet accepte implicitement le postulat qu'il a le pouvoir d'en laisser pousser un, brisant l'automatisme global.
 
-
-## --- Tranche 11 / 19 ---
+## Tranche 11 / 19 : A : L'Ordalie Graduée de Déplacement (Cas du policier retraité)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1749,8 +1764,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice
   - **Détournement synesthésique et affectif :** La résolution soudaine par des stimuli gourmands et réconfortants (*« cinnamon cookies, cinnamon buns, cinnamon rolls »*) désamorce l'adrénaline.
   - **Recadrage d'identité instantané :** Le glissement final (*« you spilled some cinnamon... you're a Cinnamon Face »*) efface l'étiquette péjorative précédente pour y substituer un ancrage d'affection sensorielle et d'amusement.
 
-
-## --- Tranche 12 / 19 ---
+## Tranche 12 / 19 : Recadrage Provocatif de la Somatisation (Cas du Psoriasis)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1892,8 +1906,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/19 de l'ouvrage *My Voice
   - *Marquage spatial et ancrage temporel* : La restriction *« here in this room »* présuppose implicitement que l'apprentissage majeur se produira *hors de la pièce*.
   - *Glissement vers l'état hypnagogique* : Définition de l'espace transitionnel (*« neither-here-nor-there period »*) reliant la transe à une expérience universelle et familière (l'endormissement/réveil), contournant toute idée de « performance hypnotique ».
 
-
-## --- Tranche 13 / 19 ---
+## Tranche 13 / 19 : Réduction de la Douleur Chronique par Isomorphisme Métier & Tâche Déviante (Modèle "Calluses")
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 13/19 du cours de Sidney Rosen sur Milton Erickson.
 
@@ -2047,8 +2060,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 13/1
 > I said, "It isn't a matter of conceit. It's a matter of fact—and, if you want me to prove it, I can prove it—by asking you a simple question." »
 - **[Analyse du Pattern]** : *Reframing tautologique d'autorité avec hameçon conversationnel.* Face à l'accusation de vanité (« conceited »), Erickson refuse d'entrer dans la justification psychologique. Il répète la suggestion identitaire à l'identique (« I am the right psychiatrist for you ») en la hissant au rang de vérité indiscutable (« matter of fact »). Il enchaîne immédiatement sur une ouverture de boucle conditionnelle (« if you want me to prove it... by asking you a simple question ») qui capture irrésistiblement l'attention et oblige la patiente à suspendre son objection pour attendre la question.
 
-
-## --- Tranche 14 / 19 ---
+## Tranche 14 / 19 : Le Test Environnemental Imposé (Calibration de Surdité chez le Nourrisson / Enfant Non-Verbal)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2243,8 +2255,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 13/1
     - *Validation des ressources inconscientes par truisme universel* : Utilisation d'un quantificateur indéfini (*"what people can do"*) qui ouvre un champ d'exploration infini pour l'esprit inconscient.
     - *Scission classique Conscient / Inconscient* : Séparation nette entre la capacité opératoire réelle de l'organisme et la méconnaissance du moi conscient (*"Only they don't know..."*), suggérant que l'inhibition n'est qu'un simple manque d'accès attentionnel et non une absence de compétence.
 
-
-## --- Tranche 15 / 19 ---
+## Tranche 15 / 19 : Réduction du Délire Référentiel par Sur-Inclusion Universelle (Technique du Miroir Textuel)
 
 Voici l'extraction opératoire intégrale de la **tranche 15/19** du cours *My Voice Will Go With You* (Sidney Rosen).
 
@@ -2380,8 +2391,7 @@ Voici l'extraction opératoire intégrale de la **tranche 15/19** du cours *My V
   - **Rétrocession du gain thérapeutique** : Alors que le patient perçoit la fin du jeu pathologique comme une défaite face au médecin (*« You won again »*), Erickson renvoie instantanément la pleine propriété de la victoire au sujet (*« You won »*).
   - **Scellement de l'autonomie** : Rétablit l'estime de soi et prépare la sortie définitive de l'institution hospitalière.
 
-
-## --- Tranche 16 / 19 ---
+## Tranche 16 / 19 : Le Déraillement Conversationnel Systémique (The Derailment Move)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2493,8 +2503,7 @@ I said, "The snow."
 The poor kid. She took two quick steps toward him and snarled, "So help me God, I'd kill you!" (...) "So help me God, I'd kill you, so get on over to that seat quick!" »**
 * **[Analyse du Pattern] :** Rupture de cadre par escalade symétrique disproportionnée. Au lieu d'adopter une posture défensive (justification, appel à l'aide ou peur attendue par le délinquant), Betty Alice rétrécit la distance physique (avancée de deux pas) et surenchérit au niveau maximal de la menace létale. L'enchaînement sans temps mort avec une commande impérative spatiale précise (« *so get on over to that seat quick!* ») utilise la sidération pour implémenter une obéissance motrice instantanée.
 
-
-## --- Tranche 17 / 19 ---
+## Tranche 17 / 19 : Le Déraillement Sémantique Instantané (Derailment)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/19 du séminaire de Sidney Rosen sur Milton Erickson.
 
@@ -2638,8 +2647,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/19 du
 ```
 * **[Analyse du Pattern] :** Empilement de truismes et d'évidences factuelles (*truism stacking / pacing*) culminant en une injonction directive brutale couplée à un recadrage psychosomatique littéral. L'association d'éléments d'acceptation culturelle incontestables crée un élan de consentement (*yes-set*) qui rend inévitable l'acceptation de la cause réelle de l'ulcère (« *They both give you a pain in your stomach* ») et l'exécution de la prescription libératrice (« *Hang up... and enjoy* »).
 
-
-## --- Tranche 18 / 19 ---
+## Tranche 18 / 19 : Recadrage Développant de la Rébellion et Fixation de Limites Inviolables
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2781,8 +2789,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/19 du
 > *"'Mother will kiss it here and here and then right on top, so all the pain will go away.' It's marvelous how anesthetic a mother's kiss can be."*
   * **[Analyse du Pattern]** : Ancrage spatial somatosensoriel et présupposition d'amnésie de la douleur. Les déictiques spatiaux (*"here and here and then right on top"*) focalisent l'attention tactile de l'enfant, suivis d'une conjonction causale directe (*"so all the pain will go away"*). Le commentaire métacognitif d'Erickson valide l'effet hypnotique naturel des croyances acceptées sans recours à un rituel formel.
 
-
-## --- Tranche 19 / 19 ---
+## Tranche 19 / 19 : L'Épreuve du Miroir Asymétrique (Traitement de l'Oubli / Fuite d'Engagement)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2907,3 +2914,4 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/19 du
 * **[Analyse du Pattern]** : 
   - *Attribution d'intentionnalité absurde :* Traduction délibérément littérale d'un comportement réactif inconscient en une préférence consciente hédoniste (*"you liked to slam doors"*).
   - *Création d'un gouffre de dissonance cognitive :* Face à cette interprétation bienveillante mais absurde, le sujet est contraint, pour préserver sa cohérence interne, de rejeter lui-même verbalement et publiquement le comportement indésirable (*"I really don't like to slam doors"*), scellant l'extinction du réflexe.
+

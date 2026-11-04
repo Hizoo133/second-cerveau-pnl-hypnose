@@ -78,10 +78,27 @@ Le fil conducteur unifiant chaque étape du cursus repose sur la **régulation d
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 101-209]** : Recadrage de Momentum Initial (Inversion du Vecteur d'Achat) — *Protocole :* Recadrage de Momentum Initial (Inversion du Vecteur d'Achat) | *Mécanisme :* Le Momentum de Conscience (Consciousness Momentum) | *Verbatim :* Le Postulat de l'Origine Causale de la Pensée
+- **Tranche 2 [Lignes 211-330]** : L'Ancrage du Tournant Décisionnel (The Fork in the Road Protocol) — *Protocole :* L'Ancrage du Tournant Décisionnel (The Fork in the Road Protocol) | *Verbatim :* Verbatim 1 : L'Inversion de la Garantie
+- **Tranche 3 [Lignes 332-476]** : La Transition Fluide Onboarding-to-Close (Démonstration Live) — *Protocole :* La Transition Fluide Onboarding-to-Close (Démonstration Live) | *Mécanisme :* Le Futur Pacing Sensoriel par Projection d'Identité (sensoryfuturepacing identityprojection) | *Verbatim :* Verbatim 1 : L'Ancrage de Certitude et la Transition Opératoire
+- **Tranche 4 [Lignes 478-602]** : Le "Heaven-Hell Gap" (Création de Rupture Émotionnelle) — *Protocole :* Le "Heaven-Hell Gap" (Création de Rupture Émotionnelle) | *Mécanisme :* Inversion Séquentielle Émotionnelle (Heaven First, Hell Second) | *Verbatim :* La Clôture d'Agenda et l'Accord Conditionnel
+- **Tranche 5 [Lignes 604-834]** : Le Verrouillage de Temporalité & Urgence (Pre-Pitch) — *Protocole :* Le Verrouillage de Temporalité & Urgence (Pre-Pitch) | *Mécanisme :* Le Seuil d'Amorçage Cognitif Pré-Call (The Seed planted)
+- **Tranche 6 [Lignes 836-919]** : Le Traitement de l'Objection Conjoint par l'Acompte Test — *Protocole :* Le Traitement de l'Objection Conjoint par l'Acompte Test
+- **Tranche 7 [Lignes 921-1059]** : Désamorçage Cardiaque & Reprise de Contrôle par Décélération Somatique — *Protocole :* Désamorçage Cardiaque & Reprise de Contrôle par Décélération Somatique | *Mécanisme :* Le Pacemaker Cardiaque Conversationnel & Biofeedback Descendant | *Verbatim :* Verbatim 1 : L'Ancrage Identitaire par Vision Prophétique
+- **Tranche 8 [Lignes 1061-1199]** : Le Décrochage Stratégique en Cas de Non-Qualification / Conflit — *Protocole :* Le Décrochage Stratégique en Cas de Non-Qualification / Conflit | *Mécanisme :* Le Seeding Amont et le Seuil d'État d'Achat (Buying State Threshold) | *Verbatim :* Neutralisation du Besoin et Inversion de Polarité
+- **Tranche 9 [Lignes 1201-1286]** : Le Test Isomorphique d'Auto-Calibration des Rôles (6 Questions Diagnostiques) — *Protocole :* Le Test Isomorphique d'Auto-Calibration des Rôles (6 Questions Diagnostiques) | *Verbatim :* Verbatim 1 : L'Axiome de l'Authenticité et de l'Alignement
+- **Tranche 10 [Lignes 1288-1408]** : Désamorçage Immédiat de la Fausse Compliance en Phase d'Exploration — *Protocole :* Désamorçage Immédiat de la Fausse Compliance en Phase d'Exploration | *Verbatim :* Le Recadrage de Concurrence Dépassée par Assimilation
+- **Tranche 11 [Lignes 1410-1527]** : A : Recadrage de la Demande d'Info en R2 (Setter/Closer Hand-off) — *Protocole :* A : Recadrage de la Demande d'Info en R2 (Setter/Closer Hand-off) | *Verbatim :* Verbatim 1 : Polarisation Morale et Création du Cercle Intérieur
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 11 ---
+## Tranche 1 / 11 : Recadrage de Momentum Initial (Inversion du Vecteur d'Achat)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche.
 
@@ -191,8 +208,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **"What makes now such an important time for for you to prioritize you after, you know, being in public education for two decades, going through all of that, and now really wanting to prioritize yourself? What was the catalyst there for you?"**
 * **[Analyse du Pattern] :** *Empilement de truismes chronologiques & Présupposition de priorité absolue.* La formulation enferme le prospect dans son propre paradoxe temporel (20 ans de sacrifice vs moment présent). Le mot *"catalyst"* présuppose qu'une réaction chimique/existentielle irréversible a déjà commencé dans le système nerveux du sujet, le contraignant à expliciter la gravité de son point de non-retour (médicaments, effondrement, risque de handicap).
 
-
-## --- Tranche 2 / 11 ---
+## Tranche 2 / 11 : L'Ancrage du Tournant Décisionnel (The Fork in the Road Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -313,8 +329,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Pacing préalable de certitude** : Le closer pose son autorité empathique (*"I feel we can really help you"*).
   - **Question de bouclage d'identité (*Tie-down question*)** : En demandant *"Do you feel like the program is going to help you..."*, il force le prospect à formuler à haute voix sa propre conviction. Dès lors que le prospect répond oui, toute objection future sur l'efficacité du service est préventivement dissoute.
 
-
-## --- Tranche 3 / 11 ---
+## Tranche 3 / 11 : La Transition Fluide Onboarding-to-Close (Démonstration Live)
 
 Voici l'analyse exhaustive, opératoire et modélisée selon les prismes de la PNL, de l'hypnose conversationnelle, du recadrage de sens et du contrôle de cadre de cette tranche 3/11.
 
@@ -460,8 +475,7 @@ Voici l'analyse exhaustive, opératoire et modélisée selon les prismes de la P
   * *Recadrage définitoire par soustraction :* L'authenticité n'est plus un trait moral mais une métrique de charge cognitive (*"zero effort"* vs *"effort to be perceived"*).
   * *Suppression du contrôle méta-cognitif parasite :* En désignant l'effort de présentation comme la source exacte de l'incongruence, le formateur invite le système nerveux à relâcher le filtre de l'image sociale pour basculer dans une présence somatique pure et non filtrée.
 
-
-## --- Tranche 4 / 11 ---
+## Tranche 4 / 11 : Le "Heaven-Hell Gap" (Création de Rupture Émotionnelle)
 
 Voici l'analyse opératoire de la tranche 4/11 selon les règles strictes d'ingénierie comportementale, linguistique et neuro-stratégique.
 
@@ -587,8 +601,7 @@ Psychologiquement, accepter ce cadre décharge l'anxiété du prospect face à l
   * **Répétition / Ancrage Acoustique** : La répétition rythmée sature la boucle phonologique.  
   * **Dérivation Impérative Explicite (Direct Command)** : Déduction logique forcée (*"So make a fucking change"*). L'usage de l'intensifier familier percute le filtre d'attention et installe l'injonction d'auto-examen (*"Research yourself"*) comme le seul comportement cohérent avec la vérité universelle énoncée.
 
-
-## --- Tranche 5 / 11 ---
+## Tranche 5 / 11 : Le Verrouillage de Temporalité & Urgence (Pre-Pitch)
 
 Voici l'analyse opératoire de la tranche 5/11 selon la structure d'ingénierie demandée.
 
@@ -820,8 +833,7 @@ Voici l'analyse opératoire de la tranche 5/11 selon la structure d'ingénierie 
 ```
 * **[Analyse du Pattern]** : **Test de validité par l'absurde et défi d'intégrité.** Pacing de l'objection (*"I trust you need to talk to your wife"*), suivi d'un recadrage sur l'engagement réel. Si le dépôt est 100% remboursable, refuser de le verser démontre mathématiquement que le problème n'est pas l'accord de la femme, mais le manque de volonté propre du prospect. Le sujet est acculé à reconnaître sa propre incohérence (*"Yeah, you're right"*).
 
-
-## --- Tranche 6 / 11 ---
+## Tranche 6 / 11 : Le Traitement de l'Objection Conjoint par l'Acompte Test
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -906,8 +918,7 @@ Voici l'analyse opératoire de la tranche 5/11 selon la structure d'ingénierie 
 > **"You go back and you try to convince past yourself to invest in Bitcoin. The conviction and level of conviction you'd have in the tone of your voice, your body language, how you act, what you say, will be so damn strong that that 2014, 2015 version of you will start to question their own beliefs: 'This guy knows something that I don't.'"**
 - **[Analyse du Pattern] :** Régression temporelle et ancrage somatique de certitude. Utilisation d'un cadre contrefactuel (le voyage temporel Bitcoin) pour faire ressentir physiquement au praticien ce qu'est une congruence vocale totale : une certitude si dense qu'elle fait douter les défenses critiques de l'interlocuteur sans argumentaire théorique.
 
-
-## --- Tranche 7 / 11 ---
+## Tranche 7 / 11 : Désamorçage Cardiaque & Reprise de Contrôle par Décélération Somatique
 
 Voici l'analyse modélisatrice intégrale de la tranche 7/11, respectant rigoureusement la grille d'ingénierie opératoire.
 
@@ -1047,8 +1058,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 7/11, respectant rigoure
 > *"Realistically man, people can feel it. Just like... any girl watching this can feel intent from a guy. And just so you guys understand, if you really just want to smash a girl and nothing else, they can feel that bro. So the same thing here: if they know that you're just trying to sell them and make money off them... no, they can feel it man."*
 * **[Analyse du Pattern]** : **Analogie trans-contextuelle viscérale.** En projetant la dynamique de vente sur la dynamique de séduction primitive, l'orateur court-circuite toute intellectualisation chez l'apprenant. L'analogie convoque un savoir somatique déjà intégré par l'inconscient (la détection immédiate de la prédation d'intérêt) pour faire comprendre viscéralement le concept abstrait de « commission breath ».
 
-
-## --- Tranche 8 / 11 ---
+## Tranche 8 / 11 : Le Décrochage Stratégique en Cas de Non-Qualification / Conflit
 
 Voici l'extraction intégrale et la modélisation opératoire de la tranche 8/11 de la formation.
 
@@ -1188,8 +1198,7 @@ Voici l'extraction intégrale et la modélisation opératoire de la tranche 8/11
 > **« Hey Brian, just want to see: are you moving forward with this or closing it out? That's it. And I'm telling you, people will either be like 'yo send me an invoice, I'm ready to go right now' or they're like 'I have a few questions' or they're like 'nah man close me out'. And that's okay, at least you can get out of the pipeline. »**
 * **[Analyse du Pattern]** : Double lien conversationnel ouvert (*"moving forward or closing it out"*). La formulation est dépouillée de tout adjectif suppliant ou justification. En offrant explicitement l'échappatoire de fermeture avec une totale équanimité (*"closing it out"*), elle neutralise l'évitement du prospect en lui retirant la peur du conflit relationnel, forçant une réponse d'action immédiate (engagement financier, questionnement technique ou sortie propre).
 
-
-## --- Tranche 9 / 11 ---
+## Tranche 9 / 11 : Le Test Isomorphique d'Auto-Calibration des Rôles (6 Questions Diagnostiques)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1276,8 +1285,7 @@ Voici l'extraction intégrale et la modélisation opératoire de la tranche 8/11
 > "The prep running with zero prep I ran a marathon with Iman and I can tell you every single setter did not prep and they were so delusional delusionally optimistic that they could do it and everybody did so... You're a hunter. You make shit happen. You go you go you go."
 - **[Analyse du Pattern]** : Recadrage positif d'un trait ordinairement jugé négatif (*"delusional"* requalifié en force vitale motrice : *"delusionally optimistic"*). Utilisation d'une cadence ternaire hypnotique à valeur d'impulsion somatique (*"You go you go you go"*) qui agit comme une commande motrice directe contournant l'analyse critique.
 
-
-## --- Tranche 10 / 11 ---
+## Tranche 10 / 11 : Désamorçage Immédiat de la Fausse Compliance en Phase d'Exploration
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1399,8 +1407,7 @@ Voici l'extraction intégrale et la modélisation opératoire de la tranche 8/11
   - **Prise de conscience d'impasse (Double Bind existentiel)** : Ce constat place le sujet face à sa propre aliénation : continuer sur cette voie équivaut à sacrifier sa vie pour un compte en banque inutile s'il n'y a plus de temps pour en jouir.  
   - **Ouverture maximale à la suggestion de délivrance** : En prononçant lui-même *"and that's where I'm at"*, le prospect s'auto-hypnotise dans l'obligation vitale de changer d'état, rendant l'offre de vente à distance synonyme de rédemption temporelle.
 
-
-## --- Tranche 11 / 11 ---
+## Tranche 11 / 11 : A : Recadrage de la Demande d'Info en R2 (Setter/Closer Hand-off)
 
 Voici l'analyse opératoire intégrale de la tranche 11/11 du cours *"World Class Sales"* (appel de qualification / triage pour un programme de formation et de placement de closers).
 
@@ -1518,3 +1525,4 @@ Voici l'analyse opératoire intégrale de la tranche 11/11 du cours *"World Clas
 - **[Analyse du Pattern]** : 
   - *Présupposition temporelle d'action* : *"when you actually hop on the call"* (et non *"if you hop on"*), commande temporelle installant l'événement comme inéluctable dans le futur subjectif.
   - *Conditionnement multimodal préalable (Priming)* : L'envoi d'une *"quick little video"* sert d'ancrage préparatoire pour conditionner le prospect et augmenter son niveau d'investissement cognitif avant la rencontre avec le closer.
+

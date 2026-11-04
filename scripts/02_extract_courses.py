@@ -128,52 +128,31 @@ def split_text_into_chunks(text: str, chunk_size: int = CHUNK_SIZE, overlap: int
             
     return chunks
 
-def call_llm(prompt: str, text_chunk: str = "", model: str = DEFAULT_MODEL, engine: str = "agy", max_retries: int = 5) -> str:
+def call_llm(prompt: str, text_chunk: str = "", model: str = DEFAULT_MODEL, max_retries: int = 5) -> str:
     full_prompt = f"{prompt}\n\n--- TEXTE SOURCE DE LA TRANCHE ---\n{text_chunk}" if text_chunk else prompt
     
     for attempt in range(1, max_retries + 1):
         try:
-            if engine == "agy":
-                # Utilisation directe du quota Antigravity via agy CLI
-                res = subprocess.run(
-                    ["agy", "--model", model, "-p", full_prompt],
-                    capture_output=True,
-                    text=True,
-                    timeout=360
-                )
-                if res.returncode == 0 and len(res.stdout.strip()) > 50:
-                    return res.stdout.strip()
-                err_msg = res.stderr.strip() if res.stderr else res.stdout.strip()
-                print(f"    [Tentative {attempt}/{max_retries}] Réponse agy invalide ou vide ({err_msg[:100]})...")
-            elif engine == "openrouter":
-                import requests
-                api_key = os.getenv("OPENROUTER_API_KEY")
-                router_model = model if "/" in model else f"google/{model}"
-                res = requests.post(
-                    "https://openrouter.ai/api/v1/chat/completions",
-                    headers={"Authorization": f"Bearer {api_key}", "Content-Type": "application/json"},
-                    json={
-                        "model": router_model,
-                        "messages": [{"role": "user", "content": full_prompt}],
-                        "temperature": 0.2,
-                        "max_tokens": 16000
-                    },
-                    timeout=180
-                )
-                if res.status_code == 200:
-                    content = res.json()["choices"][0]["message"]["content"]
-                    if content:
-                        return content
-                print(f"    [Tentative {attempt}/{max_retries}] Erreur OpenRouter HTTP {res.status_code}...")
+            # Utilisation EXCLUSIVE du quota Antigravity via le CLI local agy
+            res = subprocess.run(
+                ["agy", "--model", model, "-p", full_prompt],
+                capture_output=True,
+                text=True,
+                timeout=360
+            )
+            if res.returncode == 0 and len(res.stdout.strip()) > 50:
+                return res.stdout.strip()
+            err_msg = res.stderr.strip() if res.stderr else res.stdout.strip()
+            print(f"    [Tentative {attempt}/{max_retries}] Réponse agy invalide ou vide ({err_msg[:100]})...")
         except Exception as e:
-            print(f"    [Tentative {attempt}/{max_retries}] Exception lors de l'appel LLM : {e}")
+            print(f"    [Tentative {attempt}/{max_retries}] Exception lors de l'appel agy : {e}")
             
         wait_time = attempt * 3 + random.uniform(1.0, 3.0)
         time.sleep(wait_time)
         
     raise RuntimeError(f"Échec critique de l'extraction après {max_retries} tentatives.")
 
-def process_single_chunk(chunk_idx: int, total_chunks: int, chunk: str, course_id: str, title: str, trainer: str, checkpoints_dir: Path, model: str, engine: str) -> tuple[int, str]:
+def process_single_chunk(chunk_idx: int, total_chunks: int, chunk: str, course_id: str, title: str, trainer: str, checkpoints_dir: Path, model: str) -> tuple[int, str]:
     cp_path = checkpoints_dir / f"{course_id}_chunk_{chunk_idx}.json"
     
     # Reprise atomique si checkpoint valide (> 500 caractères)
@@ -188,7 +167,7 @@ def process_single_chunk(chunk_idx: int, total_chunks: int, chunk: str, course_i
         except Exception:
             pass # Fichier corrompu, on ré-extrait
             
-    print(f"  🤖 Tranche {chunk_idx}/{total_chunks} ({len(chunk):,} car.) : Extraction avec {model} ({engine})...")
+    print(f"  🤖 Tranche {chunk_idx}/{total_chunks} ({len(chunk):,} car.) : Extraction avec {model} (agy)...")
     prompt = EXTRACTION_SYSTEM_PROMPT.format(
         chunk_index=chunk_idx,
         total_chunks=total_chunks,
@@ -196,7 +175,7 @@ def process_single_chunk(chunk_idx: int, total_chunks: int, chunk: str, course_i
         trainer_name=trainer
     )
     
-    extracted_text = call_llm(prompt, chunk, model=model, engine=engine)
+    extracted_text = call_llm(prompt, chunk, model=model)
     
     # Sauvegarde atomique du checkpoint
     temp_cp_path = checkpoints_dir / f"{course_id}_chunk_{chunk_idx}.tmp"
@@ -215,7 +194,7 @@ def process_single_chunk(chunk_idx: int, total_chunks: int, chunk: str, course_i
     print(f"  ✅ Tranche {chunk_idx}/{total_chunks} extraite et sauvegardée ({len(extracted_text):,} car.) !")
     return chunk_idx, extracted_text
 
-def process_course(course: dict, base_dir: Path, model: str, engine: str, max_chunk_workers: int = 4, dry_run: bool = False) -> bool:
+def process_course(course: dict, base_dir: Path, model: str, max_chunk_workers: int = 4, dry_run: bool = False) -> bool:
     course_id = course["id"]
     filename = course["filename"]
     trainer = course["trainer"]
@@ -253,7 +232,7 @@ def process_course(course: dict, base_dir: Path, model: str, engine: str, max_ch
     if workers > 1:
         with ThreadPoolExecutor(max_workers=workers) as pool:
             futures = {
-                pool.submit(process_single_chunk, idx, total_chunks, chunk, course_id, title, trainer, checkpoints_dir, model, engine): idx
+                pool.submit(process_single_chunk, idx, total_chunks, chunk, course_id, title, trainer, checkpoints_dir, model): idx
                 for idx, chunk in enumerate(chunks, 1)
             }
             for fut in as_completed(futures):
@@ -261,7 +240,7 @@ def process_course(course: dict, base_dir: Path, model: str, engine: str, max_ch
                 extracted_chunks[idx - 1] = content
     else:
         for idx, chunk in enumerate(chunks, 1):
-            _, content = process_single_chunk(idx, total_chunks, chunk, course_id, title, trainer, checkpoints_dir, model, engine)
+            _, content = process_single_chunk(idx, total_chunks, chunk, course_id, title, trainer, checkpoints_dir, model)
             extracted_chunks[idx - 1] = content
 
     # 2. Synthèse architecturale dédiée (ZÉRO TRONCATURE DU RESTE)
@@ -275,7 +254,7 @@ def process_course(course: dict, base_dir: Path, model: str, engine: str, max_ch
     
     synthesis_prompt = f"{SYNTHESIS_SYSTEM_PROMPT.format(course_title=title, trainer_name=trainer)}\n\nÉléments extraits par tranche :\n{preview_text[:20000]}"
     try:
-        synthesis_text = call_llm(synthesis_prompt, model=model, engine=engine)
+        synthesis_text = call_llm(synthesis_prompt, model=model)
     except Exception as e:
         print(f"  ⚠️ Erreur synthèse : {e}. Génération synthèse standard.")
         synthesis_text = f"## Synthèse Architecturale du Cours\n\n- **Formateur** : {trainer}\n- **Cours** : {title}\n- **Tranches traitées** : {total_chunks}\n"
@@ -298,14 +277,13 @@ def process_course(course: dict, base_dir: Path, model: str, engine: str, max_ch
     return True
 
 def main():
-    parser = argparse.ArgumentParser(description="Pipeline d'extraction PNL & Hypnose 100% Émergent avec Gemini 3.8 Flash")
+    parser = argparse.ArgumentParser(description="Pipeline d'extraction PNL & Hypnose 100% Émergent avec Gemini 3.8 Flash via agy")
     parser.add_argument("--shard", type=str, default=None, help="Shard sous la forme X/Y (ex: 1/4)")
     parser.add_argument("--range", type=str, default=None, help="Plage d'index START:END (ex: 0:28)")
     parser.add_argument("--limit", type=int, default=None, help="Nombre maximal de cours à traiter")
     parser.add_argument("--course", type=str, default=None, help="ID ou mot-clé du cours")
     parser.add_argument("--trainer", type=str, default=None, help="Filtrer par formateur")
     parser.add_argument("--model", type=str, default=DEFAULT_MODEL, help=f"Modèle (défaut : {DEFAULT_MODEL})")
-    parser.add_argument("--engine", type=str, default="agy", choices=["agy", "openrouter"], help="Moteur d'exécution (défaut: agy / quota Antigravity)")
     parser.add_argument("--workers", type=int, default=4, help="Concurrence par cours pour les tranches (défaut: 4)")
     parser.add_argument("--dry-run", action="store_true", help="Simule sans appeler le modèle")
     parser.add_argument("--force", action="store_true", help="Force la ré-extraction")
@@ -362,11 +340,11 @@ def main():
     if args.limit:
         courses_to_run = courses_to_run[:args.limit]
         
-    print(f"🎯 Cours à traiter dans ce run : {len(courses_to_run)} (Moteur : {args.engine}, Modèle : {args.model})")
+    print(f"🎯 Cours à traiter dans ce run : {len(courses_to_run)} (Moteur : agy, Modèle : {args.model})")
     
     # Traitement séquentiel des cours avec tranches en parallèle
     for course in courses_to_run:
-        success = process_course(course, base_dir, args.model, args.engine, args.workers, args.dry_run)
+        success = process_course(course, base_dir, args.model, args.workers, args.dry_run)
         if success and not args.dry_run:
             course["status"] = "completed"
             update_manifest_course_status(manifest_path, course["id"], "completed")

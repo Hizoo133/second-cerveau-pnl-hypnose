@@ -90,10 +90,41 @@ Toute intervention suit un algorithme invariant en 3 mouvements :
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 127-213]** : Déstabilisation de Certitude par "Modèle du Monde" (Model of the World Pattern) — *Protocole :* Déstabilisation de Certitude par "Modèle du Monde" (Model of the World Pattern)
+- **Tranche 2 [Lignes 215-341]** : Protocole de Création et Délivrance d'une Implication Verbale — *Protocole :* Protocole de Création et Délivrance d'une Implication Verbale
+- **Tranche 3 [Lignes 343-500]** : A : Conception d'une Implication Non Verbale (« Tasking » ou Comportemental) — *Protocole :* A : Conception d'une Implication Non Verbale (« Tasking » ou Comportemental) | *Verbatim :* La Double Contrainte Thérapeutique Déontologique (Erickson à la femme obèse)
+- **Tranche 4 [Lignes 502-656]** : Utilisation des Commandes Négatives Positives sur Sujet Oppositionnel — *Protocole :* Utilisation des Commandes Négatives Positives sur Sujet Oppositionnel | *Mécanisme :* Traitement Neurologique de la Négation & Incongruence Inhérente | *Verbatim :* La Négation Embarquée et l'Activation Involontaire du Scope
+- **Tranche 5 [Lignes 658-767]** : A : Inversion de Rôle Perceptuel sur Négation Introjectée (Steve Andreas) — *Protocole :* A : Inversion de Rôle Perceptuel sur Négation Introjectée (Steve Andreas) | *Mécanisme :* Le Paradoxe de la Compensation Externe et l'Incongruence Croissante | *Verbatim :* La rupture de cadre ontologique de Fritz Perls
+- **Tranche 6 [Lignes 769-875]** : A : Recalibrage d'un Bloquage Catégoriel par Dérive Analogique Ericksonienne — *Protocole :* A : Recalibrage d'un Bloquage Catégoriel par Dérive Analogique Ericksonienne | *Mécanisme :* Le déblocage par changement analogique minimal (Loosening the Digital Log Jam) | *Verbatim :* La logique du déblocage ericksonien
+- **Tranche 7 [Lignes 877-1029]** : Principal : Transformation du Jugement en Préférence — *Protocole :* Principal : Transformation du Jugement en Préférence | *Mécanisme :* La Boucle d'Emballement Cybernétique du Jugement (Runaway System) | *Verbatim :* Le Pré-cadrage de Sécurité Radicale & Démantèlement de la Réactance
+- **Tranche 8 [Lignes 1031-1189]** : Recadrage de Problème par Adverbe Cognitif Universel — *Protocole :* Recadrage de Problème par Adverbe Cognitif Universel | *Mécanisme :* Les Qualificateurs Cognitifs (Cognitive Qualifiers) & Pré-réglage d'État (Mind Pre-setting) | *Verbatim :* Verbatim 1
+- **Tranche 9 [Lignes 1191-1358]** : Désamorçage de l'Auto-Torture Morale par Collision de Catégories — *Protocole :* Désamorçage de l'Auto-Torture Morale par Collision de Catégories | *Mécanisme :* Le Diagramme de Venn Opératoire (Recouvrement Choix/Désir/Possibilité/Nécessité) | *Verbatim :* La Collision Catégorielle "Should" vs "Can't"
+- **Tranche 10 [Lignes 1360-1511]** : Désactivation d'une Auto-Dépréciation Globale par "Apply to Self" — *Protocole :* Désactivation d'une Auto-Dépréciation Globale par "Apply to Self" | *Mécanisme :* La hiérarchie logique et l'effondrement des Opérateurs Modaux | *Verbatim :* Le piège de l'évaluation négative auto-référentielle
+- **Tranche 11 [Lignes 1513-1655]** : Utilisation de l'Autoréférence dans les Conflits Relationnels — *Protocole :* Utilisation de l'Autoréférence dans les Conflits Relationnels | *Verbatim :* Le Dévoilement de l'Autoréférence dans le Reproche
+- **Tranche 12 [Lignes 1657-1800]** : Démantèlement d'une Boucle Catégorielle Récursive par Inversion Généalogique — *Protocole :* Démantèlement d'une Boucle Catégorielle Récursive par Inversion Généalogique | *Verbatim :* > “I’m curious about something. When you were a very small child was this true for you—that you only liked yourself if someone else liked you, or was that something you were born with, and took completely for granted?”
+- **Tranche 13 [Lignes 1802-1929]** : Utilisation et Subversion de la Coercition Externe (Modèle Enright & Bob Levin) — *Protocole :* Utilisation et Subversion de la Coercition Externe (Modèle Enright & Bob Levin) | *Mécanisme :* La Distorsion Expérimentale de Catégorisation & la Névrose Induite | *Verbatim :* Le Pivot de Leslie Cameron-Bandler face à la menace
+- **Tranche 14 [Lignes 1931-2077]** : L'Emboîtement d'Opposés Catégoriels (Nesting Opposites) — *Protocole :* L'Emboîtement d'Opposés Catégoriels (Nesting Opposites) | *Mécanisme :* L'Emboîtement de Catégories Opposées (Nesting Contradictory Categories) | *Verbatim :* L'emboîtement de la restriction dans la liberté
+- **Tranche 15 [Lignes 2079-2236]** : Utilisation Thérapeutique du Paradoxe sur les Énoncés Absolus Négatifs (ex: « La vie n'a pas... — *Protocole :* Utilisation Thérapeutique du Paradoxe sur les Énoncés Absolus Négatifs (ex: « La vie n'a pas de sens ») | *Verbatim :* Verbatim 1 : L'Interrogatoire Récursif sur le Paradoxe de l'Absolu
+- **Tranche 16 [Lignes 2238-2397]** : Le Paradoxe de Certitude de Bandler (Certainty Paradox) — *Protocole :* Le Paradoxe de Certitude de Bandler (Certainty Paradox)
+- **Tranche 17 [Lignes 2399-2508]** : A : Déverrouillage d'un Absolu par Paradoxe Thérapeutique — *Protocole :* A : Déverrouillage d'un Absolu par Paradoxe Thérapeutique
+- **Tranche 18 [Lignes 2510-2658]** : A : La Double Contrainte Thérapeutique de Validation (Baiting d'Alliance) — *Protocole :* A : La Double Contrainte Thérapeutique de Validation (Baiting d'Alliance) | *Verbatim :* La Double Contrainte de Validation Émotionnelle
+- **Tranche 19 [Lignes 2660-2801]** : Désamorçage de l'Opposant par Double Contrainte Formelle — *Protocole :* Désamorçage de l'Opposant par Double Contrainte Formelle
+- **Tranche 20 [Lignes 2803-2982]** : Génération de Nouvelles Métaphores par Collision Latérale (David Gordon / Steve Andreas) — *Protocole :* Génération de Nouvelles Métaphores par Collision Latérale (David Gordon / Steve Andreas) | *Verbatim :* La Normalisation Temporelle Saisonnière (Leslie Cameron-Bandler)
+- **Tranche 21 [Lignes 2984-3113]** : Recatégorisation de la Valeur Personnelle Post-Abus (Danie Beaulieu / Impact Therapy) — *Protocole :* Recatégorisation de la Valeur Personnelle Post-Abus (Danie Beaulieu / Impact Therapy)
+- **Tranche 22 [Lignes 3115-3272]** : d'Amorçage Thérapeutique & Contrat d'Écologie Intégrale — *Protocole :* d'Amorçage Thérapeutique & Contrat d'Écologie Intégrale | *Verbatim :* Recadrage de la Cadence de Contrôle
+- **Tranche 23 [Lignes 3274-3393]** : d'Élicitation Écologique du Pardon et de Résolution d'Objections — *Protocole :* d'Élicitation Écologique du Pardon et de Résolution d'Objections
+- **Tranche 24 [Lignes 3395-3529]** : Résolution de la rancœur et installation du Pardon Sécurisé (Forgiveness Architecture) — *Protocole :* Résolution de la rancœur et installation du Pardon Sécurisé (Forgiveness Architecture)
+- **Tranche 25 [Lignes 3531-3642]** : Résolution Séquentielle du PTSD Complexe (Andreas PTSD Model) — *Protocole :* Résolution Séquentielle du PTSD Complexe (Andreas PTSD Model) | *Mécanisme :* L'Auto-Référence Récursive et la Boucle Étrange | *Verbatim :* Le Déverrouillage de la Structure de l'Identité
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : Déstabilisation de Certitude par "Modèle du Monde" (Model of the World Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -181,8 +212,7 @@ Toute intervention suit un algorithme invariant en 3 mouvements :
   > « You don’t want to discuss your problems in that chair. You certainly don’t want to discuss them standing up. But if you move your chair to the other side of the room, that would give you a different view of the situation, wouldn’t it? »
   * **[Analyse du Pattern]** : *Double lien ericksonien fondé sur l'implication spatiale et la négation*. En rejetant explicitement les options 1 (assis sur cette chaise) et 2 (debout) par des négations directes (« don't want »), Erickson crée une catégorie fermée d'évitement. Le déplacement physique vers l'autre côté de la pièce est présenté comme une simple alternative spatiale (« move your chair »), mais la proposition porte l'implication contraignante et inévitable que, depuis ce nouvel emplacement, le sujet *voudra* aborder ses problèmes sous un angle neuf (« give you a different view »), ratifié par le tag question final (« wouldn't it? »).
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : Protocole de Création et Délivrance d'une Implication Verbale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -310,8 +340,7 @@ Toute intervention suit un algorithme invariant en 3 mouvements :
   > "Now tell me, madam, if you saw a hungry tiger in the next room, slowly walking into the room and eying you hungrily, and licking its chops, how much pain would you feel?"
   * **[Analyse du Pattern]** : Évocation sensorielle vive en VAKOG d'un contexte de survie critique extrême. L'implication biologique directe est que le système nerveux autonome inhibe instantanément la transmission nociceptive (analgésie) au profit de la réponse de fuite/survie, brisant l'ancrage de la douleur chronique incurable.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : A : Conception d'une Implication Non Verbale (« Tasking » ou Comportemental)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -470,8 +499,7 @@ Toute intervention suit un algorithme invariant en 3 mouvements :
   - *Prémisse universelle de protection :* L'amorce de phrase « No matter what happens » installe un cadre d'invariance contextuelle qui immunise la suggestion contre toute dispute ou dispute conjugale future.
   - *Friction et persistance mémorielle :* Le délai cognitif imposé pour résoudre la négation de l'oubli ancre l'affirmation centrale (« how much he loves you ») au cœur de l'attention consciente et inconsciente.
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : Utilisation des Commandes Négatives Positives sur Sujet Oppositionnel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -627,8 +655,7 @@ Toute intervention suit un algorithme invariant en 3 mouvements :
 
 * **[Analyse du Pattern] :** Dissolution d'incongruence catégorielle par coordination additive. La substitution du « but » originel par le connecteur « and » supprime l'oscillation exclusive et schizoïde entre deux identités opposées. La structure syntaxique force l'inconscient à créer un méta-cadre intégrateur capable d'englober les deux réalités, induisant un déblocage somatique viscéral immédiat.
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : A : Inversion de Rôle Perceptuel sur Négation Introjectée (Steve Andreas)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la **Tranche 5/25** de *Six Blind Elephants Vol 2* par Steve Andreas.
 
@@ -739,8 +766,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la **Tranche 5/25** 
 > *"OK, I need more information; just how inadequate (unable, helpless, worthless) are you?"*  
 * **[Analyse du Pattern] :** Présupposition de gradation (*analog shift*). Le syntagme *"just how..."* détruit subrepticement la nature binaire du prédicat (on ne peut plus être « soit adéquat, soit inadéquat »). Il force le cerveau à scanner une échelle continue de 0 à 100, brisant l'état de transe négative liée à l'absolu du mot.
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : A : Recalibrage d'un Bloquage Catégoriel par Dérive Analogique Ericksonienne
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 6/25 de *Six Blind Elephants Vol 2* de Steve Andreas.
 
@@ -848,8 +874,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 6/25 
 
 * **[Analyse du Pattern]** : Métaphore neuro-anatomique dépréciative opératoire. En rattachant le jugement à l'arc réflexe de la moelle épinière (*« spinal cord »*) et la préférence à l'activité cérébrale supérieure (*« reengage the brain »*), Andreas installe un présupposé implicite puissant : persister dans le jugement catégorique n'est pas une preuve de rigueur morale, mais une défaillance de traitement neurologique archaïque.
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : Principal : Transformation du Jugement en Préférence
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1003,8 +1028,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 6/25 
 * **[Analyse du Pattern]** : 
   * *Utilisation méta-pragmatique immédiate* : Andreas démontre le pattern au moment même où il l'explique. L'adverbe *« Happily »* oriente le système nerveux vers la curiosité et l'ouverture cognitive, tandis que l'adverbe *« sadly »* injecte une nuance émotionnelle de regret qui rehausse la valeur de ce qui a été manqué. Le récepteur est conditionné neurologiquement avant même d'avoir traité le message conceptuel.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : Recadrage de Problème par Adverbe Cognitif Universel
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 8/25.
 
@@ -1164,8 +1188,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern] :** Pace linguistique à présupposition multiple. L'adverbe *"Understandably"* normalise et valide la logique interne de la personne, éliminant toute velléité de dispute, tout en posant la conclusion comme l'aboutissement temporaire d'un processus particulier, présupposant subtilement qu'avec un autre processus, une tout autre conclusion deviendrait tout aussi légitime et compréhensible.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Désamorçage de l'Auto-Torture Morale par Collision de Catégories
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1334,8 +1357,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "If something is truly inevitable, how could it improve your life to struggle against it? That is certainly illogical, and it wastes time that could be spent enjoying whatever time and opportunity you have available. If life is valuable, the time, attention, and emotion spent 'raging' could be better used in more enjoyable activities. And if life isn’t valuable, then death isn’t a problem to be raged at!"
 * **[Analyse du Pattern]** : Dilemme d'invalidation complète (double bind d'extinction philosophique). La structure conditionnelle scelle les deux branches de l'alternative : Si la vie a de la valeur, la colère est un gaspillage inacceptable ; si la vie n'a pas de valeur, la fin de la vie n'a aucune gravité. Quel que soit le système axiomatique choisi par le sujet, la conclusion opératoire est rigoureusement identique : abandonner la réactance et entrer dans l'accueil de l'inévitable.
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Désactivation d'une Auto-Dépréciation Globale par "Apply to Self"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1488,8 +1510,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Rupture de pattern par isomorphisme structurel** : Réutilise exactement le matériel lexical et syntaxique de l'agresseur pour le retourner contre sa position.
   - **Inversion immédiate de statut relationnel** : Détruit le postulat implicite de supériorité en plaçant l'émetteur sous le coup de sa propre règle d'interdiction, faisant émerger à nu le conflit de pouvoir.
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : Utilisation de l'Autoréférence dans les Conflits Relationnels
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1633,8 +1654,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 - **[Analyse du Pattern] :** Déconstruction métamodèle du syntagme « S'aimer soi-même ». En pointant que le verbe réflexif impose une scission schizophrénique fictive entre un « Moi-juge » et un « Moi-objet », le praticien fait s'effondrer la tautologie et réattribue l'origine de cette coupure à un événement historique développemental précis (l'introjection du désaccord parental).
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : Démantèlement d'une Boucle Catégorielle Récursive par Inversion Généalogique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1779,8 +1799,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - Rétablissement autoritaire du cadre logique pertinent (*"irrelevant to this discussion"*).
   - Ré-ancrage sur les faits spécifiques et vérifiables sensoriellement (*"in this case I have the following evidence"*), neutralisant les attaques ad hominem ou catégorielles.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : Utilisation et Subversion de la Coercition Externe (Modèle Enright & Bob Levin)
 
 Voici l'analyse opératoire intégrale de la tranche 13/25 du séminaire *Six Blind Elephants Vol 2* de Steve Andreas.
 
@@ -1909,8 +1928,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/25 du séminaire *Six Bl
 > **"Take as much time as you need to quickly review those past events in order to come to a new conclusion about their relevance to your present life situation."**
 * **[Analyse du Pattern]** : Nesting de la vitesse dans la lenteur (Double contrainte temporelle permissive). "Take as much time as you need" supprime toute anxiété liée à la performance ou à la pression du praticien, tandis que le marqueur de vitesse "quickly review" sature le traitement inconscient pour favoriser une synthèse globale rapide sans sur-analyse consciente.
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : L'Emboîtement d'Opposés Catégoriels (Nesting Opposites)
 
 Voici l'analyse opératoire intégrale de la tranche 14/25 de *Six Blind Elephants Vol 2* par Steve Andreas.
 
@@ -2058,8 +2076,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/25 de *Six Blind Elephan
 > “Since the statement is an example of ‘never succeeding,’ it is a statement that can never succeed, and this changes its meaning. If it is an unsuccessful statement, it shouldn’t be taken too seriously, prying open the door of the trap.”
 * **[Analyse du Pattern]** : **Recadrage logique par auto-inclusion récursive.** Andreas transforme la croyance identitaire limitante (« I can never succeed ») en un objet qui s'auto-qualifie : si l'énoncé ne réussit jamais, son affirmation échoue à être vraie. Le paradoxe détruit la rigidité de la croyance de l'intérieur par une implosion sémantique.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : Utilisation Thérapeutique du Paradoxe sur les Énoncés Absolus Négatifs (ex: « La vie n'a pas...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2218,8 +2235,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/25 de *Six Blind Elephan
   - *Dérive de Scope quantificateur :* Glissement sémantique maîtrisé opérant entre « nothing » (rien), « something » (quelque chose), et « anything at all » (n'importe quoi / l'infinité des possibles).
   - *Commande d'ouverture inconsciente enchâssée :* La phrase dissout la fixation sur le manque en orientant la structure mentale vers un champ de potentiel vierge sans limites rigides.
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : Le Paradoxe de Certitude de Bandler (Certainty Paradox)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2380,8 +2396,7 @@ Bandler: "OK, Let’s talk."
   - Paradoxe auto-référentiel négatif pur (variante du menteur d'Épiménide).
   - Si l'énoncé est vrai, il est faux ; s'il est faux, il est vrai. Ce court-circuit logique neutralise l'illusion de certitude dogmatique et ancre l'acceptation de l'incertitude fondamentale comme seule base stable de connaissance.
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : A : Déverrouillage d'un Absolu par Paradoxe Thérapeutique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2492,8 +2507,7 @@ Bandler: "OK, Let’s talk."
 > **"Now, you’re just being facetious." / "Well, that’s a good dodge."** *(Extrait d'interaction de parents de patient analysé par Steve Andreas)*
 - **[Analyse du Pattern]** : Disqualification successive (*Reblaming* / Pattern d'invalidation d'intention). Quelle que soit la tentative du conjoint d'assumer sa responsabilité ou de clarifier rationnellement la situation, l'émetteur recatégorise l'acte de communication comme une manipulation ou une plaisanterie, interdisant tout point de convergence ou de résolution.
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : A : La Double Contrainte Thérapeutique de Validation (Baiting d'Alliance)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2643,8 +2657,7 @@ Bandler: "OK, Let’s talk."
 > "All right. Your weight is 270 pounds. And I want it distinctly understood that I want you to do exactly as I tell you. Bearing in mind that you now weight 270 pounds, I want you to overeat through the week enough to support 260 pounds."
 - **[Analyse du Pattern]** : Recatégorisation sémantique à un niveau logique spécifique. Erickson prend appui sur la nominalisation compulsive de la patiente (*"I always overeat"*), accepte son cadre comportemental, mais redéfinit le prédicat de quantité (*"enough to support 260 pounds"*). L'impératif lie le respect de sa compulsion psychologique ("manger avec excès") à un résultat mathématique d'amaigrissement net, créant une double contrainte salvatrice : la patiente ne peut satisfaire l'injonction de "trop manger" qu'en perdant dix livres.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : Désamorçage de l'Opposant par Double Contrainte Formelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2787,8 +2800,7 @@ Bandler: "OK, Let’s talk."
 > “Are you sure enough to be unsure?”
 * **[Analyse du Pattern]** : Paradoxe d'incertitude autoréférentiel. Utilise le prédicat d'absolue certitude du sujet pour l'appliquer à son opposé (« être incertain »). Si le sujet répond « oui », il introduit l'incertitude dans son système rigide ; s'il répond « non », il admet qu'il n'est pas totalement sûr. La certitude dogmatique est dissoute dans les deux cas.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : Génération de Nouvelles Métaphores par Collision Latérale (David Gordon / Steve Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2969,8 +2981,7 @@ Bandler: "OK, Let’s talk."
   - *Équivalence fonctionnelle du Soi comme espace récepteur :* Le bureau ne choisit pas ce qui est posé sur lui ; il soutient indifféremment l'utilitaire, le noble (*« ancient beauty »*), le trivial (*« pretty stones »*) et l'affectif (*« images of those whom I feel deeply connected to »*).
   - *Induction d'un état d'équanimité somatique :* La description installe par empilement de critères une présence stable, solide, capable de contenir la complexité de l'expérience humaine sans s'effondrer ni rejeter les paradoxes de l'existence.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : Recatégorisation de la Valeur Personnelle Post-Abus (Danie Beaulieu / Impact Therapy)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3101,8 +3112,7 @@ Bandler: "OK, Let’s talk."
   > « Later, listening to audiotapes of her sessions, she heard him talking about the farm in Wisconsin, describing carefully cultivating “de long rows” of potatoes. »
   * **[Analyse du Pattern]** : Ambiguïté phonétique interlinguale et transdérivationnelle (bison/basin ; de long/DeLong). Pattern ericksonien d'adressage direct à l'inconscient : l'écoute consciente traite la narration de surface (la ferme, la blague), pendant que le système auditif profond capte le sens crypté ou le nom du sujet, alertant les couches sous-jacentes de la mémoire.
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : d'Amorçage Thérapeutique & Contrat d'Écologie Intégrale
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 22/25 de *Six Blind Elephants Vol 2* de Steve Andreas.
 
@@ -3261,8 +3271,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 22/25 de 
 >
 > **[Analyse du Pattern]** : Questionnement multi-canal avec commande enchâssée d'ouverture sensorielle. L'utilisation conjointe des prédicats kinesthésiques (« feeling »), auditifs (« voice ») et visuels (« picture ») ratisse l'ensemble des modes d'expression de l'inconscient, empêchant le cortex rationnel de filtrer la réponse somatique réelle de l'objection systémique.
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : d'Élicitation Écologique du Pardon et de Résolution d'Objections
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3383,8 +3392,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 22/25 de 
 > **Steve:** "Is there even a kernel of truth in there? OK. Can you tell him that? 'There’s a kernel of truth in there.' Tell him how—whatever your understanding is of your part in this, and just see how that goes in your imaginary conversation with him..."
 * **[Analyse du Pattern]** : Recadrage de fractionnement perceptuel (« kernel of truth ») et pacification dialogique interne. En validant une fraction microscopique de la critique de l'autre (« un grain »), le praticien court-circuite la polarisation binaire tort/raison et désamorce le bouclier défensif projeté par le partenaire imaginaire, rétablissant une congruence somatique immédiate.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : Résolution de la rancœur et installation du Pardon Sécurisé (Forgiveness Architecture)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3520,8 +3528,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 22/25 de 
   > Steve: Just go in there and wing it. »
   * **[Analyse du Pattern]** : Utilisation en écho direct (*verbal matching*) de l'expression idiomatique spontanée du sujet. Cette ratification libère l'inconscient de toute contrainte de performance volontaire, postulant que les réseaux neuronaux réorganisés opéreront d'eux-mêmes en situation réelle sans surveillance de l'ego.
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : Résolution Séquentielle du PTSD Complexe (Andreas PTSD Model)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3633,3 +3640,4 @@ Cette dernière tranche constitue l'index terminal et le catalogue raisonné de 
 *   **[Analyse du Pattern]** :
     *   *Transposition épistémologique en outil de changement* : L'index met à nu la structure intellectuelle d'Andreas, qui transmute la logique mathématique (Russell/Whitehead) et la systémique (Watzlawick) en leviers conversationnels directs.
     *   *Séquence opérationnelle sous-jacente* : « Noticing » (calibration de l'auto-référence pathologique dans le discours du sujet) $\rightarrow$ « Utilizing » (renvoi de la boucle sur elle-même pour provoquer l'impasse thérapeutique libératrice) $\rightarrow$ « Escaping » (changement de type logique / méta-niveau pour sortir de la contradiction).
+

@@ -106,10 +106,36 @@ $$\text{Aspiration floue} \xrightarrow{\text{Swarm of Behaviors}} \text{Focus Ma
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 138-242]** : « The Maui Habit » (Installation du Cadre d'Amorçage Quotidien) — *Protocole :* « The Maui Habit » (Installation du Cadre d'Amorçage Quotidien) | *Mécanisme :* Le Recadrage « Défaut de Conception vs Défaut Personnel » | *Verbatim :* Découplage de la Faute et Métaphore de la Notice Défectueuse
+- **Tranche 2 [Lignes 244-355]** : A : La Recette Fondamentale Tiny Habits (The Habit Recipe) — *Protocole :* A : La Recette Fondamentale Tiny Habits (The Habit Recipe) | *Mécanisme :* Ligne d'Action (Action Line) & Loi de Compensation Dynamique
+- **Tranche 3 [Lignes 357-518]** : Dépannage Algorithmique d'un Comportement Défaillant (Troubleshooting a Behavior) — *Protocole :* Dépannage Algorithmique d'un Comportement Défaillant (Troubleshooting a Behavior)
+- **Tranche 4 [Lignes 520-692]** : L'Essaim de Comportements par la Baguette Magique (Magic Wanding & Swarm of Behaviors) — *Protocole :* L'Essaim de Comportements par la Baguette Magique (Magic Wanding & Swarm of Behaviors) | *Verbatim :* PÉPITE 1 : Le Découplage Brutal Motivation vs Capacité
+- **Tranche 5 [Lignes 694-817]** : Le Focus Mapping Opératoire (Extraction des Golden Behaviors) — *Protocole :* Le Focus Mapping Opératoire (Extraction des Golden Behaviors) | *Mécanisme :* Le Découplage Fantasy-You vs. Real-You (Calibrage sur le Pire État) | *Verbatim :* La Désillusion Bienveillante (Recadrage Identitaire)
+- **Tranche 6 [Lignes 819-979]** : Diagnostic & Réparation de la Chaîne de Capacité (The Discovery Sequence) — *Protocole :* Diagnostic & Réparation de la Chaîne de Capacité (The Discovery Sequence) | *Mécanisme :* Chaîne de Capacité & Principe du Maillon Faible (The Ability Chain) | *Verbatim :* La Prescription de Simplicité Absurde
+- **Tranche 7 [Lignes 981-1127]** : Diagnostic et Recodage de l'Aptitude d'une Habitude Difficile — *Protocole :* Diagnostic et Recodage de l'Aptitude d'une Habitude Difficile | *Mécanisme :* Le Levier du Pas de Démarrage et la Déflation de la Difficulté Perçue | *Verbatim :* La Suggestion d'Allègement Hypnotique du Starter Step
+- **Tranche 8 [Lignes 1129-1246]** : Conception d'une Recette "Tiny Habit" & Verrouillage par le Trailing Edge — *Protocole :* Conception d'une Recette "Tiny Habit" & Verrouillage par le Trailing Edge
+- **Tranche 9 [Lignes 1248-1377]** : Cartographie des Ancres du Quotidien (Anchor Inventory Mapping) — *Protocole :* Cartographie des Ancres du Quotidien (Anchor Inventory Mapping) | *Mécanisme :* Le Principe de l'Encodage Émotionnel Immédiat vs Mythologie de la Répétition | *Verbatim :* La Bascule de l'Identité Naufragée au Triomphe Somatique
+- **Tranche 10 [Lignes 1379-1490]** : A : Élicitation de la Célébration Naturelle (Natural Celebration Elicitation) — *Protocole :* A : Élicitation de la Célébration Naturelle (Natural Celebration Elicitation) | *Mécanisme :* Différenciation Neurochimique Récompense vs Incitation (Dopaminergic Timing Window)
+- **Tranche 11 [Lignes 1492-1634]** : Le Triple Encodage Temporel de l'Habitude (The Three-Point Celebration) — *Protocole :* Le Triple Encodage Temporel de l'Habitude (The Three-Point Celebration) | *Mécanisme :* Le Triple Point d'Ancrage Dopaminergique (Three Moments of Celebration) | *Verbatim :* La Suggestion Post-Hypnotique du Déclencheur Mnésique
+- **Tranche 12 [Lignes 1636-1811]** : L'Habitude de Maui (The Maui Habit) — Amorçage d'Écosystème Matinal — *Protocole :* L'Habitude de Maui (The Maui Habit) — Amorçage d'Écosystème Matinal | *Mécanisme :* Le Changement d'Échelle par Multiplication vs Croissance | *Verbatim :* La Métaphore Botanique de l'Essaimage
+- **Tranche 13 [Lignes 1813-1959]** : A : Diagnostic et Résolution des Frictions Environnementales (Troubleshooting par Rétro-Ingé... — *Protocole :* A : Diagnostic et Résolution des Frictions Environnementales (Troubleshooting par Rétro-Ingénierie Spatiale)
+- **Tranche 14 [Lignes 1961-2090]** : Le Plan Directeur de Déprogrammation Comportementale (Behavior Change Masterplan) — *Protocole :* Le Plan Directeur de Déprogrammation Comportementale (Behavior Change Masterplan) | *Mécanisme :* Taxonomie Tripartite des Habitudes (Pente Gravitationnelle du Comportement) | *Verbatim :* Rupture du Mythe Volitif et Recadrage de la Rupture
+- **Tranche 15 [Lignes 2092-2223]** : Le Décrochage Temporaire Homéostatique (The 3-Day Abstinence Experiment) — *Protocole :* Le Décrochage Temporaire Homéostatique (The 3-Day Abstinence Experiment) | *Verbatim :* La rupture de l'illusion motivationnelle
+- **Tranche 16 [Lignes 2225-2382]** : A : La Technique du Ninja / Amorce Gestuelle (Toehold Step Protocol) — *Protocole :* A : La Technique du Ninja / Amorce Gestuelle (Toehold Step Protocol) | *Mécanisme :* Déconstruction en Micro-Composant Initial (Toehold Behavior)
+- **Tranche 17 [Lignes 2384-2546]** : Dépannage Comportemental Collectif par Segmentation Éthologique (Ninja Troubleshooting) — *Protocole :* Dépannage Comportemental Collectif par Segmentation Éthologique (Ninja Troubleshooting) | *Mécanisme :* Le Principe du Renforcement par Résonance d’Autorité & Boucle d'Émulation Croisée | *Verbatim :* La rupture de l'attribution de culpabilité & Métaphore vestimentaire
+- **Tranche 18 [Lignes 2548-2657]** : Partager les Bases du Behavior Design en Groupe (Swarm of Behaviors) — *Protocole :* Partager les Bases du Behavior Design en Groupe (Swarm of Behaviors)
+- **Tranche 19 [Lignes 2659-2793]** : Le Script Pédagogique et Inductif de Deux Minutes (Teaching the FBM) — *Protocole :* Le Script Pédagogique et Inductif de Deux Minutes (Teaching the FBM) | *Verbatim :* La Déclaration de Compétence par Ancrage Temporel Immédiat
+- **Tranche 20 [Lignes 2795-2936]** : Sabotage Immédiat de Récompense (Arrêt d'Habitude Récréative / Compulsive) — *Protocole :* Sabotage Immédiat de Récompense (Arrêt d'Habitude Récréative / Compulsive) | *Mécanisme :* Le Verrouillage Synaptique par Ancrage Séquentiel (Anchor-Behavior Chaining) | *Verbatim :* Le Script de Désamorçage Inconditionnel
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 20 ---
+## Tranche 1 / 20 : « The Maui Habit » (Installation du Cadre d'Amorçage Quotidien)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -215,8 +241,7 @@ $$\text{Aspiration floue} \xrightarrow{\text{Swarm of Behaviors}} \text{Focus Ma
   - **Structures d'opposition binaire (polarités) :** L'alternance répétée (*"Smoking. Not smoking."*, *"Making the bed. Not making the bed."*, *"Eating chocolate. Not eating chocolate."*) neutralise le jugement moral sur les actions et crée un état de confusion légère et de ratissage exhaustif.
   - **Présupposition d'universalité :** En englobant à la fois le comportement et son absence, Fogg présuppose irréfutablement que son modèle décrypte la totalité absolue de l'expérience humaine.
 
-
-## --- Tranche 2 / 20 ---
+## Tranche 2 / 20 : A : La Recette Fondamentale Tiny Habits (The Habit Recipe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -329,8 +354,7 @@ $$\text{Aspiration floue} \xrightarrow{\text{Swarm of Behaviors}} \text{Focus Ma
     > « One day Denny invited me to look at the shower with him, and he put Behavior Design into action. “We both want a clean shower,” he said. I agreed. He saw that I had some level of motivation. Then he asked me about ability. »
     *   **[Analyse du Pattern]** : Yes-set conversationnel et synchronisation d'objectif supérieur (*« We both want a clean shower »*). En établissant un accord d'identité et de motivation partagée, l'interlocuteur désamorce le conflit relationnel et déplace le cadre de négociation vers un audit neutre et objectif de la Capacité ($A$), transformant une dispute domestique en un problème d'ingénierie ergonomique.
 
-
-## --- Tranche 3 / 20 ---
+## Tranche 3 / 20 : Dépannage Algorithmique d'un Comportement Défaillant (Troubleshooting a Behavior)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -493,8 +517,7 @@ $$\text{Aspiration floue} \xrightarrow{\text{Swarm of Behaviors}} \text{Focus Ma
     - *Métaphore spatiale de laboratoire (Petri dish / Change lab) :* Déplace le locus d'évaluation hors de la sphère émotionnelle pour l'installer dans une curiosité scientifique dépassionnée (*“curiosity and objective distance”*).
     - *Double lien libérateur et pré-framing de sécurité :* Contraste délibéré avec les approches culpabilisantes de la volonté (*“willpower”*), créant un cadre d'expérimentation où l'échec est requalifié en simple donnée d'ajustement (*“a place where you not only feel safe but also feel like anything is possible”*).
 
-
-## --- Tranche 4 / 20 ---
+## Tranche 4 / 20 : L'Essaim de Comportements par la Baguette Magique (Magic Wanding & Swarm of Behaviors)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -668,8 +691,7 @@ $$\text{Aspiration floue} \xrightarrow{\text{Swarm of Behaviors}} \text{Focus Ma
   * *Recadrage structurel fondamental* : Renversement de la causalité classique. La motivation n'est plus un carburant que l'on injecte de force dans une tâche ingrate, mais une propriété intrinsèque qui doit être pré-existante dans le choix du comportement.
   * *Présupposition d'échec des approches rivales* : L'expression *"you will struggle [...] and that doesn't work very well"* disqualifie toute pratique coercitive d'auto-discipline en l'opposant à l'alignement naturel du désir.
 
-
-## --- Tranche 5 / 20 ---
+## Tranche 5 / 20 : Le Focus Mapping Opératoire (Extraction des Golden Behaviors)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -794,8 +816,7 @@ flowchart TD
     *   *Utilisation de la rupture d'anticipation (Absurdité stratégique) :* L'interjection *« Seriously »* et le truisme d'auto-dérision *« Despite how silly this might seem »* désamorcent l'incrédulité intellectuelle de l'interlocuteur avant même qu'elle ne soit formulée.
     *   *Boucle de récompense asymétrique (Extra credit framing) :* En plaçant l'exigence formelle à une dent et le reste en *« extra credit »*, Fogg inverse la charge dopaminergique. Faire deux dents n'est plus perçu comme « insuffisant par rapport à 32 », mais comme un gain exceptionnel de 100 % au-dessus du contrat, inondant le cerveau d'un sentiment d'auto-efficacité immédiat.
 
-
-## --- Tranche 6 / 20 ---
+## Tranche 6 / 20 : Diagnostic & Réparation de la Chaîne de Capacité (The Discovery Sequence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -957,8 +978,7 @@ flowchart TD
   - **Recadrage d'équivalence complexe :** *"Doing the Starter Step is success."* Cette équation redéfinit l'identité de l'action : le succès n'est plus l'atteinte d'un résultat lointain, mais la complétion du rituel d'amorce.
   - **Nominalisations cinétiques (*momentum*, *growth*, *impact*) :** Évoque des forces physiques dynamiques autonomes qui prennent le relais de la volonté consciente, allégeant la dépense énergétique perçue par le sujet.
 
-
-## --- Tranche 7 / 20 ---
+## Tranche 7 / 20 : Diagnostic et Recodage de l'Aptitude d'une Habitude Difficile
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1106,8 +1126,7 @@ flowchart TD
   - *Pacing somatique et transe d'évidence* : L'ancrage de la chaîne sensorielle évidente crée une ratification interne indiscutable chez l'auditeur.
   - *Interjection de rupture et cristallisation* : L'irruption de *« And so—aha! »* marque le point de bascule cognitif où la loi générale s'impose comme une illumination naturelle, installant le mot *« after »* comme l'opérateur causal pivot du reconditionnement sous-jacent.
 
-
-## --- Tranche 8 / 20 ---
+## Tranche 8 / 20 : Conception d'une Recette "Tiny Habit" & Verrouillage par le Trailing Edge
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1226,8 +1245,7 @@ flowchart TD
   > "It was as if she’d taken the air out of his anger balloon. [...] He would still make the occasional cutting remark, but his heart didn’t seem in it anymore."
   * **[Analyse du Pattern]** : *Métaphore analogique de dépressurisation systémique*. L'image du ballon d'air dégonflé présuppose que la colère d'autrui n'a de force que si elle rencontre une résistance ou une réactivité. La suppression de la prise relationnelle éteint le comportement d'agression de manière passive et homéostatique.
 
-
-## --- Tranche 9 / 20 ---
+## Tranche 9 / 20 : Cartographie des Ancres du Quotidien (Anchor Inventory Mapping)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1358,8 +1376,7 @@ flowchart TD
 > *« Cheerios littering the backseat of her car (I should have vacuumed it); piles of unfolded laundry (I should have put it away); her son’s face falling after she snapped at him for pushing his sister (I should be more patient with him); the dirty plates piling up in her sink (I should have done all the dishes; my mom would never have left them like that). What had started out as small deficits on her to-do list ended up amounting to something much worse. Every undone task that paraded through Linda’s mind at night morphed into a rumination on all the ways she didn’t measure up as a mom or a partner or a human being. »*
 * **[Analyse du Pattern]** : Description clinique d'un glissement d'index de référence et de niveaux logiques : empilement de micro-faits environnementaux sensoriels bruts (Cheerios, linge, assiettes) mutés en injonctions culpabilisantes (« *I should have...* »), avec invocation d'une figure d'autorité introjectée (« *my mom would never* »), culminant en une surgénéralisation identitaire terminale destructrice (« *didn't measure up as a human being* »). Matériel idéal pour démontrer à un client comment son propre cinéma mental fabrique de l'effondrement somatique.
 
-
-## --- Tranche 10 / 20 ---
+## Tranche 10 / 20 : A : Élicitation de la Célébration Naturelle (Natural Celebration Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1472,8 +1489,7 @@ flowchart TD
 > "When you celebrate remembering to do a Tiny Habit, you wire in that moment of remembering. And that’s important. If you don’t remember to do a habit, you won’t do it."
 *   **[Analyse du Pattern]** : Décomposition logique tautologique à haute autorité conversationnelle. En dissociant la remémoration de l'action physique, il crée une boucle de renforcement pour une métacognition (célébrer la mémoire prospective), résolvant le problème n°1 de l'amnésie des débuts.
 
-
-## --- Tranche 11 / 20 ---
+## Tranche 11 / 20 : Le Triple Encodage Temporel de l'Habitude (The Three-Point Celebration)
 
 Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits* de BJ Fogg, modélisée selon les règles d'ingénierie comportementale, de PNL et d'hypnose.
 
@@ -1617,8 +1633,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
   - *Anaphore hypnotique hypnotisante :* La quadruple répétition rythmée de *"The type of person who..."* crée une cadence incantatoire qui empile les identités de succès (physique, résilience affective, sentiment de compétence généralisée).
   - *Humour somatique de défocalisation :* L'image de Rocky effrayant le facteur court-circuite la gravité solennelle et ancre l'identité nouvelle dans une corporéité vivante, ludique et sans prétention.
 
-
-## --- Tranche 12 / 20 ---
+## Tranche 12 / 20 : L'Habitude de Maui (The Maui Habit) — Amorçage d'Écosystème Matinal
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1795,8 +1810,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
   * **Empilement de contrastes temporels (Before / After) :** Énumération rythmée des souffrances passées (*waking up to a messy kitchen, skipping breakfast, starting the day on a disappointing note*) pour amplifier par contraste la libération actuelle.
   * **Suggestion de passivité agissante :** *something was lifting her up and propelling her along* installe une dissociation où l'action n'est plus portée par la volonté musculaire mais par une propulsion extérieure soutenante, concluant sur une tautologie permissive libératrice : *all she had to do was keep doing what she wanted to do*.
 
-
-## --- Tranche 13 / 20 ---
+## Tranche 13 / 20 : A : Diagnostic et Résolution des Frictions Environnementales (Troubleshooting par Rétro-Ingé...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1944,8 +1958,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
 > "What ultimately worked for Juni was addressing her grief prompt at its root. She first created a handful of positive habits—journaling and reaching out to friends through social media—which helped her mourn her mother in a way that processed the grief instead of suppressing it... Juni had beaten sugar."
 - **[Analyse du Pattern]** : Révélation de la fonction adaptative sous-jacente du symptôme compulsif (sucre = anesthésiant du deuil non métabolisé). L'installation préalable de comportements d'accueil émotionnel supprime le besoin fonctionnel de la compulsion, permettant le dénouement sans lutte d'inhibition.
 
-
-## --- Tranche 14 / 20 ---
+## Tranche 14 / 20 : Le Plan Directeur de Déprogrammation Comportementale (Behavior Change Masterplan)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2076,8 +2089,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
 > « The answer is so important, I’ll say it three times in different ways: Pick the easiest one. Pick the one you are most sure you can do. Pick the one that feels like no big deal. »
 * **[Analyse du Pattern]** : Anaphore impérative et empilement de truismes par déclinaison synonymique. Fogg prévient consciemment de la répétition pour désarmer l'esprit critique, puis martèle trois commandes comportementales identiques dont le gradient d'exigence décroît (*the easiest* $\rightarrow$ *most sure* $\rightarrow$ *no big deal*). L'expression finale *« no big deal »* désactive le seuil d'alarme de l'amygdale en minimisant l'effort perçu à zéro.
 
-
-## --- Tranche 15 / 20 ---
+## Tranche 15 / 20 : Le Décrochage Temporaire Homéostatique (The 3-Day Abstinence Experiment)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2210,8 +2222,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
 * **[Analyse du Pattern]** :  
   *Commande temporelle contingente enchâssée dans une demande minimale.* La structure linguistique de la phrase d'intervention couple un ancrage temporel automatique sur un événement futur inévitable (*« next time you use the coffee maker »*, présupposant que l'action d'utiliser la machine aura lieu) avec une requête motrice microscopique bornée par un marqueur spatial tangible (*« take the filter out and put it on the counter »*). La syntaxe évacue toute trace d'injonction morale, de reproche temporel passé ou d'obligation globale, neutralisant toute réactivité d'opposition chez l'interlocuteur.
 
-
-## --- Tranche 16 / 20 ---
+## Tranche 16 / 20 : A : La Technique du Ninja / Amorce Gestuelle (Toehold Step Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2370,8 +2381,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
   > "After I return from my lunch break, I will get out my checklist on roadblocks and write a quick e-mail."
   * **[Analyse du Pattern]** : Formule syntaxique d'implantation d'ancrage séquentiel (*Tiny Habit Recipe* : "After [Anchor], I will [Tiny Behavior]"). La syntaxe conditionnelle fixe l'action dans une séquence spatio-temporelle existante pré-encodée neurologiquement (*"After I return from my lunch break"*), transformant un événement automatique de la journée en déclencheur synaptique direct pour la nouvelle habitude.
 
-
-## --- Tranche 17 / 20 ---
+## Tranche 17 / 20 : Dépannage Comportemental Collectif par Segmentation Éthologique (Ninja Troubleshooting)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2535,8 +2545,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/20 du cours *Tiny Habits
   - **Projection temporelle disruptive (Futurisation de crise)** (*« what if... everybody else went to fifth grade and you didn't? »*) : Court-circuite la myopie du présent propre aux profils TDAH en confrontant violemment le sujet à l'exclusion sociale et au décrochage statutaire par rapport aux pairs.
   - **Reformulation d'alignement identitaire (Élicitation de l'aspiration brute)** (*« Okay, so it sounds like what you want is to finish fourth grade and keep pace with your classmates »*) : Récupère la réaction aversive de l'enfant pour la convertir immédiatement en une aspiration positive choisie, transformant la corvée extérieure imposée en un outil au service de son désir profond.
 
-
-## --- Tranche 18 / 20 ---
+## Tranche 18 / 20 : Partager les Bases du Behavior Design en Groupe (Swarm of Behaviors)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2647,8 +2656,7 @@ Help yourself feel successful."
 ```
 * **[Analyse du Pattern]** : **Isomorphisme de transition d'état (Syntactic Pacing of State Shifts)**. Structure elliptique ternaire utilisant la préposition directionnelle *From... to...*. Fogg commence par une réduction de charge négative (*suffering to less suffering* — calibrée pour être immédiatement crédible sans saut euphorique irréaliste), ce qui valide l'état somatique présent, avant d'induire la bascule vers des états génératifs d'action (*empowered*).
 
-
-## --- Tranche 19 / 20 ---
+## Tranche 19 / 20 : Le Script Pédagogique et Inductif de Deux Minutes (Teaching the FBM)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2784,8 +2792,7 @@ Help yourself feel successful."
   - **Commande enchâssée au niveau logique de l'identité** : ne valide pas seulement l'action ponctuelle, mais reconstruit directement le Self-Concept (*« I'm good at creating habits »*).
   - **Particule d'accord assertif initial** (*« Yes »*) : installe un état récepteur affirmatif avant l'énonciation du postulat identitaire.
 
-
-## --- Tranche 20 / 20 ---
+## Tranche 20 / 20 : Sabotage Immédiat de Récompense (Arrêt d'Habitude Récréative / Compulsive)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 20/20 du cours et ouvrage *Tiny Habits* de BJ Fogg.
 
@@ -2927,3 +2934,4 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 20/20 du
 > Fogg Maxim #1: Help people do what they already want to do.  
 > Fogg Maxim #2: Help people feel successful.
 * **[Analyse du Pattern]** : Énoncés axiomatiques à double impératif parallèle. La structure syntaxique identique (*"Help people [X]"*) crée une règle de design universelle et mémorable. La première maxime pose le respect de l'alignement téléologique du sujet, la seconde installe le biofeedback dopaminergique immédiat comme condition sine qua non de la persistance comportementale.
+

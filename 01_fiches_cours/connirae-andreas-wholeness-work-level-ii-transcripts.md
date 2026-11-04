@@ -65,10 +65,34 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 95-199]** : d'Exploration de la Genèse du Mécanisme de Coping & de la Trajectoire de la Conscience — *Protocole :* d'Exploration de la Genèse du Mécanisme de Coping & de la Trajectoire de la Conscience | *Verbatim :* Découplage de la Mémoire Objective et de la Réalité Somatique
+- **Tranche 2 [Lignes 201-329]** : La Trajectoire du Retour à la Maison (The Return Journey Process) — *Protocole :* La Trajectoire du Retour à la Maison (The Return Journey Process) | *Verbatim :* La rupture de l'autorité prescriptive au profit de l'expérience phénoménologique
+- **Tranche 3 [Lignes 331-479]** : Dissolution des Rôles & Identités (Role / Identity Integration) — *Protocole :* Dissolution des Rôles & Identités (Role / Identity Integration) | *Mécanisme :* Le Principe de Présence Réceptive vs Forçage Volontaire | *Verbatim :* La Métaphore de l'Étreinte Inconditionnelle du Champ de Conscience
+- **Tranche 4 [Lignes 481-632]** : Dissolution des Rôles & Identités (Wholeness Work Level II) — *Protocole :* Dissolution des Rôles & Identités (Wholeness Work Level II) | *Verbatim :* Verbatim 1 : L'élicitation du second observateur
+- **Tranche 5 [Lignes 634-752]** : d'Intégration d'un Attachement / Compulsion (Format Quadrangulaire) — *Protocole :* d'Intégration d'un Attachement / Compulsion (Format Quadrangulaire) | *Verbatim :* La Clôture Souple de Rumi (Démantèlement Métaphorique de l'Ego)
+- **Tranche 6 [Lignes 754-878]** : Protocole d'Intégration d'une Structure Réfractaire par l'Autorité (Démonstration avec Asa) — *Protocole :* Protocole d'Intégration d'une Structure Réfractaire par l'Autorité (Démonstration avec Asa) | *Mécanisme :* Le "Non" comme Révélateur d'Ordre Naturel & de Structure Préalable | *Verbatim :* L'Invitation Non-Directive de Dissolution
+- **Tranche 7 [Lignes 880-1037]** : A : La Polarité Inverse — Traitement d'une Aversion / Phobie / Évitement — *Protocole :* A : La Polarité Inverse — Traitement d'une Aversion / Phobie / Évitement | *Mécanisme :* La Polarité Structurelle Inconsciente (Attachement vs Aversion) | *Verbatim :* Utilisation de la Résistance en Auto-Séance
+- **Tranche 8 [Lignes 1039-1172]** : A : Exploration Multidimensionnelle des Problématiques de Santé et Douleurs Chroniques — *Protocole :* A : Exploration Multidimensionnelle des Problématiques de Santé et Douleurs Chroniques | *Mécanisme :* Le symptôme corporel comme invitation systémique et enseignant de vie | *Verbatim :* s Verbatim
+- **Tranche 9 [Lignes 1174-1299]** : Intégration par Relâchement de la Direction du Regard (Direction of Gaze Integration) — *Protocole :* Intégration par Relâchement de la Direction du Regard (Direction of Gaze Integration)
+- **Tranche 10 [Lignes 1301-1408]** : Localisation et Intégration du « Lieu de Présence » (Where Standing Protocol) — *Protocole :* Localisation et Intégration du « Lieu de Présence » (Where Standing Protocol) | *Mécanisme :* Le Lieu de Puissance / Le Point d'Origine Réel (Where I'm Actually Standing) | *Verbatim :* Recadrage Métaphorique de la Puissance Substantielle
+- **Tranche 11 [Lignes 1410-1523]** : « Where Am I Actually Standing » (Protocole Fondateur du Point de Présence) — *Protocole :* « Where Am I Actually Standing » (Protocole Fondateur du Point de Présence)
+- **Tranche 12 [Lignes 1525-1694]** : Intégration du Self as Object (Le "Moi" Objet / Position d'Impact) — *Protocole :* Intégration du Self as Object (Le "Moi" Objet / Position d'Impact) | *Verbatim :* Déconstruction de la boucle neuro-somatique de la douleur
+- **Tranche 13 [Lignes 1696-1845]** : Protocole : Intégration en Cascade (Fin de Phase 1) — *Protocole :* Protocole : Intégration en Cascade (Fin de Phase 1) | *Mécanisme :* L'Auto-Détermination du Mode d'Intégration & Résistance comme Signal de Besoins Phénoménologiques | *Verbatim :* L'Empilement des Modes d'Intégration
+- **Tranche 14 [Lignes 1847-1976]** : Phase 2 – Finding the Match Within (Travailler les Qualités Difficiles chez l'Autre) — *Protocole :* Phase 2 – Finding the Match Within (Travailler les Qualités Difficiles chez l'Autre) | *Mécanisme :* L'extraction du trait de caractère comme leurre d'ancrage sémantique | *Verbatim :* Le cadrage permissif de l'interprétation subjective
+- **Tranche 15 [Lignes 1978-2133]** : A : Intégration de l'Autre via l'Appariement Énergétique Direct — *Protocole :* A : Intégration de l'Autre via l'Appariement Énergétique Direct
+- **Tranche 16 [Lignes 2135-2288]** : A : Déconstruction et Intégration d'une Chaîne d'Autorités (Démonstration sur Marta) — *Protocole :* A : Déconstruction et Intégration d'une Chaîne d'Autorités (Démonstration sur Marta) | *Verbatim :* Le Recadrage de la Quête Spirituelle Évolutionniste
+- **Tranche 17 [Lignes 2290-2422]** : Protocole d'Accès au Champ de Conscience par l'Espace Spatial (Démonstration avec Carl) — *Protocole :* Protocole d'Accès au Champ de Conscience par l'Espace Spatial (Démonstration avec Carl) | *Verbatim :* Déconstruction de la Saisie Conceptuelle du Champ de Conscience
+- **Tranche 18 [Lignes 2424-2560]** : Protocole d'intervention d'urgence : Dépassement de défiance extrême d'une partie (Alliage S... — *Protocole :* Protocole d'intervention d'urgence : Dépassement de défiance extrême d'une partie (Alliage Spatial & Neutralisation d'antagonisme) | *Verbatim :* La métaphore développementale du nourrisson
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 18 ---
+## Tranche 1 / 18 : d'Exploration de la Genèse du Mécanisme de Coping & de la Trajectoire de la Conscience
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -174,8 +198,7 @@ flowchart TD
 > "How are we going to go anywhere if we're already everywhere at once? So it kind of requires this kind of contraction so that we're no longer everywhere at once before we can move somewhere, before we can go somewhere."
 - **[Analyse du Pattern]** : Question rhétorique et truisme spatial opératoire. L'interrogation initiale confronte la logique de l'espace non-duel (*« everywhere at once »*) avec celle du déplacement fini. En formulant la contraction comme une nécessité géométrique absolue (*« requires this kind of contraction... before we can move »*), elle normalise neurologiquement le symptôme de contraction : ce n'est pas une anomalie à combattre, mais la condition mécanique indispensable à la fuite du système nerveux.
 
-
-## --- Tranche 2 / 18 ---
+## Tranche 2 / 18 : La Trajectoire du Retour à la Maison (The Return Journey Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -305,8 +328,7 @@ flowchart TD
 > **« And so this kind of crying, you know, the crying can be this, oftentimes crying happens when the letting go is occurring. So it's like it can be tears of reconnection of like of what was lost is found. And in that case, what can help just the final release is to just let yourself as awareness kind of relax into the tears, into letting it flow through, letting the experience flow through, however it comes. And knowing the tears are fine. ... For this, the wide open awareness, the important news is that what was separated, what had left home has returned. That's the important news. So there's this joyousness, this overjoyed feeling of like, ah, reconnection. »**
 * **[Analyse du Pattern]** : Recadrage de somatisation émotionnelle associé à la métaphore biblique du fils prodigue. Connirae redéfinit la crise lacrymale non comme de la peine, mais comme l'indice somatique exact de la réunification (« what was lost is found »). La suggestion d'action « relax into the tears » utilise le truisme de l'écoulement pour induire un lâcher-prise neurologique. Enfin, la personnification de la « wide open awareness » comme une entité qui ne sait qu'aimer et célébrer le retour neutralise radicalement tout sentiment d'indignité (« no matter how undeserving we might believe we are »).
 
-
-## --- Tranche 3 / 18 ---
+## Tranche 3 / 18 : Dissolution des Rôles & Identités (Role / Identity Integration)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 3/18 du cours *Wholeness Work Level II* dispensé par Connirae Andreas.
 
@@ -456,8 +478,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 3/18 du cou
   * **Métaphore de l'abandon postural (*falling into the happening*) :** L'expression hypnotique invite à lâcher la prise de l'ego en suggérant une chute de confiance à l'intérieur même du phénomène en cours d'auto-accomplissement.
   * **Empilement modal adoucisseur :** *"there can and perhaps is can be even..."* sature les filtres critiques en minimisant toute contrainte directive.
 
-
-## --- Tranche 4 / 18 ---
+## Tranche 4 / 18 : Dissolution des Rôles & Identités (Wholeness Work Level II)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -610,8 +631,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 3/18 du cou
   - *Désamorçage par normalisation d'état (*« It's fine to be a little panicked »*) :* Rompt la boucle de panique secondaire (la peur d'avoir peur) en retirant l'étiquette d'anomalie au symptôme.
   - *Bifurcation opératoire immédiate (*« where's the one who's panicking right now? »*) :* Au lieu d'explorer le contenu verbal ou cognitif de la panique (« pourquoi paniques-tu ? »), elle applique instantanément le méta-modèle spatial du Wholeness Work. La panique est immédiatement réifiée en une entité localisable, amorçant mécaniquement sa déconstruction sensorielle.
 
-
-## --- Tranche 5 / 18 ---
+## Tranche 5 / 18 : d'Intégration d'un Attachement / Compulsion (Format Quadrangulaire)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -731,8 +751,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 3/18 du cou
 > « Check, does this, the energy here, does it welcome being invited to open, relax, melt in and as the full field of awareness that is everywhere at once, through the body and all around. So that can just be allowed to happen now in whatever way feels natural. »
 - **[Analyse du Pattern]** : Question de vérification écologie/permission (« *does it welcome being invited...* ») qui agit comme une commande déguisée. Empilement de prédicats de relâchement somatique gradué (« *open, relax, melt* »). L'utilisation de la double préposition « *in and as* » (dedans et *en tant que*) déplace la structure ontologique du sujet : la part ne fait pas que se dissoudre *dans* la conscience, elle *devient* le champ de conscience universel (« *everywhere at once* »). Clôture par une formule de complétion automatique permissive (« *can just be allowed to happen now...* »).
 
-
-## --- Tranche 6 / 18 ---
+## Tranche 6 / 18 : Protocole d'Intégration d'une Structure Réfractaire par l'Autorité (Démonstration avec Asa)
 
 Voici l'analyse opératoire intégrale de la tranche 6/18 de *Wholeness Work Level II* (Connirae Andreas).
 
@@ -858,8 +877,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/18 de *Wholeness Work Lev
   - **Marquage temporel d'état résultant** : L'utilisation répétée de *« now »* et *« after the eyes have integrated »* installe une relation de cause à effet incontournable : la dissolution de l'observateur égocentrique engendre mécaniquement la compassion.
   - **Nominalisation à charge hypnotique d'unification** : *« becoming part of the beloved »*. La structure auparavant repoussée ou évitée passe du statut de menace externe à celui d'objet d'amour inconditionnel (*« the awareness already loves it entirely »*), rendant la résistance somatique structurellement impossible.
 
-
-## --- Tranche 7 / 18 ---
+## Tranche 7 / 18 : A : La Polarité Inverse — Traitement d'une Aversion / Phobie / Évitement
 
 Voici l’analyse opératoire intégrale de la tranche 7/18 du cours *Wholeness Work Level II* de Connirae Andreas.
 
@@ -1018,8 +1036,7 @@ Voici l’analyse opératoire intégrale de la tranche 7/18 du cours *Wholeness 
   - **Métaphore archétypale universelle :** L'image de la *Méchante Sorcière de l'Ouest* fondant sous l'eau active une représentation visuelle instantanée de déconstruction moléculaire sans lutte. L'eau n'attaque pas la sorcière avec agressivité ; son simple contact dissout la menace.
   - **Recadrage alchimique supérieur :** Connirae corrige la fin du conte (*« I'm not sure this necessarily comes through in the movie... but in the real life inner version »*) : la menace dissoute ne disparaît pas dans le néant, elle est convertie en carburant vital (*« it all becomes a part of our aliveness »*). Il n'y a aucune perte dans le système psychique, seulement une transmutation d'une contraction défensive en vitalité disponible.
 
-
-## --- Tranche 8 / 18 ---
+## Tranche 8 / 18 : A : Exploration Multidimensionnelle des Problématiques de Santé et Douleurs Chroniques
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 8/18 de la transcription de Connirae Andreas (*Wholeness Work Level II*).
 
@@ -1154,8 +1171,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 8/18 de la 
 > "From craving arises sorrow. From craving arises fear. But he who is freed from craving has no sorrow and certainly no fear... And actually reflecting on that, I think sometimes I might say, from fear and sorrow arise craving. And without the fear and sorrow, there is no need for the craving."
 * **[Analyse du Pattern] :** Chiasme linguistique et inversion causale. Connirae prend la citation attribuée au Bouddha (Désir $\rightarrow$ Douleur/Peur) et applique une inversion symétrique (Peur/Douleur $\rightarrow$ Désir). Cette manœuvre linguistique recadre l'addiction ou la compulsion comme un comportement défensif dérivé, orientant l'action thérapeutique vers le soulagement de la blessure primaire.
 
-
-## --- Tranche 9 / 18 ---
+## Tranche 9 / 18 : Intégration par Relâchement de la Direction du Regard (Direction of Gaze Integration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1282,8 +1298,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 8/18 de la 
 ```
 * **[Analyse du Pattern]** : *Présupposition de sagesse systémique et recadrage de non-saisie (dé-focalisation cognitive)*. L'utilisation du terme « *the system* » hypostasie l'inconscient/la physiologie comme une entité autorégulatrice bienveillante et omnisciente. Ce cadrage libère le patient du besoin obsessionnel de « comprendre psychologiquement », empêchant la rumination intellectuelle et préservant l'espace interne pour l'intégration.
 
-
-## --- Tranche 10 / 18 ---
+## Tranche 10 / 18 : Localisation et Intégration du « Lieu de Présence » (Where Standing Protocol)
 
 Voici l'analyse modélisatrice complète et opératoire de la tranche 10/18 de *Wholeness Work Level II* (Connirae Andreas).
 
@@ -1392,8 +1407,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 10/18 de *
 > « Notice what happens or there can just be an allowing of yourself as awareness to just relax in and as the experience of this... So what happens now if I just let myself as awareness, all of the awareness that I am, sort of fall back into and as this. All of the awareness that I am can just fall into and as the sensation of this, relaxing in and as the sensation of this. »
 * **[Analyse du Pattern]** : Rupture syntaxique délibérée et présupposition d'identité via l'usage répété du couple prépositionnel « *in and as* » (au lieu du classique « *with* » ou « *into* »). Cette formule linguistique désagrège la frontière sujet-objet. La question ouverte « *what happens now if I just let myself...* » agit comme une suggestion indirecte irrésistible de lâcher-prise (« *fall back into* »), initiant la dissolution par fusion somatique complète.
 
-
-## --- Tranche 11 / 18 ---
+## Tranche 11 / 18 : « Where Am I Actually Standing » (Protocole Fondateur du Point de Présence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1508,8 +1522,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 10/18 de *
 ```
 * **[Analyse du Pattern]** : Rupture de pattern et utilisation ericksonienne du symptôme. Alors que la contraction est habituellement jugée comme un échec de la transe, elle est immédiatement requalifiée en phénomène digne d'affection (*« fall in love with it »*). La question rhétorique finale (*« What could be wrong with that? »*) anéantit instantanément le cadre de problème ou de faute cognitive.
 
-
-## --- Tranche 12 / 18 ---
+## Tranche 12 / 18 : Intégration du Self as Object (Le "Moi" Objet / Position d'Impact)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1680,8 +1693,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 10/18 de *
 > *"Since in some sense, this here in the heart area, this energy that's shining sharpness and so on, since in some sense, this is where you are already present, this is where you are already standing... notice what happens when you allow, just allow all of yourself as awareness to just relax into and as the sensation of this. When you allow yourself as awareness to fall into this, to sort of let yourself go where you already are. To allow yourself to fully be present where you in some sense already are."*
 - **[Analyse du Pattern]** : Suggestion ericksonienne construite sur une présupposition d'identité spatiale (*"since in some sense, this is where you are already present"*). Répétition hypnotique incantatoire de l'adverbe de permission (*"allow"*, *"just allow"*) combiné à une commande d'abandon moteur et cognitif (*"fall into"*, *"let yourself go where you already are"*). Le paradoxe d'aller là où l'on se trouve déjà court-circuite l'effort volontaire de l'ego et induit un relâchement fascial et respiratoire immédiat.
 
-
-## --- Tranche 13 / 18 ---
+## Tranche 13 / 18 : Protocole : Intégration en Cascade (Fin de Phase 1)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 13/18.
 
@@ -1832,8 +1844,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * **Démantèlement de l'ancrage visuel projectif :** L'injonction douce *"letting go of the image"* coupe court au cinéma mental, aux ruminations narratives et aux réactivations émotionnelles liées au visage ou aux expressions de l'agresseur.
   * **Spatialisation et Réduction Phénoménologique :** L'attention est réorientée exclusivement sur le volume tridimensionnel (*"in and through the space this representation takes up"*). Cela transforme un "ennemi relationnel" en un simple agrégat de sensations physiques pures (poids, pulsation), substrat neutre qui peut ensuite être métabolisé et intégré sans heurt par le système nerveux.
 
-
-## --- Tranche 14 / 18 ---
+## Tranche 14 / 18 : Phase 2 – Finding the Match Within (Travailler les Qualités Difficiles chez l'Autre)
 
 Voici l'analyse opératoire intégrale de la tranche 14/18 du cours *Wholeness Work Level II* de Connirae Andreas.
 
@@ -1964,8 +1975,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/18 du cours *Wholeness W
 > *"And I want to add that when we ask where's the energetic match, we're not going for a content match or a behavior match because we might not ever act like that person. It's possible. We're going for what the system can recognize as an energetic match, whether or not it makes any sense to us. And usually it doesn't."*
 * **[Analyse du Pattern]** : Clivage hypnotique entre cognition rationnelle et reconnaissance systémique. La double négation anticipatoire (*"we might not ever act like that person"*) apaise l'effroi de la dissonance morale. La clause de rupture de logique (*"whether or not it makes any sense to us. And usually it doesn't"*) pose un postulat d'absurdité intellectuelle normale, validant à l'avance tout signal somatique bizarre ou illogique comme le signe exact d'un travail profond réussi.
 
-
-## --- Tranche 15 / 18 ---
+## Tranche 15 / 18 : A : Intégration de l'Autre via l'Appariement Énergétique Direct
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2122,8 +2132,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/18 du cours *Wholeness W
 ```
 * **[Analyse du Pattern]** : *Entrelacement hypnotique récursif et questions ouvertes permissives*. Réciprocité syntaxique en chiasme (« *let it meet the awareness, let the awareness meet it* ») dissolvant la relation unilatérale sujet/objet. L'empilement d'options cinétiques non-directives (« *fall into it... come to it... dissolve and melt* ») opère comme des commandes cachées d'intégration sans violer l'écologie du système.
 
-
-## --- Tranche 16 / 18 ---
+## Tranche 16 / 18 : A : Déconstruction et Intégration d'une Chaîne d'Autorités (Démonstration sur Marta)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2278,8 +2287,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/18 du cours *Wholeness W
   - **Recyclage du matériel linguistique brut** : Les mots prononcés par le sujet ne sont plus traités comme de l'information sémantique, mais comme une signature spatiale et somatique immédiate de la structure de l'ego en action (*"Use your own words as your way in"*).
   - **Contrainte de proximité temporelle** : L'heuristique insiste sur la réactivité quasi-instantanée (*"if not much time goes by"*), exploitant la persistance de l'activité neuro-sensorielle avant que l'amnésie post-expression ou la rationalisation intellectuelle ne se réinstallent.
 
-
-## --- Tranche 17 / 18 ---
+## Tranche 17 / 18 : Protocole d'Accès au Champ de Conscience par l'Espace Spatial (Démonstration avec Carl)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2413,8 +2421,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/18 du cours *Wholeness W
   - **Abandon du métalangage théorique :** *« drop that language »* neutralise la surcharge cognitive liée aux étiquettes techniques de la méthode.
   - **Boucle de rétroaction en temps réel (*Real-Time Bio-Feedback Labyrinthe*) :** Utilise la production verbale spontanée du sujet comme ancre d'accès direct au point d'émanation de l'ego (*« where's that I »*), court-circuitant toute intellectualisation rétrospective.
 
-
-## --- Tranche 18 / 18 ---
+## Tranche 18 / 18 : Protocole d'intervention d'urgence : Dépassement de défiance extrême d'une partie (Alliage S...
 
 Voici l'analyse d'ingénierie et de modélisation de la tranche finale 18/18 de la formation *Wholeness Work Level II* de Connirae Andreas.
 
@@ -2551,3 +2558,4 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche finale 18/18 de 
   * *Utilisation du paradoxe et recadrage d'utilité* : Transformer une insulte ou une agression interne en un acte de communication remarquable (*« Thank the part... this is wonderful »*), ce qui brise immédiatement le pattern défensif de la partie.
   * *Triangulation et clivage spatial thérapeutique* : Le praticien s'allie temporairement avec la partie frondeuse *contre* les exigences du conscient de la personne (*« we're both going to ignore the person right now »*). Cela isole la partie de son déclencheur réactif habituel.
   * *Test d'adhésion directe* : La question fermée finale engage la partie dans un contrat relationnel sécure, permettant de basculer instantanément de la confrontation à la coopération.
+

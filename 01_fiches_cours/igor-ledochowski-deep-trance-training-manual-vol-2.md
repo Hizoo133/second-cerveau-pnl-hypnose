@@ -106,10 +106,30 @@ L'esprit ne distinguant pas neurologiquement une simulation multisensorielle viv
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 132-218]** : La Routine Universelle du Don Hypnotique (The Hypnotic Gift Routine) — *Protocole :* La Routine Universelle du Don Hypnotique (The Hypnotic Gift Routine) | *Mécanisme :* Architecture Modulaire des Dons Hypnotiques (Hypnotic Gifts) | *Verbatim :* Formule de Définition Opératoire du Cadre
+- **Tranche 2 [Lignes 220-319]** : d'Initialisation d'un "Hypnotic Gift" (Cadrage & Présentation) — *Protocole :* d'Initialisation d'un "Hypnotic Gift" (Cadrage & Présentation) | *Mécanisme :* Le Don Hypnotique (The Hypnotic Gift) | *Verbatim :* La finalité opératoire de la transe
+- **Tranche 3 [Lignes 321-505]** : L'Induction d'Elman Modifiée Verbale (The Modified Elman Induction) — *Protocole :* L'Induction d'Elman Modifiée Verbale (The Modified Elman Induction) | *Mécanisme :* Modèle Fonctionnel HABS (Hypnotic Context, Absorb Attention, Bypass Critical Thinking, Stimulate Unconscious Process) | *Verbatim :* Le Cadrage Temporel Anti-Résistance
+- **Tranche 4 [Lignes 507-746]** : Le Protocole Hypnotic Gift en 7 Étapes (Hero's Journey) — *Protocole :* Le Protocole Hypnotic Gift en 7 Étapes (Hero's Journey) | *Verbatim :* Le Creusement du Débriefing Minimaliste
+- **Tranche 5 [Lignes 748-929]** : Le Sanctuaire Intérieur (The Sanctuary & The Self) — *Protocole :* Le Sanctuaire Intérieur (The Sanctuary & The Self)
+- **Tranche 6 [Lignes 931-1180]** : The Ice Rain (Réduction de l'Inflammation) & Métaphorisation Somato-Sensorielle & Remplaceme... — *Protocole :* The Ice Rain (Réduction de l'Inflammation) | *Mécanisme :* Métaphorisation Somato-Sensorielle & Remplacement d'Antidote (Somatic Antidote Shift) | *Verbatim :* La Métaphorisation Dérivée (The Somatic Metaphorization Prompt)
+- **Tranche 7 [Lignes 1182-1593]** : The Vocal Tri-Color (Fin de la série lumineuse) — *Protocole :* The Vocal Tri-Color (Fin de la série lumineuse)
+- **Tranche 8 [Lignes 1595-1785]** : The Love Magnet & The Bridge of Goodbyes — *Protocole :* The Love Magnet | *Mécanisme :* Métaphorisation somatique et synesthésie affect-couleur | *Verbatim :* The Love Magnet — Élicitation de la métaphore
+- **Tranche 9 [Lignes 1787-2057]** : The Future Wave (La Vague du Futur) & Le Pont Somato-Chromatique (Harvesting a Feeling-Color) — *Protocole :* The Future Wave (La Vague du Futur) | *Mécanisme :* Le Pont Somato-Chromatique (Harvesting a Feeling-Color) | *Verbatim :* La Conversion Somato-Chromatique
+- **Tranche 10 [Lignes 2059-2261]** : The Golden Thread (Redressement Postural Sans Effort) — *Protocole :* The Golden Thread (Redressement Postural Sans Effort) | *Mécanisme :* Externalisation et Récipient Hermétique (Containment & Externalization) | *Verbatim :* Le Pré-cadrage de la Série du Contrôle
+- **Tranche 11 [Lignes 2263-2791]** : Le Régénérateur Isométrique (The Energizer) & Somato-Cognitive Isometric Pumping & Hyper-Aro... — *Protocole :* Le Régénérateur Isométrique (The Energizer) | *Mécanisme :* Somato-Cognitive Isometric Pumping & Hyper-Arousal Induction | *Verbatim :* L'Accroche Motivationnelle en Présupposition d'Apprentissage
+- **Tranche 12 [Lignes 2793-2980]** : The Future Memory & The Memory Cannon — *Protocole :* The Future Memory | *Mécanisme :* Régulation Homéostatique du Chaos (The Chaos Threshold) | *Verbatim :* The Future Memory Calibration
+- **Tranche 13 [Lignes 2982-3243]** : Leuner’s Stream (Upstream & Downstream) & Décharge et Régulation Métaphorique des Affects (L... — *Protocole :* Leuner’s Stream (Upstream & Downstream) | *Mécanisme :* Décharge et Régulation Métaphorique des Affects (Leuner's Guided Affective Imagery - GAI) | *Verbatim :* Citation 1 : Leuner’s Stream (The Obstacle Removal)
+- **Tranche 14 [Lignes 3245-3313]** : L'Administration du Cadeau Hypnotique de 2 Minutes (2-Minute Hypnotic Gift Conversion) — *Protocole :* L'Administration du Cadeau Hypnotique de 2 Minutes (2-Minute Hypnotic Gift Conversion) | *Mécanisme :* La Matrice Intégrative Fondatrice (Ontologie des sources recommandées par Ledochowski)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 14 ---
+## Tranche 1 / 14 : La Routine Universelle du Don Hypnotique (The Hypnotic Gift Routine)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -197,8 +217,7 @@ L'esprit ne distinguant pas neurologiquement une simulation multisensorielle viv
   - **Présupposition de compétence inconsciente** : *"that your unconscious mind knows exactly how to..."* neutralise le syndrome de l'imposteur ou l'anxiété de performance chez le sujet en postulant comme une évidence acquise que l'inconscient possède déjà toute l'expertise requise.
   - **Enchaînement temporel irréversible** : *"plant, nurture, and grow into your everyday life"* installe une séquence causale inévitable menant de la séance au pont vers le futur quotidien.
 
-
-## --- Tranche 2 / 14 ---
+## Tranche 2 / 14 : d'Initialisation d'un "Hypnotic Gift" (Cadrage & Présentation)
 
 Voici l’extraction intégrale, opératoire et structurée de la **Tranche 2/14** du manuel *Deep Trance Training Manual Vol 2* d’Igor Ledochowski.
 
@@ -299,8 +318,7 @@ Voici l’extraction intégrale, opératoire et structurée de la **Tranche 2/14
 > **"The key to this role-taking is that the subject 'acts as if' the suggestion were true both internally and externally. This is a form of Method-Acting. When someone merely performs the suggested behavior, without the internal component, they are 'faking' hypnosis. However, as soon as they pretend (to themselves) that their imaginings are real, they are responding hypnotically."**
 - **[Analyse du Pattern]** : Distinction critique par redéfinition sémantique. Ledochowski redéfinit le mot *"pretend"* (feindre/faire semblant) : s'il est appliqué à l'expérience interne (*"pretend (to themselves) that their imaginings are real"*), il cesse d'être une tromperie pour devenir la définition même du déclenchement hypnotique. Ce pattern linguistique fournit au praticien une directive directe déculpabilisante pour faire basculer n'importe quel sujet résistant ou incrédule dans l'expérience.
 
-
-## --- Tranche 3 / 14 ---
+## Tranche 3 / 14 : L'Induction d'Elman Modifiée Verbale (The Modified Elman Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -486,8 +504,7 @@ Voici l’extraction intégrale, opératoire et structurée de la **Tranche 2/14
   * **Présupposition d'appréciation :** *"What did you like about that..."* oriente la recherche transdérivationnelle vers un attribut plaisant, interdisant neurologiquement l'accès aux critères négatifs.
   * **Ancrage intégratif :** *"what lesson could you take away..."* force le néocortex à fabriquer un sens structurant et permanent à partir d'une simple sensation somatique passagère.
 
-
-## --- Tranche 4 / 14 ---
+## Tranche 4 / 14 : Le Protocole Hypnotic Gift en 7 Étapes (Hero's Journey)
 
 Voici l'analyse opératoire intégrale de la tranche 4/14 du cours *Deep Trance Training Manual Vol 2* d'Igor Ledochowski.
 
@@ -728,8 +745,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/14 du cours *Deep Trance 
   * Utilisation du conditionnel permissif et projectif (*"what color could X be?"*), évitant la pression du choix binaire et facilitant la réponse spontanée de l'inconscient.
   * Liaison syntaxique continue (*"And when you feel X in your Y like this..."*) qui verrouille l'association psychosomatique avant d'introduire le symbole modifiable.
 
-
-## --- Tranche 5 / 14 ---
+## Tranche 5 / 14 : Le Sanctuaire Intérieur (The Sanctuary & The Self)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -912,8 +928,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/14 du cours *Deep Trance 
 * **"Could it have a color?"**
   - **[Analyse du Pattern]** : *Suggestion permissive à faible réactance (Soft Modal Operator)*. L'utilisation du conditionnel de possibilité (*Could*) contourne toute résistance analytique chez les sujets non-visuels, transformant une injonction de synesthésie en une simple hypothèse exploratoire que le système nerveux adopte spontanément.
 
-
-## --- Tranche 6 / 14 ---
+## Tranche 6 / 14 : The Ice Rain (Réduction de l'Inflammation) & Métaphorisation Somato-Sensorielle & Remplaceme...
 
 Voici l'extraction et l'analyse intégrale de la matière opératoire contenue dans la tranche 6/14 du cours *Deep Trance Training Manual Vol 2* d'Igor Ledochowski.
 
@@ -1164,8 +1179,7 @@ Voici l'extraction et l'analyse intégrale de la matière opératoire contenue d
 > *"Now have the subject play the movie in reverse with their own 'belly laughter track' as the soundtrack."*
 *   **[Analyse du Pattern]** : Rupture de pattern kinesthésique majeure et superposition de canaux incompatibles. La commande de lecture inversée (*"in reverse"*) détruit la chaîne de causalité du souvenir traumatique, tandis que l'adjonction de l'ancrage auditif interne (*"belly laughter track"*) sature les centres de l'amygdale par une activation parasympathique viscérale violente, rendant la réponse de peur neurologiquement impossible à réactiver.
 
-
-## --- Tranche 7 / 14 ---
+## Tranche 7 / 14 : The Vocal Tri-Color (Fin de la série lumineuse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1578,8 +1592,7 @@ Voici l'extraction et l'analyse intégrale de la matière opératoire contenue d
 > *"In 'indoctrinational learning' the answer is paramount. The alternative method of learning is called education. An educator tries to draw out ('ex' = out; 'ducere' = to lead or draw) wisdom and insight from the student. In 'educational learning' the thought process is paramount."*
 > * **[Analyse du Pattern]** : Recadrage étymologique d'autorité. En déconstruisant la racine latine (*ex-ducere*), Ledochowski transmute la posture de l'apprenant : acquérir du savoir n'est plus se soumettre à une ingestion passive d'instructions externes (*in-doctrina*), mais libérer et extraire une puissance compressive déjà présente dans les réseaux neuronaux du sujet.
 
-
-## --- Tranche 8 / 14 ---
+## Tranche 8 / 14 : The Love Magnet & The Bridge of Goodbyes
 
 Voici l’analyse d’ingénierie opératoire de la tranche 8/14 du volume 2 du *Deep Trance Training Manual* d’Igor Ledochowski, structurée selon vos exigences.
 
@@ -1771,8 +1784,7 @@ Voici l’analyse d’ingénierie opératoire de la tranche 8/14 du volume 2 du 
   - *Équivalence complexe opératoire* : Attribution univoque d'une signification symbolique à deux composantes physiques : Couleur = Énergie vitale personnelle (à récupérer) ; Cendre/Fumée = Douleur psychique (à évacuer).
   - Cette dissociation sépare les ressources positives (récupérables) des déchets émotionnels (dispersables), empêchant le sujet d'assimiler son deuil à une perte identitaire irréversible.
 
-
-## --- Tranche 9 / 14 ---
+## Tranche 9 / 14 : The Future Wave (La Vague du Futur) & Le Pont Somato-Chromatique (Harvesting a Feeling-Color)
 
 Voici l'extraction opératoire intégrale de la **Tranche 9/14** du manuel *Deep Trance Training Manual Vol 2* d'Igor Ledochowski (*Part II - Hypnotic Gifts: The Success Series, The Confidence Series & Introduction to The Control Series*).
 
@@ -2044,8 +2056,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 9/14** du manuel *Deep
 > **« Sow a thought and reap a feeling. Sow a feeling and reap an action. Sow an action and reap a habit. Sow a habit and reap a destiny. »**
 * **[Analyse du Pattern] :** Polysyndète en chaîne anaphorique (*Climax / Gradatio*). Chaque conclusion devient la prémisse de l'étape suivante par analogie agricole (*Sow / Reap*). Ce schéma impose une logique de causalité implacable qui démontre à l'inconscient que la maîtrise de la destinée commence à la racine imperceptible de la pensée semée.
 
-
-## --- Tranche 10 / 14 ---
+## Tranche 10 / 14 : The Golden Thread (Redressement Postural Sans Effort)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2249,8 +2260,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 9/14** du manuel *Deep
 
 * **[Analyse du Pattern]** : **Double négation opératoire et dissociation de l'effort**. La formulation suspend la croyance erronée qu'une posture droite exige une contraction active continue (*"stop trying to maintain"*), tout en posant un garde-fou linguistique immédiat contre l'affaissement (*"without allowing themselves to collapse"*). L'alignement devient ainsi un état passif d'équilibre naturel.
 
-
-## --- Tranche 11 / 14 ---
+## Tranche 11 / 14 : Le Régénérateur Isométrique (The Energizer) & Somato-Cognitive Isometric Pumping & Hyper-Aro...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2780,8 +2790,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 9/14** du manuel *Deep
 
 * **[Analyse du Pattern]** : Ancrage de transition somatosensoriel avec suggestion d'assimilation dermique. Ce motif linguistique résout la rupture entre l'état de transe et la réalité ordinaire. Le signifiant tactile de la « poussière » sur la peau sert de pont somatique : l'affirmation selon laquelle cette substance est *« absorbée à travers les pores »* implante l'idée puissante que la compétence n'est pas un costume extérieur superficiel que l'on abandonne, mais une transformation moléculaire et durable définitivement incorporée dans le tissu biologique du sujet.
 
-
-## --- Tranche 12 / 14 ---
+## Tranche 12 / 14 : The Future Memory & The Memory Cannon
 
 Voici l'analyse modélisatrice complète, opératoire et rigoureuse de la tranche 12/14 du cours *Deep Trance Training Manual Vol 2* d'Igor Ledochowski.
 
@@ -2970,8 +2979,7 @@ Voici l'analyse modélisatrice complète, opératoire et rigoureuse de la tranch
 
 *   **[Analyse du Pattern]** : Double contrainte temporelle et rupture de pattern dopaminergique. La suggestion installe l'idée que le signal de plénitude corporelle n'est pas une lourdeur mais un confort précoce (*« comfortable full feeling before their meal is done »*). L'association submodalitaire est conditionnée sous forme d'ancrage synesthésique direct : Sensation interne de satiété $\rightarrow$ Décoloration visuelle instantanée des aliments. Le système de récompense visuel s'éteint net, rendant la poursuite de l'acte alimentaire non gratifiante et naturelle l'interruption du repas.
 
-
-## --- Tranche 13 / 14 ---
+## Tranche 13 / 14 : Leuner’s Stream (Upstream & Downstream) & Décharge et Régulation Métaphorique des Affects (L...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3234,8 +3242,7 @@ Voici l'analyse modélisatrice complète, opératoire et rigoureuse de la tranch
   * **Surcharge hypnotique de satisfaction (Saturation sensorielle)** : Au lieu de négocier ou de combattre, l'injonction d'abondance démesurée ("overabundance") épuise la charge pulsionnelle agressive.
   * **Double lien pacificateur** : En forçant la créature à manger jusqu'au sommeil, le praticien utilise une réponse parasympathique animale universelle (la somnolence postprandiale) transposée au niveau archétypal pour garantir une extinction du réflexe de peur sans générer de culpabilité chez le sujet.
 
-
-## --- Tranche 14 / 14 ---
+## Tranche 14 / 14 : L'Administration du Cadeau Hypnotique de 2 Minutes (2-Minute Hypnotic Gift Conversion)
 
 Voici l'analyse opératoire de la tranche 14/14 du cours *Deep Trance Training Manual Vol 2* d'Igor Ledochowski (conclusion de l'ouvrage et Appendix).
 
@@ -3304,3 +3311,4 @@ Voici l'analyse opératoire de la tranche 14/14 du cours *Deep Trance Training M
 * **Extrait 3 :**
   > *"Now get out there and share your gifts with the world!"*
   * **[Analyse du Pattern]** : Commande directe d'activation motrice et comportementale au mode impératif (*"get out there"*). Recadrage métaphorique de la compétence technique en générosité universelle (*"share your gifts"*), levant toute inhibition éthique ou timidité sociale liée à la pratique de l'hypnose en contexte réel.
+

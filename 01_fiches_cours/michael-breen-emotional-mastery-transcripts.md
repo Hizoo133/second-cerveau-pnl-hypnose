@@ -87,10 +87,21 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 104-214]** : L'Intervention par la « Moindre Variabilité » (Désamorçage de Boucle Calibrée) — *Protocole :* L'Intervention par la « Moindre Variabilité » (Désamorçage de Boucle Calibrée) | *Mécanisme :* Déconstruction Opératoire de l'État : Le Couplage Représentation-Physiologie | *Verbatim :* La Disqualification Physique de la Cause-Effet Linguistique
+- **Tranche 2 [Lignes 216-359]** : Audit & Recadrage de la Ligne de Base Émotionnelle (Baseline / Through-Line Discovery) — *Protocole :* Audit & Recadrage de la Ligne de Base Émotionnelle (Baseline / Through-Line Discovery) | *Mécanisme :* Saturation des Récepteurs & Extinction par Broderie Absurde | *Verbatim :* La Saturation des Papilles (Analogie Isomorphe)
+- **Tranche 3 [Lignes 361-501]** : A : La Bascule Alpha Flash (Induction par Triple Soupir Neuro-respiratoire) — *Protocole :* A : La Bascule Alpha Flash (Induction par Triple Soupir Neuro-respiratoire) | *Mécanisme :* Le Calibrage des Critères et l'Attention Dirigée (RAS Priming) | *Verbatim :* L'Exercice de Définition Criterielle et d'Attention Dirigée
+- **Tranche 4 [Lignes 503-636]** : Le Gyroscope Kinesthésique (Neutralisation d'atmosphère ou d'état négatif) — *Protocole :* Le Gyroscope Kinesthésique (Neutralisation d'atmosphère ou d'état négatif) | *Mécanisme :* Le principe du Gyroscope Kinesthésique (Stabilisation par contre-mouvement somatique) | *Verbatim :* La dissolution du dualisme intérieur/extérieur
+- **Tranche 5 [Lignes 638-733]** : Dénominalisation Somatique Instantanée (Choc par l'Absurde) — *Protocole :* Dénominalisation Somatique Instantanée (Choc par l'Absurde) | *Mécanisme :* Dénominalisation radicale par matérialisation littérale (Anti-réification) | *Verbatim :* La rupture de pattern par concrétisation absurde
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 5 ---
+## Tranche 1 / 5 : L'Intervention par la « Moindre Variabilité » (Désamorçage de Boucle Calibrée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -202,8 +213,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Utilisation d'un exemple extrême (limite phobique/mortelle) comme cadre de référence maximalisant (« extreme pacing »). En démontrant que le choix persiste même sous la menace létale directe d'une arme à feu, Breen détruit par avance toute objection future concernant des contextes ordinaires du quotidien (bureau, disputes de couple). Si le choix existe face à un canon de fusil, il existe obligatoirement face à une simple remarque désobligeante.
 
-
-## --- Tranche 2 / 5 ---
+## Tranche 2 / 5 : Audit & Recadrage de la Ligne de Base Émotionnelle (Baseline / Through-Line Discovery)
 
 Voici l'extraction opératoire intégrale de la tranche 2/5 du cours **Emotional Mastery** par **Michael Breen**.
 
@@ -348,8 +358,7 @@ Voici l'extraction opératoire intégrale de la tranche 2/5 du cours **Emotional
 
 - **[Analyse du Pattern] :** Boucle de répétition incantatoire et empilement de suggestions directes à faible seuil de résistance. L'insertion répétée du refrain rythmique « *5% more... 5% more... 5% more* » contourne le facteur critique en présentant l'effort comme négligeable (« *a tiny little fraction* »), neutralisant ainsi l'angoisse liée aux grands changements. Par la répétition de ce micro-opérateur, Breen crée une dynamique cumulative où l'organisme intègre l'impératif d'élévation continue de tonus sans déclencher la résistance homéostatique habituelle du sujet.
 
-
-## --- Tranche 3 / 5 ---
+## Tranche 3 / 5 : A : La Bascule Alpha Flash (Induction par Triple Soupir Neuro-respiratoire)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -491,8 +500,7 @@ Voici l'extraction opératoire intégrale de la tranche 2/5 du cours **Emotional
 ```
 * **[Analyse du Pattern]** : Déconstruction épistémologique par méta-niveau (*« Understand at a higher level »*). Utilisation du « comme si » (*as-if frame*) pour exposer le caractère construit de la réalité sensorielle. En réattribuant l'autorité de l'expérience au cortex sensorimoteur, il redonne au sujet la manipulabilité totale des submodalités (étirer, condenser, inverser le sens de rotation du gyroscope kinesthésique).
 
-
-## --- Tranche 4 / 5 ---
+## Tranche 4 / 5 : Le Gyroscope Kinesthésique (Neutralisation d'atmosphère ou d'état négatif)
 
 Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 4/5 de la transcription de Michael Breen (*Emotional Mastery*).
 
@@ -627,8 +635,7 @@ Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 
 > "The question itself, the presuppositions in the question, are parasites. This notion of trapped emotions and suppressed emotion, it doesn't actually have a neurological foundation. It's a metaphor. It's an analogy. It's a way of talking. But if you talk as if that analogy is true, then you'll start to act as if it's true. And then suddenly you'll start experiencing trapped emotions."
 - **[Analyse du Pattern]** : Traque et élimination des présuppositions pernicieuses. Breen qualifie la question de "parasite", démontant le piège de la prophétie auto-réalisatrice créée par les nominalisations non vérifiées : langage métaphorique $\rightarrow$ simulation motrice $\rightarrow$ expérience symptomatique réelle.
 
-
-## --- Tranche 5 / 5 ---
+## Tranche 5 / 5 : Dénominalisation Somatique Instantanée (Choc par l'Absurde)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 5/5 du cours *Emotional Mastery* de Michael Breen.
 
@@ -724,3 +731,4 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 #### Pépite 5 : Clôture par injonction directe anti-rumination
 > *"Why don't you just start feeling better? Just do it. Don't worry. Just do it."*
 * **[Analyse du Pattern]** : Question rhétorique négative (*"Why don't you..."*) qui contourne le facteur critique en présupposant l'accessibilité immédiate de l'état ressource, suivie de la répétition en boucle de la commande directe simplifiée à l'extrême (*"Just do it"*). Ce pattern casse net les stratégies d'évitement ou d'auto-analyse complaisante des étudiants.
+

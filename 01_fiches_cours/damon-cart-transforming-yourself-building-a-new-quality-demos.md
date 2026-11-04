@@ -61,10 +61,18 @@ Le fil conducteur unifiant toutes les démonstrations est la **transposition d'a
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 75-235]** : Construction d'une Nouvelle Qualité du Concept de Soi (Processus Damon Cart / Steve Andreas) — *Protocole :* Construction d'une Nouvelle Qualité du Concept de Soi (Processus Damon Cart / Steve Andreas) | *Mécanisme :* Le Vide Structurel d'une Qualité Non-Existante (Non-Existent Quality) | *Verbatim :* La distinction structurelle du non-calcul cognitif
+- **Tranche 2 [Lignes 237-377]** : d'Intégration & Résolution des Contre-Exemples (Modèle Self-Concept Recode) — *Protocole :* d'Intégration & Résolution des Contre-Exemples (Modèle Self-Concept Recode) | *Verbatim :* Recadrage de la Résistance en Travail d'Alignement Profond
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Construction d'une Nouvelle Qualité du Concept de Soi (Processus Damon Cart / Steve Andreas)
 
 Voici l'analyse modélisatrice intégrale, structurée et purement opératoire de la tranche 1/2 de la transcription brute de Damon Cart (*Building A New Quality Demos*).
 
@@ -226,8 +234,7 @@ flowchart TD
 > *"So go second position with that pain and ask it, what its positive intent is for you. [...] If it doesn't want you to get hurt, what does it want for you? To be safe. OK. To be safe. So how can you create future examples of Q, building safety into it as well?"*
 * **[Analyse du Pattern]** : Fragmentation en parties et recadrage d'intention positive par questionnement ericksonien récursif. Damon Cart traite la douleur corporelle non comme un obstacle somato-psychique à supprimer, mais comme un sujet autonome doté d'une intention bienveillante (*"what does it want for you?"*). En obtenant le critère fondamental (*"To be safe"*), il insère ce critère directement dans la commande d'imagerie future (*"building safety into it as well"*), ce qui dissout l'impasse sans combat intérieur.
 
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : d'Intégration & Résolution des Contre-Exemples (Modèle Self-Concept Recode)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -368,3 +375,4 @@ flowchart TD
 #### Pépite 5 : Recadrage de la Transe Euphorique et Impératif d'Intégration
 > « There can be a problem with that too. Because it can become a little, when you get into like the euphoric feeling too much, that means there's, that you've lost groundedness and there's going to be more integration. And that's what putting the counter examples in there does is it integrates. So, let's finish the integration. »
 * **[Analyse du Pattern]** : Rupture abrupte d'idéalisation et ancrage de réalité. Cart identifie le piège de la transe béate et redéfinit l'euphorie non pas comme une victoire, mais comme un symptôme d'instabilité (« *lost groundedness* »). L'utilisation de l'équivalence complexe (« *that means... you've lost groundedness* ») couplée à la répétition hypnotique de la racine « *integrates / integration* » réoriente instantanément le système du sujet vers la tâche pragmatique : fusionner les contre-exemples pour sceller la certitude dans la matière.
+

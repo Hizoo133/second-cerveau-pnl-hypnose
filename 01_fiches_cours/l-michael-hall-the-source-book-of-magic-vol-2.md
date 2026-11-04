@@ -91,10 +91,47 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 134-250]** : d'Amorce Fondamentale du Méta-État (The Meta-Stating Primer) — *Protocole :* d'Amorce Fondamentale du Méta-État (The Meta-Stating Primer) | *Mécanisme :* Le Principe de Réflexivité Psycho-Émotionnelle et de Bouclage Non-Linéaire | *Verbatim :* La Présupposition de Souveraineté Neurologique
+- **Tranche 2 [Lignes 252-364]** : Elicitation et Diagnostic de Structure d'un État — *Protocole :* Elicitation et Diagnostic de Structure d'un État | *Mécanisme :* Le Principe de Dépendance d'État (State Dependency) & Champ Énergétique | *Verbatim :* L'Amorce d'Amplification et de Pompage d'État
+- **Tranche 3 [Lignes 366-527]** : Texturation d'État par Coalescence Méta-Sémantique (Meta-Stating for State Texturing) — *Protocole :* Texturation d'État par Coalescence Méta-Sémantique (Meta-Stating for State Texturing) | *Mécanisme :* Le « Logical Leveling » et la Dénominalisation des Niveaux Logiques | *Verbatim :* Le Double-Bind d'Induction Méta-Niveau
+- **Tranche 4 [Lignes 529-651]** : L'Arpentage du Diamant de la Conscience (Méta-Questionnement des Matrices de Cadres) — *Protocole :* L'Arpentage du Diamant de la Conscience (Méta-Questionnement des Matrices de Cadres) | *Mécanisme :* Coalescence des Niveaux et Émergence de Gestalts Supérieurs | *Verbatim :* Verbatim 1 : L'Inclusion de Classe et Coalescence
+- **Tranche 5 [Lignes 653-743]** : d'Ingénierie Psycho-Logique par Méta-Stating (Changement de Catégorie Sémantique) — *Protocole :* d'Ingénierie Psycho-Logique par Méta-Stating (Changement de Catégorie Sémantique) | *Mécanisme :* Différenciation Plethore vs Creatura (Bateson) / Physique vs Psycho-Logique (Korzybski)
+- **Tranche 6 [Lignes 745-937]** : Le Schéma Fondamental du Méta-État (Essential Core vs. Elaboration) — *Protocole :* Le Schéma Fondamental du Méta-État (Essential Core vs. Elaboration) | *Mécanisme :* Le Moteur Réflexif Fondamental et les États Métas (reflexivity selfreflexiveconsciousness metalevels) | *Verbatim :* La Négation Transformatrice de la Matrice Traumatique
+- **Tranche 7 [Lignes 939-1140]** : Le Protocole Fondamental de Méta-État (The Basic Meta-Stating Pattern / Les 5 "A") — *Protocole :* Le Protocole Fondamental de Méta-État (The Basic Meta-Stating Pattern / Les 5 "A") | *Mécanisme :* Inflexion descendante et congruence de commande somato-vocale | *Verbatim :* s Verbatim
+- **Tranche 8 [Lignes 1142-1301]** : Le Débusquage de Méta-États (The Meta-State Flush Out) — *Protocole :* Le Débusquage de Méta-États (The Meta-State Flush Out) | *Mécanisme :* La Texturation des États (Texturing of States) & Dépassement du "Plain Vanilla" | *Verbatim :* L'Induction au Connaisseur d'États (Empilement de Suppositions)
+- **Tranche 9 [Lignes 1303-1526]** : L'APPROPRIATION DU CERCLE DE POUVOIR (THE POWER ZONE) — *Protocole :* L'APPROPRIATION DU CERCLE DE POUVOIR (THE POWER ZONE) | *Mécanisme :* Le Cercle de Pouvoir et les Quatre Pouvoirs Centraux | *Verbatim :* L'Ancrage Linguistique de l'Appropriation Radicale
+- **Tranche 10 [Lignes 1528-1736]** : Meta-Stating Pleasure (Méta-Structuration du Plaisir) — *Protocole :* Meta-Stating Pleasure (Méta-Structuration du Plaisir) | *Mécanisme :* Surcharge Sémantique du Plaisir Primaire (Meta-Pleasures & Over-riding) | *Verbatim :* La Clôture Sémantique Réductrice (De-pleasuring)
+- **Tranche 11 [Lignes 1738-2092]** : The Miracle Matrix Pattern (Fin du Pattern 22) — *Protocole :* The Miracle Matrix Pattern (Fin du Pattern 22) | *Mécanisme :* La Transe Post-Miracle & Reconfiguration Écologique du Système de Croyances (Pattern Miracle) | *Verbatim :* L'Induction du Miracle Inaccessible
+- **Tranche 12 [Lignes 2094-2219]** : Meta-Stating Negative Emotions (Apprivoisement des Émotions Réprouvées) — *Protocole :* Meta-Stating Negative Emotions (Apprivoisement des Émotions Réprouvées) | *Mécanisme :* Le Signal Somatique de Divergence Carte/Territoire (L'Émotion Primaire)
+- **Tranche 13 [Lignes 2221-2387]** : Fear Blow-Out (Éradication de la Peur Inhibitrice) — *Protocole :* Fear Blow-Out (Éradication de la Peur Inhibitrice) | *Mécanisme :* Le Méta-État Décisionnel Exécutif | *Verbatim :* Le Verrou Exécutif et l'Attracteur Mental
+- **Tranche 14 [Lignes 2389-2584]** : Ré-empreinte des Ressources sur la Ligne du Temps (Fin de processus) — *Protocole :* Ré-empreinte des Ressources sur la Ligne du Temps (Fin de processus) | *Mécanisme :* Double Dissociation Visuelle/Kinesthésique (V-K Dissociation / Cabine de projection) | *Verbatim :* Rupture de Pattern et Provocation de Séparation Syntaxique
+- **Tranche 15 [Lignes 2586-2784]** : Finition du Bégaiement : "Embrasser le Dragon" & Méta-Intention Exécutive — *Protocole :* Finition du Bégaiement : "Embrasser le Dragon" & Méta-Intention Exécutive | *Mécanisme :* Déframage par Drop-Down Through (Chute Kinesthésique Libre) | *Verbatim :* Verbatim 1 : Permission Paradoxale face au Dragon du Bégaiement
+- **Tranche 16 [Lignes 2786-3073]** : META-STATING SELF (Acceptation, Appréciation, Estime) — *Protocole :* META-STATING SELF (Acceptation, Appréciation, Estime) | *Mécanisme :* Le dédoublement systémique : Self1 vs Self2 et la prophétie auto-réalisatrice neuro-sémantique | *Verbatim :* La provocation ludique déstabilisatrice de l'auto-mépris
+- **Tranche 17 [Lignes 3075-3188]** : Validation de l'Auto-Efficacité par la Zone de Pouvoir — *Protocole :* Validation de l'Auto-Efficacité par la Zone de Pouvoir | *Mécanisme :* La Zone de Pouvoir comme Fondement de l'Auto-Efficacité (Self-Efficacy)
+- **Tranche 18 [Lignes 3190-3399]** : Meta-Stating "Strength" (Enchâssement d'un Déclencheur Faible dans la Force) — *Protocole :* Meta-Stating "Strength" (Enchâssement d'un Déclencheur Faible dans la Force) | *Verbatim :* Verbatim 1 : L'Induction du Puma (Bandler citée par Hall)
+- **Tranche 19 [Lignes 3401-3526]** : Alignement Neuro-Logique par Intégration Descendante (Top-down Integration Walk) — *Protocole :* Alignement Neuro-Logique par Intégration Descendante (Top-down Integration Walk) | *Mécanisme :* La hiérarchisation neuro-logique inversée (Descente d'intégration / Top-down Integration Walk) | *Verbatim :* La Descente d'Intégration Neuro-Logique
+- **Tranche 20 [Lignes 3528-3716]** : Ingénierie Gestaltique du Courage (Meta-Stating Courage) — *Protocole :* Ingénierie Gestaltique du Courage (Meta-Stating Courage) | *Mécanisme :* L'Ingénierie Gestaltique des États Émergents | *Verbatim :* Verbatim 1 : L'Ancrage de l'Indexation Optimiste
+- **Tranche 21 [Lignes 3718-3885]** : META-STATING MAGNANIMITY (Installer la Grandeur d'Âme) — *Protocole :* META-STATING MAGNANIMITY (Installer la Grandeur d'Âme) | *Mécanisme :* Le « Gap of Consciousness » (L'Intervalle S-R & La Zone de Pouvoir) | *Verbatim :* PÉPITE 1 : L'Arrimage de la Responsabilité Radicale (Power Zone Formula)
+- **Tranche 22 [Lignes 3887-4073]** : Récupération après Trahison (Recovering from Betrayal) — *Protocole :* Récupération après Trahison (Recovering from Betrayal) | *Mécanisme :* Le Méta-État d'Interprétation du Traumatisme Relationnel | *Verbatim :* Induction de Régression et Dilatation Temporelle
+- **Tranche 23 [Lignes 4075-4320]** : Externalisation & Épaississement de l'Intrigue (Narrative De-framing & Re-storying) — *Protocole :* Externalisation & Épaississement de l'Intrigue (Narrative De-framing & Re-storying) | *Mécanisme :* Externalisation Narrative et Dé-nominalisation | *Verbatim :* Dé-cadrage par Externalisation Narrative
+- **Tranche 24 [Lignes 4322-4491]** : LE PATTERN DE CONTOURNEMENT DE PROBLÈME (GOING AROUND PROBLEMS PATTERN) — *Protocole :* LE PATTERN DE CONTOURNEMENT DE PROBLÈME (GOING AROUND PROBLEMS PATTERN) | *Mécanisme :* Le Principe de Déviation Pré-Symptomatique (Pre-Trigger Stepping Aside) | *Verbatim :* Le Cadre de Déviation Temporelle
+- **Tranche 25 [Lignes 4493-4660]** : Protocole : Intégration Comportementale d'un Principe (Flesh-and-Blood Implementation) — *Protocole :* Protocole : Intégration Comportementale d'un Principe (Flesh-and-Blood Implementation) | *Mécanisme :* L'Outframing d'Einstein (Résolution de problèmes par saut de niveau logique) | *Verbatim :* Le Recadrage de la Plasticité Neurologique Immédiate
+- **Tranche 26 [Lignes 4662-4827]** : Le Jeu du Coaching Exécutif (The Executive Coaching Game) — *Protocole :* Le Jeu du Coaching Exécutif (The Executive Coaching Game) | *Verbatim :* Le Cadre du "Ce n'est pas vraiment une question" (Weakland Pre-Frame)
+- **Tranche 27 [Lignes 4829-5018]** : Transforming "Failure" into Internal Success & Inversion de Source Téléologique : Agir "Depu... — *Protocole :* Transforming "Failure" into Internal Success | *Mécanisme :* Inversion de Source Téléologique : Agir "Depuis" vs Agir "Pour" | *Verbatim :* Inversion du Vecteur Téléologique
+- **Tranche 28 [Lignes 5020-5152]** : Ingénierie de Conception des Règles du Jeu (Designing New Rules for the Games) — *Protocole :* Ingénierie de Conception des Règles du Jeu (Designing New Rules for the Games)
+- **Tranche 29 [Lignes 5154-5295]** : Protocole : Effraction aux Frontières du Cadre (Leveraging Change at the Borders) — *Protocole :* Protocole : Effraction aux Frontières du Cadre (Leveraging Change at the Borders) | *Verbatim :* Le Levier de Démantèlement des Méta-Binds
+- **Tranche 30 [Lignes 5297-5452]** : Désamorçage Thérapeutique de la Réactivité Polaire (Immunité à l'Insulte) — *Protocole :* Désamorçage Thérapeutique de la Réactivité Polaire (Immunité à l'Insulte) | *Mécanisme :* Auto-Réflexivité et Boucles Rentrantes de la Conscience | *Verbatim :* La Perplexité Ericksonienne et l'Invulnérabilité à l'Insulte
+- **Tranche 31 [Lignes 5454-5602]** : L'Algorithme de Fusion Gestaltique (Création d'États Méta et Gestalts Opératoires) — *Protocole :* L'Algorithme de Fusion Gestaltique (Création d'États Méta et Gestalts Opératoires) | *Mécanisme :* Le Modèle des Niveaux Systémiques Non-Linéaires et l’Émergence Gestaltique | *Verbatim :* La question d'ascension méta (Transposée de Core Transformation)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 31 ---
+## Tranche 1 / 31 : d'Amorce Fondamentale du Méta-État (The Meta-Stating Primer)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -212,8 +249,7 @@ graph TD
     *   *Structure linguistique :* Série de questions conversationnelles réflexives à présupposition de capacité et de modulation somatosensorielle continue.
     *   *Effet syntaxique :* Utilisation de l'oxymore fonctionnel d'action *“thinking-feeling”* qui court-circuite la dissociation cartésienne corps/esprit. La question n'interroge pas la possibilité du changement, mais sa modalité opérationnelle (*“What happens when...”* présuppose que l'amplification a déjà lieu). L'introduction du marqueur kinesthésique familier *“juice”* agit comme une métaphore analogique brute d'énergie métabolique, tandis que la double direction (*“amplify”* vs *“soften, temper, reduce”*) offre une illusion de choix total au sujet tout en installant l'axiome central : l'état est un curseur entièrement sous son contrôle.
 
-
-## --- Tranche 2 / 31 ---
+## Tranche 2 / 31 : Elicitation et Diagnostic de Structure d'un État
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -327,8 +363,7 @@ graph TD
 > "“But that’s not logical.” Yes, of course not! Rather than “logical,” it is psycho–logical. And that’s the difference we have to keep in mind, understand, and let govern our exploration of the meta-levels of our mind in the matrix of our frames within frames—the psycho-logics that we create."
 * **[Analyse du Pattern]** : Rupture de cadre et technique d'utilisation (*utilization*). L'objection potentielle d'irrationalité est validée immédiatement (*"Yes, of course not!"*), désamorçant toute résistance rationnelle, avant d'opérer un recadrage sémantique par néologisme et distinction de catégorie : substitution de la logique aristotélicienne binaire par la « psycho-logique » systémique. L'insertion enchâssée *"and let govern our exploration"* agit comme une commande présupposée installant le cadre méta d'apprentissage sans débat possible.
 
-
-## --- Tranche 3 / 31 ---
+## Tranche 3 / 31 : Texturation d'État par Coalescence Méta-Sémantique (Meta-Stating for State Texturing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -491,8 +526,7 @@ graph TD
   * **Prédicats kinesthésiques descendants hautement suggestifs :** Utilisation délibérée de verbes de flux somatique progressif (*« seep down »*, *« permeate »*, *« coalesce »*, *« texture »*).
   * **Induction d'un processus neuro-spatial d'infusion :** La syntaxe induit une physique interne où l'énergie du méta-cadre (l'huile ou l'eau) pénètre la matière du niveau inférieur, installant la conviction que l'expérience ancienne sera irrémédiablement nuancée et assouplie par le cadre supérieur.
 
-
-## --- Tranche 4 / 31 ---
+## Tranche 4 / 31 : L'Arpentage du Diamant de la Conscience (Méta-Questionnement des Matrices de Cadres)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -616,8 +650,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Scission conceptuelle entre faits bruts sensoriels (*brute facts*) et signification sémantique (*meaning*). Hall détruit la causalité magique souvent attribuée aux sous-modalités dans la PNL classique (« changer la sous-modalité change mécaniquement l'état ») en réintroduisant le méta-niveau obligatoire de l'évaluation cognitive (« interpretation and appraisal occurs at a meta-level »). La suggestion implicite installe le praticien en position de réalisateur/monteur conscient de son propre film cérébral.
 
-
-## --- Tranche 5 / 31 ---
+## Tranche 5 / 31 : d'Ingénierie Psycho-Logique par Méta-Stating (Changement de Catégorie Sémantique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -709,8 +742,7 @@ flowchart TD
     > "The only way to rid yourself of unwanted thoughts, emotions, behaviors, habits, etc. involves, paradoxically, welcoming, accepting, appreciating, and celebrating that very thought, emotion, behavior, etc. By paradoxically welcoming the undesired thought or emotion into consciousness you take charge of it. You can then just observe it with a non-judgmental awareness."
     *   **[Analyse du Pattern]** : Injonction paradoxale à structure exclusive (*« The only way... involves »*). L'opérateur modal de nécessité absolue est associé à une gradation d'attitudes d'accueil croissant (*« welcoming, accepting, appreciating, celebrating »*), créant une rupture radicale avec le réflexe neurologique de fuite ou de combat. L'empilement installe une position de témoin non-jugeant (*« non-judgmental awareness »*) qui neutralise la réactivité limbique par outframing.
 
-
-## --- Tranche 6 / 31 ---
+## Tranche 6 / 31 : Le Schéma Fondamental du Méta-État (Essential Core vs. Elaboration)
 
 Voici l'analyse opératoire intégrale de la tranche 6/31 du cours *"The Source Book of Magic Vol 2"* dispensé par L. Michael Hall.
 
@@ -904,8 +936,7 @@ L'esprit peut projeter sa conscience dans sept directions spatiales et logiques 
   - **Analogie procédurale concrète (Analogous Framing) :** Hall utilise un objet technologique commun (le fax) pour modéliser une abstraction épistémologique complexe (le méta-message).
   - **Double contrainte explicative :** Il démontre qu'un message dénué de méta-cadre (*unlabeled fax*) induit structurellement un état de confusion ou de doute, justifiant ainsi l'obligation absolue pour le praticien de contrôler et d'étiqueter explicitement les cadres d'interprétation chez le client.
 
-
-## --- Tranche 7 / 31 ---
+## Tranche 7 / 31 : Le Protocole Fondamental de Méta-État (The Basic Meta-Stating Pattern / Les 5 "A")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1108,8 +1139,7 @@ L'esprit peut projeter sa conscience dans sept directions spatiales et logiques 
 > "I always take immediate action on new learnings that I value so that I get it into my neurology."
 - **[Analyse du Pattern]** : Suggestion d'identité opératoire et formule de ciment neuro-sémantique. Connecteur de cause-conséquence (*"so that"*), quantification universelle positive (*"always"*), critère de tri valorisant (*"that I value"*) et pont direct entre l'information conceptuelle et l'incarnation somatique structurelle (*"into my neurology"*). Ce pattern détruit la barrière entre l'intellect et le comportement.
 
-
-## --- Tranche 8 / 31 ---
+## Tranche 8 / 31 : Le Débusquage de Méta-États (The Meta-State Flush Out)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1270,8 +1300,7 @@ L'esprit peut projeter sa conscience dans sept directions spatiales et logiques 
 > *"This is only an exercise and so you can’t keep this! You really want this? Would this improve your life? Would it be valuable to you?"*
 * **[Analyse du Pattern] :** Utilisation d'une injonction paradoxale et de psychologie inversée (*« you can't keep this! »*). En interdisant explicitement au sujet de conserver le nouvel état sous prétexte qu'il ne s'agit que d'un exercice, le praticien stimule le réflexe d'opposition et le besoin d'appropriation (*Mine!*). Les trois questions suivantes réinjectent un triple lien de validation positive, scellant l'installation dans l'identité future.
 
-
-## --- Tranche 9 / 31 ---
+## Tranche 9 / 31 : L'APPROPRIATION DU CERCLE DE POUVOIR (THE POWER ZONE)
 
 Voici l'analyse opératoire intégrale de la tranche 9/31 du cours *The Source Book of Magic Vol 2* de L. Michael Hall.
 
@@ -1496,8 +1525,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/31 du cours *The Source B
 
 * **[Analyse du Pattern]** : Structure de double lien cybernétique en boucle fermée (« The more X, the more Y » / « The less X, the more Z »). Quelle que soit la direction empruntée par le système nerveux, il est mécaniquement réorienté vers l'objectif : s'il s'éloigne de l'aversion, il fonce vers l'attraction ; si l'attraction faiblit, l'aversion remonte immédiatement pour le repousser vers l'avant. C'est l'équivalent linguistique d'un moteur à deux temps sans point mort possible.
 
-
-## --- Tranche 10 / 31 ---
+## Tranche 10 / 31 : Meta-Stating Pleasure (Méta-Structuration du Plaisir)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 10/31 du cours de L. Michael Hall (*The Source Book of Magic Vol 2*, Chapitre 6 : « The Primes »).
 
@@ -1707,8 +1735,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
     *   *Enchaînement de truismes physiologiques* : L'illusion de permission (« Let it affect... ») agit comme une suggestion indirecte qui prend possession de la motricité, de la phonation et du souffle.
     *   *Double lien d'association* : En liant « silly » à « resourceful » dans deux questions consécutives en miroir, Hall détruit le lien limitant habituel (Sérieux = Compétent / Ridicule = Incompétent) et re-câble l'absurde comme le vecteur suprême de la ressource interne.
 
-
-## --- Tranche 11 / 31 ---
+## Tranche 11 / 31 : The Miracle Matrix Pattern (Fin du Pattern 22)
 
 Voici l'analyse opératoire intégrale de la tranche 11/31 de *The Source Book of Magic Vol 2* par L. Michael Hall.
 
@@ -2064,8 +2091,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/31 de *The Source Book o
   * **Cartographie spatiale d'auto-agression** : *« puts you at odds with yourself... bring these kinds of states against yourself »*. Visualisation nette et saisissante d'une scission où l'énergie psychologique se retourne vectoriellement contre son propre émetteur.
   * **Nominalisation métaphorique unificatrice** : *« This creates what we call dragon states »*. Le mot *Dragon* capture instantanément l'énergie destructrice, énergivore et menaçante générée par la guerre qu'un individu se livre à lui-même au méta-niveau.
 
-
-## --- Tranche 12 / 31 ---
+## Tranche 12 / 31 : Meta-Stating Negative Emotions (Apprivoisement des Émotions Réprouvées)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2192,8 +2218,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/31 de *The Source Book o
     > « Will you allow it to become an attractor in your mind so that as you think of this activity, how you will do it will simply become a matter of discovery and of building the resources so that you can .. and will. will you not? »
     *   **[Analyse du Pattern] :** Empilement de présuppositions d'inévitabilité et commande enchâssée sous forme de question tag. L'expression *« attractor in your mind »* présuppose une dynamique physique automatique non conflictuelle. La séquence modale déplace le focus : la question n'est plus "si" l'action aura lieu, mais "comment" elle se réalisera (*« simply become a matter of discovery »*). La cadence finale (*« so that you can .. and will. will you not? »*) scelle l'engagement exécutif par une double négation conversationnelle qui force l'adhésion inconsciente.
 
-
-## --- Tranche 13 / 31 ---
+## Tranche 13 / 31 : Fear Blow-Out (Éradication de la Peur Inhibitrice)
 
 Voici l'analyse d'ingénierie cognitive et de modélisation de la tranche 13/31 de *The Source Book of Magic Vol 2* par L. Michael Hall.
 
@@ -2361,8 +2386,7 @@ Voici l'analyse d'ingénierie cognitive et de modélisation de la tranche 13/31 
 
 * **[Analyse du Pattern]** : Élicitation méthodique d'un état « Uptime » sensoriel hyper-présent par saturation des canaux (V-A-K) sans verbalisation interne. La répétition rythmique (« see, see and see; hear and hear; feel and feel ») induit une fixation de l'attention et vide le canal auditif digital. L'incorporation d'une question d'évaluation douce (« isn't this nice? ») installe furtivement un méta-état de sécurité et de confort autour de la simple observation objective, créant l'ancre neutre indispensable avant de survoler les traumas de la ligne du temps.
 
-
-## --- Tranche 14 / 31 ---
+## Tranche 14 / 31 : Ré-empreinte des Ressources sur la Ligne du Temps (Fin de processus)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 14/31 du cours *The Source Book of Magic Vol 2* de L. Michael Hall.
 
@@ -2559,8 +2583,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   * *Collision d'ancres kinesthésiques concurrentes :* Le déclenchement simultané ou rapproché de l'ancre du bégaiement et de celle de la haute estime de soi crée un court-circuit neurologique (*collapse anchor*).
   * *Provocation thérapeutique et défi d'impuissance inversée :* *« Come on, is that all you can do? »* utilise l'énergie du défi pour transformer ce qui était une fatalité subie en une performance volontaire impossible à reproduire sous méta-état de haute valeur.
 
-
-## --- Tranche 15 / 31 ---
+## Tranche 15 / 31 : Finition du Bégaiement : "Embrasser le Dragon" & Méta-Intention Exécutive
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2760,8 +2783,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
     *   *Projection méta-identitaire directe* (« what does that say about you? ») : arrache le sujet au niveau comportemental pour forcer l'émergence d'une nouvelle structure de Soi au niveau logique supérieur.
     *   *Clôture congruente par le sujet* (« anxious or not I am free... ») : démontre l'intégration complète du méta-cadre de souveraineté personnelle face aux états internes transitoires.
 
-
-## --- Tranche 16 / 31 ---
+## Tranche 16 / 31 : META-STATING SELF (Acceptation, Appréciation, Estime)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3050,8 +3072,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Ancrage nominal d'invariabilité absolue** (*"permanent factor in the ever varying flow"*, *"sense of permanence, of inner security"*). Contraste linguistique entre l'impermanence chaotique du monde extérieur et la stabilité adamantine du Centre observateur.
   - **Couplage d'états méta-statiques : Conscience et Volonté** (*"static self-awareness"* vs *"dynamic power"*, *"observing, mastering, directing and using"*). Empêche la dissociation passive en transformant immédiatement la posture de témoin en un poste de commandement souverain de l'organisme.
 
-
-## --- Tranche 17 / 31 ---
+## Tranche 17 / 31 : Validation de l'Auto-Efficacité par la Zone de Pouvoir
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3166,8 +3187,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 > "Rise up in your mind to your executive level where you make decisions. Are you ready to commission this as part of your way of being in the world? Would you like to do that now? Are you fully aligned with this?"
 * **[Analyse du Pattern]** : Commande spatiale méta-cognitive (*"Rise up in your mind"*) induisant une dissociation opérationnelle vers le centre exécutif cérébral. Enchaînement de questions fermées calibrées créant un entonnoir d'engagement (*commitment funnel*), verrouillant l'installation de la nouvelle identité au niveau décisionnel le plus haut.
 
-
-## --- Tranche 18 / 31 ---
+## Tranche 18 / 31 : Meta-Stating "Strength" (Enchâssement d'un Déclencheur Faible dans la Force)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3378,8 +3398,7 @@ So you do like it and want it? (Yes!) Really? (Yes!) No, no way you don’t! (Ye
   - *Négociation écologique implicite* : L'état d'absorption est rendu acceptable pour les parties protectrices de l'inconscient grâce à la délégation contractuelle de la sécurité et des frontières (« boundaries of your genius state »).
   - *Présupposition de protection totale* : Le sujet peut s'autoriser à « se perdre » (« get lost in this state ») sans danger puisque l'esprit exécutif est programmé pour envoyer un signal de rupture automatique en cas de franchissement de frontière.
 
-
-## --- Tranche 19 / 31 ---
+## Tranche 19 / 31 : Alignement Neuro-Logique par Intégration Descendante (Top-down Integration Walk)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3506,8 +3525,7 @@ So you do like it and want it? (Yes!) Really? (Yes!) No, no way you don’t! (Ye
   * *Submersion acoustique métaphorique :* "hear a chorus of 'Nos!!'... hear the 'Nos!' until you also say 'No!'". Entraîne un effet d'entraînement de groupe (entrainment) qui valide la désactivation de l'ancien schéma avant de créer un pont vers le "YES".
   * *Ancre auditive interne d'auto-souveraineté :* "you can hear a voice rising up in you ... a voice claiming ownership... say ... 'MINE!'". Déplacement du lieu de contrôle de l'extérieur (les formateurs/le chœur) vers l'intérieur (la voix du sujet), validé par une commande motrice d'incorporation finale ("MINE !").
 
-
-## --- Tranche 20 / 31 ---
+## Tranche 20 / 31 : Ingénierie Gestaltique du Courage (Meta-Stating Courage)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3697,8 +3715,7 @@ So you do like it and want it? (Yes!) Really? (Yes!) No, no way you don’t! (Ye
   * **Recadrage de sens par translation scalaire** : Transformation d'un jugement binaire culpabilisant (Bien vs Mal / Vertu vs Vice) en une variable analogique continue de quantité (*"too-little and too-much"*).
   * **Présupposition d'intention positive structurelle** : La requalification immédiate (*"laziness as too much relaxation"*, *"anger as too much care"*) neutralise l'auto-reproche somatique, court-circuite la culpabilité méta et prépare le système nerveux à une synthèse intégrative écologique.
 
-
-## --- Tranche 21 / 31 ---
+## Tranche 21 / 31 : META-STATING MAGNANIMITY (Installer la Grandeur d'Âme)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3867,8 +3884,7 @@ So you do like it and want it? (Yes!) Really? (Yes!) No, no way you don’t! (Ye
 > « Since emotions are just emotions, and not edicts about what’s true or not instructions about what to do, access a basic accept them as emotions and explore them in terms of what maps have been violated. »
 - **[Analyse du Pattern]** : Tautologie réductrice (*« emotions are just emotions »*) combinée à une double négation de fonction (*« not edicts... not instructions »*). Ce pattern prive instantanément l'émotion de son pouvoir d'injonction comportementale. L'émotion est recadrée comme un simple voyant lumineux sur un tableau de bord, indiquant une divergence cartographique (*« what maps have been violated »*), ce qui réactive immédiatement les fonctions d'exploration analytique et de curiosité du client.
 
-
-## --- Tranche 22 / 31 ---
+## Tranche 22 / 31 : Récupération après Trahison (Recovering from Betrayal)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 22/31 du cours de L. Michael Hall (*The Source Book of Magic Vol 2*).
 
@@ -4056,8 +4072,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Présupposition temporelle de clôture absolue** : Le syntagme figé *"Up until now..."* ("Jusqu'à maintenant...") isole le passé dans un compartiment scellé, empêchant sa projection automatique dans le présent.
   - **Orientation de développement continu** : La formule de bascule *"But from this day on... I will increasingly develop into..."* sature la ligne du futur d'une commande d'évolution progressive et cumulative (*"increasingly"*), éliminant l'exigence d'une perfection instantanée tout en verrouillant la trajectoire de transformation.
 
-
-## --- Tranche 23 / 31 ---
+## Tranche 23 / 31 : Externalisation & Épaississement de l'Intrigue (Narrative De-framing & Re-storying)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 23/31, selon les règles d'ingénierie et la structure demandées.
 
@@ -4304,8 +4319,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * **Truisme autoritaire externe :** Utilisation d'un souvenir universellement reconnu (les panneaux de déviation sur l'autoroute) pour contourner la résistance du facteur critique.
   * **Injonction de non-affrontement :** Ce pattern court-circuite la compulsion névrotique à vouloir "régler le problème" immédiatement, en imposant l'évitement fluide et pragmatique comme la seule décision rationnelle.
 
-
-## --- Tranche 24 / 31 ---
+## Tranche 24 / 31 : LE PATTERN DE CONTOURNEMENT DE PROBLÈME (GOING AROUND PROBLEMS PATTERN)
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du cours *"The Source Book of Magic Vol 2"* de L. Michael Hall (Chapitre 14 : *Business Excellence Patterns*).
 
@@ -4476,8 +4490,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
   - **Commande enchâssée d'installation :** Le marqueur hypnotique direct *"Install the words"* agit comme une suggestion post-hypnotique d'auto-dialogue permanent.  
   - **Orientation de recherche attentionnelle (Transderivational Search) :** La question force le filtre de tri mental à scanner activement le milieu pour repérer des problèmes non comme des menaces mais comme des réceptacles pour la « richesse interne » du sujet (*"internal richness of mind-and-emotion"*).
 
-
-## --- Tranche 25 / 31 ---
+## Tranche 25 / 31 : Protocole : Intégration Comportementale d'un Principe (Flesh-and-Blood Implementation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4646,8 +4659,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
 > « What has to be true in order for this problem or perception to exist? »
 *   **[Analyse du Pattern] :** Déstabilisation trans-dérivationnelle des fondations de croyance. Cette question force le système cognitif à abandonner le récit superficiel du problème pour plonger dans les axiomes cachés et non questionnés qui soutiennent la structure pathologique. C'est un opérateur d'extraction méta pur qui révèle instantanément les postulats d'enfermement.
 
-
-## --- Tranche 26 / 31 ---
+## Tranche 26 / 31 : Le Jeu du Coaching Exécutif (The Executive Coaching Game)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4814,8 +4826,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
 > “As you feel this fully... and let it grow... You can recall how that others call this state of personal efficiency ‘work.’ And you can too... know that it’s not really work, but fun and efficiency. As experiencing this in this positive way, you can recognize that others may look at this and call it self-discipline, and so can you. But when you exercise your personal power to get yourself to do what you want to do, should do, when you need to do it, regardless of whether you feel like it or not, you know it’s just being efficient!”
 - **[Analyse du Pattern]** : Concaténation de suggestions enchâssées sous induction de transe légère (*« As you feel this fully... and let it grow... »*). Utilisation d'équivalences complexes et de recadrages de sens : dissociation entre l'étiquette sociale aliénante (*« work »*, *« self-discipline »*) et la réalité neuro-sémantique interne réattribuée à la liberté (*« exercising your personal power »*, *« just being efficient »*). L'inclusion de la concession temporelle *« regardless of whether you feel like it or not »* supprime l'excuse du manque d'humeur ou de motivation immédiate.
 
-
-## --- Tranche 27 / 31 ---
+## Tranche 27 / 31 : Transforming "Failure" into Internal Success & Inversion de Source Téléologique : Agir "Depu...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5006,8 +5017,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
 
 * **[Analyse du Pattern]** : Technique de provocation en miroir et de rupture de cadre par colloquialisme (*"You're pulling my leg!"*). En feignant l'incrédulité face à l'affirmation du sujet, le praticien pousse le sujet à polariser dans le sens inverse : le sujet doit insister et argumenter activement pour convaincre le praticien de sa certitude. La séquence se termine par deux commandes directes tronquées projetées dans l'immédiateté temporelle (*"So will you? Now?"*), scellant la boucle de décision sans échappatoire analytique.
 
-
-## --- Tranche 28 / 31 ---
+## Tranche 28 / 31 : Ingénierie de Conception des Règles du Jeu (Designing New Rules for the Games)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5141,8 +5151,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
 > "The feed forwarding process translates the ideas in our heads that we have created as our generalizations and beliefs into muscle. In this way we metabolize our ideas and turn the information into energy."
 - **[Analyse du Pattern]** : Métaphore somatique matérialiste à haute puissance d'ancrage. Hall utilise des verbes d'action physiologique brute (*translates into muscle, metabolize*) pour dé-intellectualiser la sémantique et réancrer la pensée dans la corporéité biologique pure, préparant le sujet à manifester ses décisions sous forme d'actes sensorimoteurs.
 
-
-## --- Tranche 29 / 31 ---
+## Tranche 29 / 31 : Protocole : Effraction aux Frontières du Cadre (Leveraging Change at the Borders)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5285,8 +5294,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 24/31 du
 > But I've been wondering if you had the absolute ability to be un-insultable because your sense of your innate dignity felt so secure that it gave you the freedom to always turn down an invitation to take insult no matter how much insult someone tried in vain to offer you... I'm just wondering how that would effect your everyday experience in driving in traffic, at work, and at home."
 * **[Analyse du Pattern]** : *Triple négation d'impuissance feinte (posture éricksonienne basse) couplée à un recadrage sémantique radical de l'insulte en 'invitation'*. En commençant par déclarer son ignorance totale et en doutant ouvertement que le sujet puisse trouver la réponse même en faisant des efforts, le praticien neutralise l'esprit de contradiction du profil caractériel réactif. L'insulte est redéfinie non pas comme une agression, mais comme une « invitation » que le sujet a le souverain pouvoir de décliner. Le pont vers le futur (*driving, work, home*) projette le méta-état d'invulnérabilité directement dans la réalité sensorielle du quotidien.
 
-
-## --- Tranche 30 / 31 ---
+## Tranche 30 / 31 : Désamorçage Thérapeutique de la Réactivité Polaire (Immunité à l'Insulte)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5443,8 +5451,7 @@ Les filtres de perception (méta-programmes) sont la solidification neuro-séman
   - **Normalisation déculpabilisante universelle** : *« knowing that we humans often develop... means nothing more than that we seek to do the best we can »* applique un cadre de bienveillance universelle qui neutralise la honte et la résistance du client à dévoiler ses bénéfices secondaires.
   - **Empilement de verbes réflexifs en négation croisée (Boucle Paradoxale)** : *« refused to continue refusing »* crée une surcharge cognitive immédiate sur l'algorithme de résistance de l'inconscient, forçant le système à s'ouvrir à l'alternative opposée sans pouvoir argumenter.
 
-
-## --- Tranche 31 / 31 ---
+## Tranche 31 / 31 : L'Algorithme de Fusion Gestaltique (Création d'États Méta et Gestalts Opératoires)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5593,3 +5600,4 @@ Les filtres de perception (méta-programmes) sont la solidification neuro-séman
   * **Rétrogradation élégante (Down-framing) :** En qualifiant la PNL de base de *« user friendly Stimulus–Response »*, Hall la confine avec bienveillance mais fermeté au behaviorisme de premier ordre (linéaire, mécanique).
   * **Distinction sémantique binaire :** Contraste syntaxique strict entre *« associative meaning by linkage »* (premier ordre) et *« contextual meaning »* (ordre supérieur réflexif).
   * **Formulation récursive hypnotique :** L'utilisation de *« frames-of-frames »* crée un léger décrochage de surcharge cognitive (*transderivational search*), forçant le cerveau du récepteur à concevoir la nature récursive de sa propre architecture mentale.
+

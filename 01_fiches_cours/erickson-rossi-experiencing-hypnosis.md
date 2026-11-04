@@ -109,10 +109,37 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 142-284]** : Induction de la Catalepsie par Toucher Subtil (Gentle Wrist Lift) — *Protocole :* Induction de la Catalepsie par Toucher Subtil (Gentle Wrist Lift) | *Mécanisme :* Dualité Opératoire Conscient/Inconscient & Co-Écoute | *Verbatim :* Verbatim 1 : L'Offre de Possibilité vs La Domination Directe
+- **Tranche 2 [Lignes 286-474]** : Dépersonnalisation et Révision Projective sur Écrans Hallucinés (Cas Harvey) — *Protocole :* Dépersonnalisation et Révision Projective sur Écrans Hallucinés (Cas Harvey)
+- **Tranche 3 [Lignes 476-627]** : Démantèlement d'injonction post-hypnotique inhibitrice ("Je ne peux plus être hypnotisé") — *Protocole :* Démantèlement d'injonction post-hypnotique inhibitrice ("Je ne peux plus être hypnotisé") | *Mécanisme :* Réactivation d'état par évocation sensorielle contextuelle (State-Dependent Retrieval) | *Verbatim :* La Négation Amorce & Suspension Temporelle
+- **Tranche 4 [Lignes 629-747]** : Induction Précoce par Discussion de la Catalepsie Spontanée du Quotidien — *Protocole :* Induction Précoce par Discussion de la Catalepsie Spontanée du Quotidien | *Mécanisme :* Le Double Lien Conscient / Inconscient (Conscious-Unconscious Double Bind) | *Verbatim :* Le Double Lien Conscient / Inconscient Initial
+- **Tranche 5 [Lignes 749-919]** : L'Induction par Rupture d'Objet (Objet tendu / retiré) — *Protocole :* L'Induction par Rupture d'Objet (Objet tendu / retiré) | *Mécanisme :* Le « Momentary Gap in Awareness » et le réflexe de suspension (Cataleptisation spontanée) | *Verbatim :* PÉPITE 1 : L'Explication du Dentiste et l'Acceptation de l'Idée
+- **Tranche 6 [Lignes 921-1059]** : Induction Cataleptique et Développement des Phénomènes Hypnotiques (Démonstration Janet) — *Protocole :* Induction Cataleptique et Développement des Phénomènes Hypnotiques (Démonstration Janet) | *Mécanisme :* La Catalepsie comme rupture de l'évaluation cognitive et inducteur de recherche interne
+- **Tranche 7 [Lignes 1061-1227]** : Lévitation de la main par l'approche indirecte chez un profil analytique / hypervigilant (Dé... — *Protocole :* Lévitation de la main par l'approche indirecte chez un profil analytique / hypervigilant (Démonstration Dr. Z)
+- **Tranche 8 [Lignes 1229-1399]** : L'Induction Rythmique par Oscillation (« Yo-yoing ») — *Protocole :* L'Induction Rythmique par Oscillation (« Yo-yoing ») | *Verbatim :* La Dérivation Attentionnelle par focalisation sur la vitesse
+- **Tranche 9 [Lignes 1401-1543]** : L'Amnésie Structurée par Boucle Temporelle (Interruption et Enclave) — *Protocole :* L'Amnésie Structurée par Boucle Temporelle (Interruption et Enclave) | *Verbatim :* Dépotentiation du Savoir Rationnel & Activation des Réponses Automatiques
+- **Tranche 10 [Lignes 1545-1678]** : Désamorçage de l'orgueil conscient & Démonstration d'antériorité inconsciente (Le test de do... — *Protocole :* Désamorçage de l'orgueil conscient & Démonstration d'antériorité inconsciente (Le test de dominance du pouce) | *Verbatim :* La non-dispute et le refus de prouver l'évidence
+- **Tranche 11 [Lignes 1680-1852]** : L'Induction par les « Mains Magnétiques » en Double Lien (Rossi) — *Protocole :* L'Induction par les « Mains Magnétiques » en Double Lien (Rossi) | *Mécanisme :* Focalisation Idéodynamique Indirecte & Clivage Hémisphérique | *Verbatim :* Le Double Lien Magnétique & l'Appel à l'Expérience Concrète
+- **Tranche 12 [Lignes 1854-2055]** : Induction et Évaluation par les « Mains Magnétiques » et Signalisation Involontaire — *Protocole :* Induction et Évaluation par les « Mains Magnétiques » et Signalisation Involontaire
+- **Tranche 13 [Lignes 2057-2205]** : A : Étalonnage de l'Indicateur Idéomoteur Individuel de Profondeur (Erickson) — *Protocole :* A : Étalonnage de l'Indicateur Idéomoteur Individuel de Profondeur (Erickson) | *Verbatim :* Le piège de l'appel aux volontaires et la capture du signal involontaire
+- **Tranche 14 [Lignes 2207-2351]** : Détection & Résolution Étiologique par T.O.T.E. Idéomoteur (Erickson-Rossi) — *Protocole :* Détection & Résolution Étiologique par T.O.T.E. Idéomoteur (Erickson-Rossi) | *Verbatim :* Absorption de l'Anxiété & Redéfinition par le Lâcher-Prise
+- **Tranche 15 [Lignes 2353-2485]** : Le Défi Paradoxal par Injonction d'Arrêt et Guidage Non-Verbal — *Protocole :* Le Défi Paradoxal par Injonction d'Arrêt et Guidage Non-Verbal | *Mécanisme :* Le Défi Paradoxal d'Arrêt d'un Comportement Émergent (Paradoxical Challenge) | *Verbatim :* Le Défi Paradoxal Mot-à-Mot
+- **Tranche 16 [Lignes 2487-2616]** : Induction du Sujet Sceptique / Rationnel par Régression aux Apprentissages Précoces — *Protocole :* Induction du Sujet Sceptique / Rationnel par Régression aux Apprentissages Précoces | *Mécanisme :* Dé-focalisation multi-directionnelle et absorption sélective | *Verbatim :* La Double Commande Asymétrique et le Verrouillage du Cadre
+- **Tranche 17 [Lignes 2618-2773]** : Installation et Ratification de la Catalepsie d'Économie Motrice — *Protocole :* Installation et Ratification de la Catalepsie d'Économie Motrice
+- **Tranche 18 [Lignes 2775-3006]** : L'Induction par Insertion Incongruente & Réactivation Post-Hypnotique (Interspersal Cueing) — *Protocole :* L'Induction par Insertion Incongruente & Réactivation Post-Hypnotique (Interspersal Cueing) | *Verbatim :* La Ratification d'Absorption par Séquentialité Négative
+- **Tranche 19 [Lignes 3008-3129]** : A : La Guidance Tactile Délicate & Catalepsie Émergente — *Protocole :* A : La Guidance Tactile Délicate & Catalepsie Émergente | *Mécanisme :* Ratification par implication linguistique non disputable | *Verbatim :* La ratification par l'inversion temporelle
+- **Tranche 20 [Lignes 3131-3286]** : L'Induction Expérientielle par Exploration Manuelle Décentrée (The Experiential Mode of Hypn... — *Protocole :* L'Induction Expérientielle par Exploration Manuelle Décentrée (The Experiential Mode of Hypnotic Induction) | *Mécanisme :* Le Vide Minimaliste et le Déclenchement de la Matrice Comportementale Inconsciente | *Verbatim :* Le Piège Temporel Rétrospectif (The Yesterday Frame)
+- **Tranche 21 [Lignes 3288-3446]** : Protocole de Ratification par Sollicitation Musculaire Contralatérale de la Catalepsie — *Protocole :* Protocole de Ratification par Sollicitation Musculaire Contralatérale de la Catalepsie | *Verbatim :* La non-dispute comme instrument de prestige et d'autonomie de la transe
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 21 ---
+## Tranche 1 / 21 : Induction de la Catalepsie par Toucher Subtil (Gentle Wrist Lift)
 
 Voici l'analyse complète, opératoire et sans filtre de la tranche 1/21 du cours *Experiencing Hypnosis* d'Erickson & Rossi.
 
@@ -256,8 +283,7 @@ Voici l'analyse complète, opératoire et sans filtre de la tranche 1/21 du cour
 > **"And so, in an apparently random fashion, I stated that I could place a chair right there, that it would be just about so far from the bookcase, about so far from the door, about so far from my desk, and it would be really very nice to sit in that chair and be able to talk when sitting in that chair... Then I suggested that it was impossible, really, to talk in this chair—the one that he was actually sitting in—but all that would be necessary for him to do would be to take the chair, put it over there, sit down, and begin talking."**
 * **[Analyse du Pattern] :** Empilement de truismes spatiaux inducteurs d'un *Yes Set*, suivi d'un double lien de recadrage d'état. Erickson commence par formuler des évidences visuelles non contestables, puis introduit une association suggestive : *cette chaise virtuelle = facilité de parole*. Ensuite, il valide et recadre le symptôme : *dans la chaise actuelle, il est effectivement impossible de parler* (acceptation de la résistance). Enfin, il offre une issue motrice simple : déplacer physiquement le siège pour incarner la bascule d'état psychique. Le blocage mental est littéralement laissé derrière soi dans les anciennes coordonnées géométriques de la pièce.
 
-
-## --- Tranche 2 / 21 ---
+## Tranche 2 / 21 : Dépersonnalisation et Révision Projective sur Écrans Hallucinés (Cas Harvey)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -447,8 +473,7 @@ Voici l'analyse complète, opératoire et sans filtre de la tranche 1/21 du cour
 ```
 * **[Analyse du Pattern]** : Rupture de pattern contextuelle totale et désamorçage de l'état de vigilance. Erickson valide l'enjeu sémantique implicite apporté par le sujet lors du paiement (*paid me for my time*), ratifie l'échec pour offrir une victoire narcissique au résistant, puis déplace la scène hors du cadre thérapeutique vers un cadre civil banal. La demande finale de politesse (*shake hands before we leave*) amorce un réflexe kinesthésique automatisé que le patient exécute sans aucune défense, ouvrant la porte à l'interruption de pattern et à la catalepsie instantanée.
 
-
-## --- Tranche 3 / 21 ---
+## Tranche 3 / 21 : Démantèlement d'injonction post-hypnotique inhibitrice ("Je ne peux plus être hypnotisé")
 
 Voici l'extraction opératoire intégrale de la **tranche 3/21** du cours *"Experiencing Hypnosis"* par Milton H. Erickson et Ernest L. Rossi.
 
@@ -601,8 +626,7 @@ Voici l'extraction opératoire intégrale de la **tranche 3/21** du cours *"Expe
     *   *take a tremendous unconscious pleasure* : Commande de récompense neurobiologique gratifiant l'obéissance du processus inconscient.
     *   *wider and wider awake* : Suggestion fractionnée de sortie de transe garantissant un retour somatique net et tonique.
 
-
-## --- Tranche 4 / 21 ---
+## Tranche 4 / 21 : Induction Précoce par Discussion de la Catalepsie Spontanée du Quotidien
 
 Voici l’extraction intégrale et l’analyse d'ingénierie opératoire de la tranche 4/21 du cours *Experiencing Hypnosis* d'Erickson & Rossi.
 
@@ -722,8 +746,7 @@ Voici l’extraction intégrale et l’analyse d'ingénierie opératoire de la t
 * **[Analyse du Pattern]** :
   - **Affirmation au présent de vérité générale :** Absence délibérée de verbe de volonté ou de modalité d'action (*pas de "vous devez lever" ni de "essayez de garder"*). L'état est décrit comme une réalité sensorielle déjà accomplie et statique, interdisant au sujet d'envisager la possibilité motrice inverse sans mobiliser un effort conscient violent.
 
-
-## --- Tranche 5 / 21 ---
+## Tranche 5 / 21 : L'Induction par Rupture d'Objet (Objet tendu / retiré)
 
 Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing Hypnosis* d'Erickson & Rossi, structurée selon les règles d'ingénierie demandées.
 
@@ -895,8 +918,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing
   - **Recadrage projectif de la polarité de vulnérabilité :** Face à l'aveu brut de terreur (*"I'm scared to death"*), Erickson ne console pas et ne nie pas l'émotion. Il opère un retournement complet des rôles (*"they're the ones that are likely to be put in a trance"*). Ce pivot linguistique déplace la menace : ce n'est plus l'audience qui impressionne Janet, c'est Janet et Erickson qui vont fasciner et hypnotiser l'audience.
   - **Double niveau de présupposition du mot "Trance" :** En suggérant que le public va entrer en transe, il normalise et dédramatise la transe pour le sujet, tout en la rendant inévitable pour elle-même de manière implicite.
 
-
-## --- Tranche 6 / 21 ---
+## Tranche 6 / 21 : Induction Cataleptique et Développement des Phénomènes Hypnotiques (Démonstration Janet)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1036,8 +1058,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing
   > **E:** *"You are looking at that hand and you don't need to see anything else."*
   * **[Analyse du Pattern]** : Truisme suivi d'une conjonction de liaison (*« and »*) introduisant une suggestion négative indirecte formulée comme une absence de nécessité (*« don't need to see »*). Elle induit une hallucination visuelle négative (vision tubulaire) sans risquer de résistance, le conscient ne repérant pas l'injonction restrictive.
 
-
-## --- Tranche 7 / 21 ---
+## Tranche 7 / 21 : Lévitation de la main par l'approche indirecte chez un profil analytique / hypervigilant (Dé...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1205,8 +1226,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing
 > "Lifting higher and higher more rapidly. And now it is lifting up very, very smooth. Your head is bowing down toward it very slowly."
 * **[Analyse du Pattern]** : Déplacement modal et liaison réflexe. L'adverbe *"more rapidly"* présuppose l'élévation pour détourner l'esprit sur le tempo. L'introduction du mouvement de la tête amorce une boucle d'attraction proprioceptive : la courbure de la tête facilite par symétrie neurologique la montée de la main vers le visage.
 
-
-## --- Tranche 8 / 21 ---
+## Tranche 8 / 21 : L'Induction Rythmique par Oscillation (« Yo-yoing »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1378,8 +1398,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing
 ```
 * **[Analyse du Pattern]** : Généralisation indirecte par transfert d'affects et dissociation cognitivo-procédurale. En passant en revue l'ensemble de la chaîne corporelle, Erickson étend les phénomènes hypnotiques obtenus localement (catalepsie, anesthésie, relâchement de la main et de la tête) à l'ensemble du schéma corporel sans ordonner explicitement cette extension. Il clôture par une séparation radicale entre l'intellect conscient (*"not important to know"*) et la disponibilité latente de la réponse inconsciente conditionnée à un déclencheur environnemental futur (*"when the proper stimulus comes"*).
 
-
-## --- Tranche 9 / 21 ---
+## Tranche 9 / 21 : L'Amnésie Structurée par Boucle Temporelle (Interruption et Enclave)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1523,8 +1542,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/21 du cours *Experiencing
   - *Marquage analogique des mots pivots :* L'accent prosodique sur *"not remember"* et *"not know"* implémente la suggestion d'amnésie sans se poser en commandement autoritaire.
   - *Structure d'observation descriptive :* Se présente sous la forme d'un simple constat clinique, ne laissant aucune prise à la contestation critique.
 
-
-## --- Tranche 10 / 21 ---
+## Tranche 10 / 21 : Désamorçage de l'orgueil conscient & Démonstration d'antériorité inconsciente (Le test de do...
 
 Voici l'extraction opératoire intégrale et la modélisation de la tranche 10/21 de *Experiencing Hypnosis* (Erickson & Rossi).
 
@@ -1659,8 +1677,7 @@ Voici l'extraction opératoire intégrale et la modélisation de la tranche 10/2
 - **[Analyse du Pattern]** :  
   Définition pure de la suggestibilité hypnotique comme exaltation du réflexe ideo-moteur/idéo-sensoriel par devancement temporel. Le pattern linguistique ou l'induction opère en faisant passer la commande directement de la perception auditive aux centres moteurs/sensoriels avant que les connexions de l'hémisphère gauche ou les circonvolutions associatives corticales n'activent le veto intellectuel. Quand la conscience intervient, l'acte est déjà consommé dans le corps, ce qui déclenche la surprise et valide la réalité phénoménologique de l'état.
 
-
-## --- Tranche 11 / 21 ---
+## Tranche 11 / 21 : L'Induction par les « Mains Magnétiques » en Double Lien (Rossi)
 
 Voici l'extraction intégrale et opératoire de la substance méthodologique et clinique contenue dans cette tranche.
 
@@ -1834,8 +1851,7 @@ Voici l'extraction intégrale et opératoire de la substance méthodologique et 
   - **Clivage d'agentivité** : La question s'adresse formellement à *« your unconscious mind »*, dépossédant la conscience de son autorité habituelle sur la réponse. Le conscient ne peut pas répondre à la place de l'inconscient sans violer la structure logique de la question.
   - **Bypassing des résistances** : Si le sujet conscient est sceptique, effrayé ou résistant, cette question neutralise totalement son opposition : son avis conscient est explicitement disqualifié par la formulation, permettant au signal idéomoteur d'émerger de manière autonome.
 
-
-## --- Tranche 12 / 21 ---
+## Tranche 12 / 21 : Induction et Évaluation par les « Mains Magnétiques » et Signalisation Involontaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2038,8 +2054,7 @@ Voici l'extraction intégrale et opératoire de la substance méthodologique et 
 > "Are those hands getting a bit stiff and wooden? Is there a pair of thick, soft magnetic gloves on those hands so that they don't feel anything? So thick that the padding of those gloves stops the hands so they can't get closer than an inch or two together?"
 * **[Analyse du Pattern]** : Suggestion métaphorique d'anesthésie idéosensorielle ("gants magnétiques") imbriquée dans un blocage idéomoteur. L'illusion kinesthésique d'épaisseur matérielle justifie physiquement l'arrêt de la course des mains et pose les bases d'une analgésie locale exploitable ultérieurement par transfert au reste du corps.
 
-
-## --- Tranche 13 / 21 ---
+## Tranche 13 / 21 : A : Étalonnage de l'Indicateur Idéomoteur Individuel de Profondeur (Erickson)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2189,8 +2204,7 @@ Voici l'extraction intégrale et opératoire de la substance méthodologique et 
   - *Présupposition de capacité inconsciente :* « *if your inner mind will let you know* » présuppose que l'esprit inconscient détient déjà l'information et qu'il a le pouvoir absolu de l'autoriser ou non.
   - *Ancre acoustico-mnésique :* Le bruit physique prévisible du pendule frappant la table (*« the noise will bring that memory up »*) sert de déclencheur sensoriel concret pour forcer l'émergence du souvenir à la conscience sans effort intellectuel.
 
-
-## --- Tranche 14 / 21 ---
+## Tranche 14 / 21 : Détection & Résolution Étiologique par T.O.T.E. Idéomoteur (Erickson-Rossi)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2336,8 +2350,7 @@ Voici l'extraction intégrale et opératoire de la substance méthodologique et 
   - **Injonction paradoxale par le verbe d'échec présupposé (*"try, just try"*) :** En linguistique ericksonienne, ordonner d'"essayer" présuppose l'incapacité d'accomplir l'action. 
   - **Court-circuit volontaire :** Alors que la main descend par catalepsie et pesanteur induite, défier le conscient d'arrêter ce mouvement mobilise un contrôle volontaire déjà dépotentialisé, prouvant de manière irréfutable au sujet l'existence d'une force autonome indépendante de sa volonté.
 
-
-## --- Tranche 15 / 21 ---
+## Tranche 15 / 21 : Le Défi Paradoxal par Injonction d'Arrêt et Guidage Non-Verbal
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 15/21 du cours *"Experiencing Hypnosis"* d'Erickson & Rossi.
 
@@ -2471,8 +2484,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 15/2
 
 - **[Analyse du Pattern]** : Double contrainte épistémique (*"You think you're awake, don't you? Are you really?"*) qui sépare la simple croyance cognitive de la réalité somatique. Erickson substitue l'avis de l'inconscient à l'avis conscient par un cadre idéomoteur forcé (*"ask your unconscious"*). Le terme technique et descriptif formulé à voix haute devant le sujet (*"arrested awareness"*) fige la transe en la nommant, transformant l'immobilité cataleptique en une étiquette hypnotique irréfutable acceptée passivement par le sujet.
 
-
-## --- Tranche 16 / 21 ---
+## Tranche 16 / 21 : Induction du Sujet Sceptique / Rationnel par Régression aux Apprentissages Précoces
 
 Voici l’analyse et la modélisation opératoire intégrale de la tranche 16/21 d’*Experiencing Hypnosis* (Erickson & Rossi).
 
@@ -2603,8 +2615,7 @@ Voici l’analyse et la modélisation opératoire intégrale de la tranche 16/21
   * **Répétition / Concaténation lexicale** : *« mental images. Mental images that... »* crée une transition fluide et hypnotique qui amplifie l'idée.
   * **Double lien d'évolution temporelle (Comparative Condition)** : *« And the older you grew, the more easily you formed mental images »*. Présuppose que le vieillissement naturel entraîne automatiquement une facilité accrue à générer des hallucinations et représentations visuelles intérieures.
 
-
-## --- Tranche 17 / 21 ---
+## Tranche 17 / 21 : Installation et Ratification de la Catalepsie d'Économie Motrice
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2761,8 +2772,7 @@ Voici l’analyse et la modélisation opératoire intégrale de la tranche 16/21
     - Si le sujet répond *Oui* : il valide explicitement avoir été en transe.
     - Si le sujet répond *Non* : il valide la proposition sous-jacente ("Je ne savais pas que j'étais en transe"), ce qui confirme que la transe a eu lieu en dehors de la conscience vigile. L'illusion de choix dépotentialise le doute conscient et ratifie l'état.
 
-
-## --- Tranche 18 / 21 ---
+## Tranche 18 / 21 : L'Induction par Insertion Incongruente & Réactivation Post-Hypnotique (Interspersal Cueing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2995,8 +3005,7 @@ Voici l’analyse et la modélisation opératoire intégrale de la tranche 16/21
     - « as you continue » projette l'expérience dans le futur continu.
     - « continue » opère syntaxiquement comme un ordre impératif absolu d'approfondissement sans fin, camouflé sous une simple conjonction de temps.
 
-
-## --- Tranche 19 / 21 ---
+## Tranche 19 / 21 : A : La Guidance Tactile Délicate & Catalepsie Émergente
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3119,8 +3128,7 @@ Voici l’analyse et la modélisation opératoire intégrale de la tranche 16/21
 > "How did you know what to fake?"
 - **[Analyse du Pattern]** : Recadrage par présupposition de compétence inconsciente. Alors que le sujet se débat avec le doute rationnel d'avoir « simulé » ou « fait semblant », Erickson prend le mot « fake » au pied de la lettre. Si le sujet a simulé la catalepsie exacte sans en connaître les marqueurs physiologiques au préalable, c'est que son système inconscient en possédait déjà la matrice. La feinte valide paradoxalement l'authenticité du phénomène.
 
-
-## --- Tranche 20 / 21 ---
+## Tranche 20 / 21 : L'Induction Expérientielle par Exploration Manuelle Décentrée (The Experiential Mode of Hypn...
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 20/21 d'*Experiencing Hypnosis* (Erickson & Rossi).
 
@@ -3277,8 +3285,7 @@ Voici l'analyse intégrale et exhaustive de la tranche 20/21 d'*Experiencing Hyp
 
 * **[Analyse du Pattern] :** Négation de directivité couplée à une question fermée d'attribution interne (*« Did I say a single word... »*, *« I didn't ask you... »*). Erickson oblige le sujet à convenir que l'opérateur n'a rien imposé. Cela transfère la paternité complète du phénomène à l'inconscient du sujet, verrouillant l'apprentissage sous forme d'auto-découverte non contestable.
 
-
-## --- Tranche 21 / 21 ---
+## Tranche 21 / 21 : Protocole de Ratification par Sollicitation Musculaire Contralatérale de la Catalepsie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3437,3 +3444,4 @@ Voici l'analyse intégrale et exhaustive de la tranche 20/21 d'*Experiencing Hyp
 > **E:** "You are using his own words to alter the patient's access to his various frames of reference."
 * **[Analyse du Pattern]** :  
   *Parabole contrastive et méta-communication sémantique* : Erickson illustre l'arbitraire du signe linguistique par deux vignettes parallèles concrètes (l'amoureux vs le fermier) utilisant la formule phonétique identique (*"It's a nice day today"*). Il démontre que les mots en surface ne sont que des déclencheurs renvoyant à des structures de sens sous-jacentes totalement divergentes. La formule finale d'Erickson résume toute sa pratique de la thérapie brève : *"You are using his own words to alter the patient's access to his various frames of reference"*. Il ne s'agit pas d'apprendre un nouveau langage au patient ni de lui imposer une vérité externe, mais d'utiliser ses propres vocables primaires comme des clés de commutation pour déverrouiller l'accès à d'autres méta-cadres de ressources jusqu'alors inaccessibles à sa conscience ordinaire.
+

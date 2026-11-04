@@ -86,10 +86,45 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 127-212]** : Cadre d'Assimilation Linéaire et Auto-Exploration Phénoménologique — *Protocole :* Cadre d'Assimilation Linéaire et Auto-Exploration Phénoménologique | *Mécanisme :* Nominalisation vs Processus Récursif Vivant (Self-Concepting) | *Verbatim :* Présupposition d'inévitabilité et truisme de progression
+- **Tranche 2 [Lignes 214-338]** : L'Ancrage Factuel des Attributions Identitaires (Contre-Attaque des Affirmations Vides) — *Protocole :* L'Ancrage Factuel des Attributions Identitaires (Contre-Attaque des Affirmations Vides) | *Verbatim :* La Relativité du « Mensonge Utile »
+- **Tranche 3 [Lignes 340-450]** : A : Arbitrage Décisionnel Complexe par Alignement de Valeurs — *Protocole :* A : Arbitrage Décisionnel Complexe par Alignement de Valeurs | *Mécanisme :* 1 La Triangulation Pathologique : Arrogance vs Self-Concept Ébranlé | *Verbatim :* La Déconstruction du Mirage de l'Arrogance
+- **Tranche 4 [Lignes 452-597]** : Le Swish Pattern Génératif Décontextualisé (Modèle Steve Andreas) — *Protocole :* Le Swish Pattern Génératif Décontextualisé (Modèle Steve Andreas)
+- **Tranche 5 [Lignes 599-711]** : d'Assainissement du Concept de Soi : Précision, Feedback et Intégration Inconsciente — *Protocole :* d'Assainissement du Concept de Soi : Précision, Feedback et Intégration Inconsciente
+- **Tranche 6 [Lignes 713-830]** : d'Exploration et de Recalibrage du Contenu de la Base de Données (Self-Concept) — *Protocole :* d'Exploration et de Recalibrage du Contenu de la Base de Données (Self-Concept) | *Mécanisme :* Le piège de la comparaison interindividuelle vs Modélisation fonctionnelle | *Verbatim :* Le double tranchant de la comparaison et le recadrage en faisabilité
+- **Tranche 7 [Lignes 832-993]** : A : Audit et Calibrage Géométrique des Positions Perceptives — *Protocole :* A : Audit et Calibrage Géométrique des Positions Perceptives | *Verbatim :* Le Double Biais de la Position Observateur Asymétrique
+- **Tranche 8 [Lignes 995-1111]** : Protocole d'Enrichissement par Triangulation des Positions Perceptuelles — *Protocole :* Protocole d'Enrichissement par Triangulation des Positions Perceptuelles
+- **Tranche 9 [Lignes 1113-1279]** : A : Découverte du Concept de Soi (Extraction de la Structure) — *Protocole :* A : Découverte du Concept de Soi (Extraction de la Structure) | *Mécanisme :* La Représentation Sommaire comme Poignée d'Accès Cognitif (summaryrepresentation suitcasehandle cognitiveindex) | *Verbatim :* La Métaphore Isomorphique de la Valise et de la Poignée
+- **Tranche 10 [Lignes 1281-1417]** : A : Mapping de Structure d'une Qualité Identitaire Sans Contenu (Content-Free Quality Mapping) — *Protocole :* A : Mapping de Structure d'une Qualité Identitaire Sans Contenu (Content-Free Quality Mapping) | *Mécanisme :* Bande passante sensorielle et traitement simultané vs séquentiel
+- **Tranche 11 [Lignes 1419-1577]** : A : Étalonnage des Sous-Modalités d'un Modèle Auditif Pur — *Protocole :* A : Étalonnage des Sous-Modalités d'un Modèle Auditif Pur | *Mécanisme :* Le Test d'Isolation Modalitaire de Certitude | *Verbatim :* Le Double Isolement de Contrôle Modalitaire
+- **Tranche 12 [Lignes 1579-1744]** : Encodage et Calibrage des Exemples Futurs (Future-Pacing Dissocié & Congruence Check) — *Protocole :* Encodage et Calibrage des Exemples Futurs (Future-Pacing Dissocié & Congruence Check) | *Mécanisme :* Dissociation Terminale Obligatoire du Futur & Préservation du Moteur Motivationnel | *Verbatim :* Le Double Recadrage Fantaisie vs Réalité et Présupposition d'Apprentissage
+- **Tranche 13 [Lignes 1746-1911]** : A : Équilibrage et Expansion Temporelle du Concept de Soi (Changing Time & Distribution) — *Protocole :* A : Équilibrage et Expansion Temporelle du Concept de Soi (Changing Time & Distribution) | *Mécanisme :* Levier de Continuité Temporelle et Remplissage des Vides (Timeline Gap Filling) | *Verbatim :* La dissolution de la fragmentation identitaire
+- **Tranche 14 [Lignes 1913-2038]** : Traitement et Regroupement des Contre-Exemples par le Cas Critique ("Grouping & Transforming... — *Protocole :* Traitement et Regroupement des Contre-Exemples par le Cas Critique ("Grouping & Transforming the Worst/First") | *Mécanisme :* Généralisation par Similarité et Rupture par le Cas Critique ("First or Worst") | *Verbatim :* Verbatim 1 : Distinction Fondamentale entre Compétence Externe et Ressource Interne
+- **Tranche 15 [Lignes 2040-2163]** : d'Élicitation, Hiérarchisation et Pontage Valeurs-Qualités — *Protocole :* d'Élicitation, Hiérarchisation et Pontage Valeurs-Qualités | *Mécanisme :* Le pont Valeurs-Identité (Cross-Referencing Values to Qualities) | *Verbatim :* L'alignement Valeur-Identité comme source de certitude
+- **Tranche 16 [Lignes 2165-2314]** : A : Élicitation et Hiérarchisation des Valeurs par Élimination Diadique (Pairwise Comparison) — *Protocole :* A : Élicitation et Hiérarchisation des Valeurs par Élimination Diadique (Pairwise Comparison) | *Verbatim :* La Remontée de Niveau Logique (Dé-nominalisation de l'action)
+- **Tranche 17 [Lignes 2316-2473]** : Construction d'une Nouvelle Qualité Identitaire (Partie 2 : Remplissage de la Base de Données) — *Protocole :* Construction d'une Nouvelle Qualité Identitaire (Partie 2 : Remplissage de la Base de Données) | *Mécanisme :* Le Tri-Positionnement Perceptuel comme Décodeur Sémantique Externe | *Verbatim :* Le Recadrage Préemptif d'Écologie (Égalité vs Supériorité)
+- **Tranche 18 [Lignes 2475-2563]** : A : Intégration de Contre-Exemples (Même Modalité, Localisation Séparée) — *Protocole :* A : Intégration de Contre-Exemples (Même Modalité, Localisation Séparée) | *Mécanisme :* Le Piège de la Pureté vs la Robustesse par Intégration | *Verbatim :* Le Pré-framing de Sécurisation par Désactivation de l'Enjeu
+- **Tranche 19 [Lignes 2565-2684]** : A : Intégration Manuelle Sécurisée des Contre-Exemples dans la Base Positive — *Protocole :* A : Intégration Manuelle Sécurisée des Contre-Exemples dans la Base Positive
+- **Tranche 20 [Lignes 2686-2839]** : A : Résolution des Dilemmes et Réconciliation de Valeurs — *Protocole :* A : Résolution des Dilemmes et Réconciliation de Valeurs | *Mécanisme :* Recadrage Structurel Culpabilité / Regret en Indice de Valeur Violée | *Verbatim :* Recadrage du Regret en Mesure d'Engagement Axiologique
+- **Tranche 21 [Lignes 2841-3006]** : Transformation d'une Qualité Ambiguë en Qualité Certaine — *Protocole :* Transformation d'une Qualité Ambiguë en Qualité Certaine | *Mécanisme :* La Nature Structurale de l'Ambigüité Identitaire (Ratio & Poids Submodalitaire) | *Verbatim :* La Déconstruction du Faux Contre-Exemple
+- **Tranche 22 [Lignes 3008-3159]** : Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2) — *Protocole :* Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2) | *Mécanisme :* Codage spatial et modalité critique des contre-exemples non intégrés | *Verbatim :* Suggestion post-hypnotique d'immunité identitaire
+- **Tranche 23 [Lignes 3161-3309]** : A : Finalisation et Intégration de la Qualité Transformée (Fin de Démonstration) — *Protocole :* A : Finalisation et Intégration de la Qualité Transformée (Fin de Démonstration)
+- **Tranche 24 [Lignes 3311-3457]** : Transformation d'une Qualité Dévalorisée / Non Désirée (Transforming an Unwanted Quality) — *Protocole :* Transformation d'une Qualité Dévalorisée / Non Désirée (Transforming an Unwanted Quality) | *Mécanisme :* Le Regroupement par Intention Positive Transversale (Bulk Reframing by Shared Valued Outcome) | *Verbatim :* Le Recadrage de la Persistance Comportementale
+- **Tranche 25 [Lignes 3459-3589]** : A : Transformation d'une Qualité Non Désirée (Negatively Valued Quality) — *Protocole :* A : Transformation d'une Qualité Non Désirée (Negatively Valued Quality)
+- **Tranche 26 [Lignes 3591-3754]** : Cartographie et Modulation des Frontières Externes — *Protocole :* Cartographie et Modulation des Frontières Externes | *Mécanisme :* La Frontière du Soi comme Métaphore Spatiale Opératoire | *Verbatim :* Présupposition d'action immédiate sans contrainte de méthode
+- **Tranche 27 [Lignes 3756-3901]** : Exploration et Transformation des Frontières Internes (Internal Boundaries) — *Protocole :* Exploration et Transformation des Frontières Internes (Internal Boundaries) | *Mécanisme :* La Dilatation des Frontières Élargies et Seconde Position Universelle | *Verbatim :* La Membrane Poreuse du Cœur
+- **Tranche 28 [Lignes 3903-4023]** : Mapping Across de Déconnexion à Connexion — *Protocole :* Mapping Across de Déconnexion à Connexion | *Verbatim :* Pattern 1 : Recadrage de la Déconnexion Objective en Événement Neurologique Interne
+- **Tranche 29 [Lignes 4025-4126]** : Connexion Préservée avec Maintien de l'Intégrité Somatique (Sortie de 2ème Position Subie) — *Protocole :* Connexion Préservée avec Maintien de l'Intégrité Somatique (Sortie de 2ème Position Subie) | *Mécanisme :* Différenciation 1ère Position vs 2ème Position Involontaire (Frontière de l'Empathie Perméable) | *Verbatim :* La consigne de non-bascule perceptuelle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 29 ---
+## Tranche 1 / 29 : Cadre d'Assimilation Linéaire et Auto-Exploration Phénoménologique
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche.
 
@@ -176,8 +211,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « *The self-concept that you have now is only one of many possible ones that you could create from your wealth of experience, and that means you can change it whenever it doesn't serve you well. (...) And in a sense, everything is a lie because you have to take a perspective on something. You can't know objective absolute truth. So is it a more or less useful lie? Is it a more or less accurate lie?* »
 * **[Analyse du Pattern]** : Recadrage de contexte radical (*reframing*). En redéfinissant toute perception comme un point de vue subjectif (donc par définition non absolu, métaphorisé par « *a lie* »), il fait sauter les défenses critiques du sujet face au sentiment d'imposture. L'évaluation glisse de l'axe binaire « Vrai / Faux » (qui paralyse le changement) vers l'axe pragmatique « Utile / Précis / Fonctionnel » (qui libère l'action de modélisation).
 
-
-## --- Tranche 2 / 29 ---
+## Tranche 2 / 29 : L'Ancrage Factuel des Attributions Identitaires (Contre-Attaque des Affirmations Vides)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -303,8 +337,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Recadrage d'intention positive radical :* L'échec répété et l'incapacité à « franchir la ligne d'arrivée » sont extraits du cadre de la tare ou du déficit personnel pour être réinsérés dans le cadre de la « sagesse intérieure profonde » (*deeper inner wisdom*).
   - *Personnification et split de parties :* Découplage entre l'ego conscient qui s'acharne (« trying so hard to prove something ») et l'inconscient protecteur qui freine. Ce pattern désamorce instantanément la haine de soi et l'autocritique pour ouvrir la voie à la coopération écologique entre les parties.
 
-
-## --- Tranche 3 / 29 ---
+## Tranche 3 / 29 : A : Arbitrage Décisionnel Complexe par Alignement de Valeurs
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du séminaire *Transforming Yourself* de Damon Cart.
 
@@ -416,8 +449,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   * **Présupposition de levier systémique irrésistible** : En affirmant que le haut niveau *« is going to affect your behavior »*, il installe la certitude implicite que les comportements problématiques s'aligneront automatiquement dès lors que le niveau supérieur sera réorganisé.
   * **Commande enchâssée d'ouverture au changement** : Prépare le terrain réceptif du sujet à un travail en profondeur qui dépassera la simple résolution de symptômes locaux.
 
-
-## --- Tranche 4 / 29 ---
+## Tranche 4 / 29 : Le Swish Pattern Génératif Décontextualisé (Modèle Steve Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -564,8 +596,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   > *"If you're not connecting actual reference experiences to what you're talking about in your own experiences in your life, you can build yourself up, give yourself sort of a flimsy sense of having whatever quality... but the moment you walk out your front door and somebody flips you off, cuts you off in traffic, or says something mean to you... it's going to crumble, because there's nothing holding it in place, there's no reference experiences, no meat in it, it will just fall apart."*
   * **[Analyse du Pattern]** : Métaphore de fragilité structurelle kinesthésique (*"flimsy"*, *"crumble"*, *"no meat in it"*, *"fall apart"*). Cart détruit la crédibilité des techniques d'affirmation pure en créant un contraste sensoriel brutal entre l'illusion verbale en miroir et le choc d'un ancrage kinesthésique réel imprévu de l'environnement extérieur.
 
-
-## --- Tranche 5 / 29 ---
+## Tranche 5 / 29 : d'Assainissement du Concept de Soi : Précision, Feedback et Intégration Inconsciente
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -679,8 +710,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
 > **"If they're able to accomplish it, then I believe that I can do it too. It kind of gives you like a foothold into doing as well as they're doing or gives you the sense that it's possible. Now you're not really comparing your value to them or their value to you or if you're better than them or not. You're just kind of using the fact that..."**
 - **[Analyse du Pattern]** : Recadrage de la comparaison sociale d'un cadre d'évaluation ontologique (valeur intrinsèque de l'être) vers un cadre épistémique d'existence de preuve (*foothold of possibility*). L'existence d'autrui n'est plus une menace hiérarchique, mais une information confirmant les capacités du potentiel humain.
 
-
-## --- Tranche 6 / 29 ---
+## Tranche 6 / 29 : d'Exploration et de Recalibrage du Contenu de la Base de Données (Self-Concept)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -799,8 +829,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
 > *"Seeing yourself have the quality from someone else's perspective and from a neutral observer perspective are powerful ways to strengthen your quality. Again, it goes back to discrepancy. When you took second position or when you took observer position, you might have realized that you weren't really exemplifying that quality as much as you thought you were. This is good information to know because, again, when you know that, then there's that motivation to do more, do better."*
 * **[Analyse du Pattern] :** Recadrage d'inconfort : Damon Cart redéfinit l'illusion brisée ou la faille aperçue (*discrepancy*) non comme un échec ou un déclencheur de honte, mais comme une source pure de rétroaction (*"good information to know"*) menant à la motivation. L'utilisation du point de vue d'observateur neutre permet de suspendre la charge affective pour ne traiter que l'information cybernétique de correction comportementale.
 
-
-## --- Tranche 7 / 29 ---
+## Tranche 7 / 29 : A : Audit et Calibrage Géométrique des Positions Perceptives
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -963,8 +992,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   5. *Distribution contextuelle* (« at work as well as at home »).
   La présupposition sous-jacente (« *they won't be upset with you... this is a very pleasant thing* ») élimine toute anxiété de performance chez le praticien débutant.
 
-
-## --- Tranche 8 / 29 ---
+## Tranche 8 / 29 : Protocole d'Enrichissement par Triangulation des Positions Perceptuelles
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1082,8 +1110,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   > "For example, if I say chair, what did you just do? How do you know what a chair is? I can tell you, you didn't go into your internal dictionary and scrambled through the pages and say, okay, chair, chair, chair and then find a definition [...] you saw or heard something or you felt something."
   * **[Analyse du Pattern]** : Rupture de pattern par réfutation par l'absurde (métaphore du dictionnaire feuilleté frénétiquement). Empilement de négations ("you didn't go...", "you did not do that") pour détruire l'illusion intellectualisée du fonctionnement mental, suivi d'une assertion prescriptive catégorique ("you saw or heard something or you felt something") réorientant immédiatement l'attention du sujet sur le canal sensoriel brut.
 
-
-## --- Tranche 9 / 29 ---
+## Tranche 9 / 29 : A : Découverte du Concept de Soi (Extraction de la Structure)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1251,8 +1278,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   * *Recadrage par la preuve somatique somatosensorielle* : Oppose le doute intellectuel à la réalité physique du système nerveux (« *it feels very uncomfortable or [...] so much stronger, you're not making that up* »).
   * *Élévation de critère* : Destruction de l'équivalence complexe populaire « *subjectif = insignifiant/imaginaire* » par une affirmation d'autorité catégorique (« *No, no, no. This is as real to you as anything else* »).
 
-
-## --- Tranche 10 / 29 ---
+## Tranche 10 / 29 : A : Mapping de Structure d'une Qualité Identitaire Sans Contenu (Content-Free Quality Mapping)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1390,8 +1416,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/29 du 
   > *"So now that you have that, now I want you to take away the sound and only see the movie. Yes, I can do that. Okay. And then flip it again, take away the movie and only hear the sound. Yes. Okay. Which one was the stronger sense of Q?"*
   * **[Analyse du Pattern]** : Commandes directes simples d'exclusion sensorielle (*« take away the sound »*, *« take away the movie »*). L'utilisation de questions comparatives fermées (*« Which one was the stronger sense of Q? »*) contraint l'interlocuteur à accéder directement à l'évaluation somatique différentielle sans passer par une intellectualisation du contenu.
 
-
-## --- Tranche 11 / 29 ---
+## Tranche 11 / 29 : A : Étalonnage des Sous-Modalités d'un Modèle Auditif Pur
 
 Voici l'extraction et la modélisation intégrale de la matière opératoire contenue dans la tranche 11/29.
 
@@ -1551,8 +1576,7 @@ Voici l'extraction et la modélisation intégrale de la matière opératoire con
 
 * **[Analyse du Pattern] :** Prescription paradoxale de non-précision sensorielle (« make the external details a little more vague ») qui démantèle un dogme naïf de la PNL standard (« be hyper-specific »). Cart utilise un contraste entre la rigidité structurelle interne (attitude, valeur fermement ancrées) et la flexibilité du décor extérieur (flou artistique des circonstances). Ce pattern syntaxique (« allow that to generalize ») libère le système neurologique de la névrose de contrôle matériel pour le recentrer sur l'état d'être génératif.
 
-
-## --- Tranche 12 / 29 ---
+## Tranche 12 / 29 : Encodage et Calibrage des Exemples Futurs (Future-Pacing Dissocié & Congruence Check)
 
 Voici l'analyse opératoire intégrale de la tranche 12/29 du cours *Transforming Yourself* par Damon Cart, structurée selon les règles strictes d'ingénierie du Self-Concept.
 
@@ -1719,8 +1743,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/29 du cours *Transformin
 
 * **[Analyse du Pattern]** : Déculpabilisation totale par recours au cadre évolutionniste (survie adaptative des ancêtres). En normalisant la tendance au *time spreading* négatif comme un héritage génétique d'évitement du danger (*« saber-tooth tiger »*), il libère le sujet de l'étiquette pathologique ou dépressive. Une fois le mécanisme validé dans sa fonction de survie primaire, il injecte une présupposition d'affranchissement immédiat par la prise de conscience (*« once we're aware of it, we can change it. We're not stuck this way »*).
 
-
-## --- Tranche 13 / 29 ---
+## Tranche 13 / 29 : A : Équilibrage et Expansion Temporelle du Concept de Soi (Changing Time & Distribution)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1887,8 +1910,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/29 du cours *Transformin
 
 * **[Analyse du Pattern]** : Déconstruction linguistique de l'apprentissage traumatique par truisme évolutif. Cart isole la composante neurologique de l'ancrage : l'imprévisibilité d'un événement négatif multiplie l'impact de l'encodage émotionnel ("unexpectedly bad"). L'explication prépare une commande de généralisation inversée : en intervenant sur l'origine temporelle ou l'acmé émotionnelle ("the worst one or the first one"), le lien de dépendance logique s'effondre de lui-même ("are sort of based on that... it tends to transform all of the examples").
 
-
-## --- Tranche 14 / 29 ---
+## Tranche 14 / 29 : Traitement et Regroupement des Contre-Exemples par le Cas Critique ("Grouping & Transforming...
 
 Voici l'extraction opératoire intégrale de la tranche 14/29 du séminaire *Transforming Yourself* de Damon Cart.
 
@@ -2015,8 +2037,7 @@ Does that answer your question? Okay. You just felt it. But you didn't need it t
 > "You probably, not probably, you had a positive intent here. Do you know what that positive intent was? Yeah. So you're pretty clear about that. All right. So she doesn't need to tell me because we can work purely from structure."
 * **[Analyse du Pattern] :** Correction conversationnelle immédiate et affirmation autoritaire (*"You probably, not probably, you had..."*) qui élimine le doute et présuppose l'intention positive comme une vérité axiomatique du système. L'intervention pose une frontière méthodologique essentielle : en affirmant *"she doesn't need to tell me because we can work purely from structure"*, Cart neutralise toute dérive narrative ou cathartique, focalisant l'inconscient du sujet uniquement sur la manipulation de ses représentations structurales.
 
-
-## --- Tranche 15 / 29 ---
+## Tranche 15 / 29 : d'Élicitation, Hiérarchisation et Pontage Valeurs-Qualités
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 15/29 du séminaire *Transforming Yourself* de Damon Cart.
 
@@ -2141,8 +2162,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 15/29 du s�
 
 - **[Analyse du Pattern]** : **Question d'amorce ontologique & Arbre décisionnel hypnotique.** La formulation directe *« Am I [quality]? »* court-circuite l'intellectualisation et sollicite une réponse somatique réflexe (congruence immédiate vs hésitation). L'enchaînement en flux rapide sans rupture offre à l'inconscient du praticien une cartographie diagnostique instantanée en trois branches exclusives : qualité absente, qualité ambiguë, ou qualité opposée verrouillée par négation.
 
-
-## --- Tranche 16 / 29 ---
+## Tranche 16 / 29 : A : Élicitation et Hiérarchisation des Valeurs par Élimination Diadique (Pairwise Comparison)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2293,8 +2313,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 15/29 du s�
 > **Damon Cart :** « OK, so assure this part of you that has some resistance and is scared that the purpose of what we're going to do is so that you connect with people more, which means when you identify and connect with people more, it's much less likely that you would hurt them. »
 * **[Analyse du Pattern]** : Séquence classique de négociation entre parties issue du recadrage en 6 pas, couplée à un double lien d'égalisation. Cart commence par extraire l'intention positive (*« What is the positive intent... »*), applique un cadrage conditionnel fermant l'objection (*« if you could have Q in such a way... would that be OK? »*), puis utilise une fausse alternative polaire orientée (*« Does it put you in a place of being superior... or do you want to connect with people more? »*). Il conclut par une suggestion enchâssée d'incompatibilité logique irréfutable : *« se connecter davantage implique qu'il est beaucoup moins probable de blesser »*, dissolvant instantanément la peur de la partie inconsciente réfractaire.
 
-
-## --- Tranche 17 / 29 ---
+## Tranche 17 / 29 : Construction d'une Nouvelle Qualité Identitaire (Partie 2 : Remplissage de la Base de Données)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 17/29 du cours *Transforming Yourself* de Damon Cart (basé sur les travaux de Steve Andreas).
 
@@ -2453,8 +2472,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 17/29 du cours *Tran
 > « When you tried that out, removing your counter examples is the quality stronger and more solid with or without the counter examples? This can also trip people up a little bit because when they remove the counter examples, they do often get a sense of the quality being pure. And that's normal because when you have a pure database of positive examples, you're going to have that pureness. [...] but we're not looking for purity here. What we're looking for is does it make it stronger, more solid, more durable? Actually having a few counter examples in your database actually makes the quality stronger. »
 * **[Analyse du Pattern]** : Clivage conceptuel et recadrage de critère. Damon Cart oppose la « pureté » (*purity* — concept fragile, rigide, idéalisé) à la « solidité / durabilité » (*stronger, more solid, more durable* — critères écologiques réels). Par un empilement d'assertions d'autorité vérifiables par l'expérience (*« Actually having a few counter examples... makes the quality stronger »*), il désamorce la résistance du client à intégrer ses erreurs passées dans son identité.
 
-
-## --- Tranche 18 / 29 ---
+## Tranche 18 / 29 : A : Intégration de Contre-Exemples (Même Modalité, Localisation Séparée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2544,8 +2562,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 17/29 du cours *Tran
 > "The one area where you do want some purity is in your future. And the reason for that is you have the feedback system, meaning you have the counter examples integrated into your past examples. You know this is where you come from. This is how you have corrected mistakes in the past. Going into the future, those mistakes from the past will alert you to possible mistakes in the future. You will make mistakes in the future. That is a given... You not put counter examples into your future, leave that out your future. Database is about how you want to be, not how you don't want to be."
 * **[Analyse du Pattern] :** Empilement de truismes et commande négative de direction téléologique. Cart normalise l'inévitabilité de l'erreur (*« That is a given »*), désamorçant le perfectionnisme, tout en posant une interdiction formelle et répétitive de projection (*« You not put... leave that out »*). L'agencement syntaxique ancre le passé comme un réservoir cybernétique d'autorégulation (*« feedback system »*) et verrouille le futur comme un champ exclusif d'attraction positive, évitant l'effet de rebond attentionnel sur ce que le sujet souhaite fuir.
 
-
-## --- Tranche 19 / 29 ---
+## Tranche 19 / 29 : A : Intégration Manuelle Sécurisée des Contre-Exemples dans la Base Positive
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 19/29 de *Transforming Yourself* par Damon Cart.
 
@@ -2666,8 +2683,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   > "When you feel guilt about harming someone, it means you violated one or more of your values. This strength of your bad feelings is a good indication of the importance to you of the quality that you violated. If it didn't matter to you, you wouldn't have any feelings about it. The recognition of this actually strengthens your quality and motivates you to do something about it. Suddenly, this puts fuel into doing something about it."
   * **[Analyse du Pattern]** : Recadrage de contenu opérant par équivalence complexe (*sentiment d'intensité de la faute = mesure de l'engagement envers la valeur*). Ce levier extrait instantanément le sujet du piège de l'auto-dépréciation stérile pour injecter la charge kinesthétique dans une boucle d'action réparatrice (*"puts fuel into doing something about it"*).
 
-
-## --- Tranche 20 / 29 ---
+## Tranche 20 / 29 : A : Résolution des Dilemmes et Réconciliation de Valeurs
 
 Voici l’analyse modélisatrice intégrale de la tranche 20/29 du séminaire *Transforming Yourself* de Damon Cart.
 
@@ -2822,8 +2838,7 @@ flowchart TD
   - *Double lien intégratif :* L'erreur passée continue d'exister en tant qu'information brute (« still reminds you »), désamorçant toute panique morale ou tentative de déni.
   - *Suggestion indirecte et permissivité éricksonienne :* « let it settle and integrate where it wants to go » transfère le contrôle de l'intégration au traitement autonome et inconscient du système nerveux central.
 
-
-## --- Tranche 21 / 29 ---
+## Tranche 21 / 29 : Transformation d'une Qualité Ambiguë en Qualité Certaine
 
 Voici l'extraction et l'ingénierie intégrale de la tranche 21/29 du cours *Transforming Yourself* de Damon Cart.
 
@@ -2990,8 +3005,7 @@ Voici l'extraction et l'ingénierie intégrale de la tranche 21/29 du cours *Tra
   - *Empilement de Truismes Libérateurs* : Séquence d'affirmations sécurisantes consécutives (*safe from disrespect, safe from humiliation...*).
   - *Focalisation Interne Inébranlable* : La formule *« You take you wherever you go »* agit comme une commande post-hypnotique de boucle fermée : le référentiel de validation devient entièrement endogène, désamorçant toute dépendance au regard d'autrui par installation d'une certitude kinesthésique auto-entretenue.
 
-
-## --- Tranche 22 / 29 ---
+## Tranche 22 / 29 : Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2)
 
 Voici l'extraction opératoire intégrale de la tranche 22/29 du cours *Transforming Yourself* par Damon Cart.
 
@@ -3144,8 +3158,7 @@ Transformer une qualité d'identité instable, fluctuante ou ambiguë (qualité 
 > « So we don't want to forget what actually happens because this is not about deceiving yourself. So you want to make sure the new movie is big, bright, colorful, compelling, or whatever it is that makes, it withdraws your attention to it. And then what actually happened, smaller, darker, and make sure that you are connected somehow. So if they're apart, then we're only looking at one or the other, but if they're connected, we know, oh yeah, there was that time that there was this, but this is who I want to be. This is the feed forward system. »
 - **[Analyse du Pattern]** : Présupposition de contraste sous-modal couplée à un ancrage syntaxique d'orientation future. En reliant structurellement le souvenir d'origine atténué au nouveau film amplifié, il crée un pont cybernétique (*« this is who I want to be »*) : la conjonction adversative *« but »* efface le poids de l'ancien événement au profit de la directionnelle d'identité désirée, tout en satisfaisant le besoin d'honnêteté écologique du système (*« not about deceiving yourself »*).
 
-
-## --- Tranche 23 / 29 ---
+## Tranche 23 / 29 : A : Finalisation et Intégration de la Qualité Transformée (Fin de Démonstration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3295,8 +3308,7 @@ Transformer une qualité d'identité instable, fluctuante ou ambiguë (qualité 
 > **"There was never a time when you were nice to someone, never ever. Of course there is. So you want to go into your database and find those positive examples. They exist."**
 - **[Analyse du Pattern]** : Réduction par l'absurde du quantificateur universel (*Meta-model challenge by exaggeration*) suivie d'un truisme et d'une commande directe de recherche transdérivationnelle (« go into your database and find... They exist »). La clôture brève « They exist » élimine le doute et réinstalle la certitude ontologique de la ressource.
 
-
-## --- Tranche 24 / 29 ---
+## Tranche 24 / 29 : Transformation d'une Qualité Dévalorisée / Non Désirée (Transforming an Unwanted Quality)
 
 Voici l’analyse chirurgicale et opératoire de la tranche 24/29 de *Transforming Yourself* par Damon Cart.
 
@@ -3444,8 +3456,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 24/29 de *Transformi
 
 *   **[Analyse du Pattern] :** **Dé-nominalisation radicale et boucle autoréférentielle de désidentification**. En qualifiant l'auto-concept de « mensonge » (*a lie*), Cart crée un choc de défocalisation. Il pose ensuite une question paradoxale réflexive (*« Who's doing the work on the self-concept? It's the true you »*) qui projette instantanément le sujet dans une posture méta-spirituelle d'observateur pur. Ce recadrage philosophique dissout l'anxiété de performance liée au changement personnel : modifier son identité cesse d'être une menace existentielle pour devenir un jeu plastique de recalibrage conceptuel.
 
-
-## --- Tranche 25 / 29 ---
+## Tranche 25 / 29 : A : Transformation d'une Qualité Non Désirée (Negatively Valued Quality)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3577,8 +3588,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 24/29 de *Transformi
 > *"What would it be like if you could see your boundary? What would it be like as if you knew exactly where your boundary was, the shape of it, the color of it, etc. Or if I had a boundary, what would it be like?"*
 - **[Analyse du Pattern]** : Utilisation du cadre du "Comme si" (*As-if frame*) combiné à des présuppositions spatiales. L'interrogation au conditionnel désamorce l'objection critique du sujet (« je ne sais pas » ou « ça n'existe pas ») et sollicite directement le cortex visuel et spatial pour halluciner une structure psychogéographique mesurable.
 
-
-## --- Tranche 26 / 29 ---
+## Tranche 26 / 29 : Cartographie et Modulation des Frontières Externes
 
 Voici l'analyse d'ingénierie opératoire de la tranche 26/29 du cours *Transforming Yourself* de Damon Cart.
 
@@ -3743,8 +3753,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 26/29 du cours *Transfor
   - *Dissociation des parties* : L'expression `that part of you as resisting` sépare l'identité du sujet du signal de résistance, neutralisant l'auto-jugement.
   - *Empilement de truismes rassurants & Permissivité réversible* : Les propositions `Nothing gets stuck and nothing gets broken` suivies de la clause de sauvegarde `you can always go back and fix it` éliminent le risque perçu, débloquant l'accès à l'expérimentation profonde.
 
-
-## --- Tranche 27 / 29 ---
+## Tranche 27 / 29 : Exploration et Transformation des Frontières Internes (Internal Boundaries)
 
 Voici l'extraction opératoire complète et modélisée de la tranche 27/29 du séminaire *Transforming Yourself* de Damon Cart (basé sur les travaux de Steve Andreas).
 
@@ -3891,8 +3900,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 27/29 du s
   * *Truismes empilés et analogie corporelle :* L'image des danseurs prépare l'acceptation neurologique de la télépathie comportementale (« know what each other is going to do before they do »).
   * *Recadrage d'identité systémique :* La conclusion « They're not two parts. They're one whole » reprogramme la définition de l'interaction conflictuelle en effaçant la ligne de démarcation du combat.
 
-
-## --- Tranche 28 / 29 ---
+## Tranche 28 / 29 : Mapping Across de Déconnexion à Connexion
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4014,8 +4022,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 27/29 du s
 
 * **[Analyse du Pattern]** : Commande conversationnelle directe couplée à une présupposition d'état de certitude somatique (*"there is a knowing of I feel calm"*). En employant la nominalisation ontologique *"a knowing"*, Cart ancre la stabilité kinesthésique indépendamment du comportement de l'interlocuteur (*"no matter what feeling comes from her"*), coupant net la contagion émotionnelle.
 
-
-## --- Tranche 29 / 29 ---
+## Tranche 29 / 29 : Connexion Préservée avec Maintien de l'Intégrité Somatique (Sortie de 2ème Position Subie)
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 29/29 de *Transforming Yourself* par Damon Cart.
 
@@ -4117,3 +4124,4 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 29/29 de
 #### Pépite 4 : La suggestion d'encodage identitaire (Direct quote de Steve Andreas)
 > "How about building in yourself a personal quality of being determined to live in a mind filled with beauty, truth and pleasure and begin now to collect experiences that nourish you and assemble them just as you do for any other quality inside yourself."
 * **[Analyse du Pattern]** : Suggestion permissive d'ouverture (« How about... ») encapsulant une commande d'installation d'auto-concept à niveau identitaire (« building in yourself a personal quality »). L'adverbe temporel « begin now to collect » constitue une commande enchâssée temporelle immédiate, reliée au processus cognitif d'agrégation d'exemples (« assemble them just as you do for any other quality »), généralisant l'intégralité du séminaire *Transforming Yourself* en une méta-compétence de vie durable.
+

@@ -73,10 +73,41 @@ Le fil conducteur unifiant toutes les démonstrations et interventions repose su
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 110-192]** : d'Encodage Perceptif Absolu (Protocole Sakakibara) — *Protocole :* d'Encodage Perceptif Absolu (Protocole Sakakibara) | *Mécanisme :* Leurre de l'Attribution Génétique vs Adaptabilité Neurophysiologique | *Verbatim :* Le Recadrage du Don par la Propriété Universelle
+- **Tranche 2 [Lignes 194-277]** : d'Expansion de la Mémoire Numérique (Séquençage Adaptatif de Faloon/Chase) — *Protocole :* d'Expansion de la Mémoire Numérique (Séquençage Adaptatif de Faloon/Chase) | *Mécanisme :* Le Seuil de Stagnation par Automatisation ("The Acceptable Performance Trap") | *Verbatim :* s Verbatim
+- **Tranche 3 [Lignes 279-379]** : A : La Rétroaction Adaptative Incrémentale (+1 / -1) — *Protocole :* A : La Rétroaction Adaptative Incrémentale (+1 / -1) | *Mécanisme :* La boucle de rétroaction immédiate vs Répétition naïve
+- **Tranche 4 [Lignes 381-488]** : A : Construction de Cartographie Cognitive Interne & Internalisation Haute-Résolution (Métho... — *Protocole :* A : Construction de Cartographie Cognitive Interne & Internalisation Haute-Résolution (Méthode de la Connaissance / "The Knowledge")
+- **Tranche 5 [Lignes 490-614]** : Le Test de Distinction entre Mémoire Brute et Structure de Représentation (Paradigme Simon-C... — *Protocole :* Le Test de Distinction entre Mémoire Brute et Structure de Représentation (Paradigme Simon-Chase) | *Verbatim :* La Reconceptualisation Révolutionnaire du Potentiel Humain
+- **Tranche 6 [Lignes 616-734]** : Test de Détection de Représentation Mentale de Domaine (Protocole Chase & Simon) — *Protocole :* Test de Détection de Représentation Mentale de Domaine (Protocole Chase & Simon) | *Mécanisme :* Bypass du goulot d'étranglement de la mémoire de travail (Short-Term Memory Bypass) | *Verbatim :* La rupture de l'illusion du don chez le maître
+- **Tranche 7 [Lignes 736-830]** : A : Modélisation Diagnostique & Résolution d'Énigme Complexe — *Protocole :* A : Modélisation Diagnostique & Résolution d'Énigme Complexe
+- **Tranche 8 [Lignes 832-948]** : Structuration de Carte Mentale avec Repères Mixtes (Chaffin/Imreh Architecture) — *Protocole :* Structuration de Carte Mentale avec Repères Mixtes (Chaffin/Imreh Architecture) | *Mécanisme :* Le Double Encodage Macro/Micro (Forest & Trees Calibration) | *Verbatim :* La Métaphore de l'Escalier Auto-Généré
+- **Tranche 9 [Lignes 950-1074]** : Modélisation et Rétro-Ingénierie d'une Compétence Hors-Domaine Canonique (The Deliberate Blu... — *Protocole :* Modélisation et Rétro-Ingénierie d'une Compétence Hors-Domaine Canonique (The Deliberate Blueprint) | *Mécanisme :* Le Moteur de la Pratique Délibérée (Deliberate Practice Engine) | *Verbatim :* La Définition de l'Ingénierie Délibérée
+- **Tranche 10 [Lignes 1076-1196]** : Le Débriefing Opératoire « Top Gun » (After-Action Report) — *Protocole :* Le Débriefing Opératoire « Top Gun » (After-Action Report) | *Mécanisme :* Déconstruction de la règle causale linéaire : Déconnexion Volume brut vs Pratique délibérée | *Verbatim :* La déconstruction du mythe de la cause unique
+- **Tranche 11 [Lignes 1198-1298]** : Le Double Tour d'Entraînement Commercial avec Capture Vidéo (Role-Play & Video Feedback Loop) — *Protocole :* Le Double Tour d'Entraînement Commercial avec Capture Vidéo (Role-Play & Video Feedback Loop) | *Mécanisme :* L'approche Top Gun : L'environnement de simulation haute fidélité déconnecté du risque réel | *Verbatim :* Le cadrage de l'intégration continue de la pratique
+- **Tranche 12 [Lignes 1300-1401]** : Modélisation et Extraction des Représentations Mentales d'Experts — *Protocole :* Modélisation et Extraction des Représentations Mentales d'Experts | *Mécanisme :* Le Découplage Savoir vs Compétence Opératoire (Knowledge vs. Skill Fallacy) | *Verbatim :* > "The idea is that all surgical trainees need in order to be able to carry out a new surgery is to see it done once and, after that, they can figure out how to do it by themselves on succeeding patients. It is the ultimate profession of faith in knowledge versus skill."
+- **Tranche 13 [Lignes 1403-1528]** : A : La Triade d'Auto-Entraînement sans Maître (« The Three Fs : Focus, Feedback, Fix it ») — *Protocole :* A : La Triade d'Auto-Entraînement sans Maître (« The Three Fs : Focus, Feedback, Fix it »)
+- **Tranche 14 [Lignes 1530-1670]** : A : Dépassement de Plateau par Forçage Diagnostique et Micro-Isolation — *Protocole :* A : Dépassement de Plateau par Forçage Diagnostique et Micro-Isolation | *Verbatim :* La Déconstruction Circulaire de la Volonté
+- **Tranche 15 [Lignes 1672-1776]** : A : La Chambre d'Écho de Motivation Collective (Franklin Junto Protocol) — *Protocole :* A : La Chambre d'Écho de Motivation Collective (Franklin Junto Protocol) | *Verbatim :* Verbatim 1
+- **Tranche 16 [Lignes 1778-1898]** : Le Protocole Brady de Reconstruction de l'Oreille Absolue chez l'Adulte — *Protocole :* Le Protocole Brady de Reconstruction de l'Oreille Absolue chez l'Adulte | *Mécanisme :* La Transition Écologique Motivationnelle (Du Renforcement Exogène à l'Identité Auto-Génératrice) | *Verbatim :* La Bascule Inéluctable de la Source Énergétique
+- **Tranche 17 [Lignes 1900-1997]** : Rétro-Ingénierie de la Performance Inexpliquée (Démystification d'un "Prodige") — *Protocole :* Rétro-Ingénierie de la Performance Inexpliquée (Démystification d'un "Prodige") | *Mécanisme :* Le quatrième stade : Extension de frontière par rétro-ingénierie et auto-monitoring | *Verbatim :* La rupture de causalité de la créativité
+- **Tranche 18 [Lignes 1999-2110]** : Déconstruction Rétro-Ingénierique d'un « Talent Miraculeux » (The Reality Pull-Back) — *Protocole :* Déconstruction Rétro-Ingénierique d'un « Talent Miraculeux » (The Reality Pull-Back) | *Mécanisme :* Le Biais d'Invisibilité du Transfert Moteur (Cross-Training Occulte) | *Verbatim :* Le Dévoilement du Rideau Illusionniste
+- **Tranche 19 [Lignes 2112-2204]** : de Restructuration Représentationnelle (De la Logique Analytique à la Vision par « Lignes de... — *Protocole :* de Restructuration Représentationnelle (De la Logique Analytique à la Vision par « Lignes de Force ») | *Verbatim :* Verbatim 1 : L'Inversion du Statut du QI
+- **Tranche 20 [Lignes 2206-2330]** : Ingénierie Pédagogique Délibérée (Architecture Carl Wieman / Ericsson) — *Protocole :* Ingénierie Pédagogique Délibérée (Architecture Carl Wieman / Ericsson) | *Mécanisme :* Inversion Épistémique : Primat de l'Opératoire sur le Déclaratif | *Verbatim :* La Bascule de l'Information vers l'Identité Cognitive
+- **Tranche 21 [Lignes 2332-2417]** : d'Installation de l'Identité d'Homo exercens (Recodage d'Agentivité) — *Protocole :* d'Installation de l'Identité d'Homo exercens (Recodage d'Agentivité) | *Verbatim :* L'Induction Hypnotique d'un Monde d'Excellence Générale
+- **Tranche 22 [Lignes 2419-2513]** : A : La Matrice d'Évaluation Représentative (Expert Performance Approach - Phase 1) — *Protocole :* A : La Matrice d'Évaluation Représentative (Expert Performance Approach - Phase 1) | *Verbatim :* La Définition Opératoire de la Pratique Délibérée
+- **Tranche 23 [Lignes 2515-2620]** : Rétro-Ingénierie Textuelle et Modélisation par Réplication Différée (Méthode Benjamin Franklin) — *Protocole :* Rétro-Ingénierie Textuelle et Modélisation par Réplication Différée (Méthode Benjamin Franklin) | *Mécanisme :* Le Levier de l'Adaptation Morphologique et Structurale par Contrainte Fonctionnelle Chronique | *Verbatim :* La mundanité de l'ancrage de l'excellence
+- **Tranche 24 [Lignes 2622-2688]** : d'Enseignement Délibéré et de Restructuration Conceptuelle (Modèle Wieman / Deslauriers) — *Protocole :* d'Enseignement Délibéré et de Restructuration Conceptuelle (Modèle Wieman / Deslauriers)
+- **Tranche 25 [Lignes 2690-2776]** : d'Assimilation par Décomposition et Reproduction (Franklin / Ringmaster Practice) — *Protocole :* d'Assimilation par Décomposition et Reproduction (Franklin / Ringmaster Practice)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : d'Encodage Perceptif Absolu (Protocole Sakakibara)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -160,8 +191,7 @@ Le fil conducteur unifiant toutes les démonstrations et interventions repose su
 
 * **[Analyse du Pattern]** : Isomorphisme spatial hypnotique complet. Utilisation du double lien métaphorique : progression non directive quant à l'objectif final (*« You’re not sure how high you want to go »*), juxtaposée à une certitude d'état présent insatisfaisant (*« you know you want to get higher than you currently are »*). Contraste entre la dérive aléatoire (*« hope for the best »*) et la sécurité structurée du praticien/modélisateur (*« rely on a guide who has been to the peak »*). Le pré-framing installe le livre et la méthode comme l'unique vecteur d'économie d'énergie neurologique et de succès garanti.
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : d'Expansion de la Mémoire Numérique (Séquençage Adaptatif de Faloon/Chase)
 
 Voici l'extraction opératoire et l'analyse modélisante de la tranche 2/25 de *Peak* par Anders Ericsson.
 
@@ -246,8 +276,7 @@ Voici l'extraction opératoire et l'analyse modélisante de la tranche 2/25 de *
 > « Research has shown that, generally speaking, once a person reaches that level of “acceptable” performance and automaticity, the additional years of “practice” don’t lead to improvement. If anything, the doctor or the teacher or the driver who’s been at it for twenty years is likely to be a bit worse than the one who’s been doing it for only five... »
 - **[Analyse du Pattern]** : Rupture de pattern brutale et recadrage d'autorité (*"Research has shown"*). Destruction de la croyance populaire qui associe ancienneté et maîtrise. L'inversion paradoxale (*"twenty years is likely to be a bit worse than... five"*) produit un état de choc cognitif propre à réouvrir la réceptivité aux apprentissages délibérés.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : A : La Rétroaction Adaptative Incrémentale (+1 / -1)
 
 Voici l'analyse opératoire intégrale de la tranche 3/25, structurée selon les exigences d'ingénierie comportementale et cognitive :
 
@@ -349,8 +378,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/25, structurée selon les
   > « What is not natural is a true dead-stop obstacle, one that is impossible to get around, over, or through. In all of my years of research, I have found it is surprisingly rare to get clear evidence in any field that a person has reached some immutable limit on performance. Instead, I’ve found that people more often just give up and stop trying to improve. »
   * **[Analyse du Pattern]** : Utilisation d'un truisme d'autorité scientifique (« In all of my years of research ») combiné à un recadrage sémantique (« not natural » vs « immutable limit »). Le prédicat spatial (« around, over, or through ») installe l'idée que toute barrière est par définition contournable, basculant la cause de l'arrêt du biologique au comportemental (« give up and stop trying »).
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : A : Construction de Cartographie Cognitive Interne & Internalisation Haute-Résolution (Métho...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -459,8 +487,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/25, structurée selon les
   > "So to keep the changes happening, you have to keep upping the ante: run farther, run faster, run uphill. If you don’t keep pushing and pushing and pushing some more, the body will settle into homeostasis, albeit at a different level than before, and you will stop improving."
   - **[Analyse du Pattern]** : *Rythme Ternaire, Répétition Hypnotique Incantatoire & Double Lien Implicite*. Utilisation d'un crescendo à trois temps (*"run farther, run faster, run uphill"*), renforcé par l'empilement rythmique du gérondif répété (*"pushing and pushing and pushing some more"*). Cette répétition crée un ancrage kinesthésique d'effort continu. Elle s'achève sur un double lien structurel sous-jacent : soit le système subit une tension continue hors homéostasie, soit il s'éteint dans la stagnation (*"and you will stop improving"*), éliminant toute troisième option de confort sans régression.
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : Le Test de Distinction entre Mémoire Brute et Structure de Représentation (Paradigme Simon-C...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -586,8 +613,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/25, structurée selon les
   - *Rupture de Contexte Spatial et Sensoriel* : Récit d'un état de transe interne dissociative où la réalité objective (cours d'algèbre) est totalement occultée par la simulation interne prédominante (partie d'échecs mentale).
   - *Double Entente Référentielle* : Rupture comique et signifiante par collision de deux réalités ("have you solved it?" / "I sacrifice the knight... White wins"), démontrant l'état de flux et l'autonomie totale des représentations mentales intériorisées par rapport aux stimuli de l'environnement immédiat.
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : Test de Détection de Représentation Mentale de Domaine (Protocole Chase & Simon)
 
 Voici l'extraction opératoire intégrale de la tranche 6/25 de l'enseignement d'Anders Ericsson.
 
@@ -707,8 +733,7 @@ Voici l'extraction opératoire intégrale de la tranche 6/25 de l'enseignement d
 
 *   **[Analyse du Pattern]** : Boucle autoréférentielle récursive (*meta-loop*) associée à une régression kinesthésique affectueuse. Ericsson invite l'esprit de l'auditeur à appliquer le concept à lui-même (*« develop a mental representation of mental representation »*), ce qui crée une légère surcharge transdérivative (transe de confusion légère). Il résout cette boucle par une métaphore sensorielle physique d'apprivoisement d'un animal domestique (*« stroking their fur, patting their little heads »*), ancrant un concept abstrait et intimidant dans un registre de confort, de jeu et de maîtrise progressive.
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : A : Modélisation Diagnostique & Résolution d'Énigme Complexe
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -804,8 +829,7 @@ Voici l'extraction opératoire intégrale de la tranche 6/25 de l'enseignement d
 > "Where most of us would see musical symbols on a page, she heard the music in her head."
 * **[Analyse du Pattern]** : **Synesthésie induite et contraste d'états (Rupture d'équivalence acoustico-visuelle)**. Clivage net entre la population ordinaire (« most of us » = traitement visuel passif d'encre sur papier) et le fonctionnement expert (« she heard » = transduction immédiate V -> A interne). Ce pattern linguistique installe une commande implicite d'évocation sensorielle directe, incitant le sujet à internaliser la partition en signal auditif pur.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : Structuration de Carte Mentale avec Repères Mixtes (Chaffin/Imreh Architecture)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 8/25 de *Peak - Secrets from the New Science of Expertise* (Anders Ericsson).
 
@@ -923,8 +947,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 8/25
   - **Destruction du Biais de Disponibilité Idéalisé** : Recadrage direct qui élimine la croyance limitante selon laquelle les meilleurs "aiment ça naturellement".
   - **Recadrage par Réattribution Motivatrice** : La structure oppose formellement l'hédonisme immédiat (*"loved to practice"*) à la clarté téléologique (*"saw such practice as essential"*). La motivation est réancrée dans la vision du résultat et non dans le confort du processus, déculpabilisant le praticien ou le sujet face à la pénibilité de son entraînement.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Modélisation et Rétro-Ingénierie d'une Compétence Hors-Domaine Canonique (The Deliberate Blu...
 
 Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodologie demandée.
 
@@ -1050,8 +1073,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 
 * **[Analyse du Pattern] :** **Méta-Recadrage Ironique & Exposition du Biais de Commodité Cognitive.** Ericsson expose le mécanisme psychologique du public : l'attrait d'une formule ronde (« irresistibly appealing », « easy to remember ») plutôt que la réalité complexe du phénomène. En soulignant avec sarcasme l'arbitraire du chiffre (« say, eleven thousand hours »), il utilise une commande paradoxale pour éveiller l'esprit critique de son audience face aux simplifications de la culture populaire.
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Le Débriefing Opératoire « Top Gun » (After-Action Report)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1173,8 +1195,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 
 * **[Analyse du Pattern]** : Double lien thérapeutique et présupposition temporelle (*« Once you understand this... »*). Structure linguistique de type « Ce n'est pas X, c'est Y » : élimine la cause non modifiable (la génétique / le talent) et réoriente l'énergie psychique vers une variable totalement modifiable (le procédé méthodologique). Le mot *« Once »* verrouille l'inévitabilité de la prise de conscience et transforme un blocage identitaire insoluble en un simple problème logistique d'ingénierie.
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : Le Double Tour d'Entraînement Commercial avec Capture Vidéo (Role-Play & Video Feedback Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1276,8 +1297,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 > *"There is a saying in medicine about learning surgical procedures that can be traced back to William Halsted, a surgical pioneer in the early twentieth century: 'See one, do one, teach one.' The idea is that all surgical trainees need in order to be able to carry out a new surgery is to see it done once and, after that, they can figure out how to do it by themselves on succeeding patients. It is the ultimate profession of faith in knowledge versus skill."*
 * **[Analyse du Pattern]** : Étiquetage ironique et recadrage d'autorité (*Belief labeling*). En qualifiant l'adage médical le plus respecté de *"profession of faith"* (profession de foi), Ericsson le rétrograde du statut de standard clinique scientifique à celui de croyance dogmatique et irrationnelle. Cela prépare le terrain cognitif pour démanteler l'idée que l'observation unique confère une quelconque compétence procédurale fiable.
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : Modélisation et Extraction des Représentations Mentales d'Experts
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1380,8 +1400,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 
 * **[Analyse du Pattern] :** Rupture de croyance populaire et double lien négatif. Ericsson redéfinit le concept classique de « zone » (souvent valorisé dans le sport comme état de grâce/flow) pour le requalifier en piège d'inattention somnambulique (*"mind wandering"*). La suggestion directe de clôture (*"if you’re relaxed and just having fun, you probably won’t improve"*) agit comme une commande de recadrage rigoureuse, liant explicitement la tension attentionnelle et l'inconfort à la seule voie d'encodage neural efficace.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : A : La Triade d'Auto-Entraînement sans Maître (« The Three Fs : Focus, Feedback, Fix it »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1508,8 +1527,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 > **"Successful mental representations are inextricably tied to actions, not just thoughts, and it is the extended practice aimed at reproducing the original product that will produce the mental representations we seek."**
 - **[Analyse du Pattern]** : *Recadrage matérialiste et présupposition de causalité motrice.* Rupture de la croyance intellectualisante selon laquelle la compréhension abstraite précède la compétence. Le modélisateur verrouille l'esprit du sujet : la représentation mentale de haut niveau n'est pas une idée (*not just thoughts*), c'est une propriété émergente produite exclusivement par la rétroaction de l'action physique répétée (*inextricably tied to actions*).
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : A : Dépassement de Plateau par Forçage Diagnostique et Micro-Isolation
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1651,8 +1669,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
   * *Prescription du symptôme avec délai temporel contraignant (Illusion de Choix)* : L'autorisation de quitter est formellement accordée (*"and then you can quit"*), ce qui court-circuite toute réactance psychologique.
   * *Boucle d'invalidation prédictive finale* : L'injonction finale brève (*"You probably won't"*) agit comme une commande post-hypnotique enchâssée : elle présuppose que le processus même de récupération réinstallera l'état de flux et de compétence, rendant l'envie d'abandonner caduque avant même qu'elle ne puisse s'exécuter.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : A : La Chambre d'Écho de Motivation Collective (Franklin Junto Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1758,8 +1775,7 @@ Voici l'analyse modélisatrice intégrale de la tranche 9/25 selon la méthodolo
 
 * **[Analyse du Pattern]** : **Double négation permissive, métaphore isomorphique & Commande directe en clôture.** « There is no reason not to... » court-circuite le filtre critique analytique en obligeant l'esprit à chercher une objection inexistante. « that you may have been convinced were out of reach » dissocie la croyance limitante passée de l'identité présente via un modal (« may have been »). Enfin, l'injonction impérative concise « Open that door » agit comme une commande post-hypnotique directe capitalisant sur l'ouverture de transe créée par la métaphore du passage.
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : Le Protocole Brady de Reconstruction de l'Oreille Absolue chez l'Adulte
 
 Voici l’analyse modélisatrice et opératoire complète de la tranche 16/25 du cours *« Peak - Secrets from the New Science of Expertise »* d'Anders Ericsson.
 
@@ -1881,8 +1897,7 @@ Voici l’analyse modélisatrice et opératoire complète de la tranche 16/25 du
 * **[Analyse du Pattern]**
   - *Rupture de Pattern Illusoire & Réancrage Réaliste :* Mise en scène d'une fausse évidence (*« could reasonably conclude... sprung directly »*) immédiatement atomisée par la formule d'autorité factuelle *« In reality »*. Ce contraste démonte l'illusion de la magie ou du don pour réinstaller le socle universel de l'expertise : la soumission initiale et rigoureuse à la tradition classique avant toute divergence stylistique.
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : Rétro-Ingénierie de la Performance Inexpliquée (Démystification d'un "Prodige")
 
 Voici l'extraction opératoire complète et modélisée de la tranche 17/25 du cours d'Anders Ericsson (*Peak - Secrets from the New Science of Expertise*).
 
@@ -1981,8 +1996,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 17/25 du c
 > "I get it. People want to believe that there is magic in life, that not everything has to abide by the staid, boring rules of the real world... There is an entire comic-book industry built on that premise—that sometimes something magical happens, and you suddenly acquire incredible powers. Unbeknownst to you, you were actually born on the planet Krypton and you can fly. Or you were bitten by a radioactive spider and you can cling to walls. Or you were exposed to cosmic radiation and now you can become invisible. But my decades of research in the area of expertise have convinced me that there is no magic."
 * **[Analyse du Pattern] :** **Pattern de réduction à l'absurde par saturation métaphorique (Pacing and Leading agressif)**. Ericsson commence par valider le désir émotionnel de l'auditeur (*"I get it. People want to believe..."* - Pacing), puis associe la croyance au talent inné à des fictions enfantines (Superman, Spider-Man, 4 Fantastiques). En plaçant l'innéisme au rang de bande dessinée pour enfants, il crée une rupture de congruence pour l'adulte rationnel, avant d'asséner le recadrage définitif : *"there is no magic"*.
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : Déconstruction Rétro-Ingénierique d'un « Talent Miraculeux » (The Reality Pull-Back)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 18/25 de l'enseignement d'Anders Ericsson.
 
@@ -2095,8 +2109,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 18/25 de l'
   * **Attaque des archétypes culturels fictionnels** : Ericsson identifie directement la source de la distorsion cognitive (*"fictional characters"*, *"tortured-but-brilliant"*), libérant l'auditeur de la mythologie hollywoodienne du génie.
   * **Paradoxe provocateur (Pattern Interrupt)** : Annoncer que les maîtres de Go ont un QI *"below average"* crée une rupture brutale de schéma mental chez l'interlocuteur, préparant le terrain pour l'acceptation de l'unique variable causale restante : la pratique délibérée.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : de Restructuration Représentationnelle (De la Logique Analytique à la Vision par « Lignes de...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2190,8 +2203,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 18/25 de l'
   - **Empilement de truismes et tricolon syntaxique** : L'alignement en miroir de trois domaines (sport, musique, mathématiques) crée une cadence rythmique hypnotique illustrant le même schéma d'éviction.
   - **Boucle d'incorporation de suggestions externes** : Les formulations passives révèlent le mécanisme d'induction de limites : *« are told they are no good »* devient *« grow up believing it »*, démontrant chirurgicalement comment une parole d'autorité environnementale s'encode en croyance identitaire bloquante via l'arrêt de toute pratique.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : Ingénierie Pédagogique Délibérée (Architecture Carl Wieman / Ericsson)
 
 Voici l'extraction opératoire intégrale de la tranche 20/25, modélisée selon les règles d'ingénierie cognitive, linguistique et comportementale.
 
@@ -2317,8 +2329,7 @@ Voici l'extraction opératoire intégrale de la tranche 20/25, modélisée selon
   - **Induction d'état ressource / Suggestion indirecte d'apesanteur :** Utilisation de prédicats d'absence d'effort (*"effortlessness"*), créant une rupture avec la notion préalable de lutte et de pratique ardue.
   - **Amplification de valeur par exclusion aristocratique :** *"that few people other than experts ever experience"*. Cette formulation crée une commande implicite de valorisation identitaire : accéder à la représentation mentale experte devient la seule porte d'accès à un état transcendant de conscience (*"precious 'high'"*), mobilisant les circuits dopaminergiques du désir d'accomplissement.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : d'Installation de l'Identité d'Homo exercens (Recodage d'Agentivité)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2405,8 +2416,7 @@ Voici l'extraction opératoire intégrale de la tranche 20/25, modélisée selon
   - **Métaphore de libération & Recadrage émotionnel violent :** Qualifier le don naturel d'« idée désuète » (*antiquated idea*) et l'associer à une prise d'otage (*not held hostage*) opère un recadrage sémantique radical : croire au talent inné n'est plus une marque de réalisme biologique, mais une aliénation / captivité dont il faut s'évader.
   - **Condition sine qua non expérientielle :** « *They will need to see firsthand...* » présuppose que la libération ne peut être intellectuelle ; elle exige une validation somatosensorielle directe par le dépassement des limites perçues.
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : A : La Matrice d'Évaluation Représentative (Expert Performance Approach - Phase 1)
 
 Voici l'extraction et l'analyse opératoire de la tranche 22/25 du corpus d'Anders Ericsson (*Peak: Secrets from the New Science of Expertise*), structurée selon les exigences strictes de modélisation.
 
@@ -2502,8 +2512,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 22/25 du corpus d'Ande
 > "So we were comfortable that we really had assembled three groups of violinists with clearly distinct abilities."
 * **[Analyse du Pattern]** : Marquage de congruence scientifique et présupposition d'ancrage expérimental incontestable. L'utilisation du modal affectif-rationnel *"comfortable"* combiné à l'adverbe *"really"* et au triplement de validation croisée (concours ouverts, mémoire de répertoire, jugements des pairs) ancre solidement la stratification des groupes (good, better, best) pour invalider d'avance toute accusation de biais d'échantillonnage.
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : Rétro-Ingénierie Textuelle et Modélisation par Réplication Différée (Méthode Benjamin Franklin)
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 23/25, structurée selon les principes de modélisation de l'expertise, de la PNL et de l'ingénierie cognitive.
 
@@ -2610,8 +2619,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 23/25, stru
   * *Empilement de prédicats réflexifs en boucle fermée :* L'association de « *self-fueling* » et « *self-motivating* » pose une présupposition de causalité circulaire. L'énergie nécessaire à l'effort n'est plus dépendante d'un renforcement extérieur (parents, coach, récompense), elle est générée par le processus de pratique lui-même.
   * *Amplification kinesthésique :* Le substantif « *drive* » couplé à l'adjectif « *tremendous* » crée une suggestion d'intensité d'élan viscéral, décrivant la phase critique où l'effort délibéré cesse d'être perçu comme un coût cognitif et devient une nécessité homéostatique pour le sujet.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : d'Enseignement Délibéré et de Restructuration Conceptuelle (Modèle Wieman / Deslauriers)
 
 Voici l'analyse chirurgicale et l'extraction de substance opératoire de la tranche 24/25 de *Peak: Secrets from the New Science of Expertise* d'Anders Ericsson.
 
@@ -2679,8 +2687,7 @@ Voici l'analyse chirurgicale et l'extraction de substance opératoire de la tran
 > **"Research comparing physics experts with physics students... cannot correctly explain what causes the changing seasons"**
 - **[Analyse du Pattern] :** Rupture de pattern par contraste violent entre statut perçu et incompétence opératoire réelle. Ce truisme démystificateur détruit la fausse autorité académique pour ancrer le récepteur dans l'absolue nécessité d'évaluer la compétence par des tests de performance empiriques plutôt que par des diplômes ou du prestige social.
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : d'Assimilation par Décomposition et Reproduction (Franklin / Ringmaster Practice)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2767,3 +2774,4 @@ Cette tranche correspond à l’index analytique complet de clôture de l’ouvr
 > *in highly developed fields, 86*  
 > *physical activity and, 82–83"*  
 > - **[Analyse du Pattern]** : Métaphore de la boucle amplificatrice cybernétique. Elle induit l'idée d'un momentum auto-généré : un léger gain de représentation mentale affine la perception, ce qui permet un réglage moteur plus chirurgical, qui rétroagit immédiatement sur la clarté de la représentation interne.
+

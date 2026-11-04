@@ -86,10 +86,18 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 100-196]** : Transmutation du « Not-Self » en Self-Concept Positif — *Protocole :* Transmutation du « Not-Self » en Self-Concept Positif | *Mécanisme :* Négation Structurale vs Évaluation Négative | *Verbatim :* La Négation comme Commande Enchâssée (Milton Model)
+- **Tranche 2 [Lignes 198-310]** : Conversion d'une Auto-Définition Négative en Identité Positive — *Protocole :* Conversion d'une Auto-Définition Négative en Identité Positive | *Mécanisme :* La négation comme impasse représentationnelle neurologique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Transmutation du « Not-Self » en Self-Concept Positif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -187,8 +195,7 @@ flowchart TD
 > **« I convinced myself that it wasn't cynicism, that it was just me being aware. Like I'm aware. I know what's going on here. I know what's really behind the scenes. »**
 * **[Analyse du Pattern]** : Démantèlement d'une rationalisation d'évitement. Damon Cart mime le discours interne du faux soi intellectuel (*« I know what's really behind the scenes »*) pour révéler comment la certitude d'une perspicacité critique n'est en fait qu'une stratégie défensive d'un système paranoïaque saturé de projections.
 
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : Conversion d'une Auto-Définition Négative en Identité Positive
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -301,3 +308,4 @@ flowchart TD
 * **La transmutation linguistique de l'envie en motivation :**
   > *"Changing the belief of impossibility into possibility can transform envy and inferiority and unhappiness into eager motivation."*
   * **[Analyse du Pattern]** : Équivalence complexe et recadrage d'état par glissement nominal. La phrase couple une bascule cognitive abstraite (« impossibility into possibility ») à une conversion somato-émotionnelle automatique, requalifiant des affects paralysants (« envy », « inferiority », « unhappiness ») en un état moteur d'action (« eager motivation »).
+

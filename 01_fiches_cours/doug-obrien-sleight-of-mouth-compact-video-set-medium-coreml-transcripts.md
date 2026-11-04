@@ -96,10 +96,31 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 123-269]** : Encodage spatial et proprioceptif des patterns fondamentaux (Intent & Consequence) — *Protocole :* Encodage spatial et proprioceptif des patterns fondamentaux (Intent & Consequence) | *Mécanisme :* Le découplage Perception vs Interprétation (La racine de la croyance) | *Verbatim :* Le cadrage de l'installation vs la pratique instrumentale
+- **Tranche 2 [Lignes 271-396]** : Décompression de la Croyance Normalisée (Unpacking the Suitcase) — *Protocole :* Décompression de la Croyance Normalisée (Unpacking the Suitcase) | *Mécanisme :* Relativité perspective et déplacement spatial du cadre | *Verbatim :* La définition opératoire de Sleight of Mouth
+- **Tranche 3 [Lignes 398-514]** : Séquence d'Attaque Standard SoM (Pour Sujet Procédural) — *Protocole :* Séquence d'Attaque Standard SoM (Pour Sujet Procédural) | *Mécanisme :* Le Point d'Appui Procédural (Procedural Foothold) | *Verbatim :* La Formule d'Attaque "Accord + Intention + Choix"
+- **Tranche 4 [Lignes 516-673]** : Encodage et Réflexe du "Precision Model" sur la Main — *Protocole :* Encodage et Réflexe du "Precision Model" sur la Main | *Verbatim :* Pattern 1 : Déstabilisation de l'analogie fondatrice
+- **Tranche 5 [Lignes 675-800]** : d'Élucidation et d'Alignement Structuré ("Unpacking the Belief") — *Protocole :* d'Élucidation et d'Alignement Structuré ("Unpacking the Belief") | *Verbatim :* La métaphore du "Bump Stock" et du Sniper
+- **Tranche 6 [Lignes 802-933]** : A : Intégration Kinesthésique & Somatique de la Carte SOM — *Protocole :* A : Intégration Kinesthésique & Somatique de la Carte SOM
+- **Tranche 7 [Lignes 935-1076]** : A : La Formule Algorithmique de Redéfinition ($X \rightarrow Z \rightarrow D$) — *Protocole :* A : La Formule Algorithmique de Redéfinition ($X \rightarrow Z \rightarrow D$)
+- **Tranche 8 [Lignes 1078-1207]** : Séquence d'Éradication en 3 Paliers (Agreement -> Intent -> Consequence) — *Protocole :* Séquence d'Éradication en 3 Paliers (Agreement -> Intent -> Consequence)
+- **Tranche 9 [Lignes 1209-1347]** : Le Déploiement Chirurgical du Pattern Métaphore / Analogie — *Protocole :* Le Déploiement Chirurgical du Pattern Métaphore / Analogie | *Mécanisme :* Le Levier Isomorphique & Bioneurologique du Récit : Le Pattern Métaphore / Analogie | *Verbatim :* La métaphore du dentiste (Vitesse vs Durée)
+- **Tranche 10 [Lignes 1349-1466]** : d'Encodage & Intégration Kinesthésique Somatique (Somatosensory Pegboard) — *Protocole :* d'Encodage & Intégration Kinesthésique Somatique (Somatosensory Pegboard) | *Verbatim :* Verbatim 1 : Chunking Down & Avertissement de Cascade
+- **Tranche 11 [Lignes 1468-1584]** : Le Jeu de Détection & Combat Secret de SoM en Triade (A/B/C) — *Protocole :* Le Jeu de Détection & Combat Secret de SoM en Triade (A/B/C) | *Verbatim :* La Parabole Cinématographique de Cabaret (Démonstration du Change Frame Size)
+- **Tranche 12 [Lignes 1586-1726]** : Déploiement Chirurgical de l'Apply to Self sur Équivalence Complexe ou Causalité — *Protocole :* Déploiement Chirurgical de l'Apply to Self sur Équivalence Complexe ou Causalité | *Mécanisme :* Rétro-application Autoréférentielle et Rétorsion Logique (Apply to Self) | *Verbatim :* Le rythme suspensif sur l'Élargissement de Cadre
+- **Tranche 13 [Lignes 1728-1917]** : Encodage Somatique et Visuo-Spatial des 14/16 Patterns (The Somatic Box Drill) — *Protocole :* Encodage Somatique et Visuo-Spatial des 14/16 Patterns (The Somatic Box Drill) | *Verbatim :* Application sur la croyance : « Too many responsibilities means I can't work out »
+- **Tranche 14 [Lignes 1919-2072]** : Calibration de la Tonalité & Désarmement du Meta Frame — *Protocole :* Calibration de la Tonalité & Désarmement du Meta Frame | *Verbatim :* Le Recadrage Meta Frame à double valence tonale
+- **Tranche 15 [Lignes 2074-2198]** : A : La Transe d'Intégration Neuro-Kinesthésique — *Protocole :* A : La Transe d'Intégration Neuro-Kinesthésique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 15 ---
+## Tranche 1 / 15 : Encodage spatial et proprioceptif des patterns fondamentaux (Intent & Consequence)
 
 Voici la modélisation opératoire intégrale de la tranche 1/15 du cours de Doug O'Brien sur le *Sleight of Mouth*.
 
@@ -247,8 +268,7 @@ Voici la modélisation opératoire intégrale de la tranche 1/15 du cours de Dou
   - Question suggestive avec tag question (*« Isn't that true? »*) pour forcer l'accord cognitif.
   - Déconstruction de l'injonction conflictuelle (*« I'm right, you're wrong »*) remplacée par une invitation exploratoire non menaçante (*« why don't you come over here and look at it from here? »*), présupposant automatiquement que le changement de position produit une modification inévitable de la perception (*« You'll see it differently »*).
 
-
-## --- Tranche 2 / 15 ---
+## Tranche 2 / 15 : Décompression de la Croyance Normalisée (Unpacking the Suitcase)
 
 Voici l'extraction opératoire intégrale de la tranche 2/15 du cours de Doug O'Brien.
 
@@ -375,8 +395,7 @@ Voici l'extraction opératoire intégrale de la tranche 2/15 du cours de Doug O'
 > "Start with the agreement frame and then lead to the intent... You say, 'I agree with you. I know your intention is to prevent false hope. I know your intention is to create harmony amongst peoples.'"
 * **[Analyse du Pattern] :** **Mind Read valorisant doublé d'un cadrage d'intention bienveillante.** Doug insère une affirmation de télépathie bienveillante (*"I know your intention is to..."*). En attribuant à l'interlocuteur une motivation noble (préserver d'un faux espoir, créer l'harmonie), il désarme immédiatement l'agressivité du sujet, flatté au niveau de son identité morale, rendant le système nerveux perméable au recadrage qui suit.
 
-
-## --- Tranche 3 / 15 ---
+## Tranche 3 / 15 : Séquence d'Attaque Standard SoM (Pour Sujet Procédural)
 
 Voici l'extraction opératoire intégrale de la tranche 3/15 du séminaire de Doug O'Brien sur le *Sleight of Mouth*, modélisée sous forme de principes actifs, protocoles, heuristiques et analyses linguistiques.
 
@@ -494,8 +513,7 @@ Voici l'extraction opératoire intégrale de la tranche 3/15 du séminaire de Do
   - **Présupposition de modularité** : Présuppose que la pensée humaine est composée d'entrées, d'un processeur et de sorties, et que l'algorithme est substituable à volonté.
   - **Clôture pragmatique (*Good Enough Frame*)** : Reconnaître lucidement les limites de l'analogie tout en la verrouillant par son efficacité pratique (*"close enough that we can work with it"*), empêchant ainsi la contestation théorique stérile.
 
-
-## --- Tranche 4 / 15 ---
+## Tranche 4 / 15 : Encodage et Réflexe du "Precision Model" sur la Main
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -654,8 +672,7 @@ Voici l'extraction opératoire intégrale de la tranche 3/15 du séminaire de Do
 > **Doug O'Brien** : The universe is in order, okay, good. So I needed to check that because I didn't use her words. If you're unpacking somebody's belief and they say the universe is in order and you change it to something else, you might be putting words in their mouth that aren't true for them, right? 'Cause words, like we said, have meaning, they're anchors. So a word is specific to a person. »
 - **[Analyse du Pattern]** : *Extraction par « So what? / What does that mean to you? » suivie d'une méta-correction immédiate.* La question courte *« So what? »* court-circuite l'intellectualisation pour aller chercher directement l'équivalence complexe au niveau identitaire ou existentiel. Doug teste ensuite volontairement une substitution de vocabulaire, calibre le décalage potentiel, et formalise pour l'audience la règle cardinale : le lexique du client est une ancre neuro-émotionnelle fermée que le praticien doit manipuler avec une fidélité absolue.
 
-
-## --- Tranche 5 / 15 ---
+## Tranche 5 / 15 : d'Élucidation et d'Alignement Structuré ("Unpacking the Belief")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -782,8 +799,7 @@ Voici l'extraction opératoire intégrale de la tranche 3/15 du séminaire de Do
 * **[Analyse du Pattern]** :  
   *Pattern de Redéfinition (Redefine Pattern) par substitution d'arguments syllogistiques.* Doug O'Brien modélise le gag classique du dessin animé (Bugs Bunny / Daffy Duck / Elmer Fudd) pour illustrer la mécanique pure du *Redefine* : face à une sentence mortelle basée sur une prémisse ($X = \text{canard} \rightarrow \text{chassé}$), le sujet ne débat pas sur le fait de chasser ou non, mais substitue l'identité du sujet ($X \rightarrow Z$ : *"Je ne suis pas un canard, je suis une chèvre"*). Doug formalise cela sous la forme d'un opérateur logique d'algèbre linguistique : substituer $X$ par $Z$ ou $Y$ par $D$ brise la validité de l'injonction initiale sans entrer en conflit frontal avec la règle générale.
 
-
-## --- Tranche 6 / 15 ---
+## Tranche 6 / 15 : A : Intégration Kinesthésique & Somatique de la Carte SOM
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -916,8 +932,7 @@ Voici l'extraction opératoire intégrale de la tranche 3/15 du séminaire de Do
 > **"Isn't your intention to make the healthiest use of your time?"**
 - **[Analyse du Pattern]** : *Question de recadrage d'intention avec présupposition d'optimisation*. Utilisation de la forme interro-négative qui présuppose que le but réel et supérieur a toujours été l'usage sain du temps. Cette formulation dissout la dichotomie conflictuelle "temps libre vs temps de responsabilité" en subsumant les deux sous le critère de "santé".
 
-
-## --- Tranche 7 / 15 ---
+## Tranche 7 / 15 : A : La Formule Algorithmique de Redéfinition ($X \rightarrow Z \rightarrow D$)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 7/15 du cours *Sleight of Mouth* de Doug O'Brien.
 
@@ -1060,8 +1075,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 7/15 du cou
 ```
 * **[Analyse du Pattern]** : Pattern de **Conséquence**. Emploi de quantificateurs universels négatifs d'enfermement (*« keep you from ever doing anything »*, *« always focusing »*), suivi d'un recadrage attentionnel binaire opposant la focalisation sur l'échec (*« what won't work »*) à la focalisation générative (*« rather than what does »*).
 
-
-## --- Tranche 8 / 15 ---
+## Tranche 8 / 15 : Séquence d'Éradication en 3 Paliers (Agreement -> Intent -> Consequence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1192,8 +1206,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 7/15 du cou
   > *"The real question isn't whether it won't last or is worth doing. The real question is how long will you avoid change because of fear?"*  
   * **[Analyse du Pattern]** : Pattern de **Changement d'Objectif couplé à une Implication Provocatrice**. Rupture de pattern avec double négation de la prémisse (*"The real question isn't... The real question is..."*). Enchâssement d'une présupposition temporelle agressive (*"how long will you avoid..."*) qui requalifie l'objection méthodologique en un comportement d'évitement motivé par la lâcheté névrotique (*"because of fear"*).
 
-
-## --- Tranche 9 / 15 ---
+## Tranche 9 / 15 : Le Déploiement Chirurgical du Pattern Métaphore / Analogie
 
 Voici l'analyse opératoire intégrale de la tranche 9/15 du cours *Sleight of Mouth* de Doug O'Brien.
 
@@ -1333,8 +1346,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/15 du cours *Sleight of M
 > "How fast is too fast? How slow should it be? How specifically does the length of treatment lead to quality? How long should change last?"
 * **[Analyse du Pattern]** : Salve d'opérateurs de dé-nominalisation du *Precision Model*. La phrase initiale associe une étiquette vague (`manipulative`) à un verdict moral abstrait (`out of integrity`). La question ne se défend pas : elle exige les critères de calibration comportementale de la violation alléguée. Sur la croyance de rapidité, l'empilement de questions précises force l'inconscient à chercher des seuils chiffrés inexistants, faisant s'effondrer la rigidité de la généralisation.
 
-
-## --- Tranche 10 / 15 ---
+## Tranche 10 / 15 : d'Encodage & Intégration Kinesthésique Somatique (Somatosensory Pegboard)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1453,8 +1465,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/15 du cours *Sleight of M
 > **Doug O'Brien**: "So if I was drowning, then you'd jump in to save me, and that's how I saved you. So is that a full triangle, square, circle belief? I bet we could elicit a belief from that... If you were about to commit suicide, I knew that if I jumped in, then you'd jump in to save me. So we have a pretty clear cause of fact. So that means I saved you?"
 - **[Analyse du Pattern]** : Décomposition en équivalence complexe et cause à effet ($A \rightarrow B = C$). Doug modélise l'inversion logique de l'ange Clarence : l'acte de George de sauver quelqu'un d'autre ($A \rightarrow B$) devient la preuve causale que l'ange a sauvé George ($C$). Il démontre aux étudiants comment une structure narrative cache toujours une équation de croyance rigide prête à être manipulée.
 
-
-## --- Tranche 11 / 15 ---
+## Tranche 11 / 15 : Le Jeu de Détection & Combat Secret de SoM en Triade (A/B/C)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1572,8 +1583,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/15 du cours *Sleight of M
 > « And then the final pattern that we will be looking at is called the meta frame, which kind of is over all of the other ones and looks down from above and passes judgments, like God passes judgments... So yes, I can see what's really going on inside of you, and this is not good. Not good at all. »
 - **[Analyse du Pattern]** : Posture d'autorité descendante et méta-jugement (*Meta Framing*). Le pattern opère par dissociation verticale : le praticien ne répond pas au sujet sur le même plan conversationnel, mais s'élève à un étage logique supérieur pour diagnostiquer le processus psychologique sous-jacent de l'interlocuteur (*"I can see what's really going on inside of you"*), disqualifiant la croyance avant même qu'elle ne soit formulée.
 
-
-## --- Tranche 12 / 15 ---
+## Tranche 12 / 15 : Déploiement Chirurgical de l'Apply to Self sur Équivalence Complexe ou Causalité
 
 Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 12/15 du cours *Sleight of Mouth Compact Video Set* par Doug O'Brien.
 
@@ -1715,8 +1725,7 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 
 > "It's like saying you have too many responsibilities to eat... It's just like the fish is too busy to swim."
 * **[Analyse du Pattern]** : Analogie d'incongruité vitale. En réduisant l'activité de mouvement physique à la même nécessité biologique instinctive que la nutrition ou la locomotion naturelle d'un poisson dans l'eau, l'excuse logique formulée par le mental rationnel devient immédiatement absurde.
 
-
-## --- Tranche 13 / 15 ---
+## Tranche 13 / 15 : Encodage Somatique et Visuo-Spatial des 14/16 Patterns (The Somatic Box Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1907,8 +1916,7 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 
   > « Many people believe that time is money. By working with me, you'll find your new home faster and will be happy with your investment. »
   * **[Analyse du Pattern]** : Introduction du truisme culturel universel *Time is money* pour élever le critère *Temps* au-dessus du critère *Commission financière*.
 
-
-## --- Tranche 14 / 15 ---
+## Tranche 14 / 15 : Calibration de la Tonalité & Désarmement du Meta Frame
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2063,8 +2071,7 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 
     * *Ancrage idiomatique et kinesthésique :* *"at your fingertips"* (réactive discrètement l'ancrage physique spatial des mains pratiqué plus tôt).
     * *Tag question d'assentiment :* *"...doesn't it?"* (verrouille l'acceptation sans effort critique de la suggestion finale ramenant tout à l'écoute).
 
-
-## --- Tranche 15 / 15 ---
+## Tranche 15 / 15 : A : La Transe d'Intégration Neuro-Kinesthésique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2189,3 +2196,4 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 
 * **Extrait 8 :**
   > "It feels really good to know that you can be a persuader rather than be the persuaded all the time."
   * **[Analyse du Pattern]** : Recadrage identitaire par contraste polaire net (*persuader* vs *persuaded*). Liaison d'un état somatosensoriel positif ("It feels really good to know that...") à l'acquisition d'un nouveau rôle d'agentivité dans le monde, neutralisant le sentiment d'impuissance acquis.
+

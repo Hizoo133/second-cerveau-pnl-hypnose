@@ -57,10 +57,29 @@ Le fil rouge unificateur de l'ensemble des interventions repose sur un diagnosti
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 82-163]** : Démonstration : La Rupture Phobique du « Chat de Schrödinger » (Preuve d'Auto-Génération) — *Protocole :* Démonstration : La Rupture Phobique du « Chat de Schrödinger » (Preuve d'Auto-Génération) | *Mécanisme :* Généralisation & Rendre le Nouveau Familier (Making New Things Familiar) | *Verbatim :* La destruction de l'illusion de causalité externe
+- **Tranche 2 [Lignes 165-262]** : Recadrage de l'Illusion Volitive (« The Unconscious Intentional Plan ») — *Protocole :* Recadrage de l'Illusion Volitive (« The Unconscious Intentional Plan ») | *Mécanisme :* Le Paradoxe du Chat de Schrödinger Somatique (Génération Hallucinatoire de Réponse Neurologique) | *Verbatim :* Le Double-Lien d'Hallucination (L'Expérience de l'Araignée)
+- **Tranche 3 [Lignes 264-430]** : Le Recadrage du Volume Horaire Perdu (Choc Temporel & Rupture de la Répétition) — *Protocole :* Le Recadrage du Volume Horaire Perdu (Choc Temporel & Rupture de la Répétition) | *Mécanisme :* La Devise Temporelle et l'Audit de Récurrence Négative | *Verbatim :* Verbatim 1 : Sur le gaspillage temporel de l'auto-dépréciation
+- **Tranche 4 [Lignes 432-553]** : Audit et Échange Temporel des États Limitants (15-Day Plan – Jour 1) — *Protocole :* Audit et Échange Temporel des États Limitants (15-Day Plan – Jour 1) | *Mécanisme :* La Conversion Temporelle du Symptôme (Devise Vitale)
+- **Tranche 5 [Lignes 555-713]** : Désamorçage de l'Auto-Absorption Phobique ("The Wallflower Reframe") — *Protocole :* Désamorçage de l'Auto-Absorption Phobique ("The Wallflower Reframe") | *Mécanisme :* Le Couteau Questionnant (Cognitive Slicing & Attention Partitioning) | *Verbatim :* La rupture de pattern brutale et l'inversion d'égoïsme
+- **Tranche 6 [Lignes 715-862]** : Construction de l'Urgence d'Action (Building Urgency via Spin) — *Protocole :* Construction de l'Urgence d'Action (Building Urgency via Spin) | *Mécanisme :* Chunck-Up Temporel et Remplacement de Critère (Long Movie vs Short Movie) | *Verbatim :* Le Recadrage du Gâteau (Deprivation vs Identity Acquisition)
+- **Tranche 7 [Lignes 864-970]** : Désamorçage Préventif de la Déception (Pre-Framing Anti-Disappointment) — *Protocole :* Désamorçage Préventif de la Déception (Pre-Framing Anti-Disappointment) | *Mécanisme :* Le Piège de l'Attente Figée et la Genèse Linguistique de la Déception ("I thought you..." Trap) | *Verbatim :* Le Recadrage Brutal d'Élimination Parasite
+- **Tranche 8 [Lignes 972-1116]** : Désensibilisation et Inoculation In Situ du Stress (Day 9) — *Protocole :* Désensibilisation et Inoculation In Situ du Stress (Day 9) | *Verbatim :* Verbatim 1 : La Confrontation Temporelle du Flou Nominalisé
+- **Tranche 9 [Lignes 1118-1242]** : A : Transfert de Motivation Kinesthésique par Rotation (Spinning Motivation) — *Protocole :* A : Transfert de Motivation Kinesthésique par Rotation (Spinning Motivation)
+- **Tranche 10 [Lignes 1244-1381]** : Le "Bounce-Back" Automatique (Rebond Kinesthésique Immédiat) — *Protocole :* Le "Bounce-Back" Automatique (Rebond Kinesthésique Immédiat) | *Mécanisme :* Inoculation Prévue de l'Erreur & Brisure du Piège Binaire ("On/Off Dichotomy") | *Verbatim :* La rupture de l'explication par le plaisir de l'effort
+- **Tranche 11 [Lignes 1383-1548]** : Le Ré-ancrage Cinétique Post-Rechute (Handling Mistakes Bounceback) — *Protocole :* Le Ré-ancrage Cinétique Post-Rechute (Handling Mistakes Bounceback) | *Mécanisme :* Le Jeton de Déculpabilisation Fini (The Finite Fallibility Token) | *Verbatim :* Verbatim 1 : Le Cadre du Joker Fini
+- **Tranche 12 [Lignes 1550-1665]** : A : La Bascule « Shark Rewind / Extended Loop » (Dépassement de Traumatisme) — *Protocole :* A : La Bascule « Shark Rewind / Extended Loop » (Dépassement de Traumatisme) | *Verbatim :* L'extension projective absurde
+- **Tranche 13 [Lignes 1667-1776]** : Le Double Levier de Recadrage d'État (Day 2 Tasks - Putting your mind on the controls) — *Protocole :* Le Double Levier de Recadrage d'État (Day 2 Tasks - Putting your mind on the controls) | *Mécanisme :* La Structure Fonctionnelle du Changement Systémique (Index Matrix)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 13 ---
+## Tranche 1 / 13 : Démonstration : La Rupture Phobique du « Chat de Schrödinger » (Preuve d'Auto-Génération)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/13 de *Thinking On Purpose* par Richard Bandler.
 
@@ -143,8 +162,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/13
 
 * **[Analyse du Pattern]** : Enchaînement de présuppositions linéaires en cause à effet (*conjunction chaining*) : [Changer la pensée] $\rightarrow$ [Changer l'émotion] $\rightarrow$ [Changer la capacité d'action] $\rightarrow$ [Étendre le champ des possibles]. Cette structure installe une causalité descendante où l'individu retrouve le contrôle moteur de sa destinée cognitive au lieu d'être l'esclave passif de ses humeurs.
 
-
-## --- Tranche 2 / 13 ---
+## Tranche 2 / 13 : Recadrage de l'Illusion Volitive (« The Unconscious Intentional Plan »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -243,8 +261,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/13
 > "We have to get to the point where the best thing about the past is that it’s over. Everything that works from the past, we get to take with us, and everything that doesn’t work, we find a better way to do it in our mind."
 * **[Analyse du Pattern] :** Truisme libérateur et présupposition de tri utilitaire. La phrase utilise une structure de tri binaire simple : ce qui marche est conservé, ce qui ne marche pas est reconfiguré. Elle installe la présupposition que le passé n'a aucune autorité sur le présent en dehors de sa valeur fonctionnelle d'apprentissage.
 
-
-## --- Tranche 3 / 13 ---
+## Tranche 3 / 13 : Le Recadrage du Volume Horaire Perdu (Choc Temporel & Rupture de la Répétition)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire issue de la tranche 3/13 du séminaire/ouvrage *Thinking On Purpose* de Richard Bandler.
 
@@ -412,8 +429,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
   - *Remplacement d'interrogation interne directrice (Meta-Question Switch) :* Bascule d'un critère de satisfaction immédiat lié à l'état présent (« Qu'est-ce qui me ferait plaisir maintenant ? ») à un critère de congruence identitaire future dynamique.
   - *Fractionnement microscopique du contrôle moteur :* Ramène la décision globale (« perdre 30 kg ») à une micro-décision proprioceptive exécutée à chaque seconde (« chaque fois que tu lèves la fourchette »). Le changement n'est plus un vœu pieux lointain, mais un acte moteur localisé dans la main.
 
-
-## --- Tranche 4 / 13 ---
+## Tranche 4 / 13 : Audit et Échange Temporel des États Limitants (15-Day Plan – Jour 1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -536,8 +552,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
   > "Inside your mind, take the movie and freeze it, put a border around it, drain the color, shrink it to the size of a dollar and make it blink black and white really fast like a deck of cards being snapped quickly. Now fire it way off into the distance. Also inside your mind, take whatever the negative inner voice is saying and imagine making it sound like Mickey Mouse or Donald Duck."
   * **[Analyse du Pattern] :** Empilement compact de commandes submodales directives sans temps mort. L'analogie kinesthésique et visuelle dynamique (*« like a deck of cards being snapped quickly »*) surcharge les capacités de traitement conscient, tandis que la commande balistique (*« Now fire it way off... »*) opère une rupture kinesthésique irréversible. L'ancrage auditif satirique (*Mickey Mouse / Donald Duck*) court-circuite tout accès possible à la charge émotionnelle originelle du message intérieur.
 
-
-## --- Tranche 5 / 13 ---
+## Tranche 5 / 13 : Désamorçage de l'Auto-Absorption Phobique ("The Wallflower Reframe")
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/13 de *Thinking On Purpose* par Richard Bandler.
 
@@ -697,8 +712,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/13 de 
     *   *Croyance instrumentale pragmatique :* Bandler évacue le débat ontologique sur la « vérité » pour ne conserver que la valeur d'utilité opérationnelle (« whether it’s true or not, is a good belief to have »).
     *   *Désacralisation d'autorité :* Qualifier les bâtisseurs de la psychanalyse de « dead guy » avec des théories inventées libère le praticien du carcan diagnostic et focalise 100 % de l'attention sur la mécanique immédiate de propulsion hors du problème.
 
-
-## --- Tranche 6 / 13 ---
+## Tranche 6 / 13 : Construction de l'Urgence d'Action (Building Urgency via Spin)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du cours *Thinking On Purpose* de Richard Bandler.
 
@@ -847,8 +861,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du c
   * *Pacing sur les préjugés du sujet :* Bandler adopte et exagère les qualificatifs péjoratifs de son interlocuteur (*lazy*, *no initiative*) pour contourner toute résistance défensive.
   * *Recadrage utilitariste / Out-framing :* L'aide sociale est redéfinie non comme une dépense publique de solidarité, mais comme un péage de confort personnel (*a nice buffer*) garantissant que les personnes inefficaces ne viennent pas ralentir le quotidien des gens actifs. L'effet de choc cognitif force la réorganisation des croyances du sujet sans aucun débat frontal.
 
-
-## --- Tranche 7 / 13 ---
+## Tranche 7 / 13 : Désamorçage Préventif de la Déception (Pre-Framing Anti-Disappointment)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -956,8 +969,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du c
 > "If your husband is treating you badly, all you have to do is decide to be somewhere else. I didn’t say it would be easy, but it amazes me that people stay in horrible neighborhoods and tell me they can’t move. I know, I came from one. But I figured out there were people dropping dead around me and I said, 'I’ve gotta get the fuck out of here. I don’t care how hard it is or what hovel I live in.'"
 * **[Analyse du Pattern]** : **Isomorphisme narratif et métaphore brute de survie.** Pour briser l'impuissance apprise d'une personne piégée dans une relation toxique, Bandler court-circuite les justifications psychologiques ordinaires en établissant une équivalence structurelle avec le fait d'habiter dans un ghetto où l'on risque la mort physique. L'utilisation du langage cru et viscéral (*"I’ve gotta get the fuck out of here"*) agit comme une commande de rupture directe qui pulvérise le cadre des excuses matérielles pour réinstaller l'impératif biologique de fuite face au danger.
 
-
-## --- Tranche 8 / 13 ---
+## Tranche 8 / 13 : Désensibilisation et Inoculation In Situ du Stress (Day 9)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1103,8 +1115,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du c
   - *Double commande enchâssée et ancrage verbal de clôture* : Les phrases courtes répétitives (« *That’s it. I’m done. No more.* ») agissent comme des arrêts moteurs de type rupture de boucle.  
   - *Inversion du gradient de renforcement* : L'association kinesthésique positive n'est plus fixée sur la quantité d'aliments ingérés, mais sur le décompte terminal (« *three, two, one* ») associé à un pic d'auto-félicitation (« *I'm feeling great!* »). Le plaisir bascule de l'acte de consommation vers l'acte de clôture de boucle motrice.
 
-
-## --- Tranche 9 / 13 ---
+## Tranche 9 / 13 : A : Transfert de Motivation Kinesthésique par Rotation (Spinning Motivation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1230,8 +1241,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du c
 > "People go, 'I’m too fat to do this exercise, it’s too hard.' Excuse me - that’s the very evidence to show you how much you need it."
 - **[Analyse du Pattern]** : **Redéfinition directe et renversement de critère (Sleight of Mouth : Reframe / Cause-to-Effect Inversion)**. Ce qui était brandi par le sujet comme une *cause d'incapacité* est instantanément requalifié en *preuve absolue de nécessité opératoire*, détruisant la boucle de complaisance.
 
-
-## --- Tranche 10 / 13 ---
+## Tranche 10 / 13 : Le "Bounce-Back" Automatique (Rebond Kinesthésique Immédiat)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1370,8 +1380,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 6/13 du c
 
 * **[Analyse du Pattern]** : Rupture de pattern brutale / Shock Induction. Destruction instantanée de l'hallucination positive passive du client. En injectant une image d'invalidation choquante et grotesque (fauteuil roulant, AVC, famille profitant de l'assurance), Bandler brise la complaisance de la visualisation déconnectée et force le système à ré-associer l'individu aux exigences réelles de son écologie future.
 
-
-## --- Tranche 11 / 13 ---
+## Tranche 11 / 13 : Le Ré-ancrage Cinétique Post-Rechute (Handling Mistakes Bounceback)
 
 Voici l'analyse opératoire intégrale de la tranche 11/13 de *Thinking On Purpose* (Richard Bandler & Dr. Glenda Bradstock).
 
@@ -1538,8 +1547,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/13 de *Thinking On Purpo
   * *Métaphore technologique opératoire :* Assimilation directe du cortex visuel au potentiomètre de luminosité d'un moniteur cathodique (« *like a brightness knob on a TV* »), ce qui dépossède le déclencheur de tout poids émotionnel pour n'en faire qu'un signal vidéo ajustable.
   * *Recadrage pragmatique radical du résultat clinique :* Opposition directe entre la théorie psychiatrique de la maladie mystique (« *you haven't treated the problem* ») et l'ingénierie comportementale de terrain (« *the problem is now gone because neurologically she doesn't stop in a place where her neurology is defeating her* »). La disparition du blocage comportemental définit la guérison.
 
-
-## --- Tranche 12 / 13 ---
+## Tranche 12 / 13 : A : La Bascule « Shark Rewind / Extended Loop » (Dépassement de Traumatisme)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1656,8 +1664,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/13 de *Thinking On Purpo
 > "If you say the phrase, 'I’m the kind of person who…' then you’ll be frozen in time. You will be like one of those old people saying, 'If man were meant to fly, he’d have wings.' Guess what - he built wings and he flies everywhere! The truth is, you could be one of those smart people who does that. This is your chance to start becoming smarter on purpose by thinking on purpose. Now go ahead - and enjoy it!"
 - **[Analyse du Pattern]** : Double métaphore d'ouverture et présupposition d'identité évolutive. Bandler attaque le piège de la nominalisation de soi (*« I'm the kind of person who... »*) par une analogie invalidante (l'homme et les ailes), suivie d'une rupture humoristique pragmatique (*« Guess what - he built wings »*). Il conclut par une inclusion valorisante directe (*« you could be one of those smart people »*) enchâssant la double injonction finale de reprise de contrôle intentionnel et d'affect positif (*« thinking on purpose. Now go ahead - and enjoy it! »*).
 
-
-## --- Tranche 13 / 13 ---
+## Tranche 13 / 13 : Le Double Levier de Recadrage d'État (Day 2 Tasks - Putting your mind on the controls)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1767,3 +1774,4 @@ Cette tranche finale (tranche 13/13) correspond à l’Index thématique et à l
 * **Extrait 3 : Le basculement vers la légèreté somatique et l'action orientée**
   > « Happiness is something you practice... From tolerant to curious... Being ready for luck... The Happiness Check. »
   * **[Analyse du Pattern]** : Nominalisation inversée : le bonheur (*happiness*) cesse d'être un état statique qu'on attend ou qu'on trouve (*"Finding versus creating"*), pour être recadré en verbe d'action procédural répétitif (*"practice"*). L'enchaînement de *"tolerant"* à *"curious"* constitue un pont d'accès linguistique : la tolérance (statut neutre ou passif) est requalifiée dynamiquement en curiosité (état de ressource actif orienté vers l'exploration de l'environnement).
+

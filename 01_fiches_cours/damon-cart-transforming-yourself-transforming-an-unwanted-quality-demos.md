@@ -98,10 +98,18 @@ Toutes les interventions du cours reposent sur un vecteur structural invariant :
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 112-281]** : Transformation Complète d'une Qualité Rejetée / Non Désirée (Transforming an Unwanted Quality) — *Protocole :* Transformation Complète d'une Qualité Rejetée / Non Désirée (Transforming an Unwanted Quality) | *Verbatim :* Présupposition de Valeur Inverse
+- **Tranche 2 [Lignes 283-449]** : Transformation d'une Qualité Négative non Désirée (Transforming a Negatively Valued Quality) — *Protocole :* Transformation d'une Qualité Négative non Désirée (Transforming a Negatively Valued Quality) | *Mécanisme :* Le Concept de Soi comme « Mensonge Fonctionnel » & Désidentification Délibérée | *Verbatim :* Calibration du Oui Congruent
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Transformation Complète d'une Qualité Rejetée / Non Désirée (Transforming an Unwanted Quality)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -272,8 +280,7 @@ Toutes les interventions du cours reposent sur un vecteur structural invariant :
 * **[Analyse du Pattern]** :  
   Définition comportementale et sensorielle ultra-précise de la congruence somatique. Cart déconstruit le faux indicateur de la rapidité verbale pour orienter l'attention sensorielle du praticien sur l'immobilité posturale, l'absence de micro-dissonance motrice et la solidité non-hésitante de l'émission vocale.
 
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : Transformation d'une Qualité Négative non Désirée (Transforming a Negatively Valued Quality)
 
 Voici la modélisation intégrale, clinique et opératoire de la tranche 2/2 du module *Transforming Yourself - Transforming An Unwanted Quality Demos* dispensé par Damon Cart.
 
@@ -440,3 +447,4 @@ S'applique lorsqu'un sujet s'identifie de manière rigide, douloureuse ou limita
 #### 6. Neutralisation et Réassignation Synaptique de l'Archive Historique
 > « Now, there is the movie of what actually happened. I want to shrink that down, make it darker. You just want to, all it is is a small reference of what actually happened. And just if you ever need to go back and get details from it, you can, but for right now, we want the new movie to be really compelling and to absorb your attention and draw your attention more so than the small movie of what actually happened. And again, connect them somehow so they go together so that when you see one, you see the other... »
 * **[Analyse du Pattern]** : **Rétrogradation submodale avec conservation écologique de la valeur d'apprentissage et ancrage synesthésique**. En qualifiant l'événement douloureux de simple « petite référence pour obtenir des détails si besoin », il prévient la panique de l'inconscient liée à l'amnésie ou à la falsification du passé. L'injonction de liaison spatiale (*« connect them somehow so that when you see one, you see the other »*) installe un circuit de déclenchement automatique : la mémoire brute sert désormais exclusivement d'amorce pour activer le nouveau comportement ressources.
+

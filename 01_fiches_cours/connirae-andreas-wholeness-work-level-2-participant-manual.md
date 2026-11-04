@@ -60,10 +60,18 @@ Le fil conducteur unifiant l'ensemble des interventions du Level 2 est la **diss
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 74-298]** : Dissolution des Identités et Rôles (Dissolving Identities/Roles Exercise) — *Protocole :* Dissolution des Identités et Rôles (Dissolving Identities/Roles Exercise) | *Mécanisme :* Dissolution de la Séparation Interne par la Conscience Indivise | *Verbatim :* La Permission Multi-Options pour l'Intégration du « Je »
+- **Tranche 2 [Lignes 300-422]** : Intégration de l'Autre (Wholeness - Integrating the Other) — *Protocole :* Intégration de l'Autre (Wholeness - Integrating the Other) | *Verbatim :* Élicitation de la Correspondance Énergétique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Dissolution des Identités et Rôles (Dissolving Identities/Roles Exercise)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 1/2 du manuel *Wholeness Work Level 2* de Connirae Andreas.
 
@@ -289,8 +297,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 1/2 du ma
   * **Personnification de la sensation :** *"Does the sensation here welcome..."* traite la zone corporelle non comme un bloc de matière inerte, mais comme une entité relationnelle respectée, ce qui supprime immédiatement les mécanismes de défense de l'inconscient.
   * **Prédicats de continuité spatiale :** L'empilement *"all around and throughout"* élargit le cadre perceptuel de la vision fovéale/focalisée vers une perception panoramique et holistique (*Open Focus*), dissolvant la frontière séparant l'observateur de l'observé.
 
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : Intégration de l'Autre (Wholeness - Integrating the Other)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -413,3 +420,4 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 1/2 du ma
   - *Nominalisation passive permissive* : *« is invited to »* retire toute injonction directive, contournant les résistances psychologiques inconscientes.
   - *Empilement synesthésique et prédicats de transition de phase* : *« dissolve and melt into and as »* utilise des métaphores somatiques de changement d'état physique (fonte, dissolution liquide) pour suggérer au tonus musculaire et au fascia de relâcher leur contraction.
   - *Cadrage téléologique d'économie d'énergie* : La clause finale *« in whatever way is a letting go of effort »* redéfinit l'intégration non pas comme un travail à accomplir, mais comme le simple abandon d'une fatigue inutile.
+

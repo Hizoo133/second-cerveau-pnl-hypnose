@@ -88,10 +88,68 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 152-248]** : Démonstration Éclair de Rupture de Croyance sur la Volonté ("Stand Up Demo") — *Protocole :* Démonstration Éclair de Rupture de Croyance sur la Volonté ("Stand Up Demo") | *Mécanisme :* Le Primat Physiologique (« Meat Suit » & Neuro-Arousal) | *Verbatim :* Injonction d'Absorption & Double Lien Temporel Implicite
+- **Tranche 2 [Lignes 250-387]** : Le Pré-cadrage Fondamental d'Éradication de la Résistance (The 2-Phase Pre-Frame) — *Protocole :* Le Pré-cadrage Fondamental d'Éradication de la Résistance (The 2-Phase Pre-Frame) | *Mécanisme :* Le Principe de Compliance Incrémentale et Neurologique | *Verbatim :* La Régression d'Âge Conversationnelle Invisible
+- **Tranche 3 [Lignes 389-570]** : Induction Elman Modulaire en 4 Balles Magiques (4 Magic Bullets) — *Protocole :* Induction Elman Modulaire en 4 Balles Magiques (4 Magic Bullets) | *Mécanisme :* Le Test de Conformité Échelonné (Compliance Testing Gate) | *Verbatim :* Le Pré-cadrage de la Triade d'Attente
+- **Tranche 4 [Lignes 572-714]** : Le Recadrage Somatique de l'Hésitation (Désensibilisation de l'Approche / Street Hypnosis) — *Protocole :* Le Recadrage Somatique de l'Hésitation (Désensibilisation de l'Approche / Street Hypnosis) | *Mécanisme :* Le Biais de Familiarité & L'Inertie Homéostatique | *Verbatim :* Verbatim 1 : L'Amorçage par les Expériences Universelles et la Familiarité
+- **Tranche 5 [Lignes 716-845]** : Diagnostics et Nettoyage par Suivi de Polarité (Polarity Tracking) — *Protocole :* Diagnostics et Nettoyage par Suivi de Polarité (Polarity Tracking) | *Verbatim :* Pattern 1 : Le Recadrage de la Justification Logique et de la Dénégation Plausible
+- **Tranche 6 [Lignes 847-1034]** : Induction par Catalepsie Dissociée & Reroutage de Tension — *Protocole :* Induction par Catalepsie Dissociée & Reroutage de Tension | *Mécanisme :* Le Technicien de Réalité : Ingénierie du Contexte et des Équivalences Complexes | *Verbatim :* Citation 1 : Recadrage identitaire du praticien & Relativisme opérationnel
+- **Tranche 7 [Lignes 1036-1193]** : Le Fractionnement Conversationnel Réactif & Inévitabilité de la Capture Attentionnelle et Ab... — *Protocole :* Le Fractionnement Conversationnel Réactif | *Mécanisme :* Inévitabilité de la Capture Attentionnelle et Absorption Non-Consciente | *Verbatim :* PÉPITE 1 : Le Piège de l'Attention Non-Évitable & Séquençage Somatique
+- **Tranche 8 [Lignes 1195-1330]** : The Gray Room – General Negativity Clearing — *Protocole :* The Gray Room – General Negativity Clearing | *Verbatim :* Extrait 1 : Double lien de mémoire et dissolution des filtres
+- **Tranche 9 [Lignes 1332-1448]** : L'Induction BOO (Scott Sandlin & David Snyder) — *Protocole :* L'Induction BOO (Scott Sandlin & David Snyder)
+- **Tranche 10 [Lignes 1450-1599]** : Ancrage et Auto-Induction par Maîtrise Physiologique (State Control) — *Protocole :* Ancrage et Auto-Induction par Maîtrise Physiologique (State Control) | *Verbatim :* Verbatim 1 : L'amplification somato-vasculaire de la certitude
+- **Tranche 11 [Lignes 1601-1759]** : La Ceinture d'Utilité d'États (Batman Utility Belt Construct) — *Protocole :* La Ceinture d'Utilité d'États (Batman Utility Belt Construct) | *Verbatim :* Verbatim 1 : L'Ancrage de Certitude Silencieuse
+- **Tranche 12 [Lignes 1761-1914]** : La Régression Forcée sur Abréaction (« Bursting Dam Protocol ») — *Protocole :* La Régression Forcée sur Abréaction (« Bursting Dam Protocol ») | *Mécanisme :* Le « Pliage Émotionnel Primitif » et l'Accumulation par Priorisation Consciente | *Verbatim :* PÉPITE 1 : L'Amplification Balistique d'Abréaction
+- **Tranche 13 [Lignes 1916-2028]** : Le Contrat Hypnotique Manifeste (Overt) & Le Tri des 4 Attitudes — *Protocole :* Le Contrat Hypnotique Manifeste (Overt) & Le Tri des 4 Attitudes
+- **Tranche 14 [Lignes 2030-2134]** : La Technique du Spin Somato-Énergétique (Spin It and Win It) — *Protocole :* La Technique du Spin Somato-Énergétique (Spin It and Win It) | *Mécanisme :* Désensibilisation Linguistique Progressive (Linguistic Desensitization) | *Verbatim :* Le Verrouillage du Contrat Hypnotique
+- **Tranche 15 [Lignes 2136-2304]** : Protocole d'Éradication / Transformation de la Douleur par Submodalités Opposées — *Protocole :* Protocole d'Éradication / Transformation de la Douleur par Submodalités Opposées | *Verbatim :* Le Recadrage Temporel Submodalitaire de la Douleur
+- **Tranche 16 [Lignes 2306-2427]** : Protocole d'Anesthésie au Gant avec Sortie et Ancrage Post-Hypnotique — *Protocole :* Protocole d'Anesthésie au Gant avec Sortie et Ancrage Post-Hypnotique | *Verbatim :* Le Triptyque d'Autorisation et de Descente
+- **Tranche 17 [Lignes 2429-2571]** : Construction & Empilement de Suggestions Hypnotiques par Descripteurs — *Protocole :* Construction & Empilement de Suggestions Hypnotiques par Descripteurs
+- **Tranche 18 [Lignes 2573-2723]** : L'Extraction Somatique d'Énergie de Transe & Amplification Fractale — *Protocole :* L'Extraction Somatique d'Énergie de Transe & Amplification Fractale | *Verbatim :* Pattern 1 : Le Recadrage par Déresponsabilisation et Amnésie Conversationnelle
+- **Tranche 19 [Lignes 2725-2851]** : Réglage d'Expectative et Contexte de Changement — *Protocole :* Réglage d'Expectative et Contexte de Changement | *Verbatim :* Extrait 1 : L'Inévitabilité par l'Expectative
+- **Tranche 20 [Lignes 2853-3028]** : Désamorçage de Tension par l'Humour et Cadrage d'Incongruité (The Bandler Framing) — *Protocole :* Désamorçage de Tension par l'Humour et Cadrage d'Incongruité (The Bandler Framing) | *Mécanisme :* Leurre Chimique et Flexibilisation par le Rire (Oxytocin-Induced Programming Flexibility) | *Verbatim :* La Thèse d'Approfondissement selon Jerry Kein
+- **Tranche 21 [Lignes 3030-3152]** : Test de Réceptivité "Bras Lourd / Bras Léger" (Imagination Game Framing) — *Protocole :* Test de Réceptivité "Bras Lourd / Bras Léger" (Imagination Game Framing) | *Verbatim :* La Présupposition Temporelle Permissive
+- **Tranche 22 [Lignes 3154-3313]** : 1 : Le "Master and Commander" (Verrouillage Somatique d'État & Épreuve d'Impossibilité Neuro... — *Protocole :* 1 : Le "Master and Commander" (Verrouillage Somatique d'État & Épreuve d'Impossibilité Neurologique) | *Mécanisme :* Boucle Rétroactive Réciproque Corps-Esprit et Somatisation des Complexes | *Verbatim :* PÉPITE 1 : Le Défi de l'Incompatibilité Neurologique (Master & Commander Test)
+- **Tranche 23 [Lignes 3315-3475]** : Le Test d'Écrasement Physiologique (Polarity Drill - Solo) — *Protocole :* Le Test d'Écrasement Physiologique (Polarity Drill - Solo) | *Mécanisme :* Le Principe de Primauté Physiologique (Engage the Meat) | *Verbatim :* La Directive d'Interruption par Impossibilité Physiologique
+- **Tranche 24 [Lignes 3477-3604]** : Les Exercices d'Amplitude et Polarité Émotionnelle (Polarity & Amplitude Drills) — *Protocole :* Les Exercices d'Amplitude et Polarité Émotionnelle (Polarity & Amplitude Drills) | *Verbatim :* Verbatim 1 : L'injonction à l'effacement des étiquettes et truisme d'absorption
+- **Tranche 25 [Lignes 3606-3769]** : Désamorçage Immédiat de l'Intimidation par le Calme Somatique (Démonstration Live Snyder / J... — *Protocole :* Désamorçage Immédiat de l'Intimidation par le Calme Somatique (Démonstration Live Snyder / Jacob) | *Mécanisme :* Proxémie de Domination et Violation Spatiale | *Verbatim :* La Clôture Immuable des Règles Évolutionnistes
+- **Tranche 26 [Lignes 3771-3895]** : Le Protocole de la Séquence en Silos (The Snyder Silo Protocol) — *Protocole :* Le Protocole de la Séquence en Silos (The Snyder Silo Protocol) | *Mécanisme :* Le principe de Dé-identification Radicale et le Supraconscient Observateur | *Verbatim :* La Loi Fondamentale de Souveraineté Intérieure
+- **Tranche 27 [Lignes 3897-4025]** : La Chambre Grise (The Gray Room) — Nettoyage de Négativité Générale — *Protocole :* La Chambre Grise (The Gray Room) — Nettoyage de Négativité Générale
+- **Tranche 28 [Lignes 4027-4132]** : La Chambre Grise & Le Foyer de Feu (Gray Room Clearing) — *Protocole :* La Chambre Grise & Le Foyer de Feu (Gray Room Clearing) | *Mécanisme :* Le Pont Somatique et l'Écho Proprioceptif | *Verbatim :* Verbatim 1 : L'Isomorphisme Somatique du Froissement
+- **Tranche 29 [Lignes 4134-4301]** : LE SOLVANT UNIVERSEL & LE RÉGÉNÉRATEUR UNIVERSEL (Universal Solvent & Rejuvenator) — *Protocole :* LE SOLVANT UNIVERSEL & LE RÉGÉNÉRATEUR UNIVERSEL (Universal Solvent & Rejuvenator) | *Verbatim :* Le Double Sens Chimique et Sémantique du Solvant
+- **Tranche 30 [Lignes 4303-4442]** : Silo Standard d'Intervention Thérapeutique (Standard Intervention Silo) — *Protocole :* Silo Standard d'Intervention Thérapeutique (Standard Intervention Silo) | *Verbatim :* s Verbatim & Analyses
+- **Tranche 31 [Lignes 4444-4573]** : La Technique du Cadre Magique pour Négativité Spécifique (The Magic Frame Technique) — *Protocole :* La Technique du Cadre Magique pour Négativité Spécifique (The Magic Frame Technique) | *Mécanisme :* Cognition réflexive et récursion du jugement d'identité | *Verbatim :* Définition du self-concept et dissonance relationnelle
+- **Tranche 32 [Lignes 4575-4748]** : Le "Magic Frame" & Bucket Listing (Éradication Systémique par Généralisation) — *Protocole :* Le "Magic Frame" & Bucket Listing (Éradication Systémique par Généralisation) | *Mécanisme :* Le Principe du "Canari au Bazooka" vs "Mur de briques au pistolet à billes" | *Verbatim :* La Commande de Clôture Somato-Spatiale
+- **Tranche 33 [Lignes 4750-4932]** : "The Gift" (Régression Générative & Ré-encodage Identitaire) — *Protocole :* "The Gift" (Régression Générative & Ré-encodage Identitaire) | *Verbatim :* Le Décompte du Pont Affectif Kinesthésique
+- **Tranche 34 [Lignes 4934-5106]** : Le "Direct Drive" de Jerry Kein (Version Snyder avec Amplification Émotionnelle) — *Protocole :* Le "Direct Drive" de Jerry Kein (Version Snyder avec Amplification Émotionnelle) | *Mécanisme :* Le Direct Drive & la Répétition par Saturation Consciente | *Verbatim :* La Thesis Suggestion d'Ouverture de Séance
+- **Tranche 35 [Lignes 5108-5254]** : Le "Direct Drive Suggestion Sequence" (Formule Snyder & Jerry Kein) — *Protocole :* Le "Direct Drive Suggestion Sequence" (Formule Snyder & Jerry Kein)
+- **Tranche 36 [Lignes 5256-5421]** : Auto-Hypnose Direct Drive façon Jerry Kein (Méthode de la Fiche & du Lâcher-Prise) — *Protocole :* Auto-Hypnose Direct Drive façon Jerry Kein (Méthode de la Fiche & du Lâcher-Prise) | *Verbatim :* La Séparation Opératoire Conducteur / Passager
+- **Tranche 37 [Lignes 5423-5577]** : A : Conditionnement de l'Auto-Hypnose par Ratio Précis (Méthode Jerry Kein / Snyder) — *Protocole :* A : Conditionnement de l'Auto-Hypnose par Ratio Précis (Méthode Jerry Kein / Snyder) | *Mécanisme :* Le Ratio Objectif/Subjectif & Ratification Inconsciente | *Verbatim :* L'Induction du Ratio Temporel et de la Ratification Inévitable
+- **Tranche 38 [Lignes 5579-5738]** : « Pillars of Power » (Super-Cercle d'Excellence Tridimensionnel) — *Protocole :* « Pillars of Power » (Super-Cercle d'Excellence Tridimensionnel) | *Mécanisme :* Amplification Proprioceptive et Spatialisation Tridimensionnelle (« Pillars of Power ») | *Verbatim :* Induction Multisensorielle & Synchronisation VAKOG
+- **Tranche 39 [Lignes 5740-5890]** : Séquence d'Interruption Directive "Stop, Start, Now" — *Protocole :* Séquence d'Interruption Directive "Stop, Start, Now" | *Mécanisme :* Rupture de Pattern Tri-Phasique Directive (Stop / Start / Now) | *Verbatim :* La Triade d'Interruption Directive en Temps Réel
+- **Tranche 40 [Lignes 5892-6029]** : Le "Super Pattern" Opératoire ($X \to Y = Z$) — *Protocole :* Le "Super Pattern" Opératoire ($X \to Y = Z$) | *Verbatim :* La Boucle Récursive d'Installation
+- **Tranche 41 [Lignes 6031-6138]** : Le "Gang-Bang" Hypnotique Multivocal (Multi-Voice Saturation Drill) — *Protocole :* Le "Gang-Bang" Hypnotique Multivocal (Multi-Voice Saturation Drill) | *Mécanisme :* Surcharge Sensorielle Multicanale & Court-Circuit du Facteur Critique | *Verbatim :* La Parabole Zen des Deux Moines et de la Geisha (Rupture & Métaphore Isomorphe)
+- **Tranche 42 [Lignes 6140-6286]** : La Matrice d'Éternité & L'Installation de la Voix d'Autorité Primale (The Whammy of All Wham... — *Protocole :* La Matrice d'Éternité & L'Installation de la Voix d'Autorité Primale (The Whammy of All Whammies) | *Mécanisme :* Le principe d'« Over-Learning » & Transfert Sympathique Étroit | *Verbatim :* Pattern 1 : Le Recadrage de Désidentification Logique
+- **Tranche 43 [Lignes 6288-6455]** : Le Processus Intégré "Voice of Authority & Womb of Eternity" — *Protocole :* Le Processus Intégré "Voice of Authority & Womb of Eternity" | *Mécanisme :* Bypass Mémoriel et Écriture Directe ("Pre-Conscious Inoculation") | *Verbatim :* Verbatim 1 : L'Arrimage Temporel et Acoustique de la Voix d'Autorité
+- **Tranche 44 [Lignes 6457-6673]** : Protocole : Le Cercle Magique d'Imprégnation (DTI Mono-Exemplaire) — *Protocole :* Protocole : Le Cercle Magique d'Imprégnation (DTI Mono-Exemplaire) | *Mécanisme :* Résonance par Attention Soutenue & Absorption Neuro-cognitive | *Verbatim :* Le Recadrage de la Désidentification et de la Puissance Absolue
+- **Tranche 45 [Lignes 6675-6838]** : A : La Cure Rapide de Phobie « À la David » (Fast Phobia Cure Hybrid) — *Protocole :* A : La Cure Rapide de Phobie « À la David » (Fast Phobia Cure Hybrid)
+- **Tranche 46 [Lignes 6840-7043]** : A : Intégration Somato-Temporelle & Clôture Identitaire (Trance d'Installation Totale) — *Protocole :* A : Intégration Somato-Temporelle & Clôture Identitaire (Trance d'Installation Totale) | *Verbatim :* La Fusée des Transes et la Désidentification Totale
+- **Tranche 47 [Lignes 7045-7205]** : Infiltration de Groupe et Ouverture Sociale par Iso-Physiologie Énergétique — *Protocole :* Infiltration de Groupe et Ouverture Sociale par Iso-Physiologie Énergétique | *Verbatim :* La Stratégie d'Arousal et la Métaphore de la Grenouille Bouillie
+- **Tranche 48 [Lignes 7207-7331]** : Capture & Bouclage Attentionnel par Push-Pull (Attention Scarce Resource) — *Protocole :* Capture & Bouclage Attentionnel par Push-Pull (Attention Scarce Resource) | *Verbatim :* Le Cadre du "Prize" et le Test d'Agrément
+- **Tranche 49 [Lignes 7333-7494]** : Installation et Déploiement du « Rockstar Metaframe » — *Protocole :* Installation et Déploiement du « Rockstar Metaframe » | *Mécanisme :* Le Verrouillage d'Attention comme Déclencheur Fondamental | *Verbatim :* Verrouillage du Cadre d'Attraction Hypnotique
+- **Tranche 50 [Lignes 7496-7641]** : Désactivation Instantanée d'une Saisie par Inversion de Flux (Démo Grappling / Kyusho) — *Protocole :* Désactivation Instantanée d'une Saisie par Inversion de Flux (Démo Grappling / Kyusho) | *Mécanisme :* La Métaphore Porteuse/Informationnelle de l'Énergie | *Verbatim :* Verbatim 1 : La Bande Magnétique de l'Énergie
+- **Tranche 51 [Lignes 7643-7771]** : A : La poignée de main hypnotique (Handshake Interrupt) – Variante David Snyder — *Protocole :* A : La poignée de main hypnotique (Handshake Interrupt) – Variante David Snyder | *Mécanisme :* L'interruption de programme moteur automatique (Handshake Interrupt) | *Verbatim :* La boucle cybernétique de renforcement et de réémergence
+- **Tranche 52 [Lignes 7773-7875]** : d'Inversion Émotionnelle de la Polarité d'Ennui (The Curiosity Flip) — *Protocole :* d'Inversion Émotionnelle de la Polarité d'Ennui (The Curiosity Flip)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 52 ---
+## Tranche 1 / 52 : Démonstration Éclair de Rupture de Croyance sur la Volonté ("Stand Up Demo")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -189,8 +247,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Nominalisation dynamique et dé-mystification. En définissant la transe non comme un sommeil mais comme un basculement d'interrupteurs perceptuels (*"turn on... turn off"*), la phrase installe une présupposition d'utilité opératoire : contrôler l'accès aux phénomènes hypnotiques ne relève pas du don, mais d'une manipulation de curseurs physiologiques.
 
-
-## --- Tranche 2 / 52 ---
+## Tranche 2 / 52 : Le Pré-cadrage Fondamental d'Éradication de la Résistance (The 2-Phase Pre-Frame)
 
 Voici l'analyse opératoire intégrale de la tranche 2/52 du cours *Identity By Design* de David Snyder.
 
@@ -329,8 +386,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/52 du cours *Identity By 
 > "Three. Because, JP, there's always at least three ways to overcome any situation, obstacle, or circumstance that you may face. Always at least three solutions to any problem you have to deal with, and your unconscious mind will now easily, effortlessly, and automatically begin to find and use your creative problem-solving abilities to come up with those three solutions in the easiest, naturalest, most optimal way for you and the good of all concerned."
 - **[Analyse du Pattern]** : Ancrage du chiffre 3 du décompte de réveil directement sur une structure cognitive générative (le principe cybernétique requis : un système doit avoir au moins 3 choix pour être libre). Empilement d'adverbes éricksoniens d'automaticité (« easily, effortlessly, and automatically ») court-circuitant l'effort conscient et présupposant l'action proactive immédiate des ressources inconscientes.
 
-
-## --- Tranche 3 / 52 ---
+## Tranche 3 / 52 : Induction Elman Modulaire en 4 Balles Magiques (4 Magic Bullets)
 
 Voici l'analyse modélisée de la tranche 3/52 de la formation *Identity By Design* de David Snyder, structurée selon les exigences d'ingénierie opératoire.
 
@@ -513,8 +569,7 @@ Voici l'analyse modélisée de la tranche 3/52 de la formation *Identity By Desi
 * **[Analyse du Pattern]** :
   Ancrage conversationnel du chiffre 3 durant le réveil. Snyder brise la polarité binaire classique (problème / solution unique, ou dilemme soit-soit) en installant la règle heuristique des trois voies (modèle cybernétique de la flexibilité comportementale). L'adverbiation triple (*"easily, effortlessly, and automatically"*) contourne l'effort conscient, et la clôture autoréférentielle (*"by your standards and definitions"*) empêche tout rejet de la suggestion par le système de valeurs du sujet.
 
-
-## --- Tranche 4 / 52 ---
+## Tranche 4 / 52 : Le Recadrage Somatique de l'Hésitation (Désensibilisation de l'Approche / Street Hypnosis)
 
 Voici l'analyse opératoire intégrale de la tranche 4/52 du cours *Identity By Design* de David Snyder.
 
@@ -658,8 +713,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/52 du cours *Identity By 
   * **Enchaînement de cause à effet cinétique (*Causal Modeling*) :** Structure syntaxique implacable : Changement physiologique $\rightarrow$ Bascule émotionnelle $\rightarrow$ Déplacement des filtres perceptuels.
   * **Ponctuation onomatopéique de clôture (*Boom*) :** Utilisation d'un ancrage phonétique abrupt qui court-circuite toute délibération intellectuelle et simule acoustiquement l'instantanéité de la transformation somatique.
 
-
-## --- Tranche 5 / 52 ---
+## Tranche 5 / 52 : Diagnostics et Nettoyage par Suivi de Polarité (Polarity Tracking)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -790,8 +844,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/52 du cours *Identity By 
 >
 > * **[Analyse du Pattern]** : Élimination du cadre moral par déplacement vers un cadre d'ingénierie systémique (*« reality technician »*). La séquence syntaxique emboîte une cascade d'équivalences de cause à effet : *Context -> Belief -> Perception -> Reality*. La chute utilise un vocabulaire volontairement cru et un ancrage choc (*« masturbation »*) pour briser la transe intellectualisante des stagiaires et forcer un recentrage somatique instantané sur la compétence comportementale mesurable.
 
-
-## --- Tranche 6 / 52 ---
+## Tranche 6 / 52 : Induction par Catalepsie Dissociée & Reroutage de Tension
 
 Voici l'analyse opératoire intégrale de la tranche 6/52 du cours *Identity By Design* de David Snyder, structurée selon les exigences strictes d'ingénierie et de modélisation.
 
@@ -980,8 +1033,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/52 du cours *Identity By 
   * **Truismes scientifiques détournés :** Introduction de faits indéniables (« light waves bounce around, colors have different frequencies ») au sein d'une prémisse absurde (« moon made of green cheese »).
   * **Surcharge de la mémoire de travail :** La déduction logique interne est saturée d'arguments factuels mais incohérents entre eux, forçant l'esprit conscient à décrocher (« zone out ») pendant que la suggestion d'altération de la gravité s'infiltre dans le schéma corporel.
 
-
-## --- Tranche 7 / 52 ---
+## Tranche 7 / 52 : Le Fractionnement Conversationnel Réactif & Inévitabilité de la Capture Attentionnelle et Ab...
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 7/52 du cours **"Identity By Design"** de **David Snyder**.
 
@@ -1140,8 +1192,7 @@ flowchart TD
   - **Contournement de la réactance psychologique par le filtre d'acceptabilité :** En restreignant la commande aux seules suggestions qu'elle aime et qui lui donnent ce qu'elle veut (*"that you like, that gives you more of what you want"*), la barrière de protection consciente baisse totalement sa garde, ouvrant la voie à une acceptation inconditionnelle (*"irresistible in every way"*).
   - **Délégation à la partie compétente de la neurologie :** Décharge le moi volontaire en confiant la tâche à un sous-système neurologique autonome dédié à l'optimisation personnelle.
 
-
-## --- Tranche 8 / 52 ---
+## Tranche 8 / 52 : The Gray Room – General Negativity Clearing
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1278,8 +1329,7 @@ flowchart TD
 > "Number three, always at least three ways to overcome any situation, obstacle, or circumstance that you may face. Always at least three solutions to any problem you need to solve. And your other than conscious mind will now easily, effortlessly, and automatically generate those solutions in the quickest, easiest, most effective way."
 * **[Analyse du Pattern]** : Règle cybernétique d'Ashby (loi de la variété requise) intégrée sous forme de programmation inconsciente directe. L'adverbe ternaire *"easily, effortlessly, and automatically"* installe la flexibilité comportementale comme une fonction réflexe par défaut face à tout futur obstacle, neutralisant par avance les états de sidération ou d'impuissance acquise.
 
-
-## --- Tranche 9 / 52 ---
+## Tranche 9 / 52 : L'Induction BOO (Scott Sandlin & David Snyder)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1397,8 +1447,7 @@ flowchart TD
   > « That blood not only circulates nutrients and oxygen and all those things that keep you alive, your heart also begins to circulate those feelings, that level of certainty, that level of confidence, until with every breath you take and every beat of your heart, you're flooded with those feelings of power... »
   * **[Analyse du Pattern]** : *Liaison causale physiologique et truisme biologique amplificateur.* Utilisation du connecteur « not only... but also... » pour fusionner une fonction autonome indiscutable (circulation du sang, transport de l'oxygène) avec une réponse émotionnelle suggérée (certitude, confiance). Le tempo s'ancre sur des stimuli proprioceptifs permanents et involontaires (*breath/heartbeat*), rendant la montée en puissance de l'état inévitable et auto-génératrice.
 
-
-## --- Tranche 10 / 52 ---
+## Tranche 10 / 52 : Ancrage et Auto-Induction par Maîtrise Physiologique (State Control)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1549,8 +1598,7 @@ flowchart TD
   - **Recadrage d'incongruité** : Le conscient du sujet perçoit son rire comme une rupture de transe ; le pattern linguistique rattache mécaniquement ce rire au maintien de l'occlusion oculaire et à la descente dans la relaxation.
   - **Absence totale de blip transactionnel** : L'absence de rupture dans le débit (*« Just keep talking »*) confirme au sujet que sa réaction était non seulement prévue, mais indispensable à son approfondissement.
 
-
-## --- Tranche 11 / 52 ---
+## Tranche 11 / 52 : La Ceinture d'Utilité d'États (Batman Utility Belt Construct)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1710,8 +1758,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Double lien thérapeutique et contrat de souveraineté. En offrant une alternative claire entre résoudre ou mettre de côté, l'opérateur installe une sécurité totale chez le sujet. L'esprit inconscient sait qu'il ne sera pas forcé ni violé dans son intimité, ce qui paradoxalement abaisse les résistances et permet souvent au sujet de choisir l'option de résolution directe en toute autonomie.
 
-
-## --- Tranche 12 / 52 ---
+## Tranche 12 / 52 : La Régression Forcée sur Abréaction (« Bursting Dam Protocol »)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 12/52 du cours **"Identity By Design"** de David Snyder.
 
@@ -1866,8 +1913,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 12/5
   - *Empilement d'adverbes permissifs :* « *Easily, effortlessly, and automatically...* » neutralise l'effort conscient et mandate la puissance de calcul parallèle de l'inconscient.
   - *Recadrage ontologique par glissement sémantique :* « *This place we call reality, bringing with you a brand new reality.* » dévalue la prétendue « réalité » objective extérieure (réduite à une simple étiquette linguistique : *« what we call reality »*) pour accorder le statut de réalité opératoire supérieure aux nouveaux encodages acquis en transe.
 
-
-## --- Tranche 13 / 52 ---
+## Tranche 13 / 52 : Le Contrat Hypnotique Manifeste (Overt) & Le Tri des 4 Attitudes
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1981,8 +2027,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 12/5
 > **"What will your life be like once you have this problem handled? Imagine that for a moment... Can you imagine how good your life would be?"**
 - **[Analyse du Pattern]** : Pseudo-orientation dans le temps (*Future Pace*) par question ouverte et présupposition d'accomplissement. La conjonction temporelle *« once you have this problem handled »* présuppose que la résolution du problème est une certitude inéluctable. La répétition de l'injonction imaginative force le système neuro-émotionnel à goûter kinesthésiquement aux bénéfices du changement avant même d'avoir entamé la technique.
 
-
-## --- Tranche 14 / 52 ---
+## Tranche 14 / 52 : La Technique du Spin Somato-Énergétique (Spin It and Win It)
 
 Voici l'analyse opératoire intégrale de la tranche 14/52 du cours **"Identity By Design"** de **David Snyder**.
 
@@ -2088,8 +2133,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/52 du cours **"Identity 
 > *"When you know it's unstoppable, I want you to take it, slam it back into that space, and notice what happens. Notice how it's different. There's no pain, right? That's right. There's no discomfort, right? Yeah. And it'll just keep getting better. Now make it spin faster. Until it's absolutely permanent. When you know you've got it, open your eyes and notice how good it feels. Until it spreads all throughout your mind, all throughout your body."*
 - **[Analyse du Pattern]** : Utilisation d'étiquettes de confirmation (*Tag Questions*) sous forme négative (*« There's no pain, right? »*) couplées au pacing immédiat (*« That's right »*), rendant le désaccord impossible. Transition directe vers une suggestion post-hypnotique de permanence temporelle et de diffusion corporelle globale (*somatosensory spreading*).
 
-
-## --- Tranche 15 / 52 ---
+## Tranche 15 / 52 : Protocole d'Éradication / Transformation de la Douleur par Submodalités Opposées
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2259,8 +2303,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/52 du cours **"Identity 
 
 * **[Analyse du Pattern]** : Fractionnement d'approfondissement rapide par ouverture/fermeture oculaire suivi d'un ancrage identitaire flatteur (« *You're such a good subject* »). La construction de l'analgésie utilise une double liaison idéomotrice (« *when you know it's completely numbed out... move that thumb* »), forçant l'esprit inconscient à valider l'engourdissement total comme condition préalable nécessaire à l'exécution du signal moteur demandé.
 
-
-## --- Tranche 16 / 52 ---
+## Tranche 16 / 52 : Protocole d'Anesthésie au Gant avec Sortie et Ancrage Post-Hypnotique
 
 Voici l'analyse modélisée et opératoire de la tranche 16/52 du cours **"Identity By Design"** de David Snyder.
 
@@ -2383,8 +2426,7 @@ Voici l'analyse modélisée et opératoire de la tranche 16/52 du cours **"Ident
 * **[Analyse du Pattern]** :  
   *Pacing cognitif suivi d'une Tag Question de réveil*. La phrase installe une transe d'absorption par empilement conceptuel, puis la rupture brutale intervient avec *« And that's a cool thing, isn't it? »*. Cette question colloquiale et fermée force le sujet à acquiéser sur le plan social conscient, ce qui scelle et valide l'ensemble des suggestions complexes articulées en amont.
 
-
-## --- Tranche 17 / 52 ---
+## Tranche 17 / 52 : Construction & Empilement de Suggestions Hypnotiques par Descripteurs
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2528,8 +2570,7 @@ Voici l'analyse modélisée et opératoire de la tranche 16/52 du cours **"Ident
 > **"As you begin to understand the power of an awareness presupposition, you'll automatically begin to understand how causing your attention to go to various parts of your anatomy... causes your mind to move in different directions... and notice how quickly, even if you didn't notice it before, you're noticing it now."**
 - **[Analyse du Pattern]** : *Boucle autoréférentielle de présupposition de conscience (Awareness Loop)*. Utilisation des prédicats d'attention (*notice*, *become aware*, *understand*) imbriqués. Dès que le praticien demande de « remarquer », l'attention est immédiatement réorientée, validant en boucle fermée la véracité de la suggestion sans échappatoire critique possible.
 
-
-## --- Tranche 18 / 52 ---
+## Tranche 18 / 52 : L'Extraction Somatique d'Énergie de Transe & Amplification Fractale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2681,8 +2722,7 @@ Voici l'analyse modélisée et opératoire de la tranche 16/52 du cours **"Ident
 > « Number three, always at least three solutions to any problem you need to solve. Always at least three answers to any question you're faced with. And your other than conscious mind will now easily, ever so easily, and automatically... Generate those solutions. »
 * **[Analyse du Pattern]** : Programmation neuro-linguistique pure de l'axiome du choix (en deçà de 3 options, il n'y a pas de liberté cybernétique). Les adverbes modaux « *easily, ever so easily, and automatically* » contournent l'effort conscient de résolution de problème et installent la créativité divergente comme un réflexe autonome sous-cortical.
 
-
-## --- Tranche 19 / 52 ---
+## Tranche 19 / 52 : Réglage d'Expectative et Contexte de Changement
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2810,8 +2850,7 @@ Voici l'analyse modélisée et opératoire de la tranche 16/52 du cours **"Ident
   - **Double contrainte / Boucle de rétroaction permissive ("even though they think they might")** : Accordage élégant où le formateur réaffirme l'agentivité du sujet tout en suggérant en sous-main que la profondeur de la transe crée une acceptation quasi-automatique.  
   - **Présupposition d'inéluctabilité ("trance is inevitable")** : Affirmation posée comme un axiome de base, neutralisant le doute chez l'opérateur.
 
-
-## --- Tranche 20 / 52 ---
+## Tranche 20 / 52 : Désamorçage de Tension par l'Humour et Cadrage d'Incongruité (The Bandler Framing)
 
 Voici l'extraction opératoire complète et modélisée de la tranche 20/52 du cours **Identity By Design** de David Snyder.
 
@@ -2988,8 +3027,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 20/52 du c
   - **Présupposition temporelle d'impermanence :** *"at least for the time being"* installe l'idée que l'état actuel est transitoire, empêchant le sujet de sombrer dans le désespoir de l'éternité du problème.
   - **Boucle de rétroaction somato-sémantique :** *"it remains stuck in you and it keeps you stuck"* utilise une analogie physique kinesthésique directe qui résonne avec la sensation de blocage corporel du client.
 
-
-## --- Tranche 21 / 52 ---
+## Tranche 21 / 52 : Test de Réceptivité "Bras Lourd / Bras Léger" (Imagination Game Framing)
 
 Voici l’extraction intégrale, structurée et opératoire de la tranche 21/52 de la formation *Identity By Design* de David Snyder.
 
@@ -3113,8 +3151,7 @@ Voici l’extraction intégrale, structurée et opératoire de la tranche 21/52 
 > *"Is it important for a company to safeguard the welfare of its employees? ... If you worked for a company, would you want them to make sure that the equipment you worked on was safe to work on?"*
 - **[Analyse du Pattern]** : Structure de piégeage du cerveau reptilien (*Reptile Method*). La première question pose un absolu moral et sécuritaire qu'il est impossible de refuser sans paraître dangereux ou psychopathe. La seconde transfère l'auditeur/juré dans la position d'objet vulnérable au sein de la scène (*Thorndike effect*). Dès que ce cadre de sécurité inviolable est validé, toute tentative de la défense de justifier un manquement technique devient intolérable pour l'instinct de préservation de l'auditeur.
 
-
-## --- Tranche 22 / 52 ---
+## Tranche 22 / 52 : 1 : Le "Master and Commander" (Verrouillage Somatique d'État & Épreuve d'Impossibilité Neuro...
 
 Voici l'analyse modélisatrice complète, opératoire et rigoureuse de la tranche 22/52 de la formation *Identity By Design* de David Snyder.
 
@@ -3275,8 +3312,7 @@ Voici l'analyse modélisatrice complète, opératoire et rigoureuse de la tranch
   - **Directives de traçage somatosensoriel :** *« Notice where in your body... where they go next... »* force la conscience proprioceptive à cartographier le circuit énergétique et neuromusculaire de l'émotion.
   - **Liaison physiologique autonome involontaire :** *« with every breath you take and every beat of your heart »* utilise des fonctions vitales automatiques et permanentes comme amorces de renforcement de l'intensité émotionnelle (*« grow stronger »*). L'état se nourrit ainsi de la biologie même du sujet.
 
-
-## --- Tranche 23 / 52 ---
+## Tranche 23 / 52 : Le Test d'Écrasement Physiologique (Polarity Drill - Solo)
 
 Voici l'analyse opératoire intégrale de la tranche 23/52 de la transcription brute du cours **Identity By Design** de David Snyder.
 
@@ -3438,8 +3474,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/52 de la transcription b
   * **Délégation à l'inconscient :** "until it takes on a life of its own" décharge l'esprit conscient du contrôle pour confier l'état à un automatisme autonome.
   * **Lien contingent avec ratification visuelle :** "When you know you've got it... allow your eyes to open and notice how the world looks different." L'ouverture des yeux est conditionnée à la validation de la permanence, et la perception visuelle modifiée sert de preuve de la transe installée.
 
-
-## --- Tranche 24 / 52 ---
+## Tranche 24 / 52 : Les Exercices d'Amplitude et Polarité Émotionnelle (Polarity & Amplitude Drills)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3568,8 +3603,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/52 de la transcription b
   * Recadrage radical de la subordination perçue non comme une faiblesse, mais comme un piège tactique d'absorption d'autorité.
   * Utilisation d'un mot de rupture de pattern émotionnel (*"fuck him up"*) introduisant le levier comportemental d'extorsion d'effort via la déception simulée.
 
-
-## --- Tranche 25 / 52 ---
+## Tranche 25 / 52 : Désamorçage Immédiat de l'Intimidation par le Calme Somatique (Démonstration Live Snyder / J...
 
 Voici l'extraction opératoire complète de la tranche 25/52 du séminaire *Identity By Design* de David Snyder.
 
@@ -3734,8 +3768,7 @@ Dans la détection de partenaires, de clients ou l'analyse d'indices (archétype
   - **Tréma d'inclusion universelle (*Binds*) :** *"even though people know about, they can't recognize"* installe une séparation entre le savoir théorique conscient et la cécité face à l'exécution pratique inconsciente.
   - **Enchaînement hypnotique linéaire (Ratchet Effect) :** La décomposition mécanique du copywriting (titre -> ligne 1 -> ligne 2) élimine la pression de la persuasion globale pour la réduire à un micro-engagement progressif ininterrompu.
 
-
-## --- Tranche 26 / 52 ---
+## Tranche 26 / 52 : Le Protocole de la Séquence en Silos (The Snyder Silo Protocol)
 
 Voici l'extraction et l'analyse intégrale de la substance opératoire de la tranche 26/52 du cours **"Identity By Design"** de David Snyder.
 
@@ -3861,8 +3894,7 @@ Voici l'extraction et l'analyse intégrale de la substance opératoire de la tra
   - **Double contrainte négative vs dynamique émergente :** Contraste l'intellectualisation bloquante (*"stuck on the words"*) avec la cascade cybernétique naturelle (*"generate a feeling -> perceptual position -> context -> flow"*).
   - **Métaphore kinesthésique d'alerte défensive (*blip on the radar*) :** Décrit avec précision la transition cognitive de l'interlocuteur : dès que l'incongruence somatique apparaît, l'interlocuteur bascule d'une transe d'écoute globale à un décorticage conscient chirurgical (*"parsing your message even more closely"*).
 
-
-## --- Tranche 27 / 52 ---
+## Tranche 27 / 52 : La Chambre Grise (The Gray Room) — Nettoyage de Négativité Générale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3992,8 +4024,7 @@ Voici l'extraction et l'analyse intégrale de la substance opératoire de la tra
 ```
 * **[Analyse du Pattern]** : Ancrage sonore onomatopéique percutant (*"whoosh !"*) inséré directement dans la boucle kinesthésique de destruction. Trinité de suggestions automatiques (*"Instantly, effortlessly, and automatically"*) couplée à un dénouement somatique par triple verbe d'action libératoire (*"changes and leaves and lets go"*).
 
-
-## --- Tranche 28 / 52 ---
+## Tranche 28 / 52 : La Chambre Grise & Le Foyer de Feu (Gray Room Clearing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4100,8 +4131,7 @@ Voici l'extraction et l'analyse intégrale de la substance opératoire de la tra
 > "If you should feel those feelings, just allow them to come up, because as you feel them, you reveal them, and as you reveal them to you, you're healing them."
 * **[Analyse du Pattern]** : Structure rythmique en rime et anadiplose (*"feel them -> reveal them -> healing them"*). Cette formule phonétique crée une tautologie hypnotique imparable : la perception de la souffrance ou de l'émotion négative est instantanément recadrée non comme une rechute ou un problème, mais comme la preuve motrice et nécessaire de sa guérison immédiate.
 
-
-## --- Tranche 29 / 52 ---
+## Tranche 29 / 52 : LE SOLVANT UNIVERSEL & LE RÉGÉNÉRATEUR UNIVERSEL (Universal Solvent & Rejuvenator)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de la **tranche 29/52** du séminaire *Identity By Design* de David Snyder.
 
@@ -4270,8 +4300,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Multiplicateur de puissance et commande d'extase somatique* : L'utilisation de l'amplification quantitative (*"ten times more powerful, permanent, satisfying"*) capitalise sur la neuro-chimie de la récompense (*"satisfying"*).
   * *Présupposition générative de flexibilité comportementale* : L'injonction du chiffre 3 (*"always at least three solutions"*) installe au niveau sous-cortical la règle d'or de la PNL (un choix n'est pas un choix, deux choix c'est un dilemme, trois choix confèrent la liberté de décision), garantissant que le sujet ne se retrouvera plus jamais bloqué dans un cul-de-sac cognitif.
 
-
-## --- Tranche 30 / 52 ---
+## Tranche 30 / 52 : Silo Standard d'Intervention Thérapeutique (Standard Intervention Silo)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4412,8 +4441,7 @@ flowchart TD
 > "So logically and intuitively, as you think about what I'm saying, you can realize just how much it makes sense for all the right reasons."
 - **[Analyse du Pattern]** : Double lien linguistique avec présupposition d'adverbes accouplés (*Dual-Track Adverbial Presupposition*). L'association de « logically » et « intuitively » piège l'intellect : quelle que soit la polarité cognitive du sujet, l'une des deux voies valide l'information. La terminaison par un index de référence non spécifié (« for all the right reasons ») force le sujet à fournir lui-même les justifications inconscientes de son assentiment.
 
-
-## --- Tranche 31 / 52 ---
+## Tranche 31 / 52 : La Technique du Cadre Magique pour Négativité Spécifique (The Magic Frame Technique)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 31/52 du cours **"Identity By Design"** de **David Snyder**.
 
@@ -4544,8 +4572,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 31/52 du co
 > *"Always at least three answers, three solutions, or three ways to solve any problem. You're faced with three solutions, and your unconscious mind will now easily, effortlessly, automatically generate those three solutions in the quickest, easiest, most natural way for you, and the good of all concerned, for. Because obviously, Saul, you made the investment. You've done the work. You've done the drills. You got the skills. You deserve the rewards."*
 * **[Analyse du Pattern]** : Installation d'un axiome de choix d'ingénierie (minimum 3 options) encodé comme un automatisme inconscient par truisme d'inévitabilité (*« easily, effortlessly, automatically »*). Justification et validation par empilement d'arguments d'équité psychologique (*« Because obviously... you made the investment... you deserve the rewards »*), détruisant l'auto-sabotage ou le sentiment d'illégitimité du sujet.
 
-
-## --- Tranche 32 / 52 ---
+## Tranche 32 / 52 : Le "Magic Frame" & Bucket Listing (Éradication Systémique par Généralisation)
 
 Voici l'analyse modélisée et opératoire complète de la tranche 32/52 du cours **Identity By Design** de David Snyder.
 
@@ -4720,8 +4747,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 32/52 du cour
   - *Prédicats de réassurance à quantification universelle* (*all the love, whatever else, never-ending supply*), saturant les manques archaïques de sécurité et d'attachement.
   - *Présupposition temporelle d'inévitabilité* (*notice how everything... begins to shift and change*) : l'usage du verbe d'observation sensorielle *notice* postule que la transformation est déjà un fait objectif en cours d'exécution.
 
-
-## --- Tranche 33 / 52 ---
+## Tranche 33 / 52 : "The Gift" (Régression Générative & Ré-encodage Identitaire)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4905,8 +4931,7 @@ Voici l'analyse modélisée et opératoire complète de la tranche 32/52 du cour
   * *Fractionnement temporel anticipatoire* : « In a moment, not yet, but in just a moment » induit un délai neurologique d'attente qui focalise intensément l'attention involontaire.
   * *Amplification paradoxale de la résistance* : Au lieu de lutter contre le blocage, le praticien ordonne son expansion (« stronger, more powerful, more pervasive »). L'inconscient ne pouvant pas maintenir indéfiniment un écran de fumée intensifié sans révéler sa structure, la résistance s'effondre d'elle-même dans le canal somatosensoriel.
 
-
-## --- Tranche 34 / 52 ---
+## Tranche 34 / 52 : Le "Direct Drive" de Jerry Kein (Version Snyder avec Amplification Émotionnelle)
 
 Voici l'analyse opératoire intégrale de la tranche 34/52 du cours **"Identity By Design"** dispensé par **David Snyder**.
 
@@ -5080,8 +5105,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/52 du cours **"Identity 
   - Amplification progressive de la satiété (*"each bite satisfies you more than the bite before"*).
   - Double lien kinesthésique : le geste d'éviction de l'assiette devient le stimulus déclencheur de la libération de la récompense neurochimique (*"push that dish away and feel this tremendous feeling of pleasure"*).
 
-
-## --- Tranche 35 / 52 ---
+## Tranche 35 / 52 : Le "Direct Drive Suggestion Sequence" (Formule Snyder & Jerry Kein)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5229,8 +5253,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/52 du cours **"Identity 
   3. Présupposition absolue de possession (*that home is yours*).
   4. Rupture brutale par commande d'action directe au pic émotionnel (*Sign here*), exploitant l'angoisse inconsciente de perdre un état somatique qui vient tout juste d'être virtuellement possédé.
 
-
-## --- Tranche 36 / 52 ---
+## Tranche 36 / 52 : Auto-Hypnose Direct Drive façon Jerry Kein (Méthode de la Fiche & du Lâcher-Prise)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5397,8 +5420,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/52 du cours **"Identity 
   - **Délégation d'agence** : Ce n'est pas "Je vais émerger", mais *"my unconscious mind will emerge me"*, dissociant l'action motrice de la volonté consciente.
   - **Boucle d'amplification progressive (Compound Suggestion)** : *"Every time I do this, it works better than the time before"* installe un algorithme d'auto-amélioration cumulative continue à chaque itération.
 
-
-## --- Tranche 37 / 52 ---
+## Tranche 37 / 52 : A : Conditionnement de l'Auto-Hypnose par Ratio Précis (Méthode Jerry Kein / Snyder)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 37/52 du cours *Identity By Design* de David Snyder.
 
@@ -5554,8 +5576,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 37/52 du co
 > « As you think about it, as you go back there, as you see what you saw, you hear what you heard, you feel what you felt, I want you to notice where in your body that feeling is located. Notice where it starts, notice where it goes. I want you to point to it. That's right. As you point to it, I want you to notice that there's a color associated with that feeling. [...] What I want you to do now is as you look at it, I want you to notice, is it moving in any way? [...] Double the spin and notice what happens to the feeling. Double it again. And double it again. Excellent. Make it unstoppable. »
 - **[Analyse du Pattern]** : Induction par chevauchement sensoriel VAKOG classique (trilogie de reviviscence bandlérienne), suivie d'une conversion synesthésique somato-spatiale (localiser -> pointer -> coloriser -> externaliser dans les mains). L'amplification par doublement itératif du spin utilise le langage directif autoritaire enrobé de feedback continu (*« That's right »*, *« Excellent »*) pour saturer le canal kinesthésique jusqu'au point de bascule neuro-somatique (*« Make it unstoppable »*).
 
-
-## --- Tranche 38 / 52 ---
+## Tranche 38 / 52 : « Pillars of Power » (Super-Cercle d'Excellence Tridimensionnel)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 38/52.
 
@@ -5716,8 +5737,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **« Remember, the reptile chases what runs away and runs away from what chases. If somebody comes at you and you splatter them with your whole life history, there's a little dust cloud left over because you've overwhelmed them. »**
 * **[Analyse du Pattern]** : Métaphore animale choc (« *the reptile chases...* ») et truisme comportemental. Formulation imagée percutante (« *splatter them with your whole life history* ») provoquant un ancrage négatif violent envers les comportements d'auto-dévalorisation et d'absence de mystère.
 
-
-## --- Tranche 39 / 52 ---
+## Tranche 39 / 52 : Séquence d'Interruption Directive "Stop, Start, Now"
 
 Voici l'analyse opératoire intégrale de la tranche 39/52 du cours **"Identity By Design"** de David Snyder.
 
@@ -5869,8 +5889,7 @@ Voici l'analyse opératoire intégrale de la tranche 39/52 du cours **"Identity 
     *   *Conversion immédiate de l'effet en Pace pour un nouveau CE2* : Le fait de penser à l'utiliser = garantie d'utilisation instinctive et automatique dans le futur (*future pacing* linguistique).
     *   *Permission morale et truisme d'apaisement* : « And that's okay because you have a right to get what you want, don't you? », dissolvant les scrupules moraux ou la résistance éthique résiduelle.
 
-
-## --- Tranche 40 / 52 ---
+## Tranche 40 / 52 : Le "Super Pattern" Opératoire ($X \to Y = Z$)
 
 Voici l'analyse opératoire intégrale de la tranche 40/52 de la formation *Identity By Design* de David Snyder.
 
@@ -6009,8 +6028,7 @@ Voici l'analyse opératoire intégrale de la tranche 40/52 de la formation *Iden
   - **Verbes de focalisation de conscience :** *"notice"*, *"become aware"*, *"comprehend"*.
   - **Guidage somato-spatial kinesthésique :** Force le focus attentionnel à sauter de l'oreille gauche au gros orteil droit, puis au bout du nez. Le système nerveux est forcé de vérifier somatiquement chaque point mentionné, confirmant la réalité de la suggestion.
 
-
-## --- Tranche 41 / 52 ---
+## Tranche 41 / 52 : Le "Gang-Bang" Hypnotique Multivocal (Multi-Voice Saturation Drill)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 41/52 du cours *Identity By Design* de David Snyder.
 
@@ -6119,8 +6137,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 41/52 du cours *Identity
 > *"Can you shut off your own hearing? Heads I win, tails I win again. My point is you can't shut off your hearing. You can't overwhelm the conscious mind. And the person whose suggestions work the best on you are the ones you created. You just burned them into your neurology. Nothing left to do but feel good about it."*
 - **[Analyse du Pattern]** : Question rhétorique à double contrainte (*"Can you shut off your own hearing?"*). L'opérateur utilise la réponse physiologique impossible (on ne peut pas fermer ses oreilles) pour imposer une conclusion inévitable (*"Heads I win, tails I win again"*). L'argumentaire glisse vers une nominalisation identitaire : l'effort déployé pour écouter ou résister devient la preuve même que les suggestions sont gravées dans la neurologie (*"You just burned them into your neurology"*), se concluant par une commande de soumission agréable (*"Nothing left to do but feel good about it"*).
 
-
-## --- Tranche 42 / 52 ---
+## Tranche 42 / 52 : La Matrice d'Éternité & L'Installation de la Voix d'Autorité Primale (The Whammy of All Wham...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 42/52 du cours **"Identity By Design"** dispensé par **David Snyder**.
 
@@ -6268,8 +6285,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 42/52 du
 
 * **[Analyse du Pattern] :** Utilisation d'un ancrage temporel englobant (« *from the beginning... through the end of time* ») et d'un multiplicateur de puissance (« *ten times stronger* »). Le glissement pronominal de la troisième personne à l'isomorphisme de modélisation (« *I have a voice like that. You have a voice like that.* ») crée une identification directe et sans effort entre le formateur et l'apprenant, validant l'installation de la voix comme une réalité humaine universelle incontournable.
 
-
-## --- Tranche 43 / 52 ---
+## Tranche 43 / 52 : Le Processus Intégré "Voice of Authority & Womb of Eternity"
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 43/52 de la transcription brute du cours *Identity By Design* de David Snyder.
 
@@ -6438,8 +6454,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 43/52 de
   - **Boucle de rétroaction cybernétique bidirectionnelle (Double entrée sensorielle)** : La formulation en miroir inverse (*accent -> character / character -> accent*) dissout l'impasse de l'apprentissage linéaire. Si le sujet bloque sur l'état mental, il commence par la vocalisation motrice ; s'il bloque sur la voix, il commence par l'archétype mental.
   - **Présupposition de recâblage neurologique direct** : *"tweaks your filters"* ancre l'idée qu'un simple ajustement laryngé et tonal réorganise mécaniquement l'ensemble des filtres de perception du monde extérieur.
 
-
-## --- Tranche 44 / 52 ---
+## Tranche 44 / 52 : Protocole : Le Cercle Magique d'Imprégnation (DTI Mono-Exemplaire)
 
 Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity By Design** de David Snyder.
 
@@ -6657,8 +6672,7 @@ Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity B
     *   *Suggestion post-hypnotique d'automatisation sans effort :* *"seamlessly, effortlessly and automatically"*.
     *   *Garde-fou écologique en boucle fermée :* Condition de sortie explicite (*"taking only what you need and leaving the rest behind with gratitude"*), empêchant toute contamination par les traits négatifs du modèle.
 
-
-## --- Tranche 45 / 52 ---
+## Tranche 45 / 52 : A : La Cure Rapide de Phobie « À la David » (Fast Phobia Cure Hybrid)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6823,8 +6837,7 @@ Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity B
 ```
 * **[Analyse du Pattern]** : **Suggestion de fractionnement inversé avec submersion sensorielle** (*« As you get closer... notice how much better it gets »*). La répétition du verbe passif participial au rythme scandé (*« Flooded... Flooded... »*) surcharge le canal kinesthésique. Le mouvement spatial d'association physique (*« step into the movie »*) est directement fusionné avec une validation de l'apprentissage inconscient par truisme ternaire d'autorité (*« You've learned. You understand. You're different now »*).
 
-
-## --- Tranche 46 / 52 ---
+## Tranche 46 / 52 : A : Intégration Somato-Temporelle & Clôture Identitaire (Trance d'Installation Totale)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7029,8 +7042,7 @@ Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity B
   - *Règle de clôture gestaltiste / neurologique* : « *we can't leave it until we finish it* ». Établit le postulat opératoire selon lequel tout cycle ouvert devient un piège attentionnel si la fin programmée n'est pas fournie.
   - *Principe du Seuil Liminaire d'Alerte Tactile* : « *just enough contact that it registers... but not enough for them to determine what* ». Description exacte de la fenêtre sensorielle critique requise pour paralyser le calcul prédictif du cerveau sans déclencher de réaction de défense coordonnée.
 
-
-## --- Tranche 47 / 52 ---
+## Tranche 47 / 52 : Infiltration de Groupe et Ouverture Sociale par Iso-Physiologie Énergétique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7192,8 +7204,7 @@ Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity B
   - *Boucle d'auto-réalisation comportementale (Magic Mirror)* : La formulation présuppose que le positionnement interne dicte inconsciemment l'expression kinesthésique externe sans contrôle volontaire requis (*« will change automatically »*).
   - *Changement de direction du test (Qualification Prompt)* : L'injonction interne *« Now show me if I was right about you or not »* transfère la charge de validation sur l'interlocuteur, neutralisant immédiatement les réponses défensives habituelles d'évitement.
 
-
-## --- Tranche 48 / 52 ---
+## Tranche 48 / 52 : Capture & Bouclage Attentionnel par Push-Pull (Attention Scarce Resource)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7319,8 +7330,7 @@ Voici l'analyse opératoire intégrale de la tranche 44/52 du cours **Identity B
 > "Because if you're in the state underlying the pattern you're setting out to weave, you're connected to all the resources that you need to congruently deliver the pattern, which is the inverse of rapid romance... the minute you run out of script, you're out of bullets."
 * **[Analyse du Pattern]** : Métaphore balistique et recadrage de congruence. Snyder oppose la faillibilité des scripts préétablis (*canned scripts*) à la flexibilité adaptative générée par l'état neuro-émotionnel vivant. L'état physiologique est désigné comme la matrice génératrice du langage, et non l'inverse.
 
-
-## --- Tranche 49 / 52 ---
+## Tranche 49 / 52 : Installation et Déploiement du « Rockstar Metaframe »
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 49/52 du cours **"Identity By Design"** de David Snyder.
 
@@ -7483,8 +7493,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 49/52 du
 > *"Just change how you view you, how you feel about you, who the you is in that particular interaction, and the people interacting with you must change. Yes?"*
 - **[Analyse du Pattern]** : Empilement de sous-modalités internes et de niveaux logiques (Vision -> Sensation -> Identité : *"how you view you, how you feel about you, who the you is"*). Utilisation du modal de nécessité absolue (*"must change"*) clôturé par un tag question confirmatif (*"Yes?"*) forçant l'alignement immédiat de l'auditoire.
 
-
-## --- Tranche 50 / 52 ---
+## Tranche 50 / 52 : Désactivation Instantanée d'une Saisie par Inversion de Flux (Démo Grappling / Kyusho)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 50/52 du cours *Identity By Design* de David Snyder.
 
@@ -7631,8 +7640,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 50/52 du cours *Identity
     - Au chiffre *4*, il utilise un argument de congruence et de réciprocité psychologique (*« you've made the investment, you deserve the reward »*) pour détruire le syndrome de l'imposteur.
   - **Multiplicateurs d'état et commande conversationnelle finale :** L'analogie somatosensorielle puissante (*« eight-hour nap, a nine-hour massage »*) procure un soulagement physique instantané au réveil, scellé par l'omission suggestive finale : *« for all the right reasons. And you know what those are »* (laissant l'inconscient valider ses propres impératifs éthiques).
 
-
-## --- Tranche 51 / 52 ---
+## Tranche 51 / 52 : A : La poignée de main hypnotique (Handshake Interrupt) – Variante David Snyder
 
 Voici l'extraction et la modélisation intégrale de la tranche 51/52 selon la structure demandée :
 
@@ -7762,8 +7770,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 51/52 selon la s
 
 * **[Analyse du Pattern] :** Cause à effet direct et recadrage complet de l'inconfort financier ou décisionnel. L'affect aversif (la peur de la dépense) est positivement lié à deux conséquences inévitables (*"more likely to be good"*, *"more quickly to recoup"*). La création délibérée d'une contrainte devient le levier identitaire qui force l'inconscient à passer en *overdrive*, requalifiant l'inconfort comme une expansion de l'image de soi (*"You start saying, I deserve this"*).
 
-
-## --- Tranche 52 / 52 ---
+## Tranche 52 / 52 : d'Inversion Émotionnelle de la Polarité d'Ennui (The Curiosity Flip)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7866,3 +7873,4 @@ Voici l'extraction et la modélisation intégrale de la tranche 51/52 selon la s
 
 > **"So don't tell anybody. Just be the person that makes people feel good. And by and large, they'll do the things you want them to do."**
 - **[Analyse du Pattern]** : Commande directe d'invisibilité tactique suivie d'une équivalence complexe : faire ressentir un état positif = obtenir l'alignement comportemental désiré (*« they'll do the things you want them to do »*). Installation d'une éthique pragmatique de l'influence clandestine centrée sur le gain émotionnel du sujet cible.
+

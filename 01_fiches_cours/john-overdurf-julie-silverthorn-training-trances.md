@@ -80,10 +80,35 @@ Toutes les interventions du cours sont sous-tendues par un principe unificateur 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 111-231]** : L'Induction d'Étude en Trance Vigile Dissociée (Uptime Trance Reading Protocol) — *Protocole :* L'Induction d'Étude en Trance Vigile Dissociée (Uptime Trance Reading Protocol) | *Mécanisme :* Le Principe de Délinéation et Pré-Formatage Inconscient (Formatting / Cognitive Pre-mapping) | *Verbatim :* La Commande Enchâssée Générique (Generic 2nd Person Embedded Command)
+- **Tranche 2 [Lignes 233-371]** : Recadrage de la Croyance « L'hypnose ne marche pas » (Catégorisation État vs Technique) — *Protocole :* Recadrage de la Croyance « L'hypnose ne marche pas » (Catégorisation État vs Technique) | *Mécanisme :* Le Décalage de Libet et la Rétro-Référence Subjective (Subjective Referral) | *Verbatim :* La Présupposition de Traitement Inconscient Antérieur
+- **Tranche 3 [Lignes 373-566]** : La Double Induction "Driving Trances" (Induction Polyphonique d'Équipe) — *Protocole :* La Double Induction "Driving Trances" (Induction Polyphonique d'Équipe) | *Mécanisme :* Le Continuum Direct/Indirect lié à la Profondeur Hypnotique | *Verbatim :* Le Recadrage de Suggestion Indirecte vs Directe
+- **Tranche 4 [Lignes 568-740]** : L'Exercice "That's Right" en Triade (A - B - C) — *Protocole :* L'Exercice "That's Right" en Triade (A - B - C) | *Mécanisme :* Uptime Trance vs Downtime Trance (Direction du Focus Attentionnel) | *Verbatim :* Verbatim 1 : Double Lien d'Attente & Suggestion Post-Hypnotique de Fin de Tranche
+- **Tranche 5 [Lignes 742-871]** : Protocole : Induction par Stratégie de Réalité (Reality Strategy Trance Induction) — *Protocole :* Protocole : Induction par Stratégie de Réalité (Reality Strategy Trance Induction) | *Verbatim :* Le Double Lien Temporel de Sortie Conditionnée
+- **Tranche 6 [Lignes 873-1040]** : A : Induction par Dissociation Conscient-Inconscient & Pacing de l'Expérience Actuelle — *Protocole :* A : Induction par Dissociation Conscient-Inconscient & Pacing de l'Expérience Actuelle | *Verbatim :* Extrait 1 : Recadrage étiologique ericksonien
+- **Tranche 7 [Lignes 1042-1237]** : A : La Rupture de Poignée de Main Éclair (Surprise Handshake Induction) — *Protocole :* A : La Rupture de Poignée de Main Éclair (Surprise Handshake Induction) | *Mécanisme :* Équilibre Tonique Agoniste/Antagoniste & Catalepsie Somatique | *Verbatim :* La Sortie de Transe Écologique & Dissociation Consciente/Inconsciente
+- **Tranche 8 [Lignes 1239-1397]** : Protocole : Induction par Rupture de Pattern & Ambiguïté Kinesthésique — *Protocole :* Protocole : Induction par Rupture de Pattern & Ambiguïté Kinesthésique | *Verbatim :* L'Établissement du Double Lien et du "Wooden Feeling"
+- **Tranche 9 [Lignes 1399-1584]** : A : Élicitation de l'Analgésie par Empilement d'Universaux, Catalepsie et Pacing/Leading — *Protocole :* A : Élicitation de l'Analgésie par Empilement d'Universaux, Catalepsie et Pacing/Leading | *Verbatim :* La Métaphore Neuropeptidique et le Transfert de Guérison Cellulaire
+- **Tranche 10 [Lignes 1586-1744]** : A : Structuration Linguistique & Acoustique de la Dissociation — *Protocole :* A : Structuration Linguistique & Acoustique de la Dissociation | *Mécanisme :* Balisage Spatial, Temporel et Phonatoire de la Dissociation (Multi-Locus Projection) | *Verbatim :* Suggestion de dissociation somatique esprit/corps (Catalepsie / Analgésie)
+- **Tranche 11 [Lignes 1746-1933]** : Global : L'Entretien Hypnotique Intégral (The Hypnotic Interview) — *Protocole :* Global : L'Entretien Hypnotique Intégral (The Hypnotic Interview) | *Verbatim :* L'Activation des Truismes Universels du Problème
+- **Tranche 12 [Lignes 1935-2054]** : Le Protocole de l'Entretien Hypnotique (The Hypnotic Interview) — *Protocole :* Le Protocole de l'Entretien Hypnotique (The Hypnotic Interview) | *Verbatim :* Présupposition du Changement par Questionnement Épistémique
+- **Tranche 13 [Lignes 2056-2215]** : Le Protocole de Suggestion Post-Hypnotique Structurée (Structure Subloop) — *Protocole :* Le Protocole de Suggestion Post-Hypnotique Structurée (Structure Subloop) | *Verbatim :* s Verbatim & Analyses
+- **Tranche 14 [Lignes 2217-2375]** : Protocole de la "Living Metaphor" (Métaphore Vivante / Prescription d'Épreuve Isomorphe) — *Protocole :* Protocole de la "Living Metaphor" (Métaphore Vivante / Prescription d'Épreuve Isomorphe) | *Verbatim :* La Prescription Isomorphe de la Tâche de Kleenex
+- **Tranche 15 [Lignes 2377-2508]** : d'Intervention Métaphorique (Modélisation d'Erickson tardif) — *Protocole :* d'Intervention Métaphorique (Modélisation d'Erickson tardif) | *Verbatim :* La Présupposition d'Échec de l'Ultra-Contrôle
+- **Tranche 16 [Lignes 2510-2764]** : L'Intervention Métaphorique Complète & Réactivation d'Ancres — *Protocole :* L'Intervention Métaphorique Complète & Réactivation d'Ancres | *Mécanisme :* Empilement et Réactivation d'Ancrages Métaphoriques en Transe Formelle | *Verbatim :* Séquence de Tir d'Ancrages en Transe Formelle (Sequential Firing)
+- **Tranche 17 [Lignes 2766-2919]** : A : Déconstruction et Désactivation du Complexe de Douleur (Pain Complex Neutralization) — *Protocole :* A : Déconstruction et Désactivation du Complexe de Douleur (Pain Complex Neutralization) | *Verbatim :* La Chute de la Métaphore du Bûcheron (Recadrage d'Attribution)
+- **Tranche 18 [Lignes 2921-3053]** : Facilitation de la Vision Périphérique (Installation de l'État Parasympathique) — *Protocole :* Facilitation de la Vision Périphérique (Installation de l'État Parasympathique) | *Verbatim :* Induction de la Vision Périphérique (Overdurf & Silverthorn)
+- **Tranche 19 [Lignes 3055-3134]** : Fondateur : L'Architecture de Suggestion Post-Hypnotique avec Amnésie et Métaphores Imbriquées — *Protocole :* Fondateur : L'Architecture de Suggestion Post-Hypnotique avec Amnésie et Métaphores Imbriquées | *Mécanisme :* Indexation et Cartographie Mnésique Somato-Cognitive (Index Conceptuel Opératoire)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 19 ---
+## Tranche 1 / 19 : L'Induction d'Étude en Trance Vigile Dissociée (Uptime Trance Reading Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -205,8 +230,7 @@ Toutes les interventions du cours sont sous-tendues par un principe unificateur 
   2. *Présupposition d'apprentissage futur inéluctable* : « *Look forward to being surprised at what you've learned...* » présuppose de façon absolue que l'apprentissage A EU LIEU (utilisation du passé composé *what you've learned*), la seule variable inconnue étant la manière surprenante dont il va émerger à la surface.
   3. *Lien temporel d'attente* : « *and in the meantime...* » installe une boucle ouverte d'attente flottante, immédiatement comblée par l'injonction d'Erickson sur le faux-semblant génératif (*pretend and master*).
 
-
-## --- Tranche 2 / 19 ---
+## Tranche 2 / 19 : Recadrage de la Croyance « L'hypnose ne marche pas » (Catégorisation État vs Technique)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 2/19 de *Training Trances* (John Overdurf & Julie Silverthorn).
 
@@ -346,8 +370,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Ambiguïté phonétique et sémantique :** Double sens sur le mot *store* (le magasin physique vs l'action de stocker/emmagasiner) et sur le mot *change* (la monnaie rendue à la caisse vs le changement thérapeutique interne).
   - **Suggestion métaphorique indirecte :** *"store trance as long as you take the change with you"* insère la commande inconsciente de conserver l'état de transe et de repartir avec le changement thérapeutique intégré, validé par la clôture permissive *"Either way is perfect"*.
 
-
-## --- Tranche 3 / 19 ---
+## Tranche 3 / 19 : La Double Induction "Driving Trances" (Induction Polyphonique d'Équipe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -542,8 +565,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   * *Dissociation somato-mentale explicite* : Scinder le fonctionnement conscient visuel du tonus postural (*« eyes can awaken, but your body is still resting »*).
   * *Double localisation spatiale* : *« you as a mind you can be here, and your body can be elsewhere »* permet d'engager les participants dans l'exercice suivant tout en maintenant un bas voltage critique et une réceptivité inconsciente maximale au sein même de la salle de formation.
 
-
-## --- Tranche 4 / 19 ---
+## Tranche 4 / 19 : L'Exercice "That's Right" en Triade (A - B - C)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 4/19 de *Training Trances*.
 
@@ -717,8 +739,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Ratification immédiate de la réponse somatique :** Dès que les yeux de Dot papillonnent et se ferment, John utilise des renforçateurs verbaux calmes (*"Good... That's good"*).
   - **Installation d'une croyance identitaire permissive :** *"You're a great hypnotic subject"* court-circuitez toute rationalisation pour installer au niveau de l'identité une prédisposition neurologique définitive à la coopération hypnotique.
 
-
-## --- Tranche 5 / 19 ---
+## Tranche 5 / 19 : Protocole : Induction par Stratégie de Réalité (Reality Strategy Trance Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -849,8 +870,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : Commande post-hypnotique générative ouverte. La directive dissocie explicitement l'instance décisionnelle inconsciente de la conscience (*outside of your conscious awareness*). La projection temporelle floue (*in the next few days*) et le critère émotionnel prédéfini (*pleasantly surprise you*) créent une attente positive sans spécifier le contexte précis, permettant à l'inconscient d'exécuter le changement là où il est le plus écologique.
 
-
-## --- Tranche 6 / 19 ---
+## Tranche 6 / 19 : A : Induction par Dissociation Conscient-Inconscient & Pacing de l'Expérience Actuelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1019,8 +1039,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Double lien temporel / Suggestion post-hypnotique conditionnelle :* Le retour à la veille normale est rendu directement proportionnel ("only as... and to the degree that") à l'accroissement de l'alliance et de la gratitude envers l'inconscient.
   - *Glissement pronominal de dissociation :* Passage de "you" à "his unconscious mind", figeant la relation respectueuse entre les deux instances au moment même du réveil.
 
-
-## --- Tranche 7 / 19 ---
+## Tranche 7 / 19 : A : La Rupture de Poignée de Main Éclair (Surprise Handshake Induction)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 7/19 du séminaire *Training Trances* de John Overdurf et Julie Silverthorn.
 
@@ -1217,8 +1236,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
     *   *Feinte d'ignorance ericksonienne* : « *I don't know what that hand would do...* » : déplace le locus de contrôle loin du praticien, empêchant toute résistance psychologique chez le sujet.
     *   *Double lien classique d'Erickson (Double Bind)* : « *Will your hand get to your face before your eyes close, or will your eyes close and you'll feel that hand moving up all by itself?* » : quelles que soient les permutations choisies par le sujet, le résultat final est identique et inévitable (fermeture des yeux, lévitation/catalepsie du bras, transe profonde).
 
-
-## --- Tranche 8 / 19 ---
+## Tranche 8 / 19 : Protocole : Induction par Rupture de Pattern & Ambiguïté Kinesthésique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1378,8 +1396,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   * Saturation confusionnelle : la boucle autoréférentielle désoriente complètement l'orientation spatiale de l'hémisphère gauche.
   * Commande enchâssée temporelle finale : injection d'une emphase vocale marquée sur le mot *"NOW"*, couplée à la commande d'élévation (*"the right one to lift up NOW"*).
 
-
-## --- Tranche 9 / 19 ---
+## Tranche 9 / 19 : A : Élicitation de l'Analgésie par Empilement d'Universaux, Catalepsie et Pacing/Leading
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1566,8 +1583,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - *Double dissociation spatiale ("from the neck up" vs "your body can remain...")* : scission topographique nette entre la tête (champ de la conscience/vigilance) et le tronc/membres (champ de la catalepsie/sommeil).
   - *Double lien permissif ("you can feel as though you can awaken as a mind but not a body")* : structure un état somnambulique où la coopération verbale est totale tandis que le système moteur reste inhibé sous catalepsie.
 
-
-## --- Tranche 10 / 19 ---
+## Tranche 10 / 19 : A : Structuration Linguistique & Acoustique de la Dissociation
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1727,8 +1743,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 ```
 * **[Analyse du Pattern]** : Présupposition par double contrainte temporelle (*not yet, but when you do*). Utilisation d'un cadre restrictif d'écologie absolue (*only in a way that is compatible and congruent with and honors...*), qui neutralise toute angoisse de perte d'intégrité psychique. Double ancrage temporel impératif (*NOW*) venant clore le processus au moment exact où la synchronisation physiologique maximale est observée.
 
-
-## --- Tranche 11 / 19 ---
+## Tranche 11 / 19 : Global : L'Entretien Hypnotique Intégral (The Hypnotic Interview)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1917,8 +1932,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Ignorance feinte du praticien (*My Friend John Technique*)** : « *I don't know...* » décharge toute confrontation d'autorité et transfère la validation au sujet.
   - **Présupposition temporelle absolue du changement** : L'occurrence du changement est posée comme un fait acquis indiscutable ; la seule variable restante est le vecteur temporel (« *tomorrow, the next day, after you wake up* ») ou le mode d'intégration perceptuelle (« *sudden insight vs gradually* »).
 
-
-## --- Tranche 12 / 19 ---
+## Tranche 12 / 19 : Le Protocole de l'Entretien Hypnotique (The Hypnotic Interview)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2039,8 +2053,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 > "When construction companies build a highway, a new innerstate, they build the foundation and then they lay the concrete and let it set . . . . . . later on even though the concrete could support traffic, they just let it set. Just taking some time to let it set. . . . . Because trance is like a seed. . . ."
 - **[Analyse du Pattern]** : Jeu de mots et ambiguïté sur « *innerstate* » (phonétiquement indistinct d'« *interstate* » / autoroute, signifiant littéralement « état interne »). Métaphore de fixation et de consolidation passive (*« let it set »* répété comme un mantra de stabilisation somatique). La métaphore transitionne vers le symbole de la graine (*seed*), ancrant l'idée que le travail inconscient germe en silence sans besoin de surveillance consciente.
 
-
-## --- Tranche 13 / 19 ---
+## Tranche 13 / 19 : Le Protocole de Suggestion Post-Hypnotique Structurée (Structure Subloop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2201,8 +2214,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   > *"I wonder what new insights or pleasant associations will be triggered the next time you hear the answering machine click on . . . . . or maybe you'll just smile at this preposterous notion and enjoyably go deeper. . . . . . , ."*
   - **[Analyse du Pattern]** : **Double lien ericksonien (*Double Bind*) & Ancrage acoustique post-hypnotique**. La formulation adoucie *"I wonder..."* court-circuite le rejet. Le sujet est enfermé dans une alternative gagnant-gagnant : soit le déclenchement d'idées neuves et d'associations positives, soit la dérision amusée (*"smile at this preposterous notion"*) qui conduit inévitablement à un approfondissement de la transe (*"enjoyably go deeper"*). Le clic mécanique du répondeur devient la gâchette inéluctable de la transformation.
 
-
-## --- Tranche 14 / 19 ---
+## Tranche 14 / 19 : Protocole de la "Living Metaphor" (Métaphore Vivante / Prescription d'Épreuve Isomorphe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2362,8 +2374,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Ambiguïté sémantique et phonétique de "Go inside"** : Double sens hypnotique direct. Passer du garage physique à *« go inside anywhere »* (rentrer à l'intérieur d'un bâtiment vs entrer en transe intérieure profonde).
   - **Semis de commandes enchâssées (*Embedded Commands*)** : Réactivation des apprentissages clés délivrés dans les différentes boucles métaphoriques imbriquées (*« learn from anything »*, *« say Good-bye »*, *« nothing really dies »*), synchronisant l'apprentissage du stagiaire avec l'évolution future de ses propres clients.
 
-
-## --- Tranche 15 / 19 ---
+## Tranche 15 / 19 : d'Intervention Métaphorique (Modélisation d'Erickson tardif)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2496,8 +2507,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 
 * **[Analyse du Pattern]** : Empilement de truismes et métaphore imbriquée de la vie courante (les devoirs scolaires, la liste de courses évanouie) dérivant vers une citation intriquée (*I said: 'It's okay, you can forget it; we have all we need'*). Le conscient entend une anecdote banale sur une course d'épicerie, l'inconscient reçoit l'autorisation formelle d'effacer le souvenir conscient du travail thérapeutique car les ressources internes sont déjà acquises (*we have all we need*).
 
-
-## --- Tranche 16 / 19 ---
+## Tranche 16 / 19 : L'Intervention Métaphorique Complète & Réactivation d'Ancres
 
 Voici l'analyse opératoire intégrale et rigoureuse de la tranche 16/19 de *Training Trances* (John Overdurf & Julie Silverthorn).
 
@@ -2753,8 +2763,7 @@ Conscient (Voix A) <-----------------> Inconscient (Voix B)
   - *Isomorphisme d'apprentissage & Rupture d'illusion de maîtrise* : Cette métaphore terminale s'adresse directement à l'ego des stagiaires hypnothérapeutes en fin de formation qui voudraient forcer le changement par l'effort conscient et la frénésie technique (la sueur, la cadence effrénée du jeune bûcheron).
   - *Recadrage paradoxal de l'inactivité* : Ce qui apparaissait au conscient comme une faiblesse ou une pause stérile (« you even had to stop », affalé contre un arbre) est recadré en acte d'efficacité suprême (« sharpening my blade »). En hypnose, le praticien n'impose rien par la force musculaire : il suspend l'action frontale pour affûter ses distinctions perceptives, calibrer les réponses minimales et laisser les processus inconscients faire le travail lourd.
 
-
-## --- Tranche 17 / 19 ---
+## Tranche 17 / 19 : A : Déconstruction et Désactivation du Complexe de Douleur (Pain Complex Neutralization)
 
 Voici l'analyse opératoire de la tranche 17/19 de *Training Trances* (John Overdurf & Julie Silverthorn).
 
@@ -2909,8 +2918,7 @@ NOW IT'S YOUR TURN. , . . . »
   - *Recadrage méta du rêve partagé* : « *THE END OF ONE DREAM THAT TWO PEOPLE LIVED* » recadre l'ensemble de la formation passée comme une réalité hallucinatoire partagée, amorçant une transition somnambulique propre vers la vie réelle.
   - *Commande d'activation directe finale* : « *NOW IT'S YOUR TURN* » – après la léthargie du rêve et la circularité de la boucle, cette rupture de pattern ultra-courte transfère l'autorité et la responsabilité de l'action directement dans le système nerveux du lecteur/praticien.
 
-
-## --- Tranche 18 / 19 ---
+## Tranche 18 / 19 : Facilitation de la Vision Périphérique (Installation de l'État Parasympathique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3044,8 +3052,7 @@ NOW IT'S YOUR TURN. , . . . »
   - **Double valence fonctionnelle d'un mot pivot** : Le mot *"head"* sert simultanément de terminaison nominale à la première proposition (*"become aware of your head"*) et de verbe d'action transitif pour initier la seconde (*"head right into trance now"*).
   - **Court-circuit syntaxique** : L'analyseur logique de l'hémisphère gauche subit une micro-confusion lors de la résolution du sens grammatical, ouvrant une fenêtre d'hypo-vigilance instantanée où la commande hypnotique directe (*"head right into trance now"*) s'imprime sans filtrage analytique.
 
-
-## --- Tranche 19 / 19 ---
+## Tranche 19 / 19 : Fondateur : L'Architecture de Suggestion Post-Hypnotique avec Amnésie et Métaphores Imbriquées
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3125,3 +3132,4 @@ NOW IT'S YOUR TURN. , . . . »
 *   **Extrait Verbatim 4 :**
     > *"Training Trances is an excellent example of what is possible when communication with the Unconscious Mind goes deeply."*
     *   **[Analyse du Pattern]** : Postulat implicite d'immersion (*goes deeply*) et lien de cause à effet non spécifié (équivalence complexe). Le terme *deeply* fonctionne comme une suggestion enchâssée orientant le focus attentionnel vers la profondeur de l'expérience, normalisant l'accès à un état de transe profonde par le simple fait d'entrer en relation avec le matériel proposé.
+

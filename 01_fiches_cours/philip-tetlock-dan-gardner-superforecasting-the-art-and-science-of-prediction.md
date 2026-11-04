@@ -98,10 +98,39 @@ classDiagram
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 133-225]** : Décomposition Opératoire de la Question Prédictive Complexe (Méthode de Bill Flack) — *Protocole :* Décomposition Opératoire de la Question Prédictive Complexe (Méthode de Bill Flack) | *Verbatim :* Le Déploiement de l'Omniscience Déterministe
+- **Tranche 2 [Lignes 227-333]** : d'Amorçage Épistémique : « Le Micro-Calibrage des 60 Minutes » — *Protocole :* d'Amorçage Épistémique : « Le Micro-Calibrage des 60 Minutes » | *Verbatim :* La Destruction de la Fausse Dichotomie
+- **Tranche 3 [Lignes 335-442]** : Le Test Cochrane (Rupture d'Illusion d'Expertise par Inversion de Feedback) — *Protocole :* Le Test Cochrane (Rupture d'Illusion d'Expertise par Inversion de Feedback) | *Verbatim :* Le piège de l'infaillibilité autoréférentielle (Galien)
+- **Tranche 4 [Lignes 444-580]** : de Levée de la Substitution et Calibration Probabiliste (Désamorçage du « Bout-du-Nez ») — *Protocole :* de Levée de la Substitution et Calibration Probabiliste (Désamorçage du « Bout-du-Nez »)
+- **Tranche 5 [Lignes 582-685]** : Le Déballage de la Nominalisation Élastique (Protocole Sherman Kent) — *Protocole :* Le Déballage de la Nominalisation Élastique (Protocole Sherman Kent)
+- **Tranche 6 [Lignes 687-783]** : Le Décentrage Poker d'Annie Duke (Désamorçage de la Lecture de Pensée Projective) — *Protocole :* Le Décentrage Poker d'Annie Duke (Désamorçage de la Lecture de Pensée Projective) | *Verbatim :* Le Piège de l'Apaisement Hérisson
+- **Tranche 7 [Lignes 785-890]** : Le Tournoi Cochrane de Calibration Prédictive (IARPA Design) — *Protocole :* Le Tournoi Cochrane de Calibration Prédictive (IARPA Design) | *Mécanisme :* Le Principe Cochrane Cognitif (Test Aveugle vs Séduction Intuitive) | *Verbatim :* La Prescription Cochrane d'Humilité Expérimentale
+- **Tranche 8 [Lignes 892-1007]** : Désagrégation Fermi (Fermi-ization d'un Problème Complexe) — *Protocole :* Désagrégation Fermi (Fermi-ization d'un Problème Complexe)
+- **Tranche 9 [Lignes 1009-1122]** : Le Calibrage Outside-First (Thèse, Antithèse, Synthèse) — *Protocole :* Le Calibrage Outside-First (Thèse, Antithèse, Synthèse) | *Verbatim :* Le Recadrage Identitaire des Croyances
+- **Tranche 10 [Lignes 1124-1258]** : Le Déblocage du Cadran Mental (Passage de la Pensée Binaire à la Granularité Fine) — *Protocole :* Le Déblocage du Cadran Mental (Passage de la Pensée Binaire à la Granularité Fine) | *Mécanisme :* Le cadran mental binaire vs ternaire vs continu | *Verbatim :* La force brute de l'affirmation catégorique
+- **Tranche 11 [Lignes 1260-1388]** : L'Entonnoir de Décomposition & Synthèse Libellule (Dragonfly Synthesis & Granular Dial) — *Protocole :* L'Entonnoir de Décomposition & Synthèse Libellule (Dragonfly Synthesis & Granular Dial)
+- **Tranche 12 [Lignes 1390-1513]** : Le Réglage Fin Bayésien sans Équation (The Intuitive Bayesian Dial) — *Protocole :* Le Réglage Fin Bayésien sans Équation (The Intuitive Bayesian Dial) | *Verbatim :* La Métaphore Spatiale de la Tour Jenga
+- **Tranche 13 [Lignes 1515-1622]** : Le Découplage de Postmortem Précoce et Traçabilité Cognitive (Méthode Beugoms / Duffy) — *Protocole :* Le Découplage de Postmortem Précoce et Traçabilité Cognitive (Méthode Beugoms / Duffy) | *Mécanisme :* La boucle TOTE itérative et l'apprentissage tacite somatique | *Verbatim :* Verbatim 1 : La dislocation d'alignement identitaire de Keynes
+- **Tranche 14 [Lignes 1624-1734]** : Le Questionnement de Précision (Precision Questioning) — *Protocole :* Le Questionnement de Précision (Precision Questioning) | *Verbatim :* Verbatim 1 : L'Ancrage Identitaire du Superprévisionniste
+- **Tranche 15 [Lignes 1736-1846]** : Structuration d'une Superteam Émergente (Anti-Groupthink & Partage) — *Protocole :* Structuration d'une Superteam Émergente (Anti-Groupthink & Partage)
+- **Tranche 16 [Lignes 1848-1985]** : Désamorçage du Biais de Substitution d'Échelle (Scope Sensitivity Drill) — *Protocole :* Désamorçage du Biais de Substitution d'Échelle (Scope Sensitivity Drill) | *Mécanisme :* Le Découplage Identitaire de l'Humilité Épistémique vs Auto-Dépréciation | *Verbatim :* Verbatim 1 : L'essence du Mission Command (Patton / Coyne)
+- **Tranche 17 [Lignes 1987-2106]** : Le Stress-Test du Périmètre Temporel (Scope Sensitivity Drill) — *Protocole :* Le Stress-Test du Périmètre Temporel (Scope Sensitivity Drill)
+- **Tranche 18 [Lignes 2108-2266]** : Le Découpage en Grappes Bayésiennes (Bayesian Question Clustering) — *Protocole :* Le Découpage en Grappes Bayésiennes (Bayesian Question Clustering) | *Mécanisme :* Boucle de Rétroaction Réfutable (Clear Feedback & Scorable Ambiguity) | *Verbatim :* La Formule d'Auto-Étalonnage
+- **Tranche 19 [Lignes 2268-2416]** : Collaboration Contradictoire Dépolarisante (Adversarial Collaboration Design) — *Protocole :* Collaboration Contradictoire Dépolarisante (Adversarial Collaboration Design)
+- **Tranche 20 [Lignes 2418-2542]** : Le Déverrouillage des Prédictions Implicites (Implicit Forecast Elicitation Protocol) — *Protocole :* Le Déverrouillage des Prédictions Implicites (Implicit Forecast Elicitation Protocol) | *Verbatim :* Le Double-Lien d'Inévitabilité Prédictive
+- **Tranche 21 [Lignes 2544-2660]** : Le Découplage Outside/Inside View (Démonstration Cobbler / Joseph / Chang) — *Protocole :* Le Découplage Outside/Inside View (Démonstration Cobbler / Joseph / Chang) | *Mécanisme :* La dénégation d’engagement prédictif (The Implicit Prediction Blindspot) | *Verbatim :* Le piège de la cécité métacognitive
+- **Tranche 22 [Lignes 2662-2778]** : d'Arbitrage et d'Équilibrage de Taux de Base Hybrides (Blended Prior Calibration) — *Protocole :* d'Arbitrage et d'Équilibrage de Taux de Base Hybrides (Blended Prior Calibration)
+- **Tranche 23 [Lignes 2780-2861]** : L'Installation du Cadre d'Imputabilité Opératoire (Accountability Architecture) — *Protocole :* L'Installation du Cadre d'Imputabilité Opératoire (Accountability Architecture) | *Mécanisme :* Levier de Redevabilité Publique Compétitive ("Gallows Effect" / Focalisation Mort Réputationnelle) | *Verbatim :* Verbatim 1 : L'Effet de la Potence Publique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 23 ---
+## Tranche 1 / 23 : Décomposition Opératoire de la Question Prédictive Complexe (Méthode de Bill Flack)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -195,8 +224,7 @@ classDiagram
   - **Recadrage de niveau supérieur (Meta-framing) :** Qualification immédiate en *"false dichotomies"*, ce qui élève le niveau logique de la réflexion au-dessus des choix imposés.
   - **Emboîtement métaphorique (Multi-level nesting) :** Les termes *"clocks and clouds and a vast jumble of other metaphors"* et *"intricately interlocking systems"* réinstallent la tolérance à la complexité systémique à travers les trois niveaux d'expérience : somatique (*"our bodies"*), relationnel/collectif (*"our societies"*) et ontologique (*"the cosmos"*).
 
-
-## --- Tranche 2 / 23 ---
+## Tranche 2 / 23 : d'Amorçage Épistémique : « Le Micro-Calibrage des 60 Minutes »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -304,8 +332,7 @@ classDiagram
 * **[Analyse du Pattern]** :
   Exemple canonique de boucle auto-immunisante et de double lien pervers. La syntaxe repose sur une prémisse majeure englobante (*« All who drink... recover »*), immédiatement verrouillée par une exception circulaire non réfutable (*« except those whom it does not help, who all die »*). L'adverbe assertif et le connecteur de causalité factice (*« It is obvious, therefore... »*) forcent une conclusion logique aberrante qui scelle hermétiquement la croyance contre toute remise en question empirique.
 
-
-## --- Tranche 3 / 23 ---
+## Tranche 3 / 23 : Le Test Cochrane (Rupture d'Illusion d'Expertise par Inversion de Feedback)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -414,8 +441,7 @@ classDiagram
 > « It is wise to take admissions of uncertainty seriously, but declarations of high confidence mainly tell you that an individual has constructed a coherent story in his mind, not necessarily that the story is true. »
 * **[Analyse du Pattern]** : Dissociation complexe et recadrage de critère. La phrase pose d'abord une validation de l'aveu de vulnérabilité (*"wise to take admissions of uncertainty seriously"*), puis introduit une rupture d'équivalence complexe (*"declarations of high confidence"* =/= vérité factuelle). Elle redéfinit la haute confiance comme le simple reflet d'un récit interne cohérent (*"a coherent story in his mind"*), déconnectant radicalement l'assurance subjective de la validité de l'affirmation.
 
-
-## --- Tranche 4 / 23 ---
+## Tranche 4 / 23 : de Levée de la Substitution et Calibration Probabiliste (Désamorçage du « Bout-du-Nez »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -553,8 +579,7 @@ classDiagram
 ```
 * **[Analyse du Pattern]** : Double lien bureaucratique et illusion d'information. La clause subordonnée initiale admet une ignorance totale (*« impossible to determine »*), immédiatement contredite par une affirmation de croyance (*« we believe »*) qui débouche sur une nominalisation hautement élastique (*« serious possibility »*), autorisant chaque décideur à projeter son propre barème numérique (de 20% à 80%).
 
-
-## --- Tranche 5 / 23 ---
+## Tranche 5 / 23 : Le Déballage de la Nominalisation Élastique (Protocole Sherman Kent)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -659,8 +684,7 @@ classDiagram
 > **"Think of that Big Idea like a pair of glasses that the hedgehog never takes off. The hedgehog sees everything through those glasses. And they aren’t ordinary glasses. They’re green-tinted glasses—like the glasses that visitors to the Emerald City were required to wear in L. Frank Baum’s The Wonderful Wizard of Oz... Everywhere you look, you see green, whether it’s there or not. And very often, it’s not. The Emerald City wasn’t even emerald in the fable. People only thought it was because they were forced to wear green-tinted glasses! So the hedgehog’s one Big Idea doesn’t improve his foresight. It distorts it."**
 - **[Analyse du Pattern]** : Métaphore enchâssée archétypale (Le Magicien d'Oz) agissant comme un dé-conditionneur de certitude. L'image des lunettes vertes opère une dissociation spatiale et somatique immédiate : l'expert ne regarde plus le monde, il regarde l'illusion générée par son propre filtre optique. L'introduction du secret du conte (la cité n'était pas émeraude) détruit la validité ontologique de la croyance unique du sujet.
 
-
-## --- Tranche 6 / 23 ---
+## Tranche 6 / 23 : Le Décentrage Poker d'Annie Duke (Désamorçage de la Lecture de Pensée Projective)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -758,8 +782,7 @@ classDiagram
 > "NIE 2002-16HC didn’t say 60% or 70%. It said, 'Iraq has…' 'Baghdad has…' Statements like these admit no possibility of surprise. They are the equivalent of 'The sun rises in the east and sets in the west.' At a White House briefing on December 12, 2002, the CIA director, George Tenet, used the phrase 'slam dunk.' [...] It was wrong when it said it couldn’t be wrong. Postmortems even revealed that the IC had never seriously explored the idea that it could be wrong."
 - **[Analyse du Pattern]** : Déconstruction linguistique de l'équivalence complexe et de l'omission des modalisateurs épistémiques. Le glissement de la probabilité mesurée (« 60% ou 70% ») vers l'indicatif assertif (« *has* ») assimile une inférence spéculative à un truisme physique (« *The sun rises in the east* »). Tetlock pointe ici la commande linguistique d'aveuglement : supprimer la modalité probabiliste revient à hypnotiser l'appareil décisionnel en lui ôtant toute capacité de considérer des futurs alternatifs.
 
-
-## --- Tranche 7 / 23 ---
+## Tranche 7 / 23 : Le Tournoi Cochrane de Calibration Prédictive (IARPA Design)
 
 Voici l'extraction opératoire complète et modélisée de la tranche 7/23 selon la structure d'ingénierie demandée :
 
@@ -866,8 +889,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 7/23 selon
 > *"The purpose of laying out an argument as I have done here is to convince the reader, but I hope you’re not convinced about these superforecasters—yet."*
 * **[Analyse du Pattern]** : Utilisation magistrale de la négation paradoxale et de la présupposition temporelle. En affirmant *"I hope you’re not convinced"*, l'auteur contourne toute résistance critique du lecteur en validant son scepticisme. L'adverbe final isolé (*"—yet"*) agit comme une commande insérée qui présuppose inévitablement que la conviction totale aura lieu dans un second temps, dès que les données de régression auront été exposées.
 
-
-## --- Tranche 8 / 23 ---
+## Tranche 8 / 23 : Désagrégation Fermi (Fermi-ization d'un Problème Complexe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -984,8 +1006,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 7/23 selon
 > "Read the question again: 'Will either the French or Swiss inquiries find elevated levels of polonium in the remains of Yasser Arafat’s body?' Neither 'Israel would never do that!' nor 'Of course Israel did it!' is actually responsive to that question. They answer a different question: 'Did Israel poison Yasser Arafat?' System 1 pulled a classic bait and switch: the hard question that was actually asked was replaced by the easy question that wasn’t."
 - **[Analyse du Pattern]** : Interruption de pattern par commande impérative (*"Read the question again"*). Démonstration d'un double lien cognitif où deux réponses opposées commettent exactement la même erreur logique de base. Utilisation de la métaphore d'illusionnisme/escroquerie (*"bait and switch"*) pour nommer l'automatisme inconscient de substitution, dissociant immédiatement le sujet lucide de ses propres biais réactifs.
 
-
-## --- Tranche 9 / 23 ---
+## Tranche 9 / 23 : Le Calibrage Outside-First (Thèse, Antithèse, Synthèse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1100,8 +1121,7 @@ Voici l'extraction opératoire complète et modélisée de la tranche 7/23 selon
 > *"Well, here’s an opportunity to learn something about Ghana."*
 - **[Analyse du Pattern]** : Recadrage de signification instantané (reframing). Confronté à un problème perçu par la majorité comme dénué de pertinence personnelle ou sans issue facile, le sujet désamorce le réflexe d'évitement ou de rejet par un ancrage dans l'appétit d'apprentissage pur. Absence totale de jugement de valeur ou d'utilitarisme étroit.
 
-
-## --- Tranche 10 / 23 ---
+## Tranche 10 / 23 : Le Déblocage du Cadran Mental (Passage de la Pensée Binaire à la Granularité Fine)
 
 Voici l'extraction opératoire et l'analyse de modélisation de la tranche 10/23 de *Superforecasting* (Philip Tetlock & Dan Gardner).
 
@@ -1237,8 +1257,7 @@ Voici l'extraction opératoire et l'analyse de modélisation de la tranche 10/23
   - **Destruction du présupposé téléologique :** Déconstruction radicale du lien de causalité égocentrique (*"Why me?"* présuppose une intentionnalité de l'univers dirigée contre le sujet).
   - **Recadrage par l'universalisation du non-sens :** La réplique en écho (*"Vy you? Vy anybody?"* / *"Why us for that matter? Why anything?"*) fait exploser le cadre sémantique de la victime pour le confronter à la nudité de l'incertitude pure et de l'aléa sans cause morale.
 
-
-## --- Tranche 11 / 23 ---
+## Tranche 11 / 23 : L'Entonnoir de Décomposition & Synthèse Libellule (Dragonfly Synthesis & Granular Dial)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1368,8 +1387,7 @@ Voici l'extraction opératoire et l'analyse de modélisation de la tranche 10/23
 > **"I think that the question I was really answering wasn’t ‘Will Abe visit Yasukuni?’ but ‘If I were PM of Japan, would I visit Yasukuni?’"**
 - **[Analyse du Pattern]** : Méta-déclaration de lucidité rétrospective via une scission comparative d'identité. La phrase utilise une négation contrastive (*wasn't X but Y*) pour matérialiser la rupture entre le mandat analytique objectif (*Will Abe...*) et le piège projectif égocentrique (*If I were PM...*). Cette mise en miroir verbalise chirurgicalement le mécanisme d'attribute substitution, permettant la réappropriation immédiate du contrôle cognitif.
 
-
-## --- Tranche 12 / 23 ---
+## Tranche 12 / 23 : Le Réglage Fin Bayésien sans Équation (The Intuitive Bayesian Dial)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1494,8 +1512,7 @@ Voici l'extraction opératoire et l'analyse de modélisation de la tranche 10/23
 > « Legend says that while conferring with Roosevelt at Quebec, Churchill sent Keynes a cable reading, 'Am coming around to your point of view.' His Lordship replied, 'Sorry to hear it. Have started to change my mind.' »
 * **[Analyse du Pattern]** : Rupture comique de pattern social. Alors que la convention relationnelle attend une validation ou un triomphe d'ego lorsque l'interlocuteur cède (« J'ai gagné »), la réponse inverse brutalement l'attente (« Désolé d'apprendre cela »). Ce paradoxe linguistique ancre l'identité non pas dans une thèse défendue, mais dans le mouvement perpétuel d'investigation et d'actualisation cognitive.
 
-
-## --- Tranche 13 / 23 ---
+## Tranche 13 / 23 : Le Découplage de Postmortem Précoce et Traçabilité Cognitive (Méthode Beugoms / Duffy)
 
 Voici l'extraction opératoire intégrale de la tranche 13/23, analysée sous les prismes de la modélisation comportementale de pointe, de la PNL, de l'ingénierie cognitive et de l'hypnose conversationnelle.
 
@@ -1604,8 +1621,7 @@ Voici l'extraction opératoire intégrale de la tranche 13/23, analysée sous le
 
 * **[Analyse du Pattern]** : **Isomorphisme technologique et métaphore d'identité cristallisée.** Emprunter le lexique de l'ingénierie logicielle opère un transfert d'attributs précis : effacement de l'orgueil, tolérance native aux bugs (erreurs = fonctionnalités à déboguer), et absence programmée d'état "achevé". L'équation finale à deux termes, d'une brièveté lapidaire (« *Superforecasters are perpetual beta* »), fonctionne comme une suggestion post-hypnotique directe au niveau de l'identité, dissolvant l'anxiété de performance au profit d'un flux itératif permanent.
 
-
-## --- Tranche 14 / 23 ---
+## Tranche 14 / 23 : Le Questionnement de Précision (Precision Questioning)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1717,8 +1733,7 @@ Voici l'extraction opératoire intégrale de la tranche 13/23, analysée sous le
 > *"So the guerrillas have been attacked. The plan has fallen apart. They don’t have helicopters or tanks. But they have to cross eighty miles of swamp and jungle before they can begin to look for shelter in the mountains? Is that correct?"*
 - **[Analyse du Pattern]** : Empilement de truismes irréfutables (*Yes-Set*) aboutissant à une question fermée de confirmation de réalité (*Is that correct?*). En juxtaposant les prémisses admises sans ajouter d'adjectif polémique, la structure syntaxique oblige le système cognitif de l'interlocuteur à confronter directement l'absurdité du plan, produisant une rupture brutale de transe collective sans confrontation agressive.
 
-
-## --- Tranche 15 / 23 ---
+## Tranche 15 / 23 : Structuration d'une Superteam Émergente (Anti-Groupthink & Partage)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1830,8 +1845,7 @@ Voici l'extraction opératoire intégrale de la tranche 13/23, analysée sous le
 > *"No plan of operations extends with certainty beyond the first encounter with the enemy’s main strength."*
 * **[Analyse du Pattern] :** Rupture de cadre sur la notion de contrôle prédictif. L'énoncé détruit la croyance en la permanence du plan par une clause de limitation temporelle nette (« beyond the first encounter »). Cette formule installe la flexibilité adaptative et l'improvisation non comme des failles de préparation, mais comme la seule posture rationnelle face à la complexité dynamique.
 
-
-## --- Tranche 16 / 23 ---
+## Tranche 16 / 23 : Désamorçage du Biais de Substitution d'Échelle (Scope Sensitivity Drill)
 
 Voici l'extraction intégrale et opératoire de la tranche 16/23, structurée selon les exigences d'ingénierie cognitive et d'analyse de patterns.
 
@@ -1970,8 +1984,7 @@ Voici l'extraction intégrale et opératoire de la tranche 16/23, structurée se
   - **Contraste identitaire / comportemental :** Met en porte-à-faux le titre d'expert (*« lifelong intelligence officer »*) avec la capitulation somatique.
   - **Démonstration de la submodalité de certitude :** La formulation *« it didn’t feel like an assumption. It felt true »* isole chirurgicalement le piège neuro-affectif : la certitude n'est pas un calcul cognitif, c'est une kinesthésie viscérale. Tetlock montre comment l'affect de véracité court-circuite le protocole de vérification du Système 2.
 
-
-## --- Tranche 17 / 23 ---
+## Tranche 17 / 23 : Le Stress-Test du Périmètre Temporel (Scope Sensitivity Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2092,8 +2105,7 @@ Voici l'extraction intégrale et opératoire de la tranche 16/23, structurée se
   > "Which is to say—what does one do with data points like this to adjust one’s worldview? [...] So, going forward, when I write about a discrete event like the Scottish referendum, I’ll try to do two things: make a clear prediction, and offer a confidence interval about that prediction. In other words, I want to keep score."
   * **[Analyse du Pattern]** : Question rhétorique réflexive d'orientation interne (*"adjust one's worldview"*) suivie d'un ancrage comportemental futur (*"going forward, when I write... I'll try to do two things"*). La formule finale (*"keep score"*) opère comme une commande d'engagement identitaire sans échappatoire, liant l'estime intellectuelle à l'enregistrement chiffré et vérifiable des anticipations.
 
-
-## --- Tranche 18 / 23 ---
+## Tranche 18 / 23 : Le Découpage en Grappes Bayésiennes (Bayesian Question Clustering)
 
 Voici l'analyse opératoire de la tranche 18/23 de l'ouvrage *Superforecasting* de Philip Tetlock & Dan Gardner, extraite selon les règles rigoureuses de l'ingénierie comportementale, linguistique et systémique.
 
@@ -2253,8 +2265,7 @@ Voici l'analyse opératoire de la tranche 18/23 de l'ouvrage *Superforecasting* 
   - *Recadrage de niveau logique :* Tetlock prend les deux figures antagonistes qui ont structuré l'ensemble du raisonnement du livre pour les requalifier en illusion conceptuelle (*"our final false dichotomy"*).
   - *Intégration des parties (Parts Integration) :* Plutôt que de déclarer un vainqueur entre la vision globale/audacieuse (Tom) et la méticulosité probabiliste (Bill), il impose une synthèse de niveau supérieur sous le terme biologique de *"symbiosis"*. Cela force le système de l'apprenant à cesser de choisir un camp et à intégrer simultanément les deux aptitudes dans son répertoire stratégique.
 
-
-## --- Tranche 19 / 23 ---
+## Tranche 19 / 23 : Collaboration Contradictoire Dépolarisante (Adversarial Collaboration Design)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2404,8 +2415,7 @@ Voici l'analyse opératoire de la tranche 18/23 de l'ouvrage *Superforecasting* 
 > "Managing is like holding a dove in your hand. If you hold it too tightly you kill it, but if you hold it too loosely, you lose it."
 - **[Analyse du Pattern]** : Métaphore kinesthésique à double contrainte équilibrée. L'image physique de la prise en main d'un oiseau vivant transfère une compréhension viscérale et somatique immédiate du juste dosage d'autorité et de liberté managériale, rendant tout commentaire abstrait superflu.
 
-
-## --- Tranche 20 / 23 ---
+## Tranche 20 / 23 : Le Déverrouillage des Prédictions Implicites (Implicit Forecast Elicitation Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2531,8 +2541,7 @@ Voici l'analyse opératoire de la tranche 18/23 de l'ouvrage *Superforecasting* 
 * **[Analyse du Pattern]** :
   **Recadrage par ré-étiquetage contextuel (Meta-Frame Reclassification)**. Tetlock cite mot à mot les questions rhétoriques de son contradicteur (*« Isn't it interesting... But what if... »*) pour démontrer que la forme interrogative est un véhicule clandestin d'affirmations probabilistes. Le crescendo inductif final élargit le cadre de façon vertigineuse : de Klein $\rightarrow$ aux éditorialistes $\rightarrow$ à tout être humain (*« In the thoughts of anyone else. We all make predictions, constantly »*). La phrase finale pose une règle opératoire sous forme de présupposition de compétence : tant que l'acte inconscient n'est pas ramené à la conscience vigile, la boucle d'apprentissage reste neurologiquement fermée.
 
-
-## --- Tranche 21 / 23 ---
+## Tranche 21 / 23 : Le Découplage Outside/Inside View (Démonstration Cobbler / Joseph / Chang)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 21/23 selon les standards stricts d'ingénierie et de modélisation PNL / hypnose.
 
@@ -2650,8 +2659,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 21/23 selon
 > **“Never forget: forecasting real-world events is as much art as science.”**
 * **[Analyse du Pattern]** : Commande directe précédée d'un impératif d'attention négatif (*"Never forget"*). Recadrage d'intégration des polarités reliant l'analytique (*science*) et l'heuristique intuitive (*art*), interdisant à la fois le dogmatisme mathématique rigide et le laxisme subjectif.
 
-
-## --- Tranche 22 / 23 ---
+## Tranche 22 / 23 : d'Arbitrage et d'Équilibrage de Taux de Base Hybrides (Blended Prior Calibration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2769,8 +2777,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 21/23 selon
   - **Métaphore somatique à haut impact (La potence / La mort réputationnelle)** : En associant l'évaluation publique à la potence (*the gallows*), le formateur connecte une tâche cognitive abstraite à une réponse neurovégétative primitive de survie.
   - **Conditionnement opérant enchâssé** : L'expression *« attunes us to the possibility we might be wrong »* agit comme une commande de flexibilité cognitive imposée non par la morale, mais par l'impératif de préservation du statut social.
 
-
-## --- Tranche 23 / 23 ---
+## Tranche 23 / 23 : L'Installation du Cadre d'Imputabilité Opératoire (Accountability Architecture)
 
 Voici l'analyse opératoire intégrale de la tranche 23/23 de l'ouvrage et de l'enseignement de Philip Tetlock & Dan Gardner.
 
@@ -2852,3 +2859,4 @@ Voici l'analyse opératoire intégrale de la tranche 23/23 de l'ouvrage et de l'
   * **Double contrainte intégrative / Oxymore fonctionnel :** Qualifier le commandement d'*oxymoronic* et demander d'enfreindre les commandements précédents (*lightening up on key Commandments*) court-circuite la rigidité dogmatique et oblige le système cognitif à opérer en métaposition permanente.
   * **Normalisation du coût cognitif :** L'idiome *there are few free lunches* pose un truisme économique qui prépare le sujet à accepter les déchets inhérents au processus (les faux positifs).
   * **Métaphore kinesthésique dynamique finale :** La formule *nonstop balancing act* ancre l'expertise non comme un état statique de savoir, mais comme un ajustement proprioceptif et somatique continu sur une ligne de crête.
+

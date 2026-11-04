@@ -104,10 +104,27 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 127-224]** : Cartographie et Rotation Directionnelle de la Voix Critique — *Protocole :* Cartographie et Rotation Directionnelle de la Voix Critique | *Mécanisme :* Le Principe d'Altération Non-Abolitive (L'Héritage Ericksonien) | *Verbatim :* Le Cadre Fondateur d'Erickson
+- **Tranche 2 [Lignes 226-384]** : Recalibrage Spatial Tridimensionnel de la Voix Critique — *Protocole :* Recalibrage Spatial Tridimensionnel de la Voix Critique | *Verbatim :* Cadrage Épistémologique de la Divergence Individuelle
+- **Tranche 3 [Lignes 386-552]** : L'Atténuation Analogique Réaliste du Volume Interne — *Protocole :* L'Atténuation Analogique Réaliste du Volume Interne | *Mécanisme :* Le Levier de Transposition Métaphorique Sensorielle (Isochronisme Neurologique) | *Verbatim :* L'Accès Associé au Dialogue Interne Précurseur
+- **Tranche 4 [Lignes 554-685]** : La Déconstruction Tempo-Spatiale de Nick Kemp (Démonstration sur Fred) — *Protocole :* La Déconstruction Tempo-Spatiale de Nick Kemp (Démonstration sur Fred) | *Mécanisme :* Rupture de la Gestalt Auditive par Élongation Temporelle et Spatialisation Lexicale | *Verbatim :* PÉPITE 1 : Pré-cadrage de l'accès impossible sans représentation
+- **Tranche 5 [Lignes 687-860]** : Substitution Audio Non-Verbale (Riff ou Nocturne Anti-Compulsion / Anti-Panique) — *Protocole :* Substitution Audio Non-Verbale (Riff ou Nocturne Anti-Compulsion / Anti-Panique) | *Mécanisme :* Le Levier de l'Audition Instrumentale Pure (Activation Hémisphérique Croisée & Absence de Conflit Sémantique) | *Verbatim :* L'Induction Musicale Dérivée
+- **Tranche 6 [Lignes 862-1022]** : A : La Chambre Radio & Remplacement Déconflicté (Cas Bill) — *Protocole :* A : La Chambre Radio & Remplacement Déconflicté (Cas Bill) | *Mécanisme :* Rétroaction Somato-Émotionnelle & Déclenchement Ascendant | *Verbatim :* La Souveraineté Territoriale dans la Pièce Mentale (Ron Soderquist / Steve Andreas)
+- **Tranche 7 [Lignes 1024-1158]** : Protocole de Perspective Auditive Polyphonique (John McWhirter / Steve Andreas) — *Protocole :* Protocole de Perspective Auditive Polyphonique (John McWhirter / Steve Andreas) | *Mécanisme :* Le Chœur Polyphonique Spatialisé (Auditory Perspective / DBM Model) | *Verbatim :* Évacuation Non-Violente de la Voix Problème
+- **Tranche 8 [Lignes 1160-1309]** : Le Pattern de Décontamination (John McWhirter / Steve Andreas) — *Protocole :* Le Pattern de Décontamination (John McWhirter / Steve Andreas) | *Verbatim :* La dislocation de la fausse identité par dé-nominalisation temporelle
+- **Tranche 9 [Lignes 1311-1464]** : A : Spécification Chirurgicale de l'Objectif (Outcome Specification Outline) — *Protocole :* A : Spécification Chirurgicale de l'Objectif (Outcome Specification Outline) | *Verbatim :* La Négation Paradoxale Éricksonienne
+- **Tranche 10 [Lignes 1466-1611]** : A : Audit et Optimisation des Questions Maîtresses (Core Questions) — *Protocole :* A : Audit et Optimisation des Questions Maîtresses (Core Questions) | *Verbatim :* La segmentation météotologique (Melanie Davis)
+- **Tranche 11 [Lignes 1613-1706]** : Neutralisation d'une Prédiction Médicale Traumatique & Inversion de Dominance — *Protocole :* Neutralisation d'une Prédiction Médicale Traumatique & Inversion de Dominance | *Mécanisme :* Recadrage par Changement de Catégorie Sémantique (De « Sentence Médicale » à « Voyance ») | *Verbatim :* La Requalification d'Omniscience en Divination
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 11 ---
+## Tranche 1 / 11 : Cartographie et Rotation Directionnelle de la Voix Critique
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/11 du cours et ouvrage de Steve Andreas.
 
@@ -206,8 +223,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/11
 > « For most people this is quite easy; it is just not something they ever thought of doing. If you have any difficulty, simply allow that voice to change direction. »
 - **[Analyse du Pattern]** : Suggestion indirecte de facilité avec normalisation de l'absence passée de contrôle (*« it is just not something they ever thought of doing »* : présuppose que le seul obstacle était l'absence de l'idée, non la capacité neurologique). Utilisation du verbe permissif d'accueil (*« simply allow that voice to change »*), éliminant toute activation de la volonté consciente crispée qui recréerait la résistance psychologique.
 
-
-## --- Tranche 2 / 11 ---
+## Tranche 2 / 11 : Recalibrage Spatial Tridimensionnel de la Voix Critique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -367,8 +383,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 1/11
   - *Pacing vocal et fractionnement* : Les points de suspension (« . . . ») marquent des ralentissements de tempo.
   - *Double commande enchâssée récursive* : En faisant chuchoter au client « Relax now . . . all the way down now », le client prononce pour l'autre les mots exacts qui induisent sa propre transe somatique de relâchement par rétroaction proprioceptive et boucle audio-phonatoire.
 
-
-## --- Tranche 3 / 11 ---
+## Tranche 3 / 11 : L'Atténuation Analogique Réaliste du Volume Interne
 
 Voici l'analyse opératoire intégrale de la tranche 3/11 du cours *Transforming Negative Self-Talk* de Steve Andreas (avec les apports méthodologiques de Nick Kemp).
 
@@ -536,8 +551,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/11 du cours *Transforming
   - **Preuve par l'absurde (Réfutation d'impossibilité) :** La commande impossible (*« feel wildly enthusiastic »* sans représentation interne) démontre expérientiellement au sujet que l'émotion n'est pas une entité magique spontanée, mais la conséquence mécanique d'un processus cognitif.
   - **Recadrage d'empowerment (« The good news ») :** La conclusion logique transforme une fatalité subie (l'anxiété qui envahit le musicien) en un levier opérationnel contrôlable : en modifiant simplement le niveau supérieur de la chaîne gestuelle, le résultat final s'effondre obligatoirement.
 
-
-## --- Tranche 4 / 11 ---
+## Tranche 4 / 11 : La Déconstruction Tempo-Spatiale de Nick Kemp (Démonstration sur Fred)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche, selon les règles d'ingénierie et la structure demandées.
 
@@ -670,8 +684,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « *I said, “When I practice a nocturne in the evening often I can hear that melody in my head all next day,” and she nodded in agreement. “You can hear that melody right now, can’t you?” I said. She smiled and her attention turned inward to listen, and she slipped into a nice little trance. As she did so, I ventured, “Perhaps, when you get the urge to wash your hands, you might enjoy turning on that nocturne instead.”* »
 * **[Analyse du Pattern]** : Empilement de truismes expérientiels partagés amenant à une transe de focalisation interne immédiate (*tag question* : « *can’t you?* »). Dès l'apparition des signes minimaux de transe (sourire, regard intérieur), Soderquist glisse une suggestion permissive permissive et hautement valorisante (« *Perhaps... you might enjoy turning on that nocturne instead* ») qui substitue instantanément le comportement obsessionnel compulsif par un plaisir esthétique déjà neurologiquement validé.
 
-
-## --- Tranche 5 / 11 ---
+## Tranche 5 / 11 : Substitution Audio Non-Verbale (Riff ou Nocturne Anti-Compulsion / Anti-Panique)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11 du cours de Steve Andreas :
 
@@ -846,8 +859,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11
   - **Modèle de contraste Processus vs État Final :** Andreas oppose la visée d'un état cible rigide (qui renvoie le sujet à son impuissance actuelle) à l'engagement dans une micro-procédure cognitive immédiate et réalisable quel que soit le point de départ émotionnel.
   - **Extraction d'invariants structurels :** Ce pattern fournit une méta-règle de validation syntaxique universelle pour tout nouveau protocole de dialogue intérieur : l'ancrage externe orienté processus qui respecte la congruence écologique de l'instant.
 
-
-## --- Tranche 6 / 11 ---
+## Tranche 6 / 11 : A : La Chambre Radio & Remplacement Déconflicté (Cas Bill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1009,8 +1021,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11
   * Saturation lexicale du champ de compétence et de résilience biologique (*"functioning in a healthy way"*, *"responding quickly and appropriately"*, *"temporary injury"*).
   * Marqueur de transition attentionnelle focalisée (*"Now"*), suivi du positionnement d'une image unique et circonscrite qui réduit la pathologie à un problème d'ingénierie locale au lieu d'une catastrophe existentielle.
 
-
-## --- Tranche 7 / 11 ---
+## Tranche 7 / 11 : Protocole de Perspective Auditive Polyphonique (John McWhirter / Steve Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1146,8 +1157,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11
 > *"Wow, which of my projects do I get to do first?"*
 - **[Analyse du Pattern]** : Présupposition d'enthousiasme par présélection fermée. L'adverbe d'état euphorique (*« Wow »*) amorce la tonalité. Le pronom interrogatif sélectif (*« which... »*) court-circuite la possibilité de ne pas vouloir agir. Le verbe modal d'opportunité et de privilège (*« do I get to do »* vs *« I have to do »*) transmute instantanément l'obligation aliénante en désir et en récompense.
 
-
-## --- Tranche 8 / 11 ---
+## Tranche 8 / 11 : Le Pattern de Décontamination (John McWhirter / Steve Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1298,8 +1308,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11
   - *Remplacement d'image saillante par allitération et incongruité* : L'utilisation de prototypes visuels fortement contrastés (« orange kangaroos », « agile aardvarks ») monopolise immédiatement le canal visuel interne, reléguant naturellement l'ancienne image à la périphérie sans aucune lutte kinesthésique.
   - *Boucle temporelle et commande post-hypnotique intégrée* : « until I mention this, and you notice that you are not noticing them » installe une prise de conscience méta sur les flux de l'attention, démontrant la malléabilité absolue du focus conscient.
 
-
-## --- Tranche 9 / 11 ---
+## Tranche 9 / 11 : A : Spécification Chirurgicale de l'Objectif (Outcome Specification Outline)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1454,8 +1463,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/11
 
 * **[Analyse du Pattern] :** Recadrage de structure profonde (Meta-Pattern Shift). Andreas remplace une nominalisation fermée à valeur de verdict existentiel (question numérique 0/1) par une variable scalaire analogique. L'esprit cesse de chercher une garantie absolue impossible pour s'orienter vers la mesure et l'augmentation des degrés perceptifs de sécurité.
 
-
-## --- Tranche 10 / 11 ---
+## Tranche 10 / 11 : A : Audit et Optimisation des Questions Maîtresses (Core Questions)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 10/11 du cours *Transforming Negative Self-Talk* de Steve Andreas.
 
@@ -1602,8 +1610,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 > "A bit later, I said to her, “Just now you were able to ‘diss’ your doctor with ease, . . . so you really do have ‘diss’ ease!”—completely changing the meaning of the word disease and her response to it."
 *   **[Analyse du Pattern]** : Déconstruction phonologique d'un substantif pathologique terrifiant (*disease* scindé en *diss* + *ease*). En capitalisant sur le comportement assertif que la patiente vient de manifester dans la métaphore ("disser" le médecin avec aisance), le mot-étiquette est vidé de sa fatalité nosologique et réinvesti comme la preuve concrète d'une compétence relationnelle et d'une souveraineté retrouvée.
 
-
-## --- Tranche 11 / 11 ---
+## Tranche 11 / 11 : Neutralisation d'une Prédiction Médicale Traumatique & Inversion de Dominance
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1697,3 +1704,4 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   * **Pacing temporel direct** : *« Just now you were able to... »* ancre la preuve comportementale immédiate qui vient d'avoir lieu dans la réalité présente.
   * **Scission homophonique / Rupture d'équivalence complexe** : Découpage chirurgical du signifiant figé *disease* (/dɪˈziːz/) en deux lexèmes distincts : l'argot verbal transitif *to diss* (manquer de respect, rabattre le caquet) et la préposition d'état *with ease* (avec aisance, fluidité).
   * **Connecteur causale rétroactif (Cause-Effet implicite)** : *« ...so you really do have... »* valide ironiquement le diagnostic médical d'origine pour mieux en pervertir le sens de l'intérieur. La « maladie » (disease) devient la preuve factuelle de la capacité du sujet à destituer l'autorité avec facilité. L'effet de double lien libérateur déclenche le rire et la détente vagale.
+

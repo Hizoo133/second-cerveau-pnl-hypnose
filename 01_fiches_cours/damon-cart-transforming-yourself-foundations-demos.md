@@ -70,10 +70,22 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 88-198]** : d'Amorçage Épistémique et Cadre d'Assimilation Linéaire (Foundations Priming Framework) — *Protocole :* d'Amorçage Épistémique et Cadre d'Assimilation Linéaire (Foundations Priming Framework) | *Mécanisme :* Dénominalisation du Concept de Soi en Processus Continu (Self-Concepting) | *Verbatim :* Présupposition d'Inevitabilité de l'Expérience Personnelle
+- **Tranche 2 [Lignes 200-325]** : Enracinement des Qualités & Rétroaction Référentielle (Contre les Affirmations Vides) — *Protocole :* Enracinement des Qualités & Rétroaction Référentielle (Contre les Affirmations Vides) | *Mécanisme :* Le Métabolisme Mnésique du Self-Concept (L'Assimilation Expérientielle) | *Verbatim :* La Métaphore Nutritionnelle de l'Identité
+- **Tranche 3 [Lignes 327-417]** : Audit et Arbitrage de Décision par Alignement des Valeurs — *Protocole :* Audit et Arbitrage de Décision par Alignement des Valeurs | *Mécanisme :* Le paradoxe de l'arrogance : Surcompensation d'un Self-Concept fragile | *Verbatim :* Recadrage de l'Arrogance
+- **Tranche 4 [Lignes 419-583]** : Le Swish Identitaire Transcontextuel (Modèle Andreas / Cart) — *Protocole :* Le Swish Identitaire Transcontextuel (Modèle Andreas / Cart) | *Mécanisme :* Le Swish Décontextualisé et Non-Comportemental comme Germe de l'Identité | *Verbatim :* Le Pré-framing de l'Apprentissage par Expérience Directe
+- **Tranche 5 [Lignes 585-693]** : Calibration & Recalibrage de la Matrice Compétence / Confiance — *Protocole :* Calibration & Recalibrage de la Matrice Compétence / Confiance | *Mécanisme :* Le Conflit d'Affirmation et la Fission Interne | *Verbatim :* La Fissure Inévitable des Affirmations Non Fondées
+- **Tranche 6 [Lignes 695-843]** : d'audit et de dépollution comparative du Self-Concept (Clean Self-Statement) — *Protocole :* d'audit et de dépollution comparative du Self-Concept (Clean Self-Statement) | *Mécanisme :* Le piège de la comparaison hiérarchique vs. Modélisation de possibilité | *Verbatim :* Verbatim 1 : Le mécanisme de la comparaison et l'aveuglement progressif
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 6 ---
+## Tranche 1 / 6 : d'Amorçage Épistémique et Cadre d'Assimilation Linéaire (Foundations Priming Framework)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 1/6 du cours *Transforming Yourself - Foundations Demos* par Damon Cart.
 
@@ -185,8 +197,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 1/6 du c
 > « The self-concept that you have now is only one of many possible ones that you could create from your wealth of experience, and that means you can change it whenever it doesn't serve you well... And in a sense, everything is a lie because you have to take a perspective on something. You can't know objective absolute truth. So is it a more or less useful lie? Is it a more or less accurate lie? »
 - **[Analyse du Pattern]** : Rupture brutale de pattern épistémique par utilisation provocatrice du mot tabou *« lie »* (mensonge). En requalifiant toute identité de mensonge inhérent à la prise de perspective, Cart court-circuite d'un coup l'angoisse de l'imposteur ou la peur de « s'inventer une fausse personnalité ». La transition s'opère par une présupposition de choix multiple (*« only one of many possible ones »*) ancrée dans une ressource présupposée déjà présente (*« your wealth of experience »*). Le critère d'évaluation est déplacé de l'axe moral binaire Vrai/Faux vers l'axe cybernétique Écologique/Utile/Précis.
 
-
-## --- Tranche 2 / 6 ---
+## Tranche 2 / 6 : Enracinement des Qualités & Rétroaction Référentielle (Contre les Affirmations Vides)
 
 Voici l'extraction opératoire intégrale de la tranche 2/6 du cours *Transforming Yourself - Foundations Demos* de Damon Cart, selon vos règles strictes d'ingénierie modélisatrice.
 
@@ -313,8 +324,7 @@ Ce protocole démonstratif est enseigné par Damon Cart pour construire ou conso
 > "Now, some of us won't even achieve the goal. And the reason for that is, it's not fulfilling our values. We're trying to fulfill the other values, the external values. And as a result, we can't quite cross the finish line because actually there's a deeper inner wisdom within us, saying, you know what, we don't want to succeed at this. This is like your unconscious, not wanting to succeed at something because it's not making you happy. It's making you miserable."
 * **[Analyse du Pattern] :** Recadrage de sens en position méta (*Reframing Intent / Sleight of Mouth : Redéfinition*). L'incapacité à achever une tâche (traditionnellement labellisée comme paresse, manque de discipline ou échec personnel) est redéfinie comme la manifestation d'une « sagesse intérieure supérieure » (*deeper inner wisdom*). Ce pattern linguistique stoppe instantanément la boucle de culpabilité, réconcilie le sujet avec son inconscient et déplace l'axe du problème : l'obstacle n'est pas la volonté, mais l'inadéquation de la cible aux valeurs réelles du système.
 
-
-## --- Tranche 3 / 6 ---
+## Tranche 3 / 6 : Audit et Arbitrage de Décision par Alignement des Valeurs
 
 Voici l'analyse opératoire intégrale de la tranche 3/6 du cours *Transforming Yourself - Foundations Demos* de Damon Cart.
 
@@ -406,8 +416,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/6 du cours *Transforming 
 > "Everything is so different, but you still refer to your younger self as you."
 * **[Analyse du Pattern] :** **Présupposition de l'invariance identitaire.** Cart contraste un empilement de disparités extrêmes (pensées, croyances, corps de l'enfance vs adulte) avec la conjonction d'opposition *"but"*, pour amener le système nerveux du client à heurter la réalité de l'observateur invariant : le "Soi" qui unifie la ligne temporelle.
 
-
-## --- Tranche 4 / 6 ---
+## Tranche 4 / 6 : Le Swish Identitaire Transcontextuel (Modèle Andreas / Cart)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 4/6.
 
@@ -573,8 +582,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Ancrage spatial de la ressource :* Introduction immédiate du concept de soi sous la forme symbolique de la « boussole intérieure » (*inner compass*). 
   - *Recadrage d'invariance :* La distinction entre la désorientation géographique (externe, triviale) et l'orientation identitaire (interne, fondamentale) offre au sujet une ancre de souveraineté absolue : l'environnement peut être chaotique, la cohérence interne demeure inaltérable.
 
-
-## --- Tranche 5 / 6 ---
+## Tranche 5 / 6 : Calibration & Recalibrage de la Matrice Compétence / Confiance
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -684,8 +692,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "If you're friends with someone or you have a colleague or an associate who is accomplishing something that you want to accomplish a healthy comparison, sort of like well if they're able to accomplish it, then I believe that I can do it too. It kind of gives you like a foothold into doing as well as they're doing or gives you the sense that it's possible. Now you're not really comparing your value or to them or their value to you or if you're better than them or not. You're just kind of using the fact that it's possible or the fact that you know someone who's doing something. Now it seems more possible."
 * **[Analyse du Pattern]** : Recadrage de critère et présupposition d'isomorphisme neurologique. Damon Cart désactive le comparateur hiérarchique de valeur personnelle (*"not really comparing your value... or if you're better"*) au profit d'un marqueur de calibration modélisant. L'expression imagée *"foothold into doing"* (prise d'escalade / point d'appui) convertit l'autre d'un rival à battre en une simple preuve de faisabilité matérielle pour le système nerveux (*"gives you the sense that it's possible... Now it seems more possible"*).
 
-
-## --- Tranche 6 / 6 ---
+## Tranche 6 / 6 : d'audit et de dépollution comparative du Self-Concept (Clean Self-Statement)
 
 Voici l'analyse opératoire intégrale de la tranche 6/6 du cours *Transforming Yourself - Foundations Demos* de Damon Cart.
 
@@ -834,3 +841,4 @@ Voici l'analyse opératoire intégrale de la tranche 6/6 du cours *Transforming 
   * **Nominalisation stabilisatrice liée au confort somatique** : Lie directement les prédicats *"durable and lasting"* à l'état de *"comfortable to receive"*, requalifiant la critique d'attaque destructrice en stimulus neutre et assimilable.
   * **Métaphore de l'intégrité physique vs rupture** : Opposition entre *"solid"* et *"shattering who you are"*.
   * **Défusion cognitive** : La formule *"he's just telling me what he's observing"* désamorce l'autorité ontologique du tiers pour ramener son retour à une simple perspective perceptive subjective sans pouvoir destructeur.
+

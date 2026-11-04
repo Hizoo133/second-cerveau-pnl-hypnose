@@ -72,10 +72,35 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 103-225]** : Le Double Long-Métrage du Théâtre de l'Esprit (Double Feature in the Theatre of the Mind) — *Protocole :* Le Double Long-Métrage du Théâtre de l'Esprit (Double Feature in the Theatre of the Mind) | *Mécanisme :* Le Servomécanisme et la Télégraphie Téléologique (Orientation Cible vs Obstacle) | *Verbatim :* Recadrage Spatio-Temporel du Miroir
+- **Tranche 2 [Lignes 227-397]** : A : La Répétition Mentale Focalisée sous Contrainte (« Le Filtre du Microscope ») — *Protocole :* A : La Répétition Mentale Focalisée sous Contrainte (« Le Filtre du Microscope »)
+- **Tranche 3 [Lignes 399-555]** : Le Théâtre de l'Esprit & Répétition Mentale (Mental Shadow-Boxing) — *Protocole :* Le Théâtre de l'Esprit & Répétition Mentale (Mental Shadow-Boxing) | *Verbatim :* L'Induction des Quatre Principes de Relaxation Cardinale
+- **Tranche 4 [Lignes 557-757]** : La Relaxation Rapide par Déflation des Ballons (Rubber Balloons Deflation) — *Protocole :* La Relaxation Rapide par Déflation des Ballons (Rubber Balloons Deflation) | *Mécanisme :* Le Servomécanisme et l'Instinct de Réussite Inné (Success Instinct vs. Teleological Servomechanism) | *Verbatim :* Verbatim 1 : L'Hypnose Parentale Déconstruite
+- **Tranche 5 [Lignes 759-880]** : A : L’Archéologie Intérieure en 5 Minutes (Excavation des Ressources Oubliées) — *Protocole :* A : L’Archéologie Intérieure en 5 Minutes (Excavation des Ressources Oubliées)
+- **Tranche 6 [Lignes 882-1084]** : L'Intégration d'Ombre par Prescrire le Symptôme (La Magicienne aux Erreurs) — *Protocole :* L'Intégration d'Ombre par Prescrire le Symptôme (La Magicienne aux Erreurs) | *Mécanisme :* Le Régulateur Cybernétique Interne (Thermostat Émotionnel) | *Verbatim :* La Métaphore du Thermostat & La Rupture Temporelle
+- **Tranche 7 [Lignes 1086-1241]** : Le Sanctuaire de la « Chambre Mentale » (Creative Mental Room Furnishing) — *Protocole :* Le Sanctuaire de la « Chambre Mentale » (Creative Mental Room Furnishing) | *Verbatim :* La non-moralité biologique du bonheur
+- **Tranche 8 [Lignes 1243-1344]** : A : La Dé-Hypnose sur la Scène de l'Esprit (Playhouse De-Hypnosis) — *Protocole :* A : La Dé-Hypnose sur la Scène de l'Esprit (Playhouse De-Hypnosis) | *Verbatim :* Le Recadrage Métaphorique de la Machine à Écrire
+- **Tranche 9 [Lignes 1346-1521]** : L'Ancrage Temporel de l'Aventure Quotidienne (Exercice de la Montre) — *Protocole :* L'Ancrage Temporel de l'Aventure Quotidienne (Exercice de la Montre) | *Mécanisme :* Le Servomécanisme Neutre et la Bi-polarité Automatique | *Verbatim :* Recadrage Radical de l'Égalité et de la Grandeur
+- **Tranche 10 [Lignes 1523-1642]** : Transmutation Métaphorique du « Négatif » en « Épreuve Révélée » (Démonstration du Photographe) — *Protocole :* Transmutation Métaphorique du « Négatif » en « Épreuve Révélée » (Démonstration du Photographe) | *Verbatim :* Recadrage temporel de la charge affective toxique
+- **Tranche 11 [Lignes 1644-1778]** : Le Recadrage Identitaire Dali / Dé-hypnose du Ressentiment Maternel — *Protocole :* Le Recadrage Identitaire Dali / Dé-hypnose du Ressentiment Maternel | *Mécanisme :* Le Blackout Émotionnel Intérieur vs Direction Cybernétique | *Verbatim :* La Métaphore Automobile du Masque
+- **Tranche 12 [Lignes 1780-1941]** : Le Déconditionnement du Masque et de la Fausse Apparence (Mirror & Sunglasses Protocol) — *Protocole :* Le Déconditionnement du Masque et de la Fausse Apparence (Mirror & Sunglasses Protocol)
+- **Tranche 13 [Lignes 1943-2055]** : A : La Métaphore Opératoire du Couteau Chaud dans le Beurre (Hot Knife Through Butter) — *Protocole :* A : La Métaphore Opératoire du Couteau Chaud dans le Beurre (Hot Knife Through Butter)
+- **Tranche 14 [Lignes 2057-2224]** : La Reconstruction Anti-Procrastination par Verrouillage Temporel et Micro-Films — *Protocole :* La Reconstruction Anti-Procrastination par Verrouillage Temporel et Micro-Films | *Mécanisme :* Le Biais de Rétroaction Rétrospective (« Play a new record ») | *Verbatim :* Le Recadrage Rétroactif et l'Inversion de Boucle
+- **Tranche 15 [Lignes 2226-2360]** : Audit de Congruence Auto-Image / Objectif (Cas Kenny G) — *Protocole :* Audit de Congruence Auto-Image / Objectif (Cas Kenny G) | *Mécanisme :* Le Primat Cibernetique de l'Auto-Image sur la Volonté et les Ressources Externes | *Verbatim :* Verbatim 1 : La Confrontation du Locus de Contrôle Temporel
+- **Tranche 16 [Lignes 2362-2520]** : Recalibration Matinale par Image Haute Tension (Cycle de 21 Jours) — *Protocole :* Recalibration Matinale par Image Haute Tension (Cycle de 21 Jours) | *Verbatim :* La Boucle de Frustration de l'Effacement Volontaire
+- **Tranche 17 [Lignes 2522-2739]** : A : La Transposition de Compétence « Lion-to-Lion » — *Protocole :* A : La Transposition de Compétence « Lion-to-Lion » | *Mécanisme :* Transfert Trans-Contextuel de Ressources d'Identité | *Verbatim :* La Cascade de Négations Régénératrices de Norman Cousins
+- **Tranche 18 [Lignes 2741-2825]** : Le Transducteur « Couteau Chauffé » (Transpercement de Résistance) — *Protocole :* Le Transducteur « Couteau Chauffé » (Transpercement de Résistance) | *Mécanisme :* Le Biais d'Éclipse Perceptive (L'Obscuration Focale) | *Verbatim :* Recadrage Modal et Restitution de Puissance
+- **Tranche 19 [Lignes 2827-2913]** : d'Intégration Quotidienne des "Happiness Affirmations" (Alignement Identitaire & Somatique) — *Protocole :* d'Intégration Quotidienne des "Happiness Affirmations" (Alignement Identitaire & Somatique)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 19 ---
+## Tranche 1 / 19 : Le Double Long-Métrage du Théâtre de l'Esprit (Double Feature in the Theatre of the Mind)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/19 du cours *Psycho-Cybernetics: Zero Resistance Living* de Maxwell Maltz.
 
@@ -199,8 +224,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/19
 > « And if we in our present undertaking recall the past failures, the past resentments, we automatically cannot succeed in the daily pursuit of happiness as of now because you cannot think positively with negative feelings. Any more than you can think negatively when you have positive feelings. »
 * **[Analyse du Pattern]** : Double lien d'évidence neuro-physiologique. Maltz pose une équivalence stricte en miroir qui neutralise l'illusion de la « pensée positive superficielle ». En créant un parallélisme structural parfait (impossible d'avoir des pensées positives sur des sensations négatives / impossible d'avoir des pensées négatives sur des sensations positives), il valide auprès de l'auditeur que le levier opératoire premier n'est pas intellectuel mais viscéral et affectif.
 
-
-## --- Tranche 2 / 19 ---
+## Tranche 2 / 19 : A : La Répétition Mentale Focalisée sous Contrainte (« Le Filtre du Microscope »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -372,8 +396,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/19
 ```
 * **[Analyse du Pattern]** : Diagnostic du clivage entre le traitement perceptif visuel externe (*see a difference*) et la somatisation kinesthésique de l'identité (*don't feel any different*). Intervention linguistique par dissociation de causalité : question rhétorique déconstruisant le lien arbitraire entre l'abandon subi et la culpabilité internalisée, libérant le sujet du mandat de porter la cicatrice d'autrui.
 
-
-## --- Tranche 3 / 19 ---
+## Tranche 3 / 19 : Le Théâtre de l'Esprit & Répétition Mentale (Mental Shadow-Boxing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -531,8 +554,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/19
   - **Présupposition d'immunité et de souveraineté totale** (« no one on earth can prevent you ») éliminant les peurs d'intrusion ou de jugement d'autrui.
   - **Superposition de rôles hypnotiques (Dissociation créative multiple)** : le sujet est simultanément le texte (*playwright*), l'action incarnée (*all the parts*), le regard critique superviseur (*director*) et la validation affective inconditionnelle (*the world's most appreciative audience*), ce qui désamorce définitivement le spectateur censeur/critique habituel.
 
-
-## --- Tranche 4 / 19 ---
+## Tranche 4 / 19 : La Relaxation Rapide par Déflation des Ballons (Rubber Balloons Deflation)
 
 Voici l'analyse opératoire intégrale de la tranche 4/19 du cours *Psycho-Cybernetics: Zero Resistance Living* de Maxwell Maltz, décortiquée selon les règles de modélisation et d'ingénierie comportementale.
 
@@ -734,8 +756,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/19 du cours *Psycho-Cyber
   * **Rupture d'attente dramatique (Pattern Interrupt)** : Maltz monte la tension avec des armes terrifiantes (bombes nucléaires, poisons, dépendance aux drogues) pour finalement révéler un simple bout de bois anodin, créant une stupeur réceptive.
   * **Isomorphisme structural du « coin » (wedge)** : Le coin de bois symbolise le mécanisme microscopique qui, une fois inséré dans la moindre fissure de l'esprit, s'élargit sous la pression pour faire éclater toute la structure de confiance. La visualisation d'un objet simple permet une prise de conscience foudroyante de la nature insidieuse du doute de soi.
 
-
-## --- Tranche 5 / 19 ---
+## Tranche 5 / 19 : A : L’Archéologie Intérieure en 5 Minutes (Excavation des Ressources Oubliées)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -858,8 +879,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/19 du cours *Psycho-Cyber
 > **"Don't replay an old record of frustration and unhappiness in your mind. Substitute a new record of confidence and happiness."**  
 * **[Analyse du Pattern]** : Métaphore analogique mécanique (sillon de disque vinyle). Elle réduit la neurose et le désespoir à un simple sillon physique automatique, déculpabilisant le sujet et rendant la substitution cognitive aussi triviale et concrète qu'un changement de disque sur une platine.
 
-
-## --- Tranche 6 / 19 ---
+## Tranche 6 / 19 : L'Intégration d'Ombre par Prescrire le Symptôme (La Magicienne aux Erreurs)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 6/19 du cours *Psycho-Cybernetics Zero Resistance Living* de Maxwell Maltz.
 
@@ -1063,8 +1083,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 6/19 du c
 - **[Analyse du Pattern]** :  
   *Somatisation métaphorique viscérale et faux choix binaire.* Maltz ancre l'affect moral et cognitif (haine, vengeance) dans une action sensorielle concrète : la déglutition d'une substance déformante (*ugly pill*). Ce choix de mots induit un dégoût viscéral immédiat en associant le ressentiment à une défiguration physique et esthétique de l'image de soi. La question terminale installe un double lien quotidien incontournable (*"Did you have your ugly pill or your happiness pill today?"*) forçant l'esprit à trier chaque matin ses états d'âme selon cette alternative binaire limpide.
 
-
-## --- Tranche 7 / 19 ---
+## Tranche 7 / 19 : Le Sanctuaire de la « Chambre Mentale » (Creative Mental Room Furnishing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1221,8 +1240,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 6/19 du c
   - **Analogie somato-mécanique hautement évocatrice :** Crée une représentation kinesthésique viscérale (le caillou sur la route qui secoue le corps entier en l'absence d'amortisseur).  
   - **Recadrage du sens de l'humour :** L'humour n'est pas une simple récréation intellectuelle superficielle, mais un organe fonctionnel cybernétique d'absorption de chocs nécessaire à la préservation de la trajectoire du véhicule.
 
-
-## --- Tranche 8 / 19 ---
+## Tranche 8 / 19 : A : La Dé-Hypnose sur la Scène de l'Esprit (Playhouse De-Hypnosis)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1325,8 +1343,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 6/19 du c
 > *"You know something, doctor? I'm just as great as you are. At hearing that, I kissed her. This woman, at a moment of despair and self-pity, thought she was useless... She felt just as great as anyone else, not out of conceit, but out of confidence in herself."*
 - **[Analyse du Pattern]** : Validation somato-émotionnelle d'un recadrage de niveau identitaire. Maltz ne valide pas la soumission du patient envers l'expert, mais célèbre la montée en équivalence d'estime. Le baiser agit comme un ancrage kinesthésique puissant de validation de la nouvelle identité émergente du sujet.
 
-
-## --- Tranche 9 / 19 ---
+## Tranche 9 / 19 : L'Ancrage Temporel de l'Aventure Quotidienne (Exercice de la Montre)
 
 Voici l'analyse opératoire intégrale de la tranche 9/19 du cours *Psycho-Cybernetics Zero Resistance Living* de Maxwell Maltz, découpée selon les exigences d'ingénierie comportementale et linguistique.
 
@@ -1503,8 +1520,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/19 du cours *Psycho-Cyber
   * **Jeu de mots phonétique et recadrage métaphorique :** Glissement de *"blowing off"* (évacuation bénéfique) à *"blowing up"* (explosion destructrice sous pression accrue).
   * **Description somatosensorielle viscérale :** L'expression *"twist you into a spasm of anger"* force le système nerveux à se représenter la perte de contrôle non comme une marque de puissance ou d'affirmation, mais comme une convulsion d'impuissance physique humiliante subie face à autrui.
 
-
-## --- Tranche 10 / 19 ---
+## Tranche 10 / 19 : Transmutation Métaphorique du « Négatif » en « Épreuve Révélée » (Démonstration du Photographe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1625,8 +1641,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/19 du cours *Psycho-Cyber
 > "When you are driving a car 50 miles an hour down a highway, do you wear a blindfold? Of course not. But you might be going through life wearing a mask to hide your true feelings. This is a blindfold because in hiding yourself from others, you hide from yourself. You blind yourself to your potential qualities as a person. Learn to see yourself with kind eyes. You will have no need for a mask."
 * **[Analyse du Pattern]** : **Truisme absurde à validation immédiate** (*"driving down a highway... do you wear a blindfold? Of course not"*) utilisé comme prémisse pour forcer l'adhésion cognitive. Ensuite, Maltz fusionne par un lien d'équivalence métaphorique le masque (protection sociale) et le bandeau (cécité motrice mortelle). Le double lien pathogène *"se cacher des autres = s'aveugler soi-même"* est brisé par la prescription de feedback bienveillant (*"kind eyes"*), rendant la défense caractérielle obsolète par inanité structurelle.
 
-
-## --- Tranche 11 / 19 ---
+## Tranche 11 / 19 : Le Recadrage Identitaire Dali / Dé-hypnose du Ressentiment Maternel
 
 Voici l’extraction intégrale et opératoire de la substance de cette tranche (11/19) de *Psycho-Cybernetics Zero Resistance Living*.
 
@@ -1762,8 +1777,7 @@ Voici l’extraction intégrale et opératoire de la substance de cette tranche 
 > **« Try, try, try. Do, do, do. Now, now, now. You try now to live the principles of psycho-cybernetics by changing a bad habit of frustration into a good habit of confidence. And when you do try and do these things, now, now, now is the time for self-fulfillment. »**
 * **[Analyse du Pattern]** : Pilonnage rythmique (trigrammes répétitifs en tempo accéléré) agissant comme un ancrage hypnotique de transe active. L'enchaînement syntaxique lie temporellement l'effort à la récompense immédiate (*« when you do try... now is the time »*), saturant l'espace critique du mental conscient pour forcer le basculement dans le comportement moteur pur.
 
-
-## --- Tranche 12 / 19 ---
+## Tranche 12 / 19 : Le Déconditionnement du Masque et de la Fausse Apparence (Mirror & Sunglasses Protocol)
 
 Voici l'analyse modélisatrice et l'extraction de la matière opératoire de la tranche 12/19 de *Psycho-Cybernetics Zero Resistance Living* de Maxwell Maltz.
 
@@ -1926,8 +1940,7 @@ Voici l'analyse modélisatrice et l'extraction de la matière opératoire de la 
 ```
 * **[Analyse du Pattern] :** **Injonction hypnotique directe et induction de causalité cybernétique**. La formule d'ancrage en amorce (*« Remember this »*) focalise le regard intérieur. La relation logique *« What you picture as true becomes data fed »* normalise l'accès direct aux fonctions végétatives et motrices par la simple manipulation de l'imagerie mentale.
 
-
-## --- Tranche 13 / 19 ---
+## Tranche 13 / 19 : A : La Métaphore Opératoire du Couteau Chaud dans le Beurre (Hot Knife Through Butter)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2041,8 +2054,7 @@ Voici l'analyse modélisatrice et l'extraction de la matière opératoire de la 
   > "When he made a mistake, he was not the mistake. He did not become the mistake. He remained the skilled, talented, confident player. You need not experience failure ever again in your life if you understand the psycho-cybernetics process and understand that you are not your mistake."
   - **[Analyse du Pattern]** : Négation répétitive en truisme (« was not », « did not become ») ciblant l'amalgame identitaire. Formule d'amnistie psychologique absolue (« You need not experience failure ever again in your life ») rendue conditionnelle à l'adhésion cognitive au modèle cybernétique (« you are not your mistake »).
 
-
-## --- Tranche 14 / 19 ---
+## Tranche 14 / 19 : La Reconstruction Anti-Procrastination par Verrouillage Temporel et Micro-Films
 
 Voici l'analyse opératoire intégrale de la tranche 14/19 du cours *Psycho-Cybernetics Zero Resistance Living* par Maxwell Maltz.
 
@@ -2211,8 +2223,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/19 du cours *Psycho-Cybe
     - SI = soi / actif / souveraineté.
   * **Présupposition d'impossibilité opérationnelle :** « Without a proper opinion of yourself, you can't function creatively ». Verrouille l'impératif de soigner son image de soi avant toute tentative d'action ou de création dans le monde réel.
 
-
-## --- Tranche 15 / 19 ---
+## Tranche 15 / 19 : Audit de Congruence Auto-Image / Objectif (Cas Kenny G)
 
 Voici l'analyse opératoire intégrale de la tranche 15/19 de la transcription de *Psycho-Cybernetics Zero Resistance Living* par Maxwell Maltz.
 
@@ -2348,8 +2359,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/19 de la transcription d
   * **Boucle de boucle de frustration hypnotique :** L'enchaînement de la disparition et de la réapparition immédiate du texte installe un pattern temporel d'impuissance programmée.
   * **Sortie de transe avec suggestion post-hypnotique de cadrage :** L'ouverture des yeux immédiate est suivie d'un truisme interrogatif rhétorique (*"Wasn't that a frustrating experience?"*) qui valide l'expérience intérieure comme la preuve irréfutable des limites du contrôle conscient.
 
-
-## --- Tranche 16 / 19 ---
+## Tranche 16 / 19 : Recalibration Matinale par Image Haute Tension (Cycle de 21 Jours)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2509,8 +2519,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/19 de la transcription d
   * *Séparation nette comportement/identité* : Utilisation du terme "blunder" (bévue/gaffe) associé à la capacité dynamique "rising above it", réduisant l'erreur à un accident de parcours mineur.
   * *Empilement d'évidences permissives* : Répétition anaphorique de "It comes back to the basic feeling..." qui s'adresse directement au centre de sécurité émotionnelle du sujet pour réinstaller un sentiment inaliénable de dignité personnelle (*integrity*).
 
-
-## --- Tranche 17 / 19 ---
+## Tranche 17 / 19 : A : La Transposition de Compétence « Lion-to-Lion »
 
 Voici l’analyse opératoire intégrale de la tranche 17/19 du cours *Psycho-Cybernetics Zero Resistance Living* de Maxwell Maltz, structurée selon les principes d'ingénierie de la modélisation comportementale et du changement inconscient.
 
@@ -2729,8 +2738,7 @@ flowchart LR
 
 * **[Analyse du Pattern] :** Empilement d'interrogations rhétoriques à présupposition de dissonance cognitive (*ex-acteur / cultivateur de cacahuètes vs sujet*), culminant dans une reformulation sémantique tranchante (technique de Sleight of Mouth / Redéfinition). Maltz brise l'équivalence modale d'impossibilité (*can't*) pour la requalifier en comportements temporels et volitionnels précis : *didn't* (manque d'action passée), *don't* (inaction présente), *won't* (refus d'engagement). L'illusion d'incapacité biologique est transmutée en décision comportementale réversible.
 
-
-## --- Tranche 18 / 19 ---
+## Tranche 18 / 19 : Le Transducteur « Couteau Chauffé » (Transpercement de Résistance)
 
 Voici l’extraction chirurgicale, structurée et opératoire de la tranche 18/19 du séminaire *Psycho-Cybernetics: Zero Resistance Living* de Maxwell Maltz.
 
@@ -2816,8 +2824,7 @@ Voici l’extraction chirurgicale, structurée et opératoire de la tranche 18/1
 > « He never discovers the mysterious truth that the best way to multiply your own wealth is by giving, not hoarding. Once again, you cannot live in fear and be happy. Because selfishness is fear, it precludes happiness. »
 * **[Analyse du Pattern]** : Équivalence complexe et lien causal rigide : *Égoïsme = Peur = Impossibilité neurologique du bonheur*. En requalifiant la rétention de biens comme une lâcheté terrifiée plutôt que comme de la prudence, Maltz inverse la polarité affective du comportement et utilise le désir fondamental de sécurité du sujet pour le pousser à la générosité active.
 
-
-## --- Tranche 19 / 19 ---
+## Tranche 19 / 19 : d'Intégration Quotidienne des "Happiness Affirmations" (Alignement Identitaire & Somatique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2904,3 +2911,4 @@ Voici l’extraction chirurgicale, structurée et opératoire de la tranche 18/1
 
 > "And so the mastery of happiness begins and ends with the self-image in your own mind in the present moment."
 - **[Analyse du Pattern]** : Clôture synthétique par boucle réflexive totale (*"begins and ends"*). Ancrage spatial et temporel ultime (*"in your own mind in the present moment"*), ramenant l'ensemble de la cybernétique du cours à un seul point d'appui immédiat, éliminant toute projection dilatoire dans le passé ou le futur.
+

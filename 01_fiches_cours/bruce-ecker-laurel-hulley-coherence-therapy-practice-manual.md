@@ -78,10 +78,27 @@ Le déroulé clinique suit une trajectoire invariable articulée autour de la re
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 101-182]** : d'Amorçage : Empathie de Cohérence (Coherence Empathy) — *Protocole :* d'Amorçage : Empathie de Cohérence (Coherence Empathy) | *Mécanisme :* Le Postulat de Cohérence Symptomatique (Symptom Coherence) | *Verbatim :* La Puissance Cohérente du Système
+- **Tranche 2 [Lignes 184-319]** : Protocole d'Identification et de Précision du Symptôme (Clarification du « Trailhead ») — *Protocole :* Protocole d'Identification et de Précision du Symptôme (Clarification du « Trailhead ») | *Verbatim :* La régression phénoménologique par arrêt sur image
+- **Tranche 3 [Lignes 321-428]** : A : La Complétion de Phrase (Sentence Completion) — *Protocole :* A : La Complétion de Phrase (Sentence Completion) | *Mécanisme :* Le Pivot d'Agentivité (Pivot into Agency) & Reconnexion Somatique (Connecting Up) | *Verbatim :* Le pivot d'agentivité
+- **Tranche 4 [Lignes 430-564]** : La Technique en Deux Étapes (Two-Step Technique) — *Protocole :* La Technique en Deux Étapes (Two-Step Technique) | *Mécanisme :* Le contournement de l'amnésie de défense par la déclaration ouverte de résistance | *Verbatim :* La validation de la résistance et l'inversion vers la déclaration ouverte
+- **Tranche 5 [Lignes 566-737]** : Protocole de Reconnexion Ascendante et Basculement vers l'Agentivité (Connecting-Up & Pivot... — *Protocole :* Protocole de Reconnexion Ascendante et Basculement vers l'Agentivité (Connecting-Up & Pivot into Agency) | *Mécanisme :* Épistémologie constructiviste radicale et autopoièse de la réalité vécue | *Verbatim :* La Reconnexion Ascendante de l'Anxiété Maternelle
+- **Tranche 6 [Lignes 739-929]** : Fondamental : L'Expérience de Juxtaposition Directe — *Protocole :* Fondamental : L'Expérience de Juxtaposition Directe | *Verbatim :* Le Modèle d'Induction de Juxtaposition Directe
+- **Tranche 7 [Lignes 931-1106]** : Les 5 Leviers de Résolution de la Résistance Consciente — *Protocole :* Les 5 Leviers de Résolution de la Résistance Consciente | *Mécanisme :* Traitement et Typologie de la Résistance (resistancecoherence symptomasresistance) | *Verbatim :* La Clause de Préséance de Partie (Conscious Resistance)
+- **Tranche 8 [Lignes 1108-1329]** : Protocole Fondamental de Thérapie de la Cohérence pour la Basse Estime de Soi — *Protocole :* Protocole Fondamental de Thérapie de la Cohérence pour la Basse Estime de Soi | *Verbatim :* Le Pré-framing de la Dévalorisation Inconsciente (Step 1 - Orientation)
+- **Tranche 9 [Lignes 1331-1441]** : Algorithme de Décision Thérapeutique Micro-Pas (Steps 3 à 6) — *Protocole :* Algorithme de Décision Thérapeutique Micro-Pas (Steps 3 à 6) | *Mécanisme :* Le Guidage par Résonance Subcorticale (Felt Selection) | *Verbatim :* Verbatim 1 : Vérification d'Amorçage de la Tâche sans Induction de Contenu
+- **Tranche 10 [Lignes 1443-1581]** : Protocole de Confinement et Rentrée dans le Rôle Expérientiel (Stepping-In Re-framing) — *Protocole :* Protocole de Confinement et Rentrée dans le Rôle Expérientiel (Stepping-In Re-framing) | *Mécanisme :* La Position Expérientielle Immersive (Présent/Première Personne) | *Verbatim :* Traitement de l'Intellectualisation et Ré-ancrage Expérientiel
+- **Tranche 11 [Lignes 1583-1691]** : Découverte et Désamorçage de l'Écologie Systémique Familiale/Couple — *Protocole :* Découverte et Désamorçage de l'Écologie Systémique Familiale/Couple | *Mécanisme :* L'Écologie Systémique des Constructions Inconscientes | *Verbatim :* Verbatim 1 : La posture de désarmement du pouvoir du praticien
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 11 ---
+## Tranche 1 / 11 : d'Amorçage : Empathie de Cohérence (Coherence Empathy)
 
 Voici l’extraction intégrale et modélisée de la matière opératoire de cette première tranche du manuel de Bruce Ecker & Laurel Hulley.
 
@@ -164,8 +181,7 @@ Voici l’extraction intégrale et modélisée de la matière opératoire de cet
   * *Chaînage causal strict (Implicational Dilemma) :* Articulation parfaite d'une déduction de survie interne : Élan d'affection $\rightarrow$ Déclenchement du désir de l'autre $\rightarrow$ Utilisation/Viol de l'intégrité sans considération $\rightarrow$ Danger mortel/insupportable.
   * *Commande modale d'obligation absolue :* Répétition de *« I’ve got to »* (*« I've got to keep that ordeal from happening »*, *« I've got to cut off... »*), révélant la contrainte neurologique subcorticale qui rend le symptôme (l'anesthésie affective/sexuelle) rigoureusement inévitable pour préserver l'intégrité de la personne.
 
-
-## --- Tranche 2 / 11 ---
+## Tranche 2 / 11 : Protocole d'Identification et de Précision du Symptôme (Clarification du « Trailhead »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -302,8 +318,7 @@ Voici l’extraction intégrale et modélisée de la matière opératoire de cet
   * *Inversion grammaticale et réattribution de souveraineté :* Le praticien opère une bascule syntaxique radicale en remplaçant la position passive de subir une phobie (*« I am afraid to be brilliant »*) par un verbe d'action transitif et délibéré (*« I’m making sure you don’t go away by... »*). 
   * *Recadrage de protection :* L'auto-sabotage (*« hiding my truth »*) est immédiatement recadré comme une manœuvre de survie relationnelle altruiste ou sécuritaire. Le symptôme est révélé comme un choix cohérent et courageux de l'enfant intérieur, ce qui dissout toute dissociation conflictuelle.
 
-
-## --- Tranche 3 / 11 ---
+## Tranche 3 / 11 : A : La Complétion de Phrase (Sentence Completion)
 
 Voici l'analyse opératoire intégrale de la tranche 3/11 du *Coherence Therapy Practice Manual* de Bruce Ecker & Laurel Hulley.
 
@@ -412,8 +427,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/11 du *Coherence Therapy 
 > **« How about if you just try out saying to me, “I better not tell them I got a raise and a promotion”? See if that fits for you: “I better not tell them I got a raise and a promotion.” »**
 * **[Analyse du Pattern] :** Proposition douce (*« How about if... »*) enchâssant une déclaration explicite (*« overt statement »*) qui nomme la censure inconsciente. L'expression familière et protectrice (*« I better not »*) valide l'instinct de préservation du sujet sans jugement moral, provoquant immédiatement un feedback somatique authentique (les mains qui suent).
 
-
-## --- Tranche 4 / 11 ---
+## Tranche 4 / 11 : La Technique en Deux Étapes (Two-Step Technique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -549,8 +563,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/11 du *Coherence Therapy 
     *   *Recadrage ontologique du symptôme* : La dépression et le refus du pardon cessent d'être un dysfonctionnement psychologique pour être éprouvés comme le sacrifice ultime de loyauté amoureuse (« staying miserable... to keep this connection »).
     *   *Sceau somatique et intégration* : « And you know that's true » valide la résonance viscérale complète (le soupir et l'émotion intense qui accompagnent la phrase scellent la reconsolidation de la mémoire).
 
-
-## --- Tranche 5 / 11 ---
+## Tranche 5 / 11 : Protocole de Reconnexion Ascendante et Basculement vers l'Agentivité (Connecting-Up & Pivot...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -723,8 +736,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/11 du *Coherence Therapy 
   * La syntaxe juxtapose deux descriptions phénoménologiques précises à la suite : d'une part le comportement modélisé chez le père (*« visibly defeated and caved-in »*), d'autre part le comportement inexpliqué du sujet (*« visibly unsuccessful »*).
   * Cette mise en relation spatiale directe dans le champ attentionnel oblige le système cognitif à combler le fossé et à conscientiser la stratégie inconsciente d'imitation adaptative.
 
-
-## --- Tranche 6 / 11 ---
+## Tranche 6 / 11 : Fondamental : L'Expérience de Juxtaposition Directe
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -916,8 +928,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/11 du *Coherence Therapy 
   - *Rythme d'acceptation par validation des défenses* : L'énonciation explicite des jugements de l'adulte (*"disapprove", "irrational", "selfish", "childish"*) prend de vitesse le critique intérieur en formulant ses propres objections avant lui.
   - *Liaison de causalité d'autorité pragmatique* : L'argument final d'utilité opérationnelle (*"because that part seems to be in control"*) suspend le débat moral et légitime l'exploration de la cohérence cachée du symptôme par pure nécessité stratégique.
 
-
-## --- Tranche 7 / 11 ---
+## Tranche 7 / 11 : Les 5 Leviers de Résolution de la Résistance Consciente
 
 Voici l'extraction opératoire intégrale de la **tranche 7/11** du *Coherence Therapy Practice Manual* de Bruce Ecker & Laurel Hulley.
 
@@ -1094,8 +1105,7 @@ Voici l'extraction opératoire intégrale de la **tranche 7/11** du *Coherence T
     *   *Conjonction d'acceptation existentielle :* Le basculement linguistique opéré par le « but » brise le lien névrotique entre tragédie et culpabilité personnelle.
     *   *Différenciation ontologique :* Séparation nette entre l'existence d'une catastrophe dans le monde réel (« tragedy ») et la responsabilité personnelle omnipotente (« wasn’t my fault »), actant l'abandon du postulat infantile de toute-puissance protectrice.
 
-
-## --- Tranche 8 / 11 ---
+## Tranche 8 / 11 : Protocole Fondamental de Thérapie de la Cohérence pour la Basse Estime de Soi
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1318,8 +1328,7 @@ Voici l'extraction opératoire intégrale de la **tranche 7/11** du *Coherence T
   * *Glaçage d'induction phénoménologique :* En modélisant lui-même les mots exacts à la première personne (« Bruce, what you said means... »), le thérapeute fournit le contenant syntaxique précis sans imposer le contenu, facilitant l'accès direct aux affects refoulés.
   * *Dérivation associative fluide (Pont temporel) :* « right along with this process between us... I’m also wondering if there’s anyone else » opère un décentrage immédiat de la relation thérapeutique actuelle vers la matrice archaïque de projection, utilisant l'affect activé à chaud dans le présent comme véhicule de régression vers l'attachement originel.
 
-
-## --- Tranche 9 / 11 ---
+## Tranche 9 / 11 : Algorithme de Décision Thérapeutique Micro-Pas (Steps 3 à 6)
 
 Voici l’analyse chirurgicale et l'extraction opératoire complète de la tranche 9/11 du manuel de Bruce Ecker & Laurel Hulley.
 
@@ -1431,8 +1440,7 @@ Voici l’analyse chirurgicale et l'extraction opératoire complète de la tranc
 > "Let’s see if some part of this task was too big a step in some way we didn’t realize, or was heading toward something too unwelcome."
 *   **[Analyse du Pattern]** : Double lien d'acceptation inconditionnelle et déresponsabilisation bienveillante (*"in some way we didn’t realize"*). L'intervention utilise un langage projectif et protecteur (*"too big a step"*, *"too unwelcome"*), signalant au système nerveux autonome qu'aucun viol psychologique n'aura lieu, ce qui dissout la réactivité défensive et permet l'exploration immédiate de la position protectrice.
 
-
-## --- Tranche 10 / 11 ---
+## Tranche 10 / 11 : Protocole de Confinement et Rentrée dans le Rôle Expérientiel (Stepping-In Re-framing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1572,8 +1580,7 @@ Voici l’analyse chirurgicale et l'extraction opératoire complète de la tranc
   * *Double questionnement permissif :* Utilisation de modalisateurs de douceur (« in some way », « could that be part of ») qui désamorcent la culpabilisation tout en nommant crûment l'évitement défensif.
   * *Révélation de la bifurcation :* Le verbe d'action au gérondif « switching to something else » met en lumière l'action inconsciente d'évitement, rendant la fuite immédiatement visible et consciente.
 
-
-## --- Tranche 11 / 11 ---
+## Tranche 11 / 11 : Découverte et Désamorçage de l'Écologie Systémique Familiale/Couple
 
 Voici l'analyse opératoire intégrale de la tranche 11/11 du manuel de formation de Bruce Ecker & Laurel Hulley (*Coherence Therapy Practice Manual*).
 
@@ -1682,3 +1689,4 @@ Voici l'analyse opératoire intégrale de la tranche 11/11 du manuel de formatio
 * **[Analyse du Pattern] :**
   - **Délivrance de critères opératoires stricts :** Redéfinition du terme « expérientiel » loin de tout flou cathartique. L'exigence repose sur deux ancrages syntaxiques et spatio-temporels : « *present-tense* » (temps présent) et « *first-person experience* » (première personne).
   - **Shift spatial d'association :** L'injonction « *subjectively in, and speaking from* » interdit la position méta-réflexive (parler *de* son problème) pour forcer l'incarnation somatique complète de la position pro-symptôme dans l'ici et maintenant de l'interaction.
+

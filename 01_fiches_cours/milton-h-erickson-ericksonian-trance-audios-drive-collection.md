@@ -34,10 +34,18 @@
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 48-244]** : Induction par Émulation et Identification Profonde (DTI) pour l'Anxiété de Performance — *Protocole :* Induction par Émulation et Identification Profonde (DTI) pour l'Anxiété de Performance | *Mécanisme :* La Double Dissociation Conscient/Inconscient et la Surcharge de Choix | *Verbatim :* Le Paradoxe du Double Choix de Transe
+- **Tranche 2 [Lignes 246-356]** : L'Incubation Onirique et l'Ancre d'Auto-Hypnose (Temple d'Épidaure) — *Protocole :* L'Incubation Onirique et l'Ancre d'Auto-Hypnose (Temple d'Épidaure) | *Mécanisme :* Dissociation Conscient / Inconscient | *Verbatim :* Ambiguïté Phonétique et Latérale (Left / Right)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Induction par Émulation et Identification Profonde (DTI) pour l'Anxiété de Performance
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -235,9 +243,7 @@ L'opérateur crée un cadre spatial clos (la chambre scellée par empreinte palm
   - **Protection contre le contre-transfert :** Déclaration de non-savoir délibérée (*« I don't know what those needs might be »*), garantissant l'alignement écologique strict avec les impératifs du patient.
   - **Utilisation du Silence Thérapeutique :** Le silence qui suit n'est pas une absence, mais l'espace opérationnel où le changement s'exécute.
 
-
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : L'Incubation Onirique et l'Ancre d'Auto-Hypnose (Temple d'Épidaure)
 
 ### 1. Mécanismes & Principes Actifs
 

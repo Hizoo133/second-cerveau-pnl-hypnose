@@ -108,10 +108,34 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 138-227]** : Induction par Interruption de TOTE Moteur & Nonpertinence (Variante Démonstration / Sujet Ho... — *Protocole :* Induction par Interruption de TOTE Moteur & Nonpertinence (Variante Démonstration / Sujet Hostile) | *Mécanisme :* Le TOTE comme Unité Neuro-Comportementale Inconsciente et sa Rupture (TOTE Interruption) | *Verbatim :* La Commande d'Urgence Post-Rupture
+- **Tranche 2 [Lignes 229-336]** : Élicitation de l'Équivalence Complexe du mot « Transe » — *Protocole :* Élicitation de l'Équivalence Complexe du mot « Transe » | *Verbatim :* Le Pré-framing de l'Absorption Intellectuelle (Erickson / Cas 1)
+- **Tranche 3 [Lignes 338-495]** : Induction par Chevauchement Sensoriel ($V \to A \to K \to O$) — *Protocole :* Induction par Chevauchement Sensoriel ($V \to A \to K \to O$) | *Mécanisme :* Transition Externe-Interne Progressive (Vecteur $e \to i$) | *Verbatim :* Utilisation de la Compulsion Environnementale
+- **Tranche 4 [Lignes 497-611]** : Détection & Alignement du Système Conducteur (Cas Lindsey) — *Protocole :* Détection & Alignement du Système Conducteur (Cas Lindsey)
+- **Tranche 5 [Lignes 613-761]** : Protocole d'Induction par Recherche Transdérivationnelle Kinesthésique (Démonstration du jeu... — *Protocole :* Protocole d'Induction par Recherche Transdérivationnelle Kinesthésique (Démonstration du jeune conducteur de chariot)
+- **Tranche 6 [Lignes 763-885]** : Marquage Analogique Kinesthésique Croisé d'Induction — *Protocole :* Marquage Analogique Kinesthésique Croisé d'Induction | *Mécanisme :* Dislocation spatiale de la voix & Ancrage covert à yeux fermés | *Verbatim :* Verbatim 1 : L'Induction par Marquage Analogique Kinesthésique (Ms P.)
+- **Tranche 7 [Lignes 887-1085]** : L'Induction par "The Shuffle" (Brouillage par Enjambement Temporel) — *Protocole :* L'Induction par "The Shuffle" (Brouillage par Enjambement Temporel) | *Mécanisme :* Le Tracking (Pistage d'États par 4-Tuples) | *Verbatim :* Verbatim : Double Lien Temporel et Absorption Graduelle (Tracking Model II)
+- **Tranche 8 [Lignes 1087-1213]** : Conversion d'Incongruence Séquentielle en Simultanée & Utilisation de la Confusion — *Protocole :* Conversion d'Incongruence Séquentielle en Simultanée & Utilisation de la Confusion | *Mécanisme :* Multi-Channel Co-Reinforcement (Induction Ouverte Congruente)
+- **Tranche 9 [Lignes 1215-1365]** : Induction Croisée par Lévitation Idiomotrice & Régression Développementale — *Protocole :* Induction Croisée par Lévitation Idiomotrice & Régression Développementale
+- **Tranche 10 [Lignes 1367-1490]** : A : La boucle de double convergence motrice (« Cheating » & Lévitation) — *Protocole :* A : La boucle de double convergence motrice (« Cheating » & Lévitation) | *Verbatim :* Verbatim 1
+- **Tranche 11 [Lignes 1492-1616]** : Levier Oculaire de Contrôle Aversif (Eye-Switch Affective Mastery) — *Protocole :* Levier Oculaire de Contrôle Aversif (Eye-Switch Affective Mastery)
+- **Tranche 12 [Lignes 1618-1755]** : A : Dissociation Somatique, Clôture Régressive & Ancrage d'Auto-Régulation Oculaire — *Protocole :* A : Dissociation Somatique, Clôture Régressive & Ancrage d'Auto-Régulation Oculaire | *Verbatim :* Verbatim 1
+- **Tranche 13 [Lignes 1757-1847]** : d'Amorçage de la Dissociation V-K par le Modèle Onirique — *Protocole :* d'Amorçage de la Dissociation V-K par le Modèle Onirique | *Mécanisme :* Dissociation Conscient / Inconscient par Clivage Épistémique
+- **Tranche 14 [Lignes 1849-1972]** : Réorganisation Inconsciente Autonome des 4-Tuplets — *Protocole :* Réorganisation Inconsciente Autonome des 4-Tuplets | *Verbatim :* La Méta-Instruction de Tri et Réorganisation Autonome
+- **Tranche 15 [Lignes 1974-2122]** : A : La Conversion d'une Perturbation Somatique en Ancre de Transe — *Protocole :* A : La Conversion d'une Perturbation Somatique en Ancre de Transe | *Verbatim :* Verbatim 1 : L'ambiguïté des ressources et le double sens somatique
+- **Tranche 16 [Lignes 2124-2214]** : A : Neutralisation Rétroactive d'Expériences Négatives et Dissociation $V/K$ (Segments 169-183) — *Protocole :* A : Neutralisation Rétroactive d'Expériences Négatives et Dissociation $V/K$ (Segments 169-183) | *Verbatim :* Extrait 1 : La Rencontre Pacifiée et le Dépôt Spatial (160, 167-168)
+- **Tranche 17 [Lignes 2216-2362]** : A : La Sortie de Transe Écologique et Déploiement des Post-Hypnotiques (Séquence 212–223) — *Protocole :* A : La Sortie de Transe Écologique et Déploiement des Post-Hypnotiques (Séquence 212–223) | *Mécanisme :* Sédimentation Neuro-Cognitive Hors Conscience ("Plaster of Paris") | *Verbatim :* Verbatim 1 : L'analogie du durcissement des apprentissages (Lignes 212–213)
+- **Tranche 18 [Lignes 2364-2457]** : d'Évaluation de la Congruence d'un Modèle / Mentor — *Protocole :* d'Évaluation de la Congruence d'un Modèle / Mentor | *Mécanisme :* Le Continuum Évolutionnaire du Praticien (Apprenant $\rightarrow$ Technicien $\rightarrow$ Artiste) | *Verbatim :* La Métaphore de Rupture et d'Émergence Identitaire
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 18 ---
+## Tranche 1 / 18 : Induction par Interruption de TOTE Moteur & Nonpertinence (Variante Démonstration / Sujet Ho...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -202,8 +226,7 @@ flowchart TD
 > "...the subject in a deep trance functions in accord with the unconscious understandings independently of the forces to which his conscious mind ordinarily responds; he behaves in accordance with the reality which exists in the given hypnotic situation for his unconscious mind. Conceptions, memories, and ideas constitute his reality world; he is in a deep trance. The actual external environment reality with which he is surrounded is relevant only insofar as it is utilized in the hypnotic situation."
 - **[Analyse du Pattern]** : Nominalisations multiples (*conceptions, memories, ideas*) transformées en équivalence complexe de la « réalité ». La structure syntaxique isole totalement l'inconscient des forces environnementales, posant que la réalité externe n'a de validité que si elle est absorbée et convertie en carburant pour la situation hypnotique (principe d'utilisation pure).
 
-
-## --- Tranche 2 / 18 ---
+## Tranche 2 / 18 : Élicitation de l'Équivalence Complexe du mot « Transe »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -312,8 +335,7 @@ flowchart TD
   - **Saturation par la monotonie et suggestion de fermeture :** L'utilisation de termes désactivateurs (*"monotony"*, *"unchanging"*, *"fatigue"*) prépare la suggestion somatique directe : *"the comfort of closing one's eyes"*.
   - **Recadrage final adapté à l'intellect :** Conclut par *"the delight of learning passively; the capacity for intellectual learning by the unconscious"*, ce qui lève la résistance du sujet en requalifiant l'abandon de contrôle en une compétence intellectuelle supérieure de l'inconscient.
 
-
-## --- Tranche 3 / 18 ---
+## Tranche 3 / 18 : Induction par Chevauchement Sensoriel ($V \to A \to K \to O$)
 
 Voici l'analyse opératoire intégrale de la tranche 3/18 selon la structure demandée.
 
@@ -472,8 +494,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/18 selon la structure dem
 ```
 - **[Analyse du Pattern]** : *Dissociation praticien/processus et recadrage par double lien paradoxal*. Le praticien commence par ratifier la croyance négative de la cliente ("Yes... there is no way I can help you not to be depressed"), ce qui annule toute polarité défensive, puis sépare son identité d'intervenant de l'outil hypnotique lui-même via la conjonction d'équivalence "but at the same time hypnosis can help you". Le cerveau conscient de la patiente entre en confusion logique, libérant l'inconscient pour le travail hypnotique.
 
-
-## --- Tranche 4 / 18 ---
+## Tranche 4 / 18 : Détection & Alignement du Système Conducteur (Cas Lindsey)
 
 Voici l'extraction opératoire intégrale de la tranche 4/18 selon la structure demandée.
 
@@ -589,8 +610,7 @@ Erickson: "...suddenly saw a red light and sought frantically with his right han
 * **[Analyse du Pattern]** :
   - **Suppression transformationnelle (*Deletion*) de Structure de Surface :** Effacement complet de l'agent actif (*qui* a cassé la fenêtre) et de l'instrument (*avec quoi*). Cette structure syntaxique incomplète oblige le système de traitement du receveur à mobiliser la Structure Profonde sous-jacente `PAST (BREAK [someone, window, with something])` en comblant les variables vides par ses propres projections inconscientes.
 
-
-## --- Tranche 5 / 18 ---
+## Tranche 5 / 18 : Protocole d'Induction par Recherche Transdérivationnelle Kinesthésique (Démonstration du jeu...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -740,8 +760,7 @@ Erickson: "...suddenly saw a red light and sought frantically with his right han
 > **"One of the authors asked the group if they had noticed anyone exceptionally ALERT in the group tonight and they did."**
 * **[Analyse du Pattern] :** Marquage analogique tonal (*Analogue Marking*) sous forme de question enchâssée. Le mot *"ALERT"* est accentué par un saut d'amplitude et de tonalité ($A_t$), activant le 4-tuple de vigilance chez les auditeurs fatigués sans délivrer d'injonction consciente directe.
 
-
-## --- Tranche 6 / 18 ---
+## Tranche 6 / 18 : Marquage Analogique Kinesthésique Croisé d'Induction
 
 Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 6/18 de *Patterns of the Hypnotic Techniques of Milton H. Erickson Vol 2*.
 
@@ -865,8 +884,7 @@ Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 6/18 de
 >   * **Intersection d'ancres de 4-tuples :** En activant successivement 5 ou 6 expériences de plaisir dont le dénominateur commun kinesthésique et visuel est le trajet en voiture, le cerveau de l'interlocuteur calcule inconsciemment le point de croisement des 4-tuples.
 >   * **Induction d'une impulsion sans commande verbale :** L'idée d'offrir la voiture à Bert émerge 3 fois dans l'esprit d'Erickson avec une netteté croissante, vécue non comme une manipulation subie mais comme une générosité spontanée. Le génie linguistique réside dans l'art d'éveiller l'idée chez l'autre sans jamais lui fournir les mots qui déclencheraient sa défense consciente.
 
-
-## --- Tranche 7 / 18 ---
+## Tranche 7 / 18 : L'Induction par "The Shuffle" (Brouillage par Enjambement Temporel)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 7/18 du cours *Patterns of the Hypnotic Techniques of Milton H. Erickson Vol 2* (Grinder, DeLozier & Bandler).
 
@@ -1066,8 +1084,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 7/18 du cours *Patte
   - *Isomorphisme vocal et kinesthésique (Ad + At + V + K) :* Le praticien élève le pitch de sa voix sur le mot « lift », lève simultanément sa propre main de façon imperceptible et relâche la pression exercée par sa main sur le genou du sujet au même instant. 
   - *Résultat :* Tous les vecteurs sensoriels envoient une impulsion cohérente et irrésistible de mouvement vers le haut.
 
-
-## --- Tranche 8 / 18 ---
+## Tranche 8 / 18 : Conversion d'Incongruence Séquentielle en Simultanée & Utilisation de la Confusion
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1195,8 +1212,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 7/18 du cours *Patte
   > "Rosen so effectively meets the client at his (the client's) model of the world that he (Rosen) ruins the client's psychosis."
   * **[Analyse du Pattern]** : Recadrage conceptuel radical sous forme d'antithèse paradoxale. Démonstration de l'extrême limite du pacing : épouser tellement vite et fort l'incongruence délirante du patient que la fonction homéostatique de sa défense s'effondre, le forçant à manifester la polarité saine opposée.
 
-
-## --- Tranche 9 / 18 ---
+## Tranche 9 / 18 : Induction Croisée par Lévitation Idiomotrice & Régression Développementale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1348,8 +1364,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 7/18 du cours *Patte
 * **[Analyse du Pattern]** : **Liaison contingente croisée & Induction d'hallucination négative**. 
   Création d'une dépendance motrice contraignante : l'impossibilité de bouger une main est conditionnée à l'action tactile de l'autre (*"has to touch your face first"*). Une fois cette catalepsie bilatérale ancrée dans le schéma corporel, la suggestion d'isolement total (*"Now you and I can be all alone here"*) coupe instantanément la perception des tiers présents dans l'espace physique.
 
-
-## --- Tranche 10 / 18 ---
+## Tranche 10 / 18 : A : La boucle de double convergence motrice (« Cheating » & Lévitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1474,8 +1489,7 @@ E: You were shocked that it broke. It's nice to learn what a shock is, isn't it?
 * **[Analyse du Pattern]** :  
   *Pacing par écho & Redéfinition (Relabeling/Reframing) :* Répétition mot à mot de la réponse somatique du sujet (« *shocked that it broke* ») pour valider son expérience, suivie immédiatement d'une conversion de label : l'affect négatif de stupeur (« *shock* ») est recontextualisé sous forme d'acquisition positive de repère (« *It's nice to learn what a shock is* »), scellé par une question d'accroche confirmatrice (*tag question* : « *isn't it?* »).
 
-
-## --- Tranche 11 / 18 ---
+## Tranche 11 / 18 : Levier Oculaire de Contrôle Aversif (Eye-Switch Affective Mastery)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1601,8 +1615,7 @@ E: "You don't need to remember the incident, but you can remember the feelings."
 ```
 * **[Analyse du Pattern]** : Clivage hypnotique par dissociation contenu/processus. La négation permissive initiale (*you don't need to remember the incident*) invite l'amnésie de la charge anecdotique ou traumatique, tandis que la seconde proposition valide l'apprentissage somatique et émotionnel (*you can remember the feelings*).
 
-
-## --- Tranche 12 / 18 ---
+## Tranche 12 / 18 : A : Dissociation Somatique, Clôture Régressive & Ancrage d'Auto-Régulation Oculaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1741,8 +1754,7 @@ E: "You don't need to remember the incident, but you can remember the feelings."
 > « Now in the back of your mind, which is a common phrase, we know a lot of things; and sometimes we have trouble getting those things into the front of our mind. »
 - **[Analyse du Pattern]** : **Réification métaphorique spatiale d'une expression idiomatique**. Utilisation du lieu commun populaire pour construire une topographie neurologique inconsciente où les informations sont stockées hors d'atteinte du projecteur conscient, posant les fondations structurelles d'une amnésie post-hypnotique indolore et naturelle.
 
-
-## --- Tranche 13 / 18 ---
+## Tranche 13 / 18 : d'Amorçage de la Dissociation V-K par le Modèle Onirique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1834,8 +1846,7 @@ E: "You don't need to remember the incident, but you can remember the feelings."
   > *"Because your unconscious is sorting over your memories, your understandings, your hopes, your anticipation, your wishes—and trying to make for a new arrangement of everything that you have learned—a new arrangement that will be for your betterment..."*
   * **[Analyse du Pattern]** : Clause causale d'ouverture (*"Because..."*) suivie d'un empilement de nominalisations sans index de référence précis (*"memories"*, *"understandings"*, *"hopes"*, *"anticipation"*, *"wishes"*). Insertion de la commande enchâssée (*"make for a new arrangement"*) renforcée par la présupposition de bénéfice personnel obligatoire (*"that will be for your betterment"*). L'esprit conscient ne peut pas suivre la complexité de l'énumération et cède le traitement à l'inconscient.
 
-
-## --- Tranche 14 / 18 ---
+## Tranche 14 / 18 : Réorganisation Inconsciente Autonome des 4-Tuplets
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1960,8 +1971,7 @@ E: "You don't need to remember the incident, but you can remember the feelings."
   - *Jeu de mot kinesthésique / Organ Language* : Répétition insistante de *"handy"* (*hand* = la main).
   - *Double sens opératoire* : Au sens figuré conscient, *"keep them handy"* signifie "garder ces ressources à disposition/utiles" ; au niveau du codage proprioceptif inconscient, le mot stimule directement la représentation neurale de la main (*hand*), préparant son allègement et sa lévitation idéomotrice involontaire sans instruction directe.
 
-
-## --- Tranche 15 / 18 ---
+## Tranche 15 / 18 : A : La Conversion d'une Perturbation Somatique en Ancre de Transe
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 15/18 (*Patterns of the Hypnotic Techniques of Milton H. Erickson Vol 2*, Grinder, DeLozier & Bandler).
 
@@ -2111,8 +2121,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 15/18 (*P
 * **[Analyse du Pattern]** :  
   Citation directe enchâssée à l'intérieur d'un cadre métaphorique régional. Commande cachée d'autonomie et de séparation propre (*"go your way"*). Empilement de nominalisations à haute valeur d'intégrité (*"dignity"*, *"security"*, *"comfort"*, *"respect"*). Résolution non violente d'une menace archétypale (le venin/la morsure potentielle), installant un modèle de coexistence sereine où la sécurité découle du maintien rigoureux de sa propre voie.
 
-
-## --- Tranche 16 / 18 ---
+## Tranche 16 / 18 : A : Neutralisation Rétroactive d'Expériences Négatives et Dissociation $V/K$ (Segments 169-183)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2204,8 +2213,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 15/18 (*P
   - Cause à effet implicite & Nominalisation opératoire : Relie le réveil progressif à l'obligation biologique d'intégration des apprentissages (*"because it's necessary... to let the trance learnings and thinkings set"*).
   - Analogie d'isomorphisme physique : Le plâtre de Paris (*"plaster of paris takes a little while to set"*) ancre l'idée d'une consolidation moléculaire et inconsciente, suivie d'une projection dans le futur tout au long de l'existence (*"accompany you all the rest of your life"*).
 
-
-## --- Tranche 17 / 18 ---
+## Tranche 17 / 18 : A : La Sortie de Transe Écologique et Déploiement des Post-Hypnotiques (Séquence 212–223)
 
 Voici l’extraction chirurgicale et l’analyse modélisatrice de la **tranche 17/18** de *Patterns of the Hypnotic Techniques of Milton H. Erickson, Vol. 2*.
 
@@ -2353,8 +2361,7 @@ Voici l’extraction chirurgicale et l’analyse modélisatrice de la **tranche 
   - *Focalisation d'attention par utilisation du problème* (« *utilization of his method of presenting his problem* ») : conversion du symptôme en levier d'accès aux processus internes.
   - *Distorsion de surface délibérée* (« *seemingly explanatory but intended solely to stimulate...* ») : les explications rationnelles ne servent que de leurre pour le conscient afin de catalyser en sous-main une recherche transdérivationnelle massive de ressources mnésiques déjà présentes dans l'histoire de l'individu.
 
-
-## --- Tranche 18 / 18 ---
+## Tranche 18 / 18 : d'Évaluation de la Congruence d'un Modèle / Mentor
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2448,3 +2455,4 @@ Voici l’extraction chirurgicale et l’analyse modélisatrice de la **tranche 
 * **[Analyse du Pattern] :**
   * **Paradoxe de la compétence inconsciente :** Formulation explicite de la découverte de sa propre structure opératoire (« *things that I've done without knowing about them* »), renforçant l'axiome fondateur de la PNL : la structure de l'excellence est inconsciente et peut être extraite linguistiquement.
   * **Présupposition de fidélité modélisante :** L'expression « *delightful simplification of the infinite complexities* » présuppose que le livre a réussi à capturer l'essence de l'art ericksonien sans en détruire la richesse générative, établissant l'ouvrage comme la référence fondamentale du décodage hypnotique.
+

@@ -119,10 +119,36 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 151-254]** : d'Élicitation de la Ligne du Temps Standard (Timeline Elicitation Protocol) — *Protocole :* d'Élicitation de la Ligne du Temps Standard (Timeline Elicitation Protocol) | *Mécanisme :* Encodage Submodal du Temps (Ligne du Temps / Timeline Coding) | *Verbatim :* Le Cadre du "Faire Semblant" pour lever l'amnésie factuelle
+- **Tranche 2 [Lignes 256-393]** : Élicitation de la Ligne Temporelle Naturelle (Baseline Elicitation) — *Protocole :* Élicitation de la Ligne Temporelle Naturelle (Baseline Elicitation) | *Mécanisme :* Encodage Spatial du Temps (Spatial Sorting of Time) | *Verbatim :* Utilisation du Cadre "Comme si" pour Contourner le Blocage Visuel
+- **Tranche 3 [Lignes 395-552]** : Installation et Test Écologique d'une Nouvelle Ligne du Temps — *Protocole :* Installation et Test Écologique d'une Nouvelle Ligne du Temps | *Mécanisme :* Le cadre du « comme si » et l'expérience d'essai temporaire | *Verbatim :* Le Pré-framing de Réversibilité Totale
+- **Tranche 4 [Lignes 554-685]** : Recalibrage Spatial d'une Ligne Temporelle Kinesthésique Douloureuse — *Protocole :* Recalibrage Spatial d'une Ligne Temporelle Kinesthésique Douloureuse | *Mécanisme :* Couplage Spatial Submodalité-Système de Représentation (Ancrage Kinesthésique par Localisation) | *Verbatim :* La Désorientation Neuro-Temporelle Délibérée
+- **Tranche 5 [Lignes 687-858]** : Encodage de Futur Irrésistible (Compelling Future) — *Protocole :* Encodage de Futur Irrésistible (Compelling Future) | *Verbatim :* Pattern 1 : Subordination Temporelle & Enchaînement Automatique
+- **Tranche 6 [Lignes 860-1045]** : A : Construction et Calibration de l'Image de Soi Désirée (Resource Packing & Reality Tuning) — *Protocole :* A : Construction et Calibration de l'Image de Soi Désirée (Resource Packing & Reality Tuning) | *Verbatim :* Verbatim 1 : Injection Subtile de Ressources & Recadrage de Perspective
+- **Tranche 7 [Lignes 1047-1167]** : Le Designer Swish (Protocole Maître) & Le Swish Auditif Isomodal & l'Inversion Analogique — *Protocole :* Le Designer Swish (Protocole Maître) | *Mécanisme :* Le Swish Auditif Isomodal & l'Inversion Analogique | *Verbatim :* L'Accomplishment Frame pour le Déclencheur
+- **Tranche 8 [Lignes 1169-1285]** : d'Élicitation d'une Hiérarchie de Critères par Contexte Cumulatif — *Protocole :* d'Élicitation d'une Hiérarchie de Critères par Contexte Cumulatif | *Mécanisme :* Le Codage Neurologique Hiérarchique de l'Importance | *Verbatim :* Verbatim 1 : Recadrage de la question de justification vers l'accomplissement positif
+- **Tranche 9 [Lignes 1287-1421]** : Changement de la Hiérarchie des Critères (Criteria Shift) — *Protocole :* Changement de la Hiérarchie des Critères (Criteria Shift) | *Verbatim :* Suggestion de Processus par Présupposition & Effet de "Plunk"
+- **Tranche 10 [Lignes 1423-1603]** : A : Ajustement Opératoire d'un Critère sur son Continuum — *Protocole :* A : Ajustement Opératoire d'un Critère sur son Continuum | *Mécanisme :* Le Continuum Analogique des Critères et Réajustement Écologique Lent | *Verbatim :* Le Double-Lien d'Élicitation Positive et Déstabilisation de Pattern
+- **Tranche 11 [Lignes 1605-1712]** : The Compulsion Blowout (Élimination par Rupture de Seuil) — *Protocole :* The Compulsion Blowout (Élimination par Rupture de Seuil) | *Verbatim :* Extrait 1 : Induction de résonance kinesthésique et amplification du désir
+- **Tranche 12 [Lignes 1714-1860]** : A : Le Compulsion Blowout (Désamorçage de Compulsion par Saturation du Seuil) — *Protocole :* A : Le Compulsion Blowout (Désamorçage de Compulsion par Saturation du Seuil) | *Verbatim :* La métaphore structurelle de l'irréversibilité
+- **Tranche 13 [Lignes 1862-1988]** : Elicitation et Rupture de Seuil (« The Last Straw » Pattern) — *Protocole :* Elicitation et Rupture de Seuil (« The Last Straw » Pattern) | *Mécanisme :* Seuil d'importance durable vs Évanescence | *Verbatim :* Suggestion conversationnelle de compulsion par prédicats et spatialisation congruente (Richard Bandler cité par Steve Andreas)
+- **Tranche 14 [Lignes 1990-2170]** : Le Patron de Seuil « La Goutte d'Eau » (The Last Straw Threshold Pattern) — *Protocole :* Le Patron de Seuil « La Goutte d'Eau » (The Last Straw Threshold Pattern) | *Mécanisme :* Transition Analogue vers Rupture Digitale du Seuil (Threshold Pattern) | *Verbatim :* La modélisation de la volonté par la structure interne
+- **Tranche 15 [Lignes 2172-2368]** : A : Exploration et Calibration Expérientielle des Sous-Modalités de Référence (Exercice de G... — *Protocole :* A : Exploration et Calibration Expérientielle des Sous-Modalités de Référence (Exercice de Groupe) | *Verbatim :* La Prescription de Méfiance et le Double-Lien d'Alliance
+- **Tranche 16 [Lignes 2370-2515]** : d'Installation de la Stratégie de Réponse à la Critique (Par Double Dissociation) — *Protocole :* d'Installation de la Stratégie de Réponse à la Critique (Par Double Dissociation) | *Mécanisme :* 1 Le Paradoxe de la Mégalomanie / Pacing Paradoxal des États Psychotiques | *Verbatim :* 1 Injonction Paradoxale de Défiance
+- **Tranche 17 [Lignes 2517-2692]** : A : Stratégie de Réponse à la Critique (Installation Complète) — *Protocole :* A : Stratégie de Réponse à la Critique (Installation Complète) | *Mécanisme :* La Double Dissociation d'Installation et Méta-Position d'Apprentissage | *Verbatim :* Verbatim : Induction de la Dissociation et Délimitation Pronuptiale
+- **Tranche 18 [Lignes 2694-2827]** : Modélisation, Accès et Redesign d'un État Kinesthésique / Psychoactif (Accessing & Redesigni... — *Protocole :* Modélisation, Accès et Redesign d'un État Kinesthésique / Psychoactif (Accessing & Redesigning Kinesthetic Drug States)
+- **Tranche 19 [Lignes 2829-3033]** : Protocole d'Accès Volontaire à un État de Substance & Élimination d'Effets Secondaires (Drug... — *Protocole :* Protocole d'Accès Volontaire à un État de Substance & Élimination d'Effets Secondaires (Drug State Access) | *Verbatim :* Le Pacing Total du Toxicomane (Déconnexion du Dealer)
+- **Tranche 20 [Lignes 3035-3226]** : Séparation Soi vs Contexte (Désynchronisation Temporelle) — *Protocole :* Séparation Soi vs Contexte (Désynchronisation Temporelle)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 20 ---
+## Tranche 1 / 20 : d'Élicitation de la Ligne du Temps Standard (Timeline Elicitation Protocol)
 
 Voici l'extraction opératoire intégrale de la **tranche 1/20** du cours *Change Your Mind And Keep The Change* de Connirae Andreas & Steve Andreas.
 
@@ -227,8 +253,7 @@ Voici l'extraction opératoire intégrale de la **tranche 1/20** du cours *Chang
   * *Scission explicite Contenu / Processus :* "not what we want / We want the process differences" trace une frontière opératoire stricte dans l'esprit du sujet.
   * *Contrainte par double contrefactuel :* "pretend you lived in the same house five years ago, so you can notice only..." impose une variable de contrôle cognitive artificielle pour obliger le cortex visuel à éteindre le canal du décor et à focaliser l'attention sur les métriques pures (luminosité, taille, angle).
 
-
-## --- Tranche 2 / 20 ---
+## Tranche 2 / 20 : Élicitation de la Ligne Temporelle Naturelle (Baseline Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -367,8 +392,7 @@ Voici l'extraction opératoire intégrale de la **tranche 1/20** du cours *Chang
   - **Truisme d'autorité avec enjeu vital :** L'évocation d'une étude clinique sur le cancer introduit un enjeu de survie biologique sous forme de simple constatation conversationnelle.
   - **Commande cachée de réorientation temporelle :** En associant implicitement "survie" à "orientation futuriste lumineuse" et "décès" à "orientation passé", la structure sémantique génère une motivation inconsciente d'évitement majeur, poussant le système nerveux du sujet à ouvrir et éclaircir son horizon temporel futur sans injonction directe.
 
-
-## --- Tranche 3 / 20 ---
+## Tranche 3 / 20 : Installation et Test Écologique d'une Nouvelle Ligne du Temps
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/20 du séminaire *« Change Your Mind And Keep The Change »* de Connirae & Steve Andreas.
 
@@ -527,8 +551,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/20 du s
   - **Subordonnée temporelle de liaison inévitable** (*"As you place this memory back... I want you to notice how it will alter..."*). Le geste spatial manuel/visuel déclenche automatiquement la cascade de transformations.
   - **Généralisation tritemporelle totale** : Connecte le passé révisé (*intermediate times*), le présent somatique (*enjoy now*) et le futur projeté, créant une reconfiguration neuronale complète sans effort analytique.
 
-
-## --- Tranche 4 / 20 ---
+## Tranche 4 / 20 : Recalibrage Spatial d'une Ligne Temporelle Kinesthésique Douloureuse
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -661,8 +684,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/20 du s
 > "Let's eat dinner at a restaurant before discussing a proposal."
 *   **[Analyse du Pattern]** : Présupposition par clause subordonnée temporelle (*before*). L'acte de discuter la proposition est introduit comme une certitude automatique qui se produira après le dîner, éliminant toute négociation sur le fait même de discuter la proposition et liant l'état agréable du dîner à la tâche suivante.
 
-
-## --- Tranche 5 / 20 ---
+## Tranche 5 / 20 : Encodage de Futur Irrésistible (Compelling Future)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -835,8 +857,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/20 du s
 > "When you make a picture of yourself able to catch the pen, you don't know exactly how you will catch the pen—reaching up, down, or to the side, etc.—because that will depend on how I throw it. You know that you will be able to catch it, even though you don't know exactly how you'll do it."
 - **[Analyse du Pattern]** : Double truisme expérientiel associé à une présupposition de compétence future adaptable. Utilise un exemple sensoriel immédiat (attraper un stylo) pour prouver au système nerveux que l'efficacité repose précisément sur l'incertitude du geste exact couplée à la certitude absolue de la capacité. Élimine la rigidité cognitive du conscient en valorisant l'indétermination comportementale.
 
-
-## --- Tranche 6 / 20 ---
+## Tranche 6 / 20 : A : Construction et Calibration de l'Image de Soi Désirée (Resource Packing & Reality Tuning)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1023,8 +1044,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/20 du s
   - *Commande paradoxale avec tonalité détachée :* L'injonction de retrouver l'état négatif délivrée sur un ton désinvolte (*offhand*) crée une rupture de cadre ; le système nerveux tente d'exécuter la tâche mais constate l'absence du pattern problématique, validant ainsi la disparition du symptôme.
   - *Future-Pacing déguisé :* `"to be sure"` présuppose que la vérification confirme la solidité de la transformation acquise et projette l'inaccessibilité définitive de la panique dans le temps.
 
-
-## --- Tranche 7 / 20 ---
+## Tranche 7 / 20 : Le Designer Swish (Protocole Maître) & Le Swish Auditif Isomodal & l'Inversion Analogique
 
 Voici l'analyse d'ingénierie modélisatrice de la **tranche 7/20** de l'ouvrage et séminaire *"Change Your Mind And Keep The Change"* de Connirae et Steve Andreas.
 
@@ -1146,8 +1166,7 @@ Voici l'analyse d'ingénierie modélisatrice de la **tranche 7/20** de l'ouvrage
   - **Interruption de pattern & recadrage téléologique :** Lorsque le client donne une explication causale externe (*"Il n'y a pas assez de vaisselle"*), la question refuse d'entrer dans le contenu matériel.
   - **Présupposition d'action positive sous le non-agir :** *"What are you accomplishing by not doing..."* force le cerveau à scanner le gain secondaire inconscient et à révéler la nominalisation / le critère directeur sous-jacent (l'économie d'effort, l'optimisation du temps, ou la rébellion).
 
-
-## --- Tranche 8 / 20 ---
+## Tranche 8 / 20 : d'Élicitation d'une Hiérarchie de Critères par Contexte Cumulatif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1265,8 +1284,7 @@ Voici l'analyse d'ingénierie modélisatrice de la **tranche 7/20** de l'ouvrage
 > "Money is certainly convertible into many things. At the same time, money usually means something fairly specific to the person. You can ask, 'What does money get for you? What's important about having money?' ... Once in a while someone does seem to be going for money in and of itself, and has forgotten that he wants the money for something. Misers do that; they save money but never use it."
 * **[Analyse du Pattern]** : Distinction de métamodèle entre instrument nominalisé (argent) et critère d'état interne (sécurité, liberté, pouvoir). L'utilisation de l'archétype de l'avare (« misers ») sert de recadrage métaphorique pour montrer la dégénérescence du processus lorsque le contenant devient la fin, justifiant la réorientation immédiate du praticien vers le résultat réel désiré.
 
-
-## --- Tranche 9 / 20 ---
+## Tranche 9 / 20 : Changement de la Hiérarchie des Critères (Criteria Shift)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1402,8 +1420,7 @@ Voici l'analyse d'ingénierie modélisatrice de la **tranche 7/20** de l'ouvrage
 * **[Analyse du Pattern]** :
   * **Question de remontée de chaîne de résultats (*Outcome Chain Elicitation*)** : L'usage du verbe d'acquisition *"get for you"* extrait instantanément le critère de niveau supérieur (*meta-criterion*) sous-jacent au comportement névrotique. Au lieu d'attaquer la valeur de surface ("avoir raison"), la question force l'inconscient à révéler l'intention positive motrice (recherche de statut, sentiment de sécurité ou connexion), ouvrant le choix d'un substitut plus écologique.
 
-
-## --- Tranche 10 / 20 ---
+## Tranche 10 / 20 : A : Ajustement Opératoire d'un Critère sur son Continuum
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche 10/20 de *Change Your Mind And Keep The Change* (Connirae & Steve Andreas).
 
@@ -1585,8 +1602,7 @@ flowchart TD
 >
 > * **[Analyse du Pattern]** : Présupposition causale motrice. Cette question opère un recadrage radical : elle transforme le sujet d'observateur passif d'une compulsion subie en agent actif/créateur de sa structure neurologique (*« What do you have to do... »*). Elle force le cerveau à manipuler immédiatement les paramètres d'interface graphique (l'image) et extrait sans filtre le driver sous-modalitaire sous-jacent.
 
-
-## --- Tranche 11 / 20 ---
+## Tranche 11 / 20 : The Compulsion Blowout (Élimination par Rupture de Seuil)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1695,8 +1711,7 @@ flowchart TD
 * **[Analyse du Pattern]** :  
   - *Métaphores physiques de seuil d'élasticité et de rupture mécanique* : Utilisation d'analogies matérielles universelles (ballon qui éclate, fil de fer cassé) pour saturer l'inconscient d'une certitude physique : une fois le seuil de rupture franchi, la réversibilité spontanée est structurellement impossible.
 
-
-## --- Tranche 12 / 20 ---
+## Tranche 12 / 20 : A : Le Compulsion Blowout (Désamorçage de Compulsion par Saturation du Seuil)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1844,8 +1859,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Recadrage de signification (*Reframing of Meaning / Sleight of Mouth*). L'association sémantique automatique [Réapparition du symptôme = Échec du praticien] est brisée net et redéfinie en [Signal d'accès à l'information écologique = Véritable début du succès]. Ce pattern linguistique neutralise l'anxiété de performance de l'opérateur, maintient la curiosité exploratoire et recadre le symptôme persistant non comme une résistance, mais comme un messager écologique intègre.
 
-
-## --- Tranche 13 / 20 ---
+## Tranche 13 / 20 : Elicitation et Rupture de Seuil (« The Last Straw » Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1973,8 +1987,7 @@ flowchart TD
   - Renforcement de l'ancrage des sous-modalités ressources du sujet (*light and sparkly*) pour aimanter le comportement moteur.
   - Nominalisation et recadrage d'identité ressource opératoire par Connirae (*access to more resources, as a person who can successfully manage relationships*), installant la certitude de la trajectoire post-rupture.
 
-
-## --- Tranche 14 / 20 ---
+## Tranche 14 / 20 : Le Patron de Seuil « La Goutte d'Eau » (The Last Straw Threshold Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2156,8 +2169,7 @@ flowchart TD
 * **[Analyse du Pattern]** :  
   Clarification de catégorie par désimbrication conceptuelle. Andreas casse la confusion classique entre attention sensorielle (V/A/K interne vs externe) et autorité d'évaluation. Par l'utilisation de contrastes simples (*« listen to the opinions... gather information »* vs *« using my own judgement to decide »*), il définit la référence interne non pas comme un isolement autistique ou un rejet des données extérieures, mais comme un méta-cadre de traitement où le système nerveux conserve souverainement le pouvoir d'évaluation finale.
 
-
-## --- Tranche 15 / 20 ---
+## Tranche 15 / 20 : A : Exploration et Calibration Expérientielle des Sous-Modalités de Référence (Exercice de G...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2355,8 +2367,7 @@ flowchart TD
   - *La Pause de Percolation Stratégique* : Le silence laisse le système nerveux du sujet s'engager kinesthésiquement dans la possession de l'objet.
   - *Rupture par Réfutation Ontologique Inhérente* : "However, if you are God, you have no need for these keys." Une divinité toute-puissante n'a nul besoin d'un instrument mécanique humain pour ouvrir des portes matérielles. Si le patient garde les clés, il admet qu'il n'est pas Dieu ; s'il les rend, il renonce au pouvoir matériel. L'impasse logique frappe le délire de l'intérieur, forçant une désorganisation cognitive immédiate et le rétablissement instantané d'une communication humaine authentique (*"Man, one of us is crazy!"*).
 
-
-## --- Tranche 16 / 20 ---
+## Tranche 16 / 20 : d'Installation de la Stratégie de Réponse à la Critique (Par Double Dissociation)
 
 Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 16/20 du cours *Change Your Mind And Keep The Change* de Connirae & Steve Andreas.
 
@@ -2503,8 +2514,7 @@ La stratégie modélisée des "experts" modifie la séquence de traitement senso
 > **« I have taught this a lot of times, but you have really been the slowest. »**
 * **[Analyse du Pattern]** : Test in vivo sous forme de rupture de pattern flatteur. Immédiatement après que le sujet a vécu une profonde expérience émotionnelle et se sent détendu, Steve Andreas décoche une critique directe, dénigrante et comparative (*"you have really been the slowest"*). Il n'attend pas un rapport verbal mais calibre instantanément la micro-physiologie du client : le sourire immédiat de Carl valide que l'interception dissociée fonctionne en temps réel sans contamination kinesthésique.
 
-
-## --- Tranche 17 / 20 ---
+## Tranche 17 / 20 : A : Stratégie de Réponse à la Critique (Installation Complète)
 
 Voici l'analyse opératoire intégrale de la tranche 17/20 du cours *Change Your Mind And Keep The Change* de Connirae & Steve Andreas.
 
@@ -2681,8 +2691,7 @@ Voici la suite et la finalisation intégrale de l'analyse opératoire de la tran
   - **Clause de temps à double contrainte permissive :** *"taking all the time you need"* (présuppose que l'intégration a lieu et retire toute anxiété de performance).
   - **Enchâssement d'adverbes d'automaticité neurologique :** *"immediately and unconsciously"* couplé à *"any time you find yourself..."* (présuppose que dans le futur, le sujet constatera l'opération du pattern sans effort conscient délibéré, comme un fait accompli).
 
-
-## --- Tranche 18 / 20 ---
+## Tranche 18 / 20 : Modélisation, Accès et Redesign d'un État Kinesthésique / Psychoactif (Accessing & Redesigni...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2817,8 +2826,7 @@ Voici la suite et la reprise intégrale et structurée de l'analyse opératoire 
     - **Conditionnement d'urgence binaire immédiat :** Utilisation d'un ancrage temporel instantané (*« The moment there is even a suggestion of danger... please bring me right back out »*), garantissant une dissociation protectrice et un réveil automatique sans latence.
     - **Signal de confirmation inconsciente :** Clôture par une négociation respectueuse exigeant un signal involontaire clair avant de procéder, assurant une congruence psychologique totale.
 
-
-## --- Tranche 19 / 20 ---
+## Tranche 19 / 20 : Protocole d'Accès Volontaire à un État de Substance & Élimination d'Effets Secondaires (Drug...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3024,8 +3032,7 @@ Voici la suite et la reprise intégrale et structurée de l'analyse opératoire 
   - **Métaphore isomorphique de fragilité soudaine :** L'analogie du verre trempé d'une vitre de voiture prédispose l'esprit à une rupture totale et irréversible en une seule fraction de seconde.
   - **Commandes motrices et kinesthésiques percutantes :** L'enchaînement verbal dynamique "Hit it really hard... watch it shatter... and fall apart" associe une impulsion kinesthésique active (le geste du marteau) à un résultat visuel d'effondrement gravitationnel, imposant une amnésie sensorielle immédiate de l'image précédente.
 
-
-## --- Tranche 20 / 20 ---
+## Tranche 20 / 20 : Séparation Soi vs Contexte (Désynchronisation Temporelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3217,3 +3224,4 @@ Voici la suite et la reprise intégrale et structurée de l'analyse opératoire 
   - **[Analyse du Pattern]** :
     * *Délivrance épistémologique par le double critère pragmatique* : Court-circuite les débats stériles sur la réalité objective de l'intuition ou du contre-transfert en posant deux questions fermées orientées résultats ("*Does it allow... ? Does it enable... ?*").
     * *Recadrage préventif contre l'illusion de certitude* ("*treat... as a hypothesis to be tested, rather than truth*") : Protège le praticien de ses propres projections tout en maintenant une posture d'acuité sensorielle et de calibration permanente.
+

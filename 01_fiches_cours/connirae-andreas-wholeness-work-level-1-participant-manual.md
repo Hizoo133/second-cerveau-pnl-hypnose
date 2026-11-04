@@ -61,10 +61,19 @@ flowchart LR
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 76-260]** : Le Processus de Base du Wholeness Work (The Basic Wholeness Process) — *Protocole :* Le Processus de Base du Wholeness Work (The Basic Wholeness Process) | *Mécanisme :* Localisation Spatiale du Sujet Épistémique (Spatialisation du « Je ») | *Verbatim :* L'Induction Épistémique de la Présence Omnidirectionnelle
+- **Tranche 2 [Lignes 262-503]** : A : DE L'AUTORITÉ À L'AUTORAT (Reclaiming the Inner Authority) — *Protocole :* A : DE L'AUTORITÉ À L'AUTORAT (Reclaiming the Inner Authority) | *Mécanisme :* Le Découplage Sémantique-Somatosensoriel (Sensation Quality vs. Meaning) | *Verbatim :* Le Découplage Spatial de l'Autorité
+- **Tranche 3 [Lignes 505-629]** : Format Miroir — Travail avec les Aversions et les Attachements (Working with Aversions-Attac... — *Protocole :* Format Miroir — Travail avec les Aversions et les Attachements (Working with Aversions-Attachments) | *Mécanisme :* La Polarité Cachée Attachement-Aversion (Polarity Architecture) | *Verbatim :* La Présupposition d'Évitement Inévitable
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : Le Processus de Base du Wholeness Work (The Basic Wholeness Process)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche du manuel de Connirae Andreas.
 
@@ -250,8 +259,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Aïkido linguistique / Pacing & Leading instantané :** Capture textuelle verbatim de la plainte ou de la résistance du sujet (*« right? »* obligeant à un accord somatique immédiat).
   - **Conversion structurelle instantanée :** Transformation d'un contenu de blocage cognitif (*« je suis confus »*) en un réceptacle spatial géométrique (*« Where is the 'I' who is confused? »*). Le méta-état résistant cesse d'être un obstacle pour devenir immédiatement le carburant de la dissolution.
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : A : DE L'AUTORITÉ À L'AUTORAT (Reclaiming the Inner Authority)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -494,8 +502,7 @@ Connirae Andreas formule cinq distinctions chirurgicales réfutant l'assimilatio
   - **Présupposition logique implacable** : La transition *"this suggests there is something else that you don’t want"* relie l'obsession de réussite à sa contrepartie inconsciente de terreur d'échec.
   - **Tag question de synchronisation** : L'insertion du *"right?"* verrouille l'assentiment conscient avant de plonger le sujet sans transition dans la zone d'ombre refoulée avec deux questions directes à haute vitesse (*"So what don’t you want? What are you avoiding?"*).
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : Format Miroir — Travail avec les Aversions et les Attachements (Working with Aversions-Attac...
 
 Voici la modélisation opératoire complète de la tranche 3/3 du *Wholeness Work Level 1 - Participant Manual* de Connirae Andreas.
 
@@ -620,3 +627,4 @@ Voici la modélisation opératoire complète de la tranche 3/3 du *Wholeness Wor
 * **[Analyse du Pattern]** :
   * Présupposition d'état acquis (*« Being this way »*) en tête de phrase. L'état d'intégration n'est pas proposé comme une hypothèse à vérifier, mais posé comme la prémisse indéniable à partir de laquelle s'exécute le test.
   * Commande implicite d'observation phénoménologique (*« notice what it is like »*) : aucune attente prescriptive de « positivité » n'est imposée, permettant une calibration pure de la réponse autonome du système nerveux au contexte déclencheur réinitialisé.
+

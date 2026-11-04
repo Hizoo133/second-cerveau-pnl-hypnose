@@ -74,10 +74,47 @@ Le fil rouge reliant l'ensemble des interventions suit une mécanique cybernéti
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 117-239]** : Le "Handshake Interrupt" en Contexte Urbain Réel (Immersion In Vivo) — *Protocole :* Le "Handshake Interrupt" en Contexte Urbain Réel (Immersion In Vivo)
+- **Tranche 2 [Lignes 241-377]** : A : L'Ajustement d'État par Référence Proprioceptive (The Physical-to-Emotional Shift) — *Protocole :* A : L'Ajustement d'État par Référence Proprioceptive (The Physical-to-Emotional Shift)
+- **Tranche 3 [Lignes 379-542]** : A : La Formule en Deux Étapes (Turn In / Adjust -> Turn Out / Act) — *Protocole :* A : La Formule en Deux Étapes (Turn In / Adjust -> Turn Out / Act) | *Verbatim :* Recadrage de la résilience du noyau vs effondrement extérieur
+- **Tranche 4 [Lignes 544-669]** : Le Voyage Symbolique de Décharge et d'Échange Transpersonnel (Modélisé sur le retour de tran... — *Protocole :* Le Voyage Symbolique de Décharge et d'Échange Transpersonnel (Modélisé sur le retour de transe "Elfes / Nains") | *Mécanisme :* Le Contournement Épistémique par le Cadre Mythologique (Belief-Free Symbolic Architecture) | *Verbatim :* Le Cadre Agnostique d'Absorption Mythologique
+- **Tranche 5 [Lignes 671-803]** : Le Saut Temporel d'Identité (The 10-Year Executive Step-In) — *Protocole :* Le Saut Temporel d'Identité (The 10-Year Executive Step-In) | *Mécanisme :* Le « Frame » comme Posture Épistémique et Positionnelle | *Verbatim :* Recadrage Radical du Locus de Contrôle & Présupposition de Métamorphose
+- **Tranche 6 [Lignes 805-972]** : Le Réglage Préemptif du Cadre Interne (Pre-Interaction Frame Check) — *Protocole :* Le Réglage Préemptif du Cadre Interne (Pre-Interaction Frame Check) | *Verbatim :* La Régulation Permanente du Cadre
+- **Tranche 7 [Lignes 974-1115]** : Désamorçage Immédiat de Dominance / Neutralisation d'une Frame War — *Protocole :* Désamorçage Immédiat de Dominance / Neutralisation d'une Frame War | *Mécanisme :* Le Principe de Collision de Cadres (Frame Wars & Frame Collisions) | *Verbatim :* Le Recalibrage Foudroyant d'Autorité
+- **Tranche 8 [Lignes 1117-1220]** : Le Recadrage par Contraste Binaire Éclair (Contrast Reset Protocol) — *Protocole :* Le Recadrage par Contraste Binaire Éclair (Contrast Reset Protocol) | *Mécanisme :* Le Contraste comme Seul Révélateur Perceptif du Cadre (Perceptual Contrast) | *Verbatim :* Pattern 1 : L'Interrupteur par Contraste Éclair
+- **Tranche 9 [Lignes 1222-1381]** : Recalibrage Somato-Identitaire du Cadre par Détection de Déclencheur (Démonstration sur Chau... — *Protocole :* Recalibrage Somato-Identitaire du Cadre par Détection de Déclencheur (Démonstration sur Chauncey) | *Mécanisme :* 1 Le Postulat de l'Origine Interne du Cadre (Internal Frame vs Externalizing) | *Verbatim :* Verbatim 1 : Projection Somato-Énergétique du Cadre Dominant
+- **Tranche 10 [Lignes 1383-1499]** : A : La Pause-Miroir Médiatique (Extraction & Dépouillement de Cadre via Fiction/Observation) — *Protocole :* A : La Pause-Miroir Médiatique (Extraction & Dépouillement de Cadre via Fiction/Observation)
+- **Tranche 11 [Lignes 1501-1611]** : Le Découpage de Cadre (« Slicing and Dicing » - Incarner la posture VP dès le jour 1) — *Protocole :* Le Découpage de Cadre (« Slicing and Dicing » - Incarner la posture VP dès le jour 1) | *Verbatim :* Auto-Questionnement d'Éveil et de Réalignement Somatique
+- **Tranche 12 [Lignes 1613-1733]** : Le Découpage et Rétro-Ingénierie de Cadre (Slice and Dice the Frames) — *Protocole :* Le Découpage et Rétro-Ingénierie de Cadre (Slice and Dice the Frames) | *Mécanisme :* Le Principe d'Égalité des Cadres Sans Renversement (Connecting Frames without Toppling) | *Verbatim :* La Tenue du Cadre Souverain
+- **Tranche 13 [Lignes 1735-1852]** : Le Rituel Pré-Performance Tri-Modal (Pre-Performance Ritual) — *Protocole :* Le Rituel Pré-Performance Tri-Modal (Pre-Performance Ritual) | *Verbatim :* La bascule de souveraineté par la métaphorisation de l'aisance
+- **Tranche 14 [Lignes 1854-2061]** : Ancrage et Amorçage Trimodal Pré-Performance & Typologies d'amorçage neuro-physiologique pré... — *Protocole :* Ancrage et Amorçage Trimodal Pré-Performance | *Mécanisme :* Typologies d'amorçage neuro-physiologique pré-performance (Pre-Performance State Calibration) | *Verbatim :* La Cape d'Invisibilité et l'Absorption du Présentateur
+- **Tranche 15 [Lignes 2063-2173]** : Voyage d'Imprégnation en Réalité Simulée (SRI) – Fusion avec le Soi Futur Charismatique — *Protocole :* Voyage d'Imprégnation en Réalité Simulée (SRI) – Fusion avec le Soi Futur Charismatique | *Verbatim :* La rupture de fixation par clignement et expansion solaire
+- **Tranche 16 [Lignes 2175-2315]** : A : Interruption du Gel Mental et Focalisation sur le Premier Pas (First Step Sequence) — *Protocole :* A : Interruption du Gel Mental et Focalisation sur le Premier Pas (First Step Sequence) | *Verbatim :* Recadrage de la Nature du Charisme
+- **Tranche 17 [Lignes 2317-2453]** : Le Réalignement de Fiabilité Subconsciente (Micro-Engagements Temporels) — *Protocole :* Le Réalignement de Fiabilité Subconsciente (Micro-Engagements Temporels) | *Mécanisme :* Le Verrouillage Temporel de Fiabilité Interne (Micro-Integrity Anchoring) | *Verbatim :* La Stratégie d'Inviolabilité Temporelle
+- **Tranche 18 [Lignes 2455-2552]** : d'Inflexion d'Autorité et de Compression Linguistique (Exercice "Douglas") — *Protocole :* d'Inflexion d'Autorité et de Compression Linguistique (Exercice "Douglas")
+- **Tranche 19 [Lignes 2554-2719]** : Le Rituel d'Harmonisation Pré-Performance (Jackson Burnham) — *Protocole :* Le Rituel d'Harmonisation Pré-Performance (Jackson Burnham) | *Mécanisme :* Levier : Décloisonnement Identitaire Global (Holistic Presence) | *Verbatim :* La Directive d'Incarnation Absolue
+- **Tranche 20 [Lignes 2721-2895]** : L'Élévation de Maturité Systémique (The Reverse Maturity Play) — *Protocole :* L'Élévation de Maturité Systémique (The Reverse Maturity Play) | *Mécanisme :* Le Principe Homéostatique des Systèmes Humains et Résistance Inconsciente | *Verbatim :* La Métaphore de la Pénétration Inconsciente (Le Semis Mental)
+- **Tranche 21 [Lignes 2897-3034]** : A : La Chambre d'Empreinte de Réalité Simulée (Phase d'Ancrage de Différenciation & Sortie d... — *Protocole :* A : La Chambre d'Empreinte de Réalité Simulée (Phase d'Ancrage de Différenciation & Sortie du Holodeck) | *Mécanisme :* Régulation Systémique par la « Présence Moins Anxieuse » (Non-Adaptation Systémique) | *Verbatim :* Verbatim 1 : L'Inversion Temporelle Émergente
+- **Tranche 22 [Lignes 3036-3141]** : L'Inversion Paradoxale d'un Blocage ("Getting on the Other Side") — *Protocole :* L'Inversion Paradoxale d'un Blocage ("Getting on the Other Side")
+- **Tranche 23 [Lignes 3143-3247]** : Détection & Rétablissement Instantané de Cadre (In-Flight Frame Recovery) — *Protocole :* Détection & Rétablissement Instantané de Cadre (In-Flight Frame Recovery) | *Mécanisme :* Le « Frame Collision » & La Cécité aux Cadres Invisibles | *Verbatim :* Le Frame Collider Involontaire & Le Recadrage de Supériorité
+- **Tranche 24 [Lignes 3249-3354]** : Désamorçage d'une Tension Dyadique par Tiers Neutre — *Protocole :* Désamorçage d'une Tension Dyadique par Tiers Neutre | *Verbatim :* L'Accroche de la Maîtrise Invisible
+- **Tranche 25 [Lignes 3356-3489]** : Désamorçage et Navigation dans un Triangle Émotionnel (MyOS Triangle Shift) — *Protocole :* Désamorçage et Navigation dans un Triangle Émotionnel (MyOS Triangle Shift) | *Mécanisme :* La Loi de Trois et la Triangulation Systémique Émotionnelle | *Verbatim :* Rupture du Cadre d'Observation et Fusion Sujet/Cadre
+- **Tranche 26 [Lignes 3491-3610]** : Désengagement de la Position Centrale (Exiting the Togetherness Position) — *Protocole :* Désengagement de la Position Centrale (Exiting the Togetherness Position) | *Verbatim :* La Méta-Communication de Désamorçage (L'Enjeu sous l'Enjeu)
+- **Tranche 27 [Lignes 3612-3736]** : Dé-triangulation Opératoire par Restitution de l'Anxiété (« Sharing the Anxiety ») — *Protocole :* Dé-triangulation Opératoire par Restitution de l'Anxiété (« Sharing the Anxiety ») | *Verbatim :* La Restitution de Charge à l'Autorité
+- **Tranche 28 [Lignes 3738-3890]** : Recodage et Traversée de la Résistance Systémique (The Sound Barrier Protocol) — *Protocole :* Recodage et Traversée de la Résistance Systémique (The Sound Barrier Protocol) | *Mécanisme :* Le Syndrome de l'Accumulation Cognitive & la Fausse Productivité (Busy Work vs. Meaningful Work) | *Verbatim :* Le Double Lien entre Action Stérile et Travail Utile
+- **Tranche 29 [Lignes 3892-4009]** : A : Transmutation de la Colère & Désamorçage du Sabotage — *Protocole :* A : Transmutation de la Colère & Désamorçage du Sabotage | *Verbatim :* Le Défi Implicite de Compétence
+- **Tranche 30 [Lignes 4011-4132]** : Le Congédiement Courtois de la Voix Saboteuse (Externalisation & Dismissal) — *Protocole :* Le Congédiement Courtois de la Voix Saboteuse (Externalisation & Dismissal)
+- **Tranche 31 [Lignes 4134-4238]** : Désamorçage de l'Auto-Sabotage par Conditionnalité ("Busting the 'Better When' Loop") — *Protocole :* Désamorçage de l'Auto-Sabotage par Conditionnalité ("Busting the 'Better When' Loop") | *Verbatim :* La Souveraineté Cognitive face à la Pensée Empruntée
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 31 ---
+## Tranche 1 / 31 : Le "Handshake Interrupt" en Contexte Urbain Réel (Immersion In Vivo)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -201,8 +238,7 @@ Le fil rouge reliant l'ensemble des interventions suit une mécanique cybernéti
   > *"Years from now, years from now, what is your superpower when you've applied this day after day after day to where it's running in the background of your mental operating system? This is the key to unlimited willpower and self-respect."*
   * **[Analyse du Pattern]** : **Pont vers le futur hyperbolique (Future Pace) avec empilement d'itérations**. La répétition incantatoire de l'intervalle temporel distant (*"Years from now, years from now"*) couplée à l'adverbe itératif (*"day after day after day"*) installe la suggestion d'une automatisation irréversible. L'identité future est métaphorisée en "super-pouvoir" fonctionnant comme un programme d'arrière-plan autonome (*background OS*), présupposant l'intégration durable de la méthode.
 
-
-## --- Tranche 2 / 31 ---
+## Tranche 2 / 31 : A : L'Ajustement d'État par Référence Proprioceptive (The Physical-to-Emotional Shift)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -340,8 +376,7 @@ Le fil rouge reliant l'ensemble des interventions suit une mécanique cybernéti
 ```
 * **[Analyse du Pattern]** : Tautologie implosive et recadrage d'autorité par analogie spatiale. La réduction du problème complexe de l'influence à une règle physique incontestable (l'incapacité de guider vers un lieu inconnu) pulvérise les alibis intellectuels et place la responsabilité intégrale sur la congruence interne du praticien.
 
-
-## --- Tranche 3 / 31 ---
+## Tranche 3 / 31 : A : La Formule en Deux Étapes (Turn In / Adjust -> Turn Out / Act)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -506,8 +541,7 @@ Le fil rouge reliant l'ensemble des interventions suit une mécanique cybernéti
   - *Isomorphisme technique puissant* : La métaphore du transformateur convertissant la haute tension en courant exploitable offre au système inconscient une structure de traitement de l'agression : recevoir, faire transiter sans retenir, restituer sous forme régulée.
   - *Ancrage identitaire fonctionnel* : L'expression « least anxious presence » agit comme un critère de cadrage supérieur permanent (*operating frame*), gouvernant l'économie d'intervention verbale et somatique du praticien.
 
-
-## --- Tranche 4 / 31 ---
+## Tranche 4 / 31 : Le Voyage Symbolique de Décharge et d'Échange Transpersonnel (Modélisé sur le retour de tran...
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 4/31 du séminaire *MyOS* de Kenrick Cleveland, modélisée selon les principes de l'ingénierie comportementale, linguistique et hypnotique.
 
@@ -634,8 +668,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 4/31 du sé
   - **Anaphore rythmée et nominalisation neuro-somatique :** Répétition ternaire de *"that's the beginning of..."* suivie des termes de transe *"imprinting state"*, *"opening of theta"*, *"absorbed like a sponge"*. La métaphore sensorielle de l'éponge prédispose le sujet à la réceptivité passive.
   - **Commande temporelle enchâssée au présent :** *"And we're going to do that again, right in this session, right when you're listening."* Le lien causal bascule de la théorie passée vers l'acte présent : le simple fait d'écouter les explications réalise instantanément l'état d'imprégnation Thêta suggéré.
 
-
-## --- Tranche 5 / 31 ---
+## Tranche 5 / 31 : Le Saut Temporel d'Identité (The 10-Year Executive Step-In)
 
 Voici l’extraction intégrale et modélisée de la tranche 5/31 du cours **MyOS** de Kenrick Cleveland.
 
@@ -769,8 +802,7 @@ Voici l’extraction intégrale et modélisée de la tranche 5/31 du cours **MyO
   - **Ancrage analogique trivial (désacralisation) :** Comparer le réglage du cadre psychologique à l'ajustement de ses sous-vêtements (*« just like you can adjust your underwear »*) est un coup de génie linguistique : cela détruit instantanément la solennité ou la difficulté présumée de la maîtrise mentale.
   - **Bascule modale de permission à certitude :** Glissement imperceptible de la possibilité à la fatalité : *« can be adjusted »* se transforme en une nano-commande catégorique : *« It will at any moment »*.
 
-
-## --- Tranche 6 / 31 ---
+## Tranche 6 / 31 : Le Réglage Préemptif du Cadre Interne (Pre-Interaction Frame Check)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -939,8 +971,7 @@ Voici l’extraction intégrale et modélisée de la tranche 5/31 du cours **MyO
 
 * **[Analyse du Pattern]** : Question rhétorique immédiatement verrouillée par un jugement d'autorité axiomatique (*"if it's one down, it isn't a good one"*). Installation de la norme minimale incompressible de parité (*"at least even, at least equal"*). Clôture par une suggestion de cause à effet à forte charge magnétique (*"Your presence alone becomes an influence"*), transférant le pouvoir de l'argumentation discursive vers la seule radiation kinesthésique d'un cadre interne stabilisé.
 
-
-## --- Tranche 7 / 31 ---
+## Tranche 7 / 31 : Désamorçage Immédiat de Dominance / Neutralisation d'une Frame War
 
 Voici l'extraction chirurgicale et l'analyse opératoire de la **tranche 7/31** du cours *MyOS (My Operating System)* de Kenrick Cleveland.
 
@@ -1083,8 +1114,7 @@ Voici l'extraction chirurgicale et l'analyse opératoire de la **tranche 7/31** 
   - **Présuppositions enchâssées par questionnement ouvert (*Afformations*) :** En demandant *comment* ou *quand* c'est devenu si facile, l'énoncé court-circuite tout débat conscient sur le *si* c'est possible. L'inconscient est contraint de valider que la compétence est **déjà acquise** et s'attelle uniquement à justifier la facilité du processus.
   - **Ancrage identitaire puissant :** L'utilisation de verbes d'action souverains (*"wield"* / brandir, manier une arme) associée au silence transforme une simple absence de parole en une tactique d'influence et de contrôle actif de l'espace.
 
-
-## --- Tranche 8 / 31 ---
+## Tranche 8 / 31 : Le Recadrage par Contraste Binaire Éclair (Contrast Reset Protocol)
 
 Voici l'extraction chirurgicale et opératoire de la tranche 8/31 du séminaire *MyOS* de Kenrick Cleveland.
 
@@ -1189,8 +1219,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 8/31 du séminaire 
 > **« When someone comes at you with this stuff, he's going to laugh and walk away. It's not even worth hitting back because they have no effect on you. It's not like they knocked you down. So now you feel a need to respond. There is no need to respond because nothing happens. It falls on deaf ears. It goes right past you. It doesn't matter. »**
 * **[Analyse du Pattern] :** Rythme staccato et empilement de négations libératrices (*"no effect"*, *"not like they knocked you down"*, *"no need to respond"*, *"nothing happens"*, *"doesn't matter"*). Ce pattern détruit le réflexe automatique d'hyper-réactivité de l'ego en redéfinissant la force suprême non comme la contre-attaque, mais comme la non-résonance absolue (le vide face au coup).
 
-
-## --- Tranche 9 / 31 ---
+## Tranche 9 / 31 : Recalibrage Somato-Identitaire du Cadre par Détection de Déclencheur (Démonstration sur Chau...
 
 Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 9/31 du cours **MyOS (My Operating System)** par Kenrick Cleveland.
 
@@ -1351,8 +1380,7 @@ Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 
   - **Recadrage paradoxal de haut niveau** : Accorder la victoire ponctuelle à l'autre (*"I like what your ideas are better than mine"*) est redéfini non comme une soumission mais comme la marque suprême de solidité du cadre (*"In fact, I may well be keeping my frame by doing that"*).
   - **Satire comportementale dévalorisante** (*"little boys in the little pickup BS... I'm Mr. Big"*), disqualifiant la posture de domination agressive pour élever la posture de bienveillance souveraine au rang de véritable force opératoire.
 
-
-## --- Tranche 10 / 31 ---
+## Tranche 10 / 31 : A : La Pause-Miroir Médiatique (Extraction & Dépouillement de Cadre via Fiction/Observation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1470,8 +1498,7 @@ Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 
 > **"We drop the awareness into today at 5 p.m. when I'll be talking with so-and-so. Boom. When I pass through that time period, I'm talking with so-and-so, I'm, oh, am I aware? Am I at least somewhat forward? Am I paying attention?"**
 * **[Analyse du Pattern] :** Pont vers le futur (*future pacing*) kinesthésique et auditif avec ancre onomatopéique (*« Boom »*). L'utilisation de la première personne crée une identification projective immédiate, installant une commande cachée d'auto-calibration posturale et d'éveil de la vigilance dès que la balise temporelle externe sera franchie.
 
-
-## --- Tranche 11 / 31 ---
+## Tranche 11 / 31 : Le Découpage de Cadre (« Slicing and Dicing » - Incarner la posture VP dès le jour 1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1583,8 +1610,7 @@ Voici l'analyse d'ingénierie et de modélisation opérationnelle de la tranche 
 > **« I don't care how much I need this to happen. I'm going to go in and just not really care. Right now, what I can afford to do is care about the other person. So I'm going to do that. I'm going to care all I've got. I'm going to care. »**
 * **[Analyse du Pattern]** : Recadrage paradoxal par inversion du sens du verbe « *care* ». Cleveland passe de « s'en soucier par manque » (anxiété personnelle destructrice) à « prendre soin d'autrui » (empathie stratégique souveraine). La répétition rythmée en transe conversationnelle (« *I'm going to care all I've got. I'm going to care* ») sature l'inconscient et installe une redirection instantanée de la charge attentionnelle.
 
-
-## --- Tranche 12 / 31 ---
+## Tranche 12 / 31 : Le Découpage et Rétro-Ingénierie de Cadre (Slice and Dice the Frames)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 12/31.
 
@@ -1706,8 +1732,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > *"What is charisma? You hypnotize others and you're not easily hypnotized because you bend external reality to match your internal reality... You rule with absolute dominion in your inner domain. Your actions in the external world reflect this. You are always in your own world."*
 * **[Analyse du Pattern]** : Érotèse (question rhétorique) immédiatement suivie d'instructions assertives au présent de vérité générale (*« You hypnotize... you bend... you rule »*). L'utilisation répétée du pronom « You » fonctionne comme un ensemble de suggestions directes d'identité. La relation de cause à effet est scellée par la conjonction de causalité (*« because »*), liant la capacité à fasciner autrui au refus d'adhérer aux cadres extérieurs.
 
-
-## --- Tranche 13 / 31 ---
+## Tranche 13 / 31 : Le Rituel Pré-Performance Tri-Modal (Pre-Performance Ritual)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1826,8 +1851,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Répétition rythmée hypnotique* : *« They want you to do well. They want you to do well »* martelé pour briser la croyance paranoïde de l'audience hostile.
   - *Présupposition temporelle et boucle d'intégration inconsciente* : L'utilisation de *« You're going to get this in SRI... in your unconscious mind »* agit comme une suggestion post-hypnotique directe, déléguant l'acquisition du comportement au traitement subliminal et inconscient sans nécessiter d'effort conscient.
 
-
-## --- Tranche 14 / 31 ---
+## Tranche 14 / 31 : Ancrage et Amorçage Trimodal Pré-Performance & Typologies d'amorçage neuro-physiologique pré...
 
 Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 14/31.
 
@@ -2036,8 +2060,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 14/3
 > **« There is a single opening in the sun that morphs into the shape of a breathing human as you glide closer toward it. You realize that this is your future self embedded in the center of this magnificent red sun. You race toward it. The opening, your future self, raises their arms outward in an embrace for you to come inward and manifest. As you cross the threshold between you, the future self, you become engulfed in blinding white light of pure energy and power. »**
 * **[Analyse du Pattern]** : Emploi d'archétypes solaires et de métaphores de transformation alchimique. La personnification du soleil en Soi Futur respirant induit une identification transpersonnelle immédiate. Le double mouvement convergent (*« raises their arms outward in an embrace for you to come inward and manifest »*) crée un double lien kinesthésique d'inévitabilité. Le passage de seuil (*« cross the threshold »*) opère une collapse d'ancres temporelles (présent/futur) scellée par l'éblouissement symbolique de la lumière blanche.
 
-
-## --- Tranche 15 / 31 ---
+## Tranche 15 / 31 : Voyage d'Imprégnation en Réalité Simulée (SRI) – Fusion avec le Soi Futur Charismatique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2149,8 +2172,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 14/3
 * **[Analyse du Pattern]** :  
   Association d'une affirmation de contrôle métaphysique/perceptif (*« I bend external reality... »*) avec une question de présupposition de fait achevé (*« How did my charisma become so powerful that... »*). Métaphore spatiale de souveraineté absolue (*« constructed of gold and everywhere I sit is a throne »*) qui ancre kinesthésiquement un statut social suprême dans n'importe quel contexte physique, éliminant la possibilité d'un sentiment d'infériorité territoriale.
 
-
-## --- Tranche 16 / 31 ---
+## Tranche 16 / 31 : A : Interruption du Gel Mental et Focalisation sur le Premier Pas (First Step Sequence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2292,8 +2314,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 14/3
   - *Série de truismes et d'accords socratiques* : En faisant valider à l'interlocuteur son propre désir en tant que spectateur (« *did you come in wanting to have a bad time?* »), il force une projection par identification immédiate.
   - *Recadrage de causalité réflexive* : « *the only time when I'm going to get criticized is when I expect that I'm going to get criticized* ». Lie directement l'hostilité de l'environnement à la prophétie auto-réalisatrice et à la posture défensive de l'orateur, désarmant ainsi la paranoïa de la critique au profit d'une présupposition de complicité récréative avec le public.
 
-
-## --- Tranche 17 / 31 ---
+## Tranche 17 / 31 : Le Réalignement de Fiabilité Subconsciente (Micro-Engagements Temporels)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/31 du cours **MyOS (My Operating System)** par Kenrick Cleveland (avec interventions de Jackson).
 
@@ -2431,8 +2452,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/3
   * **Attribution causale positive (*Cause-Effect Reframe*) :** Les améliorations non sollicitées de la vie quotidienne de l'élève (manger sain, ranger son bureau) sont réétiquetées comme la preuve irréfutable du bon fonctionnement de la stratégie globale (*"snapping into place"*).
   * **Double lien d'intégrité (*Integrity Double Bind*) :** *"If you can't do it for you, how are you going to lead other people?"* force le système du praticien à s'aligner d'abord personnellement pour prétendre acquérir un pouvoir d'influence externe.
 
-
-## --- Tranche 18 / 31 ---
+## Tranche 18 / 31 : d'Inflexion d'Autorité et de Compression Linguistique (Exercice "Douglas")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2531,8 +2551,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/3
 > **"When I'm in a store, I'm wondering how I can turn up my charisma on the fly."**
 * **[Analyse du Pattern]** : Commande conversationnelle enchâssée sous couverture d'interrogation auto-réflexive (« I'm wondering how... ») délivrée avec une inflexion descendante terminale. La syntaxe transforme un doute ou une demande d'aide extérieure en une assertion de compétence interne en cours d'activation, bloquant tout débat ou réfutation inconsciente.
 
-
-## --- Tranche 19 / 31 ---
+## Tranche 19 / 31 : Le Rituel d'Harmonisation Pré-Performance (Jackson Burnham)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de la **tranche 19/31** du programme *MyOS (My Operating System)* de Kenrick Cleveland.
 
@@ -2699,8 +2718,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **"Maybe it's time for you to step up onto the flatbed of your own truck and beat the roof with your hands and beat it to your own beat. Weirdly enough, that's what draws people to you. The more different you are, the more people will hate you and the more people will love you. Those two reactions are what you're after. Lukewarm is not good enough when it comes to people's reactions to you. Buckle up, buttercup. Let's get real."**
 - **[Analyse du Pattern] :** Double lien permissif (*"The more... the more..."*) créant une relation de causalité directe entre l'amplification de la différence individuelle et la puissance du retour environnemental. L'acceptation délibérée de la haine comme sous-produit obligatoire et désirable de l'amour brise le schéma d'évitement de conflit du sujet, scellé par une injonction familière de réveil tonique (*"Buckle up, buttercup. Let's get real"*).
 
-
-## --- Tranche 20 / 31 ---
+## Tranche 20 / 31 : L'Élévation de Maturité Systémique (The Reverse Maturity Play)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 20/31 du cours **"MyOS (My Operating System)"** de Kenrick Cleveland (avec John et Jackson).
 
@@ -2876,8 +2894,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 
 * **[Analyse du Pattern] :** Glissement de personne pronominale : passage de la première personne du singulier (*« I give myself permission »*, induisant une auto-suggestion à la première personne que le cerveau du sujet répète intérieurement) à la deuxième personne (*« you are finding yourself »*). L'utilisation de *« finding yourself remaining »* installe une découverte passive d'un fait accompli : le sujet ne force pas le calme, il se surprend lui-même à être devenu l'élément le moins anxieux du système relationnel.
 
-
-## --- Tranche 21 / 31 ---
+## Tranche 21 / 31 : A : La Chambre d'Empreinte de Réalité Simulée (Phase d'Ancrage de Différenciation & Sortie d...
 
 Voici l'analyse opératoire intégrale de la tranche 21/31 du cours **"MyOS (My Operating System)"** de Kenrick Cleveland (avec interventions de John et des participants à l'atelier).
 
@@ -3016,8 +3033,7 @@ Voici l'analyse opératoire intégrale de la tranche 21/31 du cours **"MyOS (My 
 > « All of these lessons build, they all build on each other. So start with the most obvious thing, which is always your intention, always the overarching strategy. Once you have that in place, analyze for which tactic fits into the strategy that equals the intention. »
 * **[Analyse du Pattern]** : **Empilement hiérarchique cybernétique.** Kenrick articule la règle d'or d'ingénierie comportementale : Intention (téléologie) -> Stratégie (cadre d'ensemble) -> Tactique (manœuvre micro). La répétition (*« build, they all build »*) ancre la solidité structurelle du système MyOS, empêchant l'erreur commune de se perdre dans les gimmicks tactiques sans intention directrice.
 
-
-## --- Tranche 22 / 31 ---
+## Tranche 22 / 31 : L'Inversion Paradoxale d'un Blocage ("Getting on the Other Side")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3124,8 +3140,7 @@ Voici l'analyse opératoire intégrale de la tranche 21/31 du cours **"MyOS (My 
 > "Be water, move past it, form into it. Water can crush, water can flow around. It takes the easiest path."
 - **[Analyse du Pattern]** : Commande métaphorique directe à ancrage somatique et archétypal. L'utilisation d'impératifs courts (*"Be water, move past it, form into it"*) force une induction kinesthésique d'écoulement, de souplesse adaptative et d'invincibilité passive, éliminant la tension liée au besoin de heurter ou vaincre frontalement les obstacles.
 
-
-## --- Tranche 23 / 31 ---
+## Tranche 23 / 31 : Détection & Rétablissement Instantané de Cadre (In-Flight Frame Recovery)
 
 Voici l'extraction et la modélisation intégrale de la matière opératoire contenue dans la tranche 23/31 de *MyOS*.
 
@@ -3231,8 +3246,7 @@ Voici l'extraction et la modélisation intégrale de la matière opératoire con
 > **« I think we have a small misunderstanding. It is my authority, along with my wife's authority, that enables you to have any authority. It's because we grant you a little bit of our authority. You can't tell me you're granting me authority. It's our child. »**
 * **[Analyse du Pattern]** : Recadrage de prémisse d'autorité par renversement hiérarchique et clarification de la chaîne de délégation. Kenrick utilise un adoucisseur poli (« *a small misunderstanding* ») immédiatement suivi d'une affirmation de cadre implacable (« *enables you to have any authority* »). Il brise la tentative de l'institution scolaire de se poser en autorité supérieure sur l'enfant en repositionnant les parents comme la source originelle qui délègue temporairement un fragment de souveraineté.
 
-
-## --- Tranche 24 / 31 ---
+## Tranche 24 / 31 : Désamorçage d'une Tension Dyadique par Tiers Neutre
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3339,8 +3353,7 @@ Voici l'extraction et la modélisation intégrale de la matière opératoire con
 > "In preparation for deeply imprinting this material, it's time to relax and shift your attention inward. So, close your eyes. And this simulated reality imprinting has begun. [...] You should be hearing this in your right ear. And now, you should be hearing this in your left ear. [...] As you listen, the words begin to affect you in a very interesting way, and you begin to recall a wonderful, pleasant experience from a time in your life in which you were much younger."
 - **[Analyse du Pattern]** : Présupposition causale directe (*"In preparation for deeply imprinting... it's time to relax"*). Utilisation d'un basculement de l'attention hémisphérique par guidage binaural explicite (*"right ear... left ear"*), qui sature les canaux de traitement auditif. L'adjectif non spécifique (*"in a very interesting way"*) constitue un truisme d'injonction ouverte laissant l'inconscient projeter ses propres manifestations de transe, suivi d'une régression temporelle naturelle vers des ressources d'apprentissage de l'enfance.
 
-
-## --- Tranche 25 / 31 ---
+## Tranche 25 / 31 : Désamorçage et Navigation dans un Triangle Émotionnel (MyOS Triangle Shift)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 25/31 de la transcription brute du cours *MyOS (My Operating System)* de Kenrick Cleveland (couvrant la fin de la leçon précédente, la session d'hypnose SRI *Week 5 Law of Three*, les affirmations subliminales et le démarrage du *Workshop*).
 
@@ -3475,8 +3488,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 25/31 de la transcrip
 > - **Enchâssement récursif (*dreams inside the dreams*) :** Crée une boucle de transe à l'intérieur de la transe, saturant l'esprit logique et contournant tout filtre critique.
 > - **Suggestion post-hypnotique de rétroaction corrective automatique :** Programme le système inconscient à faire tourner des simulations oniriques nocturnes de résolution de conflits avec auto-correction en boucle fermée (*feedback loop autonome*).
 
-
-## --- Tranche 26 / 31 ---
+## Tranche 26 / 31 : Désengagement de la Position Centrale (Exiting the Togetherness Position)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3597,8 +3609,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 25/31 de la transcrip
   - *Acceptation radicale du pire scénario (Stoic internal pivot)* : En formulant cette phrase intérieurement sans la projeter dans l'espace verbal, le sujet supprime le levier de chantage émotionnel que l'agresseur exploite. 
   - *Désactivation somatique sans escalade* : Évite le retour de flamme d'une menace explicite tout en modifiant instantanément la posture non-verbale, le tonus musculaire et le micro-comportement face à l'intimidateur, lui retirant toute prise sur la physiologie de la peur.
 
-
-## --- Tranche 27 / 31 ---
+## Tranche 27 / 31 : Dé-triangulation Opératoire par Restitution de l'Anxiété (« Sharing the Anxiety »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3724,8 +3735,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 25/31 de la transcrip
   - **Intervention directe sur les submodalités critiques** : présuppose que le problème n'est pas la nature des événements mais leur proximité et leur hauteur par rapport aux yeux (*« too close and over the top of you »*).
   - **Commande somatique enchâssée d'éloignement spatial** (*« simply push all that away... push those pictures a bit further away »*) qui produit instantanément chez l'auditeur une décompression du champ visuel interne et une réinitialisation de la perspective globale.
 
-
-## --- Tranche 28 / 31 ---
+## Tranche 28 / 31 : Recodage et Traversée de la Résistance Systémique (The Sound Barrier Protocol)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 28/31 du cours **"MyOS" de Kenrick Cleveland** (avec les interventions de John et Jackson).
 
@@ -3879,8 +3889,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 28/31 du
   - Suggestion de traitement interne inconscient (*"let each of these ideas resonate, let each of these ideas go inside you"*).
   - Questionnement transe-dérivationnel empilé orienté vers l'avenir (*"What does the reality of understanding this now do for you?"*). Le mot *"reality"* et l'adverbe temporel *"now"* verrouillent l'intégration au présent dans le système nerveux.
 
-
-## --- Tranche 29 / 31 ---
+## Tranche 29 / 31 : A : Transmutation de la Colère & Désamorçage du Sabotage
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3999,8 +4008,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 28/31 du
 
 * **[Analyse du Pattern]** : Présupposition d'apprentissage secret (*"a secret way of knowing"*) qui lie arbitrairement le rejet d'autrui au signal d'alignement parfait. Le glissement syntaxique vers l'utilisation du verbe non spécifique (*"combining"*, *"working in your favor"*) couplé à une calibration prédictive somatique (*"Nodding with a sly smile"*) suscite la réponse physique chez l'auditeur tout en dérivant vers une ratification ouverte de transe intégrative profonde.
 
-
-## --- Tranche 30 / 31 ---
+## Tranche 30 / 31 : Le Congédiement Courtois de la Voix Saboteuse (Externalisation & Dismissal)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4123,8 +4131,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 28/31 du
 > **"You don't have to destroy to create. You can clean. I can clean. I can change. I can maneuver."**
 * **[Analyse du Pattern]** : Recadrage conceptuel en cascade soutenu par des verbes d'action courts et kinesthésiques. Déconstruction de la croyance binaire et violente "création = destruction" par l'introduction d'un continuum écologique (*clean, change, maneuver*). Le passage de la deuxième personne (*"You"*) à la première personne (*"I"*) permet à Cleveland de modéliser le processus par auto-ancrage vocal.
 
-
-## --- Tranche 31 / 31 ---
+## Tranche 31 / 31 : Désamorçage de l'Auto-Sabotage par Conditionnalité ("Busting the 'Better When' Loop")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4229,3 +4236,4 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 28/31 du
 #### Pépite 4 : La Transition Quête-SRI (Morphing Conscient-Inconscient)
 > **"So it's a quest, and this is not at a really profound, deep imprinting state. This requires some consciousness, right? So as soon as the quest is over, you could continue and morph right on into the SRI."**
 > - *[Analyse du Pattern]* : Pont temporel avec double lien d'intégration progressive. L'utilisation du mot *"morph"* suggère une transition sans couture, graduelle et organique d'un état d'attention focalisée active (la métaphore de la quête) vers un état d'abandon et de réceptivité profonde (le SRI). L'interrogatif de vérification (*"right?"*) verrouille l'assentiment du conscient avant de commander la bascule inconsciente.
+

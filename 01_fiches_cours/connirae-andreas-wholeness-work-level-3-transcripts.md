@@ -59,10 +59,31 @@ Le fil conducteur unifiant l'ensemble des interventions du niveau 3 suit une gra
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 86-219]** : A : Intégration Holistique Multimodale du Point de Présence ("Where Am I Actually Present?") — *Protocole :* A : Intégration Holistique Multimodale du Point de Présence ("Where Am I Actually Present?") | *Verbatim :* Le Cadre de la Présence Inconditionnelle comme Amour Vrai
+- **Tranche 2 [Lignes 221-357]** : A : Intégration du « Jeu » Relationnel (Relational Game Format) — *Protocole :* A : Intégration du « Jeu » Relationnel (Relational Game Format)
+- **Tranche 3 [Lignes 359-507]** : A : Clôture & Intégration Somatique des Résidus (Micro-séquence issue de la démo 1) — *Protocole :* A : Clôture & Intégration Somatique des Résidus (Micro-séquence issue de la démo 1) | *Verbatim :* La métaphore métabolique de la Conscience
+- **Tranche 4 [Lignes 509-637]** : d'Intégration des Métaprogrammes (Exemple de l'Orienteur / Tri par Lieu) — *Protocole :* d'Intégration des Métaprogrammes (Exemple de l'Orienteur / Tri par Lieu) | *Verbatim :* La question d'amorçage ontologique
+- **Tranche 5 [Lignes 639-778]** : A : Intégration du Dialogue Interne et des Structures Auditives (Auditory Integration Process) — *Protocole :* A : Intégration du Dialogue Interne et des Structures Auditives (Auditory Integration Process) | *Verbatim :* Verbatim 1 : Recadrage ontologique de la défensive
+- **Tranche 6 [Lignes 780-939]** : Déconstruction et Intégration Sensorielle Complète (« Where Am I Present / Sensory Capacitie... — *Protocole :* Déconstruction et Intégration Sensorielle Complète (« Where Am I Present / Sensory Capacities Format ») | *Mécanisme :* Élicitation des points d'ancrage perceptifs sensoriels (« Where Am I Actually Present / Sensory Capacities »)
+- **Tranche 7 [Lignes 941-1068]** : Wholeness Dream Work — Phase 1 (Nettoyage de la Réactivité Vigile et Élicitation du Rêve) — *Protocole :* Wholeness Dream Work — Phase 1 (Nettoyage de la Réactivité Vigile et Élicitation du Rêve) | *Verbatim :* La Normalisation des Limites de l'Ego
+- **Tranche 8 [Lignes 1070-1244]** : Intégration des Éléments Oniriques — Phase 1 & Phase 2 (Wholeness Work on Dreams) — *Protocole :* Intégration des Éléments Oniriques — Phase 1 & Phase 2 (Wholeness Work on Dreams)
+- **Tranche 9 [Lignes 1246-1367]** : A : Intégration Systémique des Éléments du Rêve (Phase 2 & Itérations) — *Protocole :* A : Intégration Systémique des Éléments du Rêve (Phase 2 & Itérations) | *Mécanisme :* Transmutation de la Charge Ombresque par Intégration Structurale | *Verbatim :* La transmutation somatique de l'objet violent
+- **Tranche 10 [Lignes 1369-1534]** : A : Intégration par les Canaux Sensoriels ("Where am I Present?") — *Protocole :* A : Intégration par les Canaux Sensoriels ("Where am I Present?") | *Verbatim :* Le cadrage permissif d'entrée de jeu
+- **Tranche 11 [Lignes 1536-1701]** : A : Capture et Dissolution Immédiate du "Chercheur de Clarté" (The One Who Wants to Know) — *Protocole :* A : Capture et Dissolution Immédiate du "Chercheur de Clarté" (The One Who Wants to Know) | *Mécanisme :* Intégration des Expériences Positives & Rêves (positivestateintegration dissolutionofclinging) | *Verbatim :* Préservation du Mystère et Évitement du Piège Herméneutique
+- **Tranche 12 [Lignes 1703-1848]** : Intégration de la Polarité d'Écoute (Forward-Back Polarity Integration) — *Protocole :* Intégration de la Polarité d'Écoute (Forward-Back Polarity Integration) | *Mécanisme :* Le piège de l'effort attentionnel vs L'Inclusion Radicale | *Verbatim :* Recadrage de la lutte contre la distraction
+- **Tranche 13 [Lignes 1850-2021]** : A : Navigation et Déblocage du Système Kinesthésique Granulaire — *Protocole :* A : Navigation et Déblocage du Système Kinesthésique Granulaire | *Verbatim :* L'Effondrement Non-Duel du Témoin (4th Direction)
+- **Tranche 14 [Lignes 2023-2193]** : d'Intégration des Polarités Structurelles (Wholeness Structure-Based Polarity Integration) — *Protocole :* d'Intégration des Polarités Structurelles (Wholeness Structure-Based Polarity Integration) | *Verbatim :* Le Pré-framing de l'Accueil Inconscient des Structures
+- **Tranche 15 [Lignes 2195-2347]** : Intégration Somato-Spatiale des Polarités (Wholeness Polarity Process) — *Protocole :* Intégration Somato-Spatiale des Polarités (Wholeness Polarity Process) | *Verbatim :* Le Cadrage Déculpabilisant de la Dissociation Somato-Spatiale
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 15 ---
+## Tranche 1 / 15 : A : Intégration Holistique Multimodale du Point de Présence ("Where Am I Actually Present?")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -197,8 +218,7 @@ Le fil conducteur unifiant l'ensemble des interventions du niveau 3 suit une gra
 > « And then the question just came into my awareness, like, where's the game? I didn't know what that meant, but the question was there. So I just let the answer reveal itself, where's the game? And this location emerged... somewhere kind of in front of me, is a distinct location, and I got the sensation quality. And as I, even as I began sensing the sensation quality, it was like, there was almost immediately this pop. »
 * **[Analyse du Pattern]** : Présupposition d'indépendance de l'inconscient par dissociation agentielle (*« came into my awareness »*, *« let the answer reveal itself »*). La question *« where's the game? »* applique une nominalisation comportementale (*game*) dans un champ spatial (*where*). Cela force le cerveau à matérialiser la transaction relationnelle cachée sous forme d'objet sous-modal spatialisé distinct de l'observateur, rendant possible son collapsus instantané (*« this pop »*).
 
-
-## --- Tranche 2 / 15 ---
+## Tranche 2 / 15 : A : Intégration du « Jeu » Relationnel (Relational Game Format)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -336,8 +356,7 @@ Le fil conducteur unifiant l'ensemble des interventions du niveau 3 suit une gra
 > *"This is like awareness savoring its meal, you know, because these separate structures that we have inside, when we process them, it's like the awareness can rejoice in the whole thing, this awareness literally digests these experiences."*
 - **[Analyse du Pattern]** : Métaphore organique d'assimilation métabolique. Connirae transforme l'inconfort (le brûlant dans l'estomac) en nourriture pour la présence consciente (*savoring its meal*, *literally digests*). Le mot *literally* ancre le pattern au niveau physique profond, modifiant la réaction émotionnelle d'aversion en un processus viscéral d'absorption rassurant et régénérateur.
 
-
-## --- Tranche 3 / 15 ---
+## Tranche 3 / 15 : A : Clôture & Intégration Somatique des Résidus (Micro-séquence issue de la démo 1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -487,8 +506,7 @@ Le fil conducteur unifiant l'ensemble des interventions du niveau 3 suit une gra
 
 * **[Analyse du Pattern]** : Présupposition d'auto-organisation téléologique (*« the wisdom of how it unfolds on its own »*, *« the wisdom of our being »*). Cette suggestion conversationnelle retire totalement la responsabilité du changement à l'ego volontaire du sujet pour la confier à la totalité somatique, éliminant par définition le stress de performance et l'anxiété du résultat.
 
-
-## --- Tranche 4 / 15 ---
+## Tranche 4 / 15 : d'Intégration des Métaprogrammes (Exemple de l'Orienteur / Tri par Lieu)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Wholeness Work Level 3* de Connirae Andreas.
 
@@ -618,8 +636,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Whole
 * **[Analyse du Pattern]** :  
   *Recadrage d'état et distinction ontologique (Discernement vs Jugement).* Connirae métaphorise l'affect aversif (honte/gêne) en « porte d'accès vers la liberté » (« *doorway to freedom* »). Elle désamorce la crainte de la perte de repères en introduisant une distinction tranchée : l'abandon du jugement n'abolit pas la perception de la réalité, il restaure le « discernement » fonctionnel pur (« *discernment* » vs « *judging* »), permettant au système de basculer d'une morale d'inhibition à une clarté d'action écologique.
 
-
-## --- Tranche 5 / 15 ---
+## Tranche 5 / 15 : A : Intégration du Dialogue Interne et des Structures Auditives (Auditory Integration Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -760,8 +777,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Whole
 > "And when I, I'm going to ask you a question in a moment and I'm going to ask the question in several different ways and you can just let the questions go in without thinking and let your system respond. Your system might respond to one or another. You don't even need to know which one your system is responding to. Just notice the answer that emerges."
 * **[Analyse du Pattern]** : Double dissociation cognitive entre le mental conscient de Gilad et son système autonome (*"let your system respond"*, *"without thinking"*). La décharge de responsabilité analytique (*"You don't even need to know which one your system is responding to"*) court-circuite toute tentative de contrôle réflexif ou d'anticipation, créant un état réceptif pur où seule la phénoménologie somatique involontaire est autorisée à faire surface.
 
-
-## --- Tranche 6 / 15 ---
+## Tranche 6 / 15 : Déconstruction et Intégration Sensorielle Complète (« Where Am I Present / Sensory Capacitie...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -922,8 +938,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Whole
   > « We've been taught to be really nice and you know, there's some value in being nice and being considerate and yet sometimes our knee-jerk reactions about consideration can actually get in the way of our wholeness, of our integrated wholeness about our just showing up and being present as who we are, which is the only thing we really can do. You know, I am who I am with all my limitations and imperfections. That's what you get. »
   * **[Analyse du Pattern]** : Rupture de pattern sur les conventions sociales (« knee-jerk reactions about consideration »). Connirae démonte le surmoi de politesse en le redéfinissant comme un obstacle somatique à la plénitude (« get in the way of our wholeness »). Elle pose une égalité de statut (« That's what you get, from me, from you ») qui anéantit l'asymétrie praticien/sujet et dissout la honte d'exister dans sa singularité imparfaite.
 
-
-## --- Tranche 7 / 15 ---
+## Tranche 7 / 15 : Wholeness Dream Work — Phase 1 (Nettoyage de la Réactivité Vigile et Élicitation du Rêve)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1052,8 +1067,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Whole
 
 * **[Analyse du Pattern]** : Empilement de truismes à choix multiples ericksonien se terminant par une porte ouverte sur l'inconnaissable (*"or something else that we can't even describe"*). Ce pattern sature les tentatives de contrôle du conscient en lui offrant plusieurs métaphores de résolution, tout en validant d'avance toute réponse émergente spontanée du système nerveux.
 
-
-## --- Tranche 8 / 15 ---
+## Tranche 8 / 15 : Intégration des Éléments Oniriques — Phase 1 & Phase 2 (Wholeness Work on Dreams)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1229,8 +1243,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 4/15 du cours *Whole
 > **"What becomes bizarre and distorted when we exclude it, when we reclaim it, it's laughter, love, it's these nice things, you know? That's, it's basically always a distortion of love. And as it's reclaimed, it's like the goodness of it is released within it, the goodness that's without opposite."**
 * **[Analyse du Pattern]** : *Recadrage ontologique universel et utilisation du concept de « bien sans contraire ».* Le contraste entre l'énergie exclue (« bizarre and distorted ») et l'énergie réappropriée (« laughter, love ») valide les signaux somatiques involontaires (le fou rire de Laura). La qualification de « goodness that's without opposite » désamorce tout risque de bascule pendulaire vers un opposé négatif, ancrant l'intégration dans une non-dualité stable.
 
-
-## --- Tranche 9 / 15 ---
+## Tranche 9 / 15 : A : Intégration Systémique des Éléments du Rêve (Phase 2 & Itérations)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 9/15 du cours *Wholeness Work Level 3* de Connirae Andreas.
 
@@ -1353,8 +1366,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 9/15
   - **Fermeture de boucle sur l'objectif du client :** Pont direct entre le symptôme somatique (*« feeling in your chest »*) et le résultat désiré (*« process that »*), sans vendre la méthodologie mais l'issue.
   - **Safety net paradoxal :** La permission anticipée de signaler si c'est « trop bizarre ou confus » valide implicitement que l'expérience sera inhabituelle tout en installant une sécurité totale (locus de contrôle conservé par le client).
 
-
-## --- Tranche 10 / 15 ---
+## Tranche 10 / 15 : A : Intégration par les Canaux Sensoriels ("Where am I Present?")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1521,8 +1533,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 9/15
   - *Tag questions d'adhésion corporelle* : *« isn't it? »* synchronise le sujet avec la prise de conscience spatiale de sa propre dissociation intellectuelle.
   - *Bénédiction de la résistance* : Qualifier l'intellectualisation de *« beautiful part of your being »* stoppe net toute autodépréciation et prépare l'assimilation bienveillante (*« kindly inviting this to be included »*).
 
-
-## --- Tranche 11 / 15 ---
+## Tranche 11 / 15 : A : Capture et Dissolution Immédiate du "Chercheur de Clarté" (The One Who Wants to Know)
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 11/15, selon les règles absolues d'ingénierie demandées.
 
@@ -1689,8 +1700,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 11/15
   * **Inversion dialectique :** Au lieu d'éliminer la directionalité, Connirae ordonne d'aller chercher la directionalité elle-même : *"What is the listening that has a direction to it? Where's the one doing that?"*
   * **Commande d'inclusion radicale :** *"Include that"* agit comme un commandement direct en deux mots qui résout le conflit intérieur : l'obstacle devient le véhicule d'intégration, annulant instantanément la posture d'un "ego qui essaie d'être éveillé".
 
-
-## --- Tranche 12 / 15 ---
+## Tranche 12 / 15 : Intégration de la Polarité d'Écoute (Forward-Back Polarity Integration)
 
 Voici l'extraction et la modélisation intégrale de la tranche 12/15 du cours **Wholeness Work Level 3** dispensé par **Connirae Andreas**.
 
@@ -1837,8 +1847,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 12/15 du cours *
 
 * **[Analyse du Pattern] :** Dé-nominalisation radicale du terme générique « kinesthésique ». Connirae fragmente le canal en prédicats opérationnels distincts. En assignant à chacun l'interrogation identitaire réflexive (*« the one who tactily senses »*, *« the one who feels emotional »*, *« the one who moves »*), elle offre au praticien une grille d'accès multi-portes pour traquer les identités réactives dissimulées derrière des symptômes somatiques réfractaires.
 
-
-## --- Tranche 13 / 15 ---
+## Tranche 13 / 15 : A : Navigation et Déblocage du Système Kinesthésique Granulaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2011,8 +2020,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 12/15 du cours *
   - *Présupposition d'Inhérence Biologique (« the wisdom already inherent within each cell »)* : Utilisation de l'adverbe « *already* » qui installe comme un fait accompli indiscutable l'existence d'une intelligence d'auto-réparation somatique.
   - *Redéfinition Micro-Spatiale (« within and between the cells »)* : Déplacement de la focalisation attentionnelle du macro-anatomique vers l'espace interstitiel microscopique, induisant une transe somatique hautement focalisée propice à la neuro-immunomodulation.
 
-
-## --- Tranche 14 / 15 ---
+## Tranche 14 / 15 : d'Intégration des Polarités Structurelles (Wholeness Structure-Based Polarity Integration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2184,8 +2192,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 12/15 du cours *
   - *Double liaison ericksonienne permissive couplée à une issue ouverte* : Proposer l'option A (la conscience tombe et se détend dans la sensation), l'option B (la sensation coule, se dissout et fond dans la conscience), puis l'échappatoire universelle (`or something else`).
   - *Prédicats de liquéfaction et de relâchement kinesthésique* : Empilement hypnotique de verbes à induction somatique lente : `fall into`, `relax in and as`, `flow into`, `dissolve and melt`. Ces termes provoquent par contagion proprioceptive la fonte du tonus musculaire et de la frontière moi/sensation.
 
-
-## --- Tranche 15 / 15 ---
+## Tranche 15 / 15 : Intégration Somato-Spatiale des Polarités (Wholeness Polarity Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2338,3 +2345,4 @@ Voici l'extraction et la modélisation intégrale de la tranche 12/15 du cours *
 * **[Analyse du Pattern]** :  
   * *Régression d'âge conversationnelle induite* : L'évocation de l'enfant qui reçoit des jouets désactive le censeur de l'adulte perfectionniste qui craint de « mal faire ».
   * *Question rhétorique avec confirmation négative taguée (« does it? »)* : Verrouille l'adhésion du groupe au modèle de l'exploration sans enjeu, éliminant la tension de performance liée à l'apprentissage d'un nouveau protocole.
+

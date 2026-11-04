@@ -70,10 +70,19 @@ Une contraction psychologique ne peut pas subsister dans le vide : elle est main
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 85-273]** : Inclusion des Réactions et Méta-Réponses & Inclusion Récursive des Réactions et Méta-Réponses — *Protocole :* Inclusion des Réactions et Méta-Réponses | *Mécanisme :* Inclusion Récursive des Réactions et Méta-Réponses | *Verbatim :* L'invitation à la dissolution identitaire par truisme d'inclusion spatiale
+- **Tranche 2 [Lignes 275-454]** : Polarités Générales & Intégration Dipolaire & La Polarité Somato-Spatiale comme Tension de M... — *Protocole :* Polarités Générales & Intégration Dipolaire | *Mécanisme :* La Polarité Somato-Spatiale comme Tension de Maintien Égotique | *Verbatim :* Court-circuit de l'intellect et induction de réceptivité pour la polarité
+- **Tranche 3 [Lignes 456-638]** : Intégration des Identités Métaprogrammes (Exemple : Information / Knower) — *Protocole :* Intégration des Identités Métaprogrammes (Exemple : Information / Knower) | *Mécanisme :* Nominalisation Métaprogramme et Dissolution d'Identité Fixée | *Verbatim :* La 4e Direction d'Intégration (Effondrement non-duel)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : Inclusion des Réactions et Méta-Réponses & Inclusion Récursive des Réactions et Méta-Réponses
 
 Voici l'analyse opératoire intégrale de la tranche 1/3 du manuel *Wholeness Work Level III* de Connirae Andreas.
 
@@ -263,8 +272,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/3 du manuel *Wholeness Wo
   - **Normalisation dédramatisante** : L'utilisation de termes neutres de dynamique des systèmes (*« misdirection »*, *« indirect communication »*, *« solitaire »*) désamorce toute culpabilité ou honte associée à l'idée d'être manipulateur.
   - **Nécessité logique implicite** (*« there must be some other element »*) : Force présuppositionnelle contraignant l'inconscient à projeter immédiatement dans l'espace somatosensoriel la contrepartie relationnelle (le leurré / la cible).
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : Polarités Générales & Intégration Dipolaire & La Polarité Somato-Spatiale comme Tension de M...
 
 Voici l'analyse opératoire intégrale de la tranche 2/3 du manuel *Wholeness Work Level 3* de Connirae Andreas.
 
@@ -445,8 +453,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/3 du manuel *Wholeness Wo
   * *Nominalisation réifiée transformée en position spatiale :* En demandant « *Where is the Knower* », Connirae force l'esprit conceptuel à matérialiser son automatisme intellectuel sous forme de coordonnées spatiales finies.
   * *Rétrogradation épistémologique :* La question « *where is the perceiving of this happening from?* » extrait immédiatement le sujet de la fusion avec l'identité de « celui qui sait », créant une position d'observation externe qui permet sa dissolution ultérieure.
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : Intégration des Identités Métaprogrammes (Exemple : Information / Knower)
 
 Voici l'extraction exhaustive et l'ingénierie opératoire de la tranche 3/3 du cours *Wholeness Work Level III - Manual* par Connirae Andreas.
 
@@ -629,3 +636,4 @@ Voici l'extraction exhaustive et l'ingénierie opératoire de la tranche 3/3 du 
 * **[Analyse du Pattern]** : 
   - *Recadrage métaphorique d'acceptation radicale* : l'assimilation des réactions défensives ou des humeurs à des « nuages » dé-culpabilise l'échec d'accès immédiat à l'état de Conscience.
   - Distinction clinique essentielle entre « être réveillé/présent » (un état d'ego vigilant) et « être présent *en tant que* Conscience ». Elle autorise le système nerveux à inclure d'abord la contraction plutôt que d'essayer de forcer un état de calme artificiel.
+

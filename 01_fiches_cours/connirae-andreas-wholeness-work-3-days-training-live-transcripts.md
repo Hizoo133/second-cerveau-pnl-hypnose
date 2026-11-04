@@ -67,10 +67,22 @@ Toutes les interventions du cours reposent sur un algorithme universel invariabl
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 85-230]** : Démonstration / Processus de Groupe : Élicitation et Intégration du « Je » (Basic "I" Process) — *Protocole :* Démonstration / Processus de Groupe : Élicitation et Intégration du « Je » (Basic "I" Process) | *Mécanisme :* La Décomposition Syntaxique et Somatique du Référent Identitaire : « I » | *Verbatim :* Le Recadrage Fondateur de l'Effort
+- **Tranche 2 [Lignes 232-391]** : Processus Fondamental de Réintégration du "Moi" Percevant (Basic Wholeness Process) – Tranch... — *Protocole :* Processus Fondamental de Réintégration du "Moi" Percevant (Basic Wholeness Process) – Tranche Démo | *Mécanisme :* La contraction de conscience comme structure spatio-somatique du "Moi" (Ego) | *Verbatim :* La métaphore isomorphe du poing et de l'oubli somatique
+- **Tranche 3 [Lignes 393-511]** : La Chaîne des "Je" et Dissolution Rétrograde (Chain of "I"s Integration) — *Protocole :* La Chaîne des "Je" et Dissolution Rétrograde (Chain of "I"s Integration)
+- **Tranche 4 [Lignes 513-627]** : Format Méditatif du Wholeness Work (Exploration sans problème / Auto-guidance) — *Protocole :* Format Méditatif du Wholeness Work (Exploration sans problème / Auto-guidance) | *Mécanisme :* Capacité d'expérience vs Contenu d'expérience (Conscience pré-sensorielle) | *Verbatim :* Déframing du concept intellectuel & Ancrage dans la capacité pré-sensorielle
+- **Tranche 5 [Lignes 629-755]** : Format Méditatif & Sommeil / Réveil Nocturne (Wholeness Sleep & Night Process) — *Protocole :* Format Méditatif & Sommeil / Réveil Nocturne (Wholeness Sleep & Night Process) | *Verbatim :* Le Recadrage Radical de l'Inutilité du Sommeil
+- **Tranche 6 [Lignes 757-909]** : Le Protocole de Sommeil / Méditation Simplifiée (Sleep & Nocturnal Protocol) — *Protocole :* Le Protocole de Sommeil / Méditation Simplifiée (Sleep & Nocturnal Protocol) | *Verbatim :* Neutralisation de la surveillance et validation de la présence implicite
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 6 ---
+## Tranche 1 / 6 : Démonstration / Processus de Groupe : Élicitation et Intégration du « Je » (Basic "I" Process)
 
 Voici l'analyse opératoire intégrale de la tranche 1/6 du cours *Wholeness Work 3 Days Training Live* par Connirae Andreas.
 
@@ -217,8 +229,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/6 du cours *Wholeness Wor
 >   * *Chaîne de suggestions kinésiques progressives (Verb Cascade)* : L'enchaînement de verbes somatiques à décharge d'énergie croissante : *open* (relâchement spatial) -> *relax* (perte de tonus) -> *dissolve* (perte de structure) -> *melt* (passage d'un état solide à fluide).
 >   * *La clé linguistique « In and As »* : La séquence prépositionnelle *« in and as »* (dans et en tant que) constitue le pivot d'effondrement non-duel. Elle empêche l'Ego de se positionner comme un élément isolé flottant dans l'espace ; il devient l'espace lui-même.
 
-
-## --- Tranche 2 / 6 ---
+## Tranche 2 / 6 : Processus Fondamental de Réintégration du "Moi" Percevant (Basic Wholeness Process) – Tranch...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 2/6 du cours *Wholeness Work 3 Days Training Live* de Connirae Andreas.
 
@@ -379,8 +390,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 2/6 du c
   * **Réification somatotopique par accumulation :** Récapitulation dense des prédicats sensoriels (*"size of a grapefruit, thick, dense, hard, bright orange, warm"*) qui transforme le précédent observateur en un objet totalement concrétisé et manipulable.
   * **Saut récursif de niveau logique :** En appliquant à nouveau le truisme à l'observateur précédent, Connirae déclenche un décrochage instantané de la conscience vers une méta-position plus reculée (ici, l'arrière du crâne). Le piège de l'ego croyant être l'observateur ultime est déjoué.
 
-
-## --- Tranche 3 / 6 ---
+## Tranche 3 / 6 : La Chaîne des "Je" et Dissolution Rétrograde (Chain of "I"s Integration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -500,8 +510,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 2/6 du c
 > **"It's not the sensory experience, it's more the capacity to have experience... without trying to figure it out and put it in a box and make a concept so you think you can understand it and write out the correct definition."**
 * **[Analyse du Pattern]** : *Distinction épochale et recadrage de défusion cognitive.* Rupture directe avec le système de référence intellectuel (« put it in a box »). Connirae sépare le percept (l'expérience sensorielle) du contenant (la capacité d'avoir une expérience), coupant court à la tentative de l'hémisphère gauche de maîtriser le processus par la linguistique conceptuelle.
 
-
-## --- Tranche 4 / 6 ---
+## Tranche 4 / 6 : Format Méditatif du Wholeness Work (Exploration sans problème / Auto-guidance)
 
 Voici l'analyse opératoire intégrale de la tranche 4/6 de la formation *Wholeness Work 3 Days Training Live* par Connirae Andreas.
 
@@ -617,8 +626,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/6 de la formation *Wholen
     *   *Métaphore spatiale paradoxale* : L'image de la *"reverse fountain"* induit une inversion du flux attentionnel, permettant à la concentration de refluer naturellement vers le milieu environnant.
     *   *Double lien et commande permissive* : *"invited to open... and enhance"* traite la structure non pas comme une entité à éradiquer, mais comme un apport qui enrichit le champ global, éliminant toute résistance inconsciente.
 
-
-## --- Tranche 5 / 6 ---
+## Tranche 5 / 6 : Format Méditatif & Sommeil / Réveil Nocturne (Wholeness Sleep & Night Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -746,8 +754,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/6 de la formation *Wholen
 > "One of the keys is that it gives us an easy way to meet whatever's there. We don't have to struggle against it. We don't have to fight against anything. [...] If somebody just says don't fight against it, just be witness to it. It doesn't go far enough so that people can actually do that. People start fighting because they don't know what else to do."
 - **[Analyse du Pattern]** : **Validation du pattern de résistance & Rupture de dogme**. Connirae légitime la lutte du sujet en pointant l'insuffisance pratique de la simple « posture de témoin ». Elle propose une démarche concrète (*« meet whatever's there »*) qui opérationnalise l'acceptation non pas comme un idéal moral ou spirituel passif, mais comme une rencontre sensorielle et spatiale précise.
 
-
-## --- Tranche 6 / 6 ---
+## Tranche 6 / 6 : Le Protocole de Sommeil / Méditation Simplifiée (Sleep & Nocturnal Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -900,3 +907,4 @@ Voici l'analyse opératoire intégrale de la tranche 4/6 de la formation *Wholen
   - **Distinction opératoire immédiate Contenu vs Conteneur** : *"So the movie is the content"* pose instantanément une frontière nette pour empêcher le sujet de raconter l'histoire de l'image.
   - **Spatialisation et décomposition sous-modale pré-conceptuelle** : L'interrogation sur *"what’s just prior to the movie itself"* constitue une commande linguistique d'arrêt du traitement cognitif supérieur, forçant le cerveau à sonder l'énergie brute (la lumière, le mouvement, le volume) avant que le cortex n'en fasse une scène signifiante.
   - **Défocalisation hypno-spatiale** : *"in the space where the movie’s happening"* amène la perception à englober le volume spatial plutôt que le point focal de l'image, brisant le couplage affectif associé au stimulus visuel.
+

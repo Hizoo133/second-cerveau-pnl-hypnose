@@ -100,10 +100,41 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 137-217]** : Démonstration / Épreuve de Réalité Sensorielle vs Image Mémorielle — *Protocole :* Démonstration / Épreuve de Réalité Sensorielle vs Image Mémorielle
+- **Tranche 2 [Lignes 219-364]** : Le Démasquage Sensoriel Perception vs Mémoire (Étalonnage du Scope Présent) — *Protocole :* Le Démasquage Sensoriel Perception vs Mémoire (Étalonnage du Scope Présent)
+- **Tranche 3 [Lignes 366-505]** : L'Exercice du Script de Scope (Scope Script Exercise) — *Protocole :* L'Exercice du Script de Scope (Scope Script Exercise) | *Verbatim :* La rupture du verrou moral de "Just" par expansion inclusive
+- **Tranche 4 [Lignes 507-658]** : de Restauration de la Discrimination Interoceptive (ex: Faim vs Solitude) — *Protocole :* de Restauration de la Discrimination Interoceptive (ex: Faim vs Solitude) | *Verbatim :* s Verbatim
+- **Tranche 5 [Lignes 660-792]** : A : Audit et Désamorçage des Catégories Implicites de Contrat (Conflit Relationnel & Colère) — *Protocole :* A : Audit et Désamorçage des Catégories Implicites de Contrat (Conflit Relationnel & Colère) | *Mécanisme :* L'Équivalence d'Échange et l'Inférence de Critère | *Verbatim :* L'équivalence d'échange et la corruption catégorielle
+- **Tranche 6 [Lignes 794-925]** : Category Script Exercise (Révision du Script Catégoriel) — *Protocole :* Category Script Exercise (Révision du Script Catégoriel) | *Verbatim :* L'Élicitation du Prototype Moyen & Visuel
+- **Tranche 7 [Lignes 927-1085]** : Réduction d'une Réponse Émotionnelle Invasive par Resserrement Critériel (Modèle Leslie Came... — *Protocole :* Réduction d'une Réponse Émotionnelle Invasive par Resserrement Critériel (Modèle Leslie Cameron-Bandler) | *Mécanisme :* Critères Sensoriels vs Critères Catégoriels (Sensory-Based vs Categorical Criteria) | *Verbatim :* Le Déplacement d'Indice Comparatif
+- **Tranche 8 [Lignes 1087-1284]** : A : Audit Rétrospectif et Calibration des Critères de Décision — *Protocole :* A : Audit Rétrospectif et Calibration des Critères de Décision | *Verbatim :* Le Double Lien Hiérarchique de l'Ego
+- **Tranche 9 [Lignes 1286-1434]** : Recadrage de Problème par Enchâssement Rétrospectif à 5 Niveaux Logiques — *Protocole :* Recadrage de Problème par Enchâssement Rétrospectif à 5 Niveaux Logiques | *Mécanisme :* Incompatibilité et Complémentarité des Métaprogrammes / Opérateurs de Décision de Couple | *Verbatim :* Verbatim 1 : L'injonction méditative de Virginia Satir (6 niveaux de présuppositions)
+- **Tranche 10 [Lignes 1436-1556]** : Le Rétablissement du Référent Sensoriel (Descente de Niveaux Logiques) — *Protocole :* Le Rétablissement du Référent Sensoriel (Descente de Niveaux Logiques) | *Mécanisme :* Le Coût Cognitif de l'Abstraction : Déperdition Sensorielle Systémique | *Verbatim :* Verbatim 1 : L'Appauvrissement Progressif de l'Abstrait
+- **Tranche 11 [Lignes 1558-1715]** : A : Neutralisation du Scepticisme par Redirection Téléologique & Test d'Écologie Anticipé — *Protocole :* A : Neutralisation du Scepticisme par Redirection Téléologique & Test d'Écologie Anticipé | *Verbatim :* Déconnexion de la Croyance par Analogie Technologique
+- **Tranche 12 [Lignes 1717-1898]** : Recadrage Auto-Induit par Micro-Détails Sensoriels (Technique de l'Avion) — *Protocole :* Recadrage Auto-Induit par Micro-Détails Sensoriels (Technique de l'Avion) | *Verbatim :* La Question Fondatrice du Self-Modeling
+- **Tranche 13 [Lignes 1900-2048]** : A : Élargissement Temporel du Traumatisme Phobique (Alternative à la Double Dissociation) — *Protocole :* A : Élargissement Temporel du Traumatisme Phobique (Alternative à la Double Dissociation)
+- **Tranche 14 [Lignes 2050-2173]** : Externalisation Narrative d'un Comportement Involontaire / Compulsif — *Protocole :* Externalisation Narrative d'un Comportement Involontaire / Compulsif | *Verbatim :* La Formulation Modèle d'Emprunt de Compétence
+- **Tranche 15 [Lignes 2175-2301]** : Protocole d'Harmonisation Décisionnelle et de Recadrage de Perspective (Perspective Pattern) — *Protocole :* Protocole d'Harmonisation Décisionnelle et de Recadrage de Perspective (Perspective Pattern) | *Verbatim :* Le Réflecteur Isomorphe de Zappa
+- **Tranche 16 [Lignes 2303-2443]** : A : Neutralisation de la Voix Critique par Recodage Submodal Auditif — *Protocole :* A : Neutralisation de la Voix Critique par Recodage Submodal Auditif | *Verbatim :* La démonstration du primat submodal sur le contenu verbal
+- **Tranche 17 [Lignes 2445-2554]** : d'Élucidation et Réalignement des Valeurs par l'Expérience Concrète (Reality-Check VAK) — *Protocole :* d'Élucidation et Réalignement des Valeurs par l'Expérience Concrète (Reality-Check VAK) | *Verbatim :* La Confrontation du Scope Relationnel
+- **Tranche 18 [Lignes 2556-2660]** : Audit & Cartographie d'une Hiérarchie (Contrôle vs Importance) — *Protocole :* Audit & Cartographie d'une Hiérarchie (Contrôle vs Importance) | *Mécanisme :* La dissociation fondamentale entre Généralité Logique, Valeur et Contrôle | *Verbatim :* La déconstruction de l'autorité des niveaux supérieurs
+- **Tranche 19 [Lignes 2662-2795]** : Exploration de l'Inégalité Relationnelle et Restauration de l'Équilibre — *Protocole :* Exploration de l'Inégalité Relationnelle et Restauration de l'Équilibre | *Verbatim :* La dynamique hétérarchique saine
+- **Tranche 20 [Lignes 2797-2936]** : Recadrage Isomorphique vs Hétéromorphique (Matching the Form) — *Protocole :* Recadrage Isomorphique vs Hétéromorphique (Matching the Form) | *Mécanisme :* La Triade Structurelle de la Signification (Cause-Effet, Équivalence, Contexte) | *Verbatim :* La rupture du paradoxe temporel nihiliste
+- **Tranche 21 [Lignes 2938-3104]** : Construction de l'Agrégat de Sens Vital (« L'Effet George Bailey ») — *Protocole :* Construction de l'Agrégat de Sens Vital (« L'Effet George Bailey ») | *Mécanisme :* Le Sens Indirect par Agrégation Temporelle et Relationnelle (L'Effet « George Bailey ») | *Verbatim :* La Commande Négative d'Engagement Temporel (Milton Erickson)
+- **Tranche 22 [Lignes 3106-3279]** : Recadrage Provocateur par Exagération Absurde (Modèle Farrelly/Andreas) — *Protocole :* Recadrage Provocateur par Exagération Absurde (Modèle Farrelly/Andreas) | *Mécanisme :* Recatégorisation par Dépolarisation Intégrative (Security vs. Development) | *Verbatim :* Recadrage de la Sécurité et du Développement
+- **Tranche 23 [Lignes 3281-3434]** : Réorientation Temporelle Rétrograde en Transe (Modèle Erickson) — *Protocole :* Réorientation Temporelle Rétrograde en Transe (Modèle Erickson) | *Mécanisme :* Le Piège de la Recatégorisation Dérivée (Le Modèle Médical & Moral) | *Verbatim :* La Manœuvre d'Inclusion par Qualificateur Cognitif
+- **Tranche 24 [Lignes 3436-3598]** : Récupération de Rapport & Désengagement Physique post-Rejet — *Protocole :* Récupération de Rapport & Désengagement Physique post-Rejet | *Mécanisme :* Désamorçage de rejet de recadrage par dissociation spatiale et tiers fictif | *Verbatim :* La porte de sortie de Virginia Satir
+- **Tranche 25 [Lignes 3600-3697]** : A : Séquençage Opératoire du SSPT Complexe (Modèle Andreas) — *Protocole :* A : Séquençage Opératoire du SSPT Complexe (Modèle Andreas) | *Mécanisme :* La Matrice Scope / Catégorie comme Système Métathérapeutique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : Démonstration / Épreuve de Réalité Sensorielle vs Image Mémorielle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -185,8 +216,7 @@ graph TD
 > "Without moving your head, close your eyes and think about what is behind you at this moment… Closing your eyes eliminates the visual scope of experience, allowing you to attend more easily to your internal images. You probably have some kind of image of what is behind you—not an empty nothingness. Now turn around to see what is there at this moment, and compare it with your image…."
 * **[Analyse du Pattern]** : Induction fractionnée comportementale et suggestion de truisme négatif (*not an empty nothingness*). La directive physique négative (*Without moving your head*) induit un ancrage spatial strict, tandis que l'enchaînement des commandes motrices (*close your eyes... turn around... compare*) brise la passivité intellectuelle du lecteur pour forcer une vérification kinesthésique et visuelle in situ.
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : Le Démasquage Sensoriel Perception vs Mémoire (Étalonnage du Scope Présent)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -333,8 +363,7 @@ graph TD
 > **"When used as an adjective, 'just' has even more meanings. My dictionary lists eight: 1. upright, honest, righteous. 2. equitable, impartial, fair. 3. exact, accurate, precise. 4. correct, true. 5. deserved, merited. 6. legally right, lawful, rightful. 7. right, proper. 8. wellfounded. Synonyms: 'exact, honest, impartial, precise, proper, upright.' 'Just' is a word that can be described as 'semantically packed,' because so many meanings are loaded into a single word. In short, 'just' means all that is valued as right and good. Whenever we use this word, all these meanings will be evoked, and that makes it difficult for most people to challenge it’s use, since that would mean challenging 'all that is right and good.'"**
 * **[Analyse du Pattern]** : Démantèlement d'un pattern de « mot sémantiquement surchargé » (*semantically packed word*). Andreas utilise un empilement de truismes définitionnels pour démontrer l'hypnose conversationnelle involontaire : par polysémie et confusion grammaticale (adverbe vs adjectif), le système nerveux de l'auditeur active simultanément le champ lexical de la justice morale, rendant toute réfutation cognitivement paralysante par crainte d'attaquer la vertu elle-même.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : L'Exercice du Script de Scope (Scope Script Exercise)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -475,8 +504,7 @@ graph TD
   - *Entraînement sensoriel complet (VAK truisme) :* Commande enchâssée directe reliant les 3 modalités sensorielles principales (*"see and hear and feel"*).
   - *Pont vers le futur et cadre de sécurité :* L'injonction temporelle (*"over time"*) installe la persistance du changement, tandis que la demande de rétroaction (*"let me know of any problems... so that we can adjust"*) désamorce toute peur inconsciente en promettant une flexibilité totale.
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : de Restauration de la Discrimination Interoceptive (ex: Faim vs Solitude)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -629,8 +657,7 @@ graph TD
 > "What do Smoky the Bear and Alexander the Great have in common?"
 * **[Analyse du Pattern]** : **Rupture de pattern et induction de transe par recherche transdérivationnelle**. En associant deux entités historiques/culturelles sans rapport sémantique direct, la question force le système cognitif à suspendre ses jugements immédiats et à lancer un balayage inductif profond à travers une multitude de scopes de mémoire pour identifier une similitude cryptique (la réponse implicite étant leur deuxième prénom commun : "the").
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : A : Audit et Désamorçage des Catégories Implicites de Contrat (Conflit Relationnel & Colère)
 
 Voici l'extraction opératoire intégrale de la **Tranche 5/25** du cours de Steve Andreas (*Six Blind Elephants Vol 1 - Fundamental Principles of Scope and Category*).
 
@@ -764,8 +791,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/25** du cours de Ste
   2. *Constructivisme subjectif* : la perception filtre la réalité.
   3. *Performativité linguistique pure (Nominalisme actif)* : l'événement n'existe pas en tant que catégorie tant que l'acte de langage déclaratif ne l'a pas fait advenir en traçant la frontière arbitraire.
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : Category Script Exercise (Révision du Script Catégoriel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -898,8 +924,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/25** du cours de Ste
 
 * **[Analyse du Pattern]** : Métaphore spatio-mécanique fonctionnelle (*"bundles"* et *"bindings"*, *"gatekeepers"*). Andreas installe une représentation visuo-kinesthésique tangible d'un processus abstrait : les critères ne sont plus de vagues idées philosophiques, mais des cordes concrètes qui serrent un paquet ou des gardiens physiques à la porte d'entrée d'un territoire perceptuel.
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : Réduction d'une Réponse Émotionnelle Invasive par Resserrement Critériel (Modèle Leslie Came...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1059,8 +1084,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/25** du cours de Ste
   * *Fractionnement temporel par points de suspension :* L'insertion délibérée de pauses suspensives ralentit le flux d'accès mnésique et force l'observateur interne à calibrer précisément la phénoménologie de construction de chaque sous-modalité (taille $\to$ couleur $\to$ objet).
   * *Micro-inductions kinesthésiques et visuelles :* Utilisation de verbes d'action somatiques précis (« jiggles », « slight contraction », « snaps together ») qui guident le système nerveux de l'auditeur à reproduire kinesthésiquement et visuellement la dynamique exacte de l'encodage mental.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : A : Audit Rétrospectif et Calibration des Critères de Décision
 
 Voici l'extraction et l'analyse opératoire intégrale de la tranche 8/25 de *Six Blind Elephants Vol 1* par Steve Andreas.
 
@@ -1259,8 +1283,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 8/25 de *Si
   - *Déplacement de Scope :* En transférant le prédicat « mériter » sur le récepteur extérieur (« Do others deserve your kindness? »), il sollicite son système de valeurs de générosité active.
   - *Rebouclage identitaire par implication logique rétroactive :* Si les autres méritent sa gentillesse et qu'elle la leur donne, la gentillesse est un fait avéré dans l'expérience partagée ; l'étiquette identitaire (« a kind person ») se réinstalle sans violer l'interdit de fierté personnelle.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Recadrage de Problème par Enchâssement Rétrospectif à 5 Niveaux Logiques
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 9/25.
 
@@ -1410,8 +1433,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Boucle autoréférentielle et équivalence complexe* : Établit une relation d'identité stricte entre la structure cognitive interne et la perception du monde externe. 
   * *Implication thérapeutique* : Changer l'organisation des catégories internes (l'intelligence qui s'organise elle-même) reconfigure instantanément et automatiquement le monde perçu par le sujet, sans toucher au monde physique extérieur.
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Le Rétablissement du Référent Sensoriel (Descente de Niveaux Logiques)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 10/25 de *Six Blind Elephants Vol 1* par Steve Andreas.
 
@@ -1533,8 +1555,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 10/25 de *S
 > Well, I admit to being dizzy and confused. What on earth could it mean for thoughts or mind to go “backwards” or “inside out”!? Many years ago, someone said, “All writing is either biography or autobiography.” In this case, I think it is definitely autobiography.
 * **[Analyse du Pattern]** : Recadrage épistémologique par confrontation au test sensoriel concret. Hall utilise des suggestions hypnotiques de transe floue, d'empilement de métaphores spatiales sans référent et de présuppositions d'incompétence (« vous êtes censé vous perdre ») pour masquer un manque de définition opérationnelle. Andreas brise net la tentative d'induction d'amnésie/confusion par une ironie chirurgicale au premier degré (truisme littéral), ramenant l'exigence méthodologique : si un concept ne peut pas être décrit en termes sensoriels ou d'inclusion rigoureuse, il s'agit d'une projection projective de son auteur (*autobiographie*) et non d'une modélisation exploitable.
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : A : Neutralisation du Scepticisme par Redirection Téléologique & Test d'Écologie Anticipé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1693,8 +1714,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 10/25 de *S
   - *Opérateurs syntaxiques d'orientation spatio-cognitive* : Les couples « smaller part of » / « parts made up of » forcent la cognition à naviguer dans le tissu physique et sensoriel de l'expérience (Scope mérismatique).
   - *Opérateurs d'inclusion taxonomique* : Les formules « example of » forcent la montée ou la descente dans l'arbre d'abstraction logique (Catégorie taxonomique). Ces quatre questions constituent des algorithmes verbaux purs permettant de repositionner à volonté le point focal de l'attention du sujet.
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : Recadrage Auto-Induit par Micro-Détails Sensoriels (Technique de l'Avion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1877,8 +1897,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 10/25 de *S
   - Effondrement instantané de la catégorisation *"Père irresponsable / enfants mal élevés"* au profit d'une catégorie *"Famille en état de choc traumatique aigu"*.
   - Neutralisation immédiate de l'agressivité de l'interlocuteur sans aucune argumentation logique, démontrant la supériorité d'un apport d'information de scope temporel antérieur sur toute tentative de recadrage verbal abstrait.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : A : Élargissement Temporel du Traumatisme Phobique (Alternative à la Double Dissociation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2028,8 +2047,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 10/25 de *S
 *   > *« In the process, clients realize that what they think of as conflicts between themselves and someone else are actually conflicts between different parts of themselves. »*
     *   **[Analyse du Pattern]** : Recadrage de portée ontologique (*External-to-Internal Scope Reframe*). L'illusion d'un conflit relationnel externe (« *moi contre l'autre* ») est reconfigurée linguistiquement et spatialement en une dynamique intrapsychique (« *conflit entre parties de soi* »), rendant l'intégration et la résolution immédiatement accessibles au sujet sans dépendre du tiers absent.
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : Externalisation Narrative d'un Comportement Involontaire / Compulsif
 
 Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six Blind Elephants* (Vol. 1) de Steve Andreas.
 
@@ -2154,8 +2172,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
 > « So although we all have experiences that we describe as “other,” or “outside of us,” or “external reality,” all of that actually happens inside our brains, and is a part of us, despite the separation that we usually assume. So in one sense, we are each isolated universes unto ourselves. But in another, we are all one. And this is not an either/or choice, but a “both/and.” As many mystics have said, you are already one with the world; it’s just a matter of realizing it. You all exist inside my brain and I exist in yours. You are all part of me, and I am a part of you. We are all connected together. »
 - **[Analyse du Pattern]** : Utilisation du recadrage épistémologique basé sur la réalité neurophysiologique (vérité d'évidence indiscutable : toute perception extérieure est un événement neuronal interne). Enchaînement de truismes menant à un paradoxe apparent, résolu par le dépassement du dilemme cartésien via le recadrage dialectique « both/and ». L'induction se termine par un empilement de suggestions enchevêtrées d'interconnexion (« exist inside my brain... part of me... connected together »), neutralisant l'angoisse de l'isolement existentiel.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : Protocole d'Harmonisation Décisionnelle et de Recadrage de Perspective (Perspective Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2283,8 +2300,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
   * Saturation sensorielle par empilement modal permissif (*« You may find... They may even... or they may... »*), ce qui empêche toute résistance consciente en validant d'avance n'importe quel micro-ajustement perceptif.
   * Commande implicite de transformation systémique sans effort volitionnel conscient (*« as if they were having a conversation without words »*).
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : A : Neutralisation de la Voix Critique par Recodage Submodal Auditif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2426,8 +2442,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
   - *Raisonnement par contre-exemple extrême (Modus Tollens)* : Andreas confronte directement la théorie populaire des ancres de ressources en PNL (l'obligation de sur-calibrer l'intensité) à l'efficacité prouvée de la Double Dissociation Visuelle.
   - *Dichotomie logique Perception vs Évaluation* : Clôture par une distinction nette de niveaux logiques (*"at the situation, or our perception of the situation, not its evaluation"*), réorientant définitivement l'attention de l'analyste de l'affect brut vers l'architecture de la représentation interne.
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : d'Élucidation et Réalignement des Valeurs par l'Expérience Concrète (Reality-Check VAK)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2538,8 +2553,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
   - *Distinction chirurgicale de niveaux logiques :* Andreas sépare le signal d'évaluation (l'inconfort ressenti) de l'événement déclencheur (la situation concrète).  
   - *Présupposition d'inefficacité thérapeutique :* En affirmant que la thérapie conventionnelle s'attaque directement au sentiment évaluatif, il pose que tenter de calmer ou d'éliminer une sensation désagréable sans modifier la structure contextuelle qui la génère constitue une faute logique majeure (traiter le messager plutôt que la situation signalée).
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : Audit & Cartographie d'une Hiérarchie (Contrôle vs Importance)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2645,8 +2659,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
 
 *   **[Analyse du Pattern]** : Boucle de synchronisation/guidage conversationnelle (*Pacing and Leading*) intégrant le contexte sensoriel immédiat du lecteur. Andreas s'aligne sur l'état présent (*"reading this book is most important to you"*), introduit des truismes physiologiques et environnementaux futurs inévitables (*"phone rings", "feeling of hunger"*), puis enchâsse une permission / injonction d'auto-écoute bienveillante (*"I hope that you respect this shift in your values and take action..."*). Ce pattern entraîne neurologiquement le sujet à valider l'instabilité naturelle et saine de ses priorités.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : Exploration de l'Inégalité Relationnelle et Restauration de l'Équilibre
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2781,8 +2794,7 @@ Voici l’analyse opératoire intégrale de la tranche 14/25 du séminaire *Six 
 > « For instance, the statement, “Because of his reckless driving, he will get into an accident.” could link a short movie of a careening car with an image of a car wreck sequentially, or the two images could be still pictures side by side linked simultaneously in space, or one of the images could be inside the other, with the outside one providing the background. »
 - **[Analyse du Pattern]** : Déconstruction structurelle conversationnelle. Andreas démontre comment une même structure de surface linguistique (« Because... ») peut être transcodée par le système nerveux du sujet sous trois configurations de submodalités spatiales et temporelles distinctes (film cinétique séquentiel, double image simultanée, ou emboîtement figure-fond). Cela permet au praticien d'intervenir au niveau du codage analogique sous-jacent plutôt que d'argumenter sur le contenu verbal.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : Recadrage Isomorphique vs Hétéromorphique (Matching the Form)
 
 Voici l'extraction intégrale, opératoire et modélisée de la tranche 20/25 de *Six Blind Elephants* (Steve Andreas).
 
@@ -2923,8 +2935,7 @@ Voici l'extraction intégrale, opératoire et modélisée de la tranche 20/25 de
     3. *Récit sensoriel cause-effet* : Détail chronologique incontestable (ordre d'urgence du patron, heure de pointe).
     4. *Changement de contexte ultime par citation interne enchâssée* : « I'll bet she'd rather I get there late, than not at all. » Le retard est recatégorisé non pas comme un manque de respect, mais comme un arbitrage salvateur pour préserver sa propre vie par amour pour elle.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : Construction de l'Agrégat de Sens Vital (« L'Effet George Bailey »)
 
 Voici l'extraction opératoire et chirurgicale de la tranche 21/25, structurée selon les exigences d'ingénierie du modèle de Steve Andreas.
 
@@ -3092,8 +3103,7 @@ Voici l'extraction opératoire et chirurgicale de la tranche 21/25, structurée 
   * **Hyper-alliance outrancière avec le symptôme :** Farrelly prend le parti le plus scandaleux du statu quo financier de la prostitution, ruinant l'archétype du thérapeute conventionnel « encourageant ».
   * **Contraste somatique et temporel outré :** Mise en balance physique (« debout 8 heures » vs « sur le dos 20 minutes ») conçue pour forcer la cliente à sortir de sa victimisation passive et à formuler elle-même ses valeurs morales et son besoin de dignité.
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : Recadrage Provocateur par Exagération Absurde (Modèle Farrelly/Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3268,8 +3278,7 @@ Voici l'extraction opératoire et chirurgicale de la tranche 21/25, structurée 
 > « One of the things that you have learned to do very systematically and dependably. »
 * **[Analyse du Pattern]** : Nominalisation méta et présupposition de compétence. L'utilisation des adverbes « *systematically* » et « *dependably* » requalifie un comportement compulsif ou indésirable en une prouesse d'apprentissage neurologique inconsciente, présupposant que cette même fiabilité méthodologique pourra être transférée sans effort au comportement ressource de remplacement.
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : Réorientation Temporelle Rétrograde en Transe (Modèle Erickson)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3424,8 +3433,7 @@ Voici l'extraction opératoire et chirurgicale de la tranche 21/25, structurée 
   - Confrontation par un contre-cadre historique et générationnel (relativisation culturelle du travail via la contre-culture des années 60).
   - Recadrage utilitaire à portée éthique globale : conversion instantanée du chômage d'une faillite identitaire en acte de salubrité publique (« the world is a better place »). L'humour et l'absurde font sauter la fixation dépressive.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : Récupération de Rapport & Désengagement Physique post-Rejet
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche 24/25 du cours *Six Blind Elephants* (Vol. 1) de Steve Andreas.
 
@@ -3589,8 +3597,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 24/25 du cours *Six B
   * **Universalisation déculpabilisante :** *« hunger can make beasts out of all of us »* normalise l'impulsion par une fatalité physiologique partagée, retirant tout motif de rancœur ou de vindicte personnelle.
   * **Rétrécissement de l'échappatoire temporelle :** La question *« but so soon? »* recadre l'urgence de la demande non pas comme une impossibilité absolue, mais comme un acte prématuré indigne d'un homme qui a encore le contrôle de lui-même.
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : A : Séquençage Opératoire du SSPT Complexe (Modèle Andreas)
 
 Voici l'analyse opératoire de la tranche finale (25/25), constituant l'index analytique détaillé du volume 1 ainsi que la cartographie des interventions et ressources cliniques de Steve Andreas.
 
@@ -3688,3 +3695,4 @@ Voici l'analyse opératoire de la tranche finale (25/25), constituant l'index an
   * **[Analyse du Pattern] :**
     - Équivalence complexe pragmatique : Relie l'apprentissage de la compétence à l'immersion empirique directe ("actual change sessions", "step-by-step instructions").
     - Induction de variabilité adaptative : Présupposition qu'il n'existe pas de panacée universelle, mais un appareillage d'outils calibrés selon la typologie du problème et le réglage de scope/catégorie requis.
+

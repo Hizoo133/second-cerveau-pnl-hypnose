@@ -64,10 +64,24 @@ Le fil conducteur unifiant toutes les démonstrations est le suivant :
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 84-219]** : Découverte du Concept de Soi (Discovering Your Self-Concept) — *Protocole :* Découverte du Concept de Soi (Discovering Your Self-Concept) | *Mécanisme :* Le Scope Intermédiaire de l'Identité (Intermediate Scope of Identity) | *Verbatim :* Le Recadrage Brut Processus vs Contenu
+- **Tranche 2 [Lignes 221-378]** : Exploration et Modulation Systématique de la Base de Données du Self-Concept — *Protocole :* Exploration et Modulation Systématique de la Base de Données du Self-Concept | *Verbatim :* La distinction fondamentale entre bien-être et solidité structurelle
+- **Tranche 3 [Lignes 380-555]** : Cartographie à l'Aveugle d'une Qualité Certaine (Démo Lulu) — *Protocole :* Cartographie à l'Aveugle d'une Qualité Certaine (Démo Lulu) | *Verbatim :* La Métaphore du Véhicule et le Rétrocontrôle Perceptif
+- **Tranche 4 [Lignes 557-708]** : Implantation d'Exemples Futurs Dissociés (Feed-Forward Generator) — *Protocole :* Implantation d'Exemples Futurs Dissociés (Feed-Forward Generator) | *Mécanisme :* Le Système Prédictif "Feed-Forward" et Phares Identitaires | *Verbatim :* La métaphore des phares et de l'alerte cybernétique
+- **Tranche 5 [Lignes 710-878]** : Audit & Rééquilibrage de la Distribution Temporelle (Passé / Présent / Futur) — *Protocole :* Audit & Rééquilibrage de la Distribution Temporelle (Passé / Présent / Futur) | *Mécanisme :* Rupture de Continuité Identitaire vs Distribution Temporelle Normale | *Verbatim :* La Discontinuité Identitaire (Recadrage de l'addiction)
+- **Tranche 6 [Lignes 880-1013]** : A : Élargissement Temporel et Recadrage d'Accumulation (Buildup Sizing) — *Protocole :* A : Élargissement Temporel et Recadrage d'Accumulation (Buildup Sizing) | *Mécanisme :* Expansion de la fenêtre temporelle et recadrage de gestation (Temporal Frame Expansion & Buildup Framing) | *Verbatim :* Verbatim 1 : Recadrage de la Friction en Énergie d'Accumulation
+- **Tranche 7 [Lignes 1015-1125]** : Alignement Proprioceptif des Positions Perceptuelles — *Protocole :* Alignement Proprioceptif des Positions Perceptuelles | *Verbatim :* La régulation géométrique du point de vue
+- **Tranche 8 [Lignes 1127-1308]** : L'ENRICHISSEMENT MULTI-PERSPECTIF (Positions Perceptuelles Appliquées au Self-Concept) — *Protocole :* L'ENRICHISSEMENT MULTI-PERSPECTIF (Positions Perceptuelles Appliquées au Self-Concept) | *Mécanisme :* Rythme d'assimilation et saturation neurologique (Pacing d'intégration identitaire) | *Verbatim :* Verbatim 1 : L'injonction de décélération écologique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 8 ---
+## Tranche 1 / 8 : Découverte du Concept de Soi (Discovering Your Self-Concept)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -204,8 +218,7 @@ Le fil conducteur unifiant toutes les démonstrations est le suivant :
 
 * **[Analyse du Pattern] :** Isomorphisme narratif et empilement de prédicats sensoriels (*V-A-K*). Cart ancre la distinction technique « associé / dissocié » dans la grammaire universelle du récit (première personne vs observateur de film), permettant un basculement cognitif clair et éliminant les états « entre-deux » qui polluent le travail sur les sous-modalités.
 
-
-## --- Tranche 2 / 8 ---
+## Tranche 2 / 8 : Exploration et Modulation Systématique de la Base de Données du Self-Concept
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -364,8 +377,7 @@ Le fil conducteur unifiant toutes les démonstrations est le suivant :
   - *Liaison causale (Cause-Effet) :* Établissement d'une équivalence stricte : "plus d'informations = sensibilité accrue au feedback = acuité de détection = capacité immédiate d'ajustement".
   - *Valorisation de la divergence :* La détection du décalage ("when your behavior doesn't match") est reformulée positivement non comme une faille, mais comme la preuve ultime de la finesse et de la supériorité de la grille perceptive du sujet.
 
-
-## --- Tranche 3 / 8 ---
+## Tranche 3 / 8 : Cartographie à l'Aveugle d'une Qualité Certaine (Démo Lulu)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -542,8 +554,7 @@ Le fil conducteur unifiant toutes les démonstrations est le suivant :
   - **Personnification de la partie et dialogue interne métaphorique** : L'incarnation vocale (*« hey, hey, what's going on here? »*) donne un visage au signal d'alarme écologique.
   - **Double lien thérapeutique permissif** : Cart offre un contrat d'innocuité absolue (*« on remettra tout en place »*) immédiatement couplé à une porte de sortie évolutive (*« unless you find something better »*), orientant subrepticement l'inconscient vers l'acceptation de la transformation si celle-ci s'avère supérieure.
 
-
-## --- Tranche 4 / 8 ---
+## Tranche 4 / 8 : Implantation d'Exemples Futurs Dissociés (Feed-Forward Generator)
 
 Voici l’extraction intégrale, chirurgicale et opératoire de la substance de cette tranche 4/8 du cours de Damon Cart.
 
@@ -696,8 +707,7 @@ Voici l’extraction intégrale, chirurgicale et opératoire de la substance de 
   - **Prescription paradoxale d'ambiguïté :** Commander sciemment au système visuel d'abaisser la netteté des stimuli périphériques (*"make the external details a little more vague"*), ce qui court-circuite le perfectionnisme obsessionnel.
   - **Remplacement des opérateurs modaux de nécessité par la possibilité :** Désactivation explicite des modaux de contrainte (*"have to / need to"*) qui génèrent du stress somatique, au profit des opérateurs modaux de capacité et de permission (*"could be / can be"*), induisant un état d'ouverture cognitive et d'adaptabilité cybernétique.
 
-
-## --- Tranche 5 / 8 ---
+## Tranche 5 / 8 : Audit & Rééquilibrage de la Distribution Temporelle (Passé / Présent / Futur)
 
 Voici l'analyse opératoire intégrale de la tranche 5/8 du séminaire *Transforming Yourself - Strengthening The Self Demos* de Damon Cart.
 
@@ -867,8 +877,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/8 du séminaire *Transfor
   - **Recadrage épistémologique radical :** Destruction du postulat d'une « vérité » ontologique ou historique (*"not a matter of finding the truth"*), remplacée par le critère utilitariste et pragmatique de la PNL (*"a representation that serves you well"*).
   - **Double liaison développementale / Nominalisation dynamique :** L'association verbale *"in being and becoming"* lie simultanément la stabilité de l'état présent (être) à l'évolution constante de l'identité dans le futur (devenir), créant une boucle cybernétique d'auto-actualisation fluide.
 
-
-## --- Tranche 6 / 8 ---
+## Tranche 6 / 8 : A : Élargissement Temporel et Recadrage d'Accumulation (Buildup Sizing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1003,8 +1012,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/8 du séminaire *Transfor
 
 * **[Analyse du Pattern]** : Nominalisation de processus spatio-somatique et instruction directe de recalibrage. Cart valide d'abord l'expérience flottante du sujet sans la juger (*in-between place*), éliminant la résistance. Il pointe ensuite avec une précision chirurgicale les ancrages anatomiques exacts (*eye sockets*, *ears*), créant une prise de conscience kinesthésique immédiate d'un bug de traitement inconscient, immédiatement suivie d'une prescription opératoire directe (*take the time to align*).
 
-
-## --- Tranche 7 / 8 ---
+## Tranche 7 / 8 : Alignement Proprioceptif des Positions Perceptuelles
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1116,8 +1124,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/8 du séminaire *Transfor
 > "Do you have a mental picture of blank, whatever the quality is that is important to them, or a feeling or internal voice that lets you know you are blank again, whatever the quality is. Do you have lots of examples of being whatever the quality is? Do you have examples of being blank in the future? Do you know what it's like to be someone else receiving your blank?"
 - **[Analyse du Pattern]** : Série de questions transdérivationnelles en entonnoir. L'interrogation apparemment anodine (« Do you have... / Do you know what it's like... ») fonctionne comme un ensemble de présuppositions contraignantes qui forcent le système nerveux de l'interlocuteur à : 1) cartographier ses modalités sensorielles (V-A-K), 2) quantifier sa banque de mémoire, 3) projeter une ligne temporelle vers le futur, et 4) dissocier sa conscience pour tester la 2e position relationnelle. L'interlocuteur est mis en état de recherche interne profonde tout en croyant simplement converser.
 
-
-## --- Tranche 8 / 8 ---
+## Tranche 8 / 8 : L'ENRICHISSEMENT MULTI-PERSPECTIF (Positions Perceptuelles Appliquées au Self-Concept)
 
 Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 8/8 du cours de Damon Cart (*Transforming Yourself - Strengthening The Self Demos*).
 
@@ -1299,3 +1306,4 @@ Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 8/8 du 
 > "And again, the biases in the distortions are not necessarily a bad thing. If they serve you, they serve the quality, and they're still accurate enough so that they don't get you in trouble, then it's okay to have some biases and distortions."
 
 - **[Analyse du Pattern]** : Recadrage d'utilité pragmatique (structure conditionnelle *If... then...*). Désamorçage du perfectionnisme cognitif : la représentation interne n'a pas besoin d'être un enregistrement fidèle de la réalité, elle doit être fonctionnelle (*"If they serve you"*). Empilement de critères écologiques de sécurité (*"accurate enough so that they don't get you in trouble"*).
+

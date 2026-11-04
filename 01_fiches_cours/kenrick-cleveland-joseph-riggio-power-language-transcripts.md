@@ -70,10 +70,110 @@ Le praticien commence par calibrer son propre système perceptif sur le résulta
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 176-339]** : A : Recadrage de Souveraineté de Cadre (The Anti-Presentation Reset) — *Protocole :* A : Recadrage de Souveraineté de Cadre (The Anti-Presentation Reset) | *Verbatim :* Verbatim 1 : Le Recadrage de Souveraineté & Rejet d'Exécutant
+- **Tranche 2 [Lignes 341-457]** : Le "Bump" de Sortie du Cadre Inhibiteur (Counter-Intuitive Inhibitory Deframing) — *Protocole :* Le "Bump" de Sortie du Cadre Inhibiteur (Counter-Intuitive Inhibitory Deframing) | *Verbatim :* Le Recadrage de Désamorçage par l'Extrême
+- **Tranche 3 [Lignes 459-596]** : La Bascule de Présentation Complexe (Dissociation Analytique $\rightarrow$ Clôture Associée) — *Protocole :* La Bascule de Présentation Complexe (Dissociation Analytique $\rightarrow$ Clôture Associée) | *Mécanisme :* Le Paradoxe de la Réflexion Hyper-Stratégique vs L'Intégration Inconsciente | *Verbatim :* La Dissociation Déictique
+- **Tranche 4 [Lignes 598-716]** : d'Actualisation Conjointe (The "Let's Update Together" Protocol) — *Protocole :* d'Actualisation Conjointe (The "Let's Update Together" Protocol)
+- **Tranche 5 [Lignes 718-862]** : d'Augmentation de Valeur & Verrouillage Monopolistique (Value Augmentation & Monopoly Bindin... — *Protocole :* d'Augmentation de Valeur & Verrouillage Monopolistique (Value Augmentation & Monopoly Binding Technique) | *Verbatim :* Verbatim 1 : L'Appel Dépolarisant en Écho au Niveau 6 (Inclusion)
+- **Tranche 6 [Lignes 864-985]** : A : Capture et Verrouillage Kinesthésique ("Zeroing In on the Feeling") — *Protocole :* A : Capture et Verrouillage Kinesthésique ("Zeroing In on the Feeling")
+- **Tranche 7 [Lignes 987-1111]** : Séquence d'Alignement & d'Ouverture Contextuelle (One-to-Many / Webinaire) — *Protocole :* Séquence d'Alignement & d'Ouverture Contextuelle (One-to-Many / Webinaire) | *Verbatim :* Le Cadre d'Élicitation Contextuelle
+- **Tranche 8 [Lignes 1113-1263]** : Le Recadrage Temporel de Rupture d'Engagement (« What Changed? ») — *Protocole :* Le Recadrage Temporel de Rupture d'Engagement (« What Changed? ») | *Verbatim :* Le Modèle de Révélation de Continuité de Riggio
+- **Tranche 9 [Lignes 1265-1385]** : Utilisation des Sessions d'Intégration Passive (NIS + IS) — *Protocole :* Utilisation des Sessions d'Intégration Passive (NIS + IS) | *Mécanisme :* Déconstruction Opératoire du Jargon vs Structure Réelle (antilingoreduction operationaldemystification) | *Verbatim :* Définition Opératoire de l'Hypnose (Joseph Riggio)
+- **Tranche 10 [Lignes 1387-1484]** : Recalibrage d'État et Réinitialisation Neuro-Imprinting (NIS Reset Protocol) — *Protocole :* Recalibrage d'État et Réinitialisation Neuro-Imprinting (NIS Reset Protocol)
+- **Tranche 11 [Lignes 1486-1599]** : d'Amorçage par Micro-Action Cinétique & Réciprocité de Cadre & Élicitation Induite du "Big Why" — *Protocole :* d'Amorçage par Micro-Action Cinétique | *Mécanisme :* Réciprocité de Cadre & Élicitation Induite du "Big Why" | *Verbatim :* Réciprocité de Cadre & Élicitation Induite
+- **Tranche 12 [Lignes 1601-1753]** : Le "State Overmatching" (Désamorçage d'une boucle hystérique ou panique) — *Protocole :* Le "State Overmatching" (Désamorçage d'une boucle hystérique ou panique) | *Verbatim :* Verbatim 1 : L'extinction de l'objection financière par l'alternative fermée
+- **Tranche 13 [Lignes 1755-1903]** : Récupération Douce de Ligne Directrice (Soft Frame Reclaim) — Variante Kenrick Cleveland — *Protocole :* Récupération Douce de Ligne Directrice (Soft Frame Reclaim) — Variante Kenrick Cleveland | *Verbatim :* Verbatim 1 : Redirection Douce et Inclusion Différée
+- **Tranche 14 [Lignes 1905-2029]** : A : Installation Séquentielle de la Singularité (Neuro-Imprinting & Image Spinning) — *Protocole :* A : Installation Séquentielle de la Singularité (Neuro-Imprinting & Image Spinning) | *Mécanisme :* La Singularité Opératoire (L'Effondrement Synergique) | *Verbatim :* Verbatim : Induction d'une Transe de Normalisation & Utilisation Sensorielle
+- **Tranche 15 [Lignes 2031-2156]** : Intégration Holistique post-Fragmentation ("The Hand & Fingers Re-synthesis") — *Protocole :* Intégration Holistique post-Fragmentation ("The Hand & Fingers Re-synthesis") | *Verbatim :* Pattern 1 : Le recadrage du sevrage émotionnel et l'installation de la normalité
+- **Tranche 16 [Lignes 2158-2281]** : d'Amorçage de l'Action Tri-Binaire ("What Next" Protocol) — *Protocole :* d'Amorçage de l'Action Tri-Binaire ("What Next" Protocol) | *Verbatim :* Déconstruction du Faux Dilemme et Expansion Attentionnelle
+- **Tranche 17 [Lignes 2283-2396]** : Le Balayage Aléatoire du Cadre de Pouvoir (The 3-Times-a-Day Power Scan) — *Protocole :* Le Balayage Aléatoire du Cadre de Pouvoir (The 3-Times-a-Day Power Scan) | *Mécanisme :* Conditionnement Réflexe du Cadre Neurologique Global | *Verbatim :* Le Cadre Inaltérable du Chasseur
+- **Tranche 18 [Lignes 2398-2494]** : Dosage & Espacement Neuro-Synaptique (Image Spinning & NIS) — *Protocole :* Dosage & Espacement Neuro-Synaptique (Image Spinning & NIS) | *Mécanisme :* Synchronisation Circadienne & Fenêtrage Neuro-Énergétique | *Verbatim :* Présupposition d'Apprentissage & Hypo-Amnésie Intégrative
+- **Tranche 19 [Lignes 2496-2625]** : L'Ablation Chirurgicale de Critère Opératoire (Surgical Criteria Decoupling) — *Protocole :* L'Ablation Chirurgicale de Critère Opératoire (Surgical Criteria Decoupling) | *Mécanisme :* La dissociation chirurgicale : Outcome Criteria vs. Operating Criteria | *Verbatim :* Le Découplage et l'Ablation Chirurgicale de Critères
+- **Tranche 20 [Lignes 2627-2753]** : Rétro-Ingénierie et Calquage Séquentiel de Récit (Macro-Matching) — *Protocole :* Rétro-Ingénierie et Calquage Séquentiel de Récit (Macro-Matching) | *Mécanisme :* L'Adumbration Opératoire et la Projection Anticipative du Traitement Cognitif | *Verbatim :* La Définition Opératoire de l'Adumbration
+- **Tranche 21 [Lignes 2755-2895]** : A : La Riposte de Cadre Imperméable (Défense de Cadre) — *Protocole :* A : La Riposte de Cadre Imperméable (Défense de Cadre) | *Verbatim :* La Rupture d'Urgence Imposée (Père de Cleveland)
+- **Tranche 22 [Lignes 2897-3012]** : La Vente Stratégique à Haute Autorité (Démonstration Riggio / "Car Dealership") — *Protocole :* La Vente Stratégique à Haute Autorité (Démonstration Riggio / "Car Dealership")
+- **Tranche 23 [Lignes 3014-3131]** : Le Reboutage Directif Emboîté (Chaining Assertive-to-Directive) — *Protocole :* Le Reboutage Directif Emboîté (Chaining Assertive-to-Directive) | *Mécanisme :* Le Pivot Directif en Chaîne (Directive-to-Directive Chaining via Implied Directives) | *Verbatim :* Le double lien directif à prémisse contextuelle (Riggio)
+- **Tranche 24 [Lignes 3133-3272]** : Conditionnement du Tonus Vagal & Résilience Somatique — *Protocole :* Conditionnement du Tonus Vagal & Résilience Somatique | *Mécanisme :* Le Toning Vagal & la Bascule Excitatoire / Inhibitrice | *Verbatim :* Verbatim 1 : L'apaisement du cadre d'apprentissage et le postulat de non-régression
+- **Tranche 25 [Lignes 3274-3423]** : Recadrage Excitatif et Enchaînement sur les Valeurs Cibles (Negative to Positive Elicitation... — *Protocole :* Recadrage Excitatif et Enchaînement sur les Valeurs Cibles (Negative to Positive Elicitation & Solidification Loop) | *Verbatim :* Le Flip Positif Immédiat
+- **Tranche 26 [Lignes 3425-3554]** : Le Cycle de Satisfaction Appliqué au Recrutement / Évaluation de Haut Niveau — *Protocole :* Le Cycle de Satisfaction Appliqué au Recrutement / Évaluation de Haut Niveau | *Mécanisme :* Le Levier du Delta (The Gap Leverage) | *Verbatim :* Le Cadrage Positif Présuppositionnel en Recrutement
+- **Tranche 27 [Lignes 3556-3656]** : Élicitation Multi-Interlocuteurs en Vente / Négociation de Groupe — *Protocole :* Élicitation Multi-Interlocuteurs en Vente / Négociation de Groupe
+- **Tranche 28 [Lignes 3658-3793]** : L'Entraînement de l'Instrument Perceptuel ("Tuning the Instrument Drill") — *Protocole :* L'Entraînement de l'Instrument Perceptuel ("Tuning the Instrument Drill") | *Mécanisme :* Le Piège de l'Équivalence Analogique Stérile ("This is Not That") | *Verbatim :* Verbatim 1 : La Claque Épistémologique contre le Pattern Matching
+- **Tranche 29 [Lignes 3795-3898]** : Recodage de la Puissance Réactive en Puissance Somatique Primale (Démonstration Riggio sur R... — *Protocole :* Recodage de la Puissance Réactive en Puissance Somatique Primale (Démonstration Riggio sur Rita) | *Mécanisme :* Le « Don du Chasseur » et la Posture Prédatrice Évolutive | *Verbatim :* La Descente Somatique de l'Énergie
+- **Tranche 30 [Lignes 3900-4047]** : Le Recadrage Kinesthésique de la Menace en Réceptivité Curieuse (The Threat-to-Curiosity Shift) — *Protocole :* Le Recadrage Kinesthésique de la Menace en Réceptivité Curieuse (The Threat-to-Curiosity Shift) | *Mécanisme :* Le Don du Prédateur / Le Don du Chasseur (The Hunter's Gift / The Predator's Stance) | *Verbatim :* La posture de confrontation inébranlable (The Bring-It-On Stance)
+- **Tranche 31 [Lignes 4049-4164]** : Encodage de la « Mémoire de Peau » Identitaire (Skin Memory Imprint Protocol) — *Protocole :* Encodage de la « Mémoire de Peau » Identitaire (Skin Memory Imprint Protocol) | *Mécanisme :* Le Ciblage par Présupposition Identitaire Somatique (Skin Memory Targeting) | *Verbatim :* Le Rapprochement Perceptuel de la Cible (Zen Archery)
+- **Tranche 32 [Lignes 4166-4292]** : The Satisfaction Cycle (Phase 1 & 2 - Amorce Opératoire) — *Protocole :* The Satisfaction Cycle (Phase 1 & 2 - Amorce Opératoire)
+- **Tranche 33 [Lignes 4294-4439]** : Le Modèle du Cycle de Satisfaction (Vente Complexe & Négociation à Fort Enjeu) — *Protocole :* Le Modèle du Cycle de Satisfaction (Vente Complexe & Négociation à Fort Enjeu)
+- **Tranche 34 [Lignes 4441-4559]** : L'Amorce Assertive Permissive (Ouverture d'Entretien) — *Protocole :* L'Amorce Assertive Permissive (Ouverture d'Entretien) | *Mécanisme :* Le Levier Permissif vs Autoritaire (Permissive Language Architecture) | *Verbatim :* L'Ouverture Permissive Corporative
+- **Tranche 35 [Lignes 4561-4687]** : A : Neutralisation et Remplacement d'une Déclaration Restrictive — *Protocole :* A : Neutralisation et Remplacement d'une Déclaration Restrictive | *Verbatim :* La rupture de réalité et contre-déclaration immédiate
+- **Tranche 36 [Lignes 4689-4800]** : Sortie de Transe Hypnotique et Réintégration Somatique (Fin de Module 10) — *Protocole :* Sortie de Transe Hypnotique et Réintégration Somatique (Fin de Module 10) | *Mécanisme :* La Vente de Certitude comme Échange Asymétrique de Risque | *Verbatim :* La Réorientation Somato-Temporelle vers la Vigile
+- **Tranche 37 [Lignes 4802-4923]** : La Boucle du Cycle de Satisfaction (De l'État Positif à l'Action) — *Protocole :* La Boucle du Cycle de Satisfaction (De l'État Positif à l'Action) | *Verbatim :* Extraction du Mot-Code et de l'Outcome of the Outcome
+- **Tranche 38 [Lignes 4925-5094]** : Le Recadrage d'Intégrité Implacable (The Implacable Integrity Frame) — *Protocole :* Le Recadrage d'Intégrité Implacable (The Implacable Integrity Frame) | *Mécanisme :* Le Biais Excitatoire Neurologique (Excitatory Bias Activation) | *Verbatim :* Le Recadrage de Réalité & L'Engagement Éthique
+- **Tranche 39 [Lignes 5096-5217]** : d'Élicitation du Delta et de la Stratégie de Preuve (The Satisfaction Cycle & Evidence Strat... — *Protocole :* d'Élicitation du Delta et de la Stratégie de Preuve (The Satisfaction Cycle & Evidence Strategy) | *Verbatim :* L'Interception & Recadrage de Compliment Rétroactif
+- **Tranche 40 [Lignes 5219-5327]** : Détection & Rétroaction Matricielle (Locus $\times$ Critère) — *Protocole :* Détection & Rétroaction Matricielle (Locus $\times$ Critère) | *Mécanisme :* Le Pivot "Outcome of the Outcome" vs Hiérarchie des Valeurs | *Verbatim :* Le Modèle Descriptif Linéaire Pur (Contenu Vide, Structure Formelle)
+- **Tranche 41 [Lignes 5329-5447]** : Le "Time Sliding" (Compression d'une Stratégie Décisionnelle Lente) — *Protocole :* Le "Time Sliding" (Compression d'une Stratégie Décisionnelle Lente)
+- **Tranche 42 [Lignes 5449-5615]** : L'Architecture du Delta (De la Prise de Contrôle à la Tension d'Action) — *Protocole :* L'Architecture du Delta (De la Prise de Contrôle à la Tension d'Action) | *Mécanisme :* Le Maillage Contextuel & La Rétention de Contexte Interne | *Verbatim :* Le Recadrage de la Rupture Professionnelle (The Sovereign Walk-Away)
+- **Tranche 43 [Lignes 5617-5730]** : Élicitation du Delta & Structuration de la Solution Experience — *Protocole :* Élicitation du Delta & Structuration de la Solution Experience | *Mécanisme :* L'Élicitation du Delta : Combler l'écart cognitif et matériel | *Verbatim :* La Conjecture Opératoire sur le Delta
+- **Tranche 44 [Lignes 5732-5836]** : d'Élicitation de l'État Désiré par Glissement Temporel (Time Sliding Protocol) — *Protocole :* d'Élicitation de l'État Désiré par Glissement Temporel (Time Sliding Protocol) | *Verbatim :* La Faillite du Pattern Mécanique (Anti-Pattern de Manipulation)
+- **Tranche 45 [Lignes 5838-6044]** : Démonstration du "Source Code" / Clôture par Élicitation de Valeurs & Glissement Temporel — *Protocole :* Démonstration du "Source Code" / Clôture par Élicitation de Valeurs & Glissement Temporel | *Mécanisme :* Le Biais Excitateur Pur et l'Inhibiteur Implicite | *Verbatim :* L'Élicitation Directe du Pivot de Valeur
+- **Tranche 46 [Lignes 6046-6186]** : Glissement Temporel - Pattern A (Évacuation de Problème et Dépassement) — *Protocole :* Glissement Temporel - Pattern A (Évacuation de Problème et Dépassement) | *Mécanisme :* La synthèse "Source Code Modeling" (Cycle de Satisfaction × Modèle des Valeurs × Biais Excitatoire) | *Verbatim :* La Cascade de Glissement Temporel (Overcoming the Problem Pattern)
+- **Tranche 47 [Lignes 6188-6345]** : Le Glissement Spatio-Temporel en 3 Points (The Past-Future-Present Sliding Loop) — *Protocole :* Le Glissement Spatio-Temporel en 3 Points (The Past-Future-Present Sliding Loop)
+- **Tranche 48 [Lignes 6347-6451]** : d'Élicitation Stratégique et de Structuration de l'Offre en Vente Conversationnelle — *Protocole :* d'Élicitation Stratégique et de Structuration de l'Offre en Vente Conversationnelle
+- **Tranche 49 [Lignes 6453-6637]** : Le Modèle "Source Code" d'Élicitation et de Présentation (Vente & Alignement) — *Protocole :* Le Modèle "Source Code" d'Élicitation et de Présentation (Vente & Alignement)
+- **Tranche 50 [Lignes 6639-6752]** : Source Code Modeling (Phase 1 : Cartographie de Levier & Découverte du Delta) — *Protocole :* Source Code Modeling (Phase 1 : Cartographie de Levier & Découverte du Delta) | *Verbatim :* Pattern 1 : Le Pont vers le Biais Excitatoire
+- **Tranche 51 [Lignes 6754-6896]** : Élicitation et Qualification des Critères Opératoires (Operating Criteria & Gap Discovery) — *Protocole :* Élicitation et Qualification des Critères Opératoires (Operating Criteria & Gap Discovery)
+- **Tranche 52 [Lignes 6898-7019]** : La Fermeture Médicale Sans Forçage (The Non-Hard-Close Prescription) — *Protocole :* La Fermeture Médicale Sans Forçage (The Non-Hard-Close Prescription) | *Mécanisme :* Le Modèle de Prescription Médicale (The Physician Model of Influence) | *Verbatim :* Le Recadrage de Prescription Médicale
+- **Tranche 53 [Lignes 7021-7144]** : Alignement et Formulation selon le Profil 4 - 5 - 6 (The Value-Level Pitching Matrix) — *Protocole :* Alignement et Formulation selon le Profil 4 - 5 - 6 (The Value-Level Pitching Matrix) | *Verbatim :* Exemple 1 : Pitch Prescription Médicale - Niveau 4 (Procédural / Certitude / Ancienneté)
+- **Tranche 54 [Lignes 7146-7299]** : L'Entretien de Vente / Diagnostic par Élicitation des Valeurs (Riggio -> Cleveland) — *Protocole :* L'Entretien de Vente / Diagnostic par Élicitation des Valeurs (Riggio -> Cleveland) | *Mécanisme :* L'Amorçage Excitatoire du Présent State (Excitatory State Anchoring) | *Verbatim :* Le Recadrage Paradoxal de l'État Présent
+- **Tranche 55 [Lignes 7301-7424]** : Désamorçage d'Intimidation Hiérarchique par Effet Miroir d'Incertitude (The Call Center Coun... — *Protocole :* Désamorçage d'Intimidation Hiérarchique par Effet Miroir d'Incertitude (The Call Center Counter-Frame)
+- **Tranche 56 [Lignes 7426-7591]** : Le "Case Building" sur Déclaration de Certitude — *Protocole :* Le "Case Building" sur Déclaration de Certitude | *Verbatim :* La proposition progressive en coaching (Cleveland)
+- **Tranche 57 [Lignes 7593-7758]** : L'Interruption "Columbo" (Bumbling Interrupt & Reset) — *Protocole :* L'Interruption "Columbo" (Bumbling Interrupt & Reset) | *Verbatim :* La Manœuvre "Columbo" (Verbatim d'interruption par oubli simulé)
+- **Tranche 58 [Lignes 7760-7909]** : Désamorçage d'Objection Prix par Homme de Paille Déprécié & Respect Mutuel — *Protocole :* Désamorçage d'Objection Prix par Homme de Paille Déprécié & Respect Mutuel | *Verbatim :* L'Homme de Paille Péjoratif et le Verrou du Respect Réciproque
+- **Tranche 59 [Lignes 7911-8040]** : Le Déroulé Stratégique de Recadrage Tridimensionnel (Clarté $\rightarrow$ Recadrage $\righta... — *Protocole :* Le Déroulé Stratégique de Recadrage Tridimensionnel (Clarté $\rightarrow$ Recadrage $\rightarrow$ Mémoire Future) | *Verbatim :* La Mémoire Future d'Abondance et le Retour au Présent
+- **Tranche 60 [Lignes 8042-8194]** : Le Modèle de Déconstruction d'Objection en 3 Phases (Clarté -> Recadrage -> Future Pacing) — *Protocole :* Le Modèle de Déconstruction d'Objection en 3 Phases (Clarté -> Recadrage -> Future Pacing) | *Verbatim :* Le Reframing Médical Ultime (Riggio)
+- **Tranche 61 [Lignes 8196-8361]** : Le "Lazy Frame" (Désamorçage d'Objection par le Vide et l'Effet Miroir) — *Protocole :* Le "Lazy Frame" (Désamorçage d'Objection par le Vide et l'Effet Miroir) | *Mécanisme :* Le "Okay" Minimaliste comme Refus de Propriété et Rupture de Boucle | *Verbatim :* The Reality-Check Silence
+- **Tranche 62 [Lignes 8363-8489]** : L'Installation Transe-Générative du Prédateur / Traqueur Créatif — *Protocole :* L'Installation Transe-Générative du Prédateur / Traqueur Créatif
+- **Tranche 63 [Lignes 8491-8603]** : A : Étalonnage du Jeu de Signaux Somatiques Oui/Non (Yes-No Signal Set) — *Protocole :* A : Étalonnage du Jeu de Signaux Somatiques Oui/Non (Yes-No Signal Set) | *Verbatim :* Verbatim 1 : L'installation du Cadre d'Exclusivité et de Haute Valeur
+- **Tranche 64 [Lignes 8605-8764]** : Désamorçage Immédiat sur Calibrage Visuel/Auditif (Micro-Objection) — *Protocole :* Désamorçage Immédiat sur Calibrage Visuel/Auditif (Micro-Objection) | *Mécanisme :* Disruption de la Stratégie de Réalité (realitystrategycollapse epistemicdoubt) | *Verbatim :* La Stratégie de Réalité et l'Injection Temporelle
+- **Tranche 65 [Lignes 8766-8893]** : Le Découpage Positif d'Amorçage (Chunking Down on Certainty) — *Protocole :* Le Découpage Positif d'Amorçage (Chunking Down on Certainty)
+- **Tranche 66 [Lignes 8895-9038]** : Le Recadrage en Terrain Vierge (Greenfield Reframe Protocol) — *Protocole :* Le Recadrage en Terrain Vierge (Greenfield Reframe Protocol) | *Verbatim :* Verrouillage Identitaire & Présupposition de Réalisation
+- **Tranche 67 [Lignes 9040-9181]** : A : Intégration Cumulative de la Triade (Power → Creativity → Influence) — *Protocole :* A : Intégration Cumulative de la Triade (Power → Creativity → Influence) | *Mécanisme :* La Trinité Indissociable : Puissance, Créativité, Influence en Entité Unique | *Verbatim :* L'Injonction de l'Entité Trinaire
+- **Tranche 68 [Lignes 9183-9309]** : Le "Zipper" d'Entrée en 2e Position (Kenrick Cleveland) — *Protocole :* Le "Zipper" d'Entrée en 2e Position (Kenrick Cleveland) | *Mécanisme :* Le Circuit Neuromusculaire d'Adumbration & Rétroaction Limbique | *Verbatim :* La Métaphore Structurelle du Virtuose et de l'Instrument
+- **Tranche 69 [Lignes 9311-9428]** : Alignement et Qualification Stratégique des Objectifs (High-Ticket & Coaching d'Impact) — *Protocole :* Alignement et Qualification Stratégique des Objectifs (High-Ticket & Coaching d'Impact) | *Verbatim :* La Liberté d'Ignorance Stratégique
+- **Tranche 70 [Lignes 9430-9540]** : Délégation Somatique et Réallocation Attentionnelle (Preferencing Ericksonien) — *Protocole :* Délégation Somatique et Réallocation Attentionnelle (Preferencing Ericksonien) | *Mécanisme :* La dissociation Neuro-Cognitive : Esprit Représentationnel vs Circuits Non-Représentationnels | *Verbatim :* Le Verrouillage de Préférenciation Somatique (Milton Erickson Modélisé par Riggio)
+- **Tranche 71 [Lignes 9542-9647]** : L'Adoption par Procuration (Self-Referencing Shift) — *Protocole :* L'Adoption par Procuration (Self-Referencing Shift) | *Mécanisme :* Le Paradoxe de la Spécificité pour la Compréhension Générale | *Verbatim :* La capture d'attention par auto-référencement sensoriel
+- **Tranche 72 [Lignes 9649-9794]** : A : Séquençage Directionnel "Direct Attention & Fill in the Blanks" — *Protocole :* A : Séquençage Directionnel "Direct Attention & Fill in the Blanks" | *Verbatim :* La Stratégie d'Orientation Attentionnelle
+- **Tranche 73 [Lignes 9796-9905]** : Construction de la Conformité Éthique (Building Compliance via the Big Why) — *Protocole :* Construction de la Conformité Éthique (Building Compliance via the Big Why) | *Verbatim :* Verbatim 1 : L'installation de la désorientation sécurisée (Set Aside / Shift Frame)
+- **Tranche 74 [Lignes 9907-10053]** : Détermination Couverte de la Stratégie de Conviction (D-F-I Elicitation) — *Protocole :* Détermination Couverte de la Stratégie de Conviction (D-F-I Elicitation) | *Mécanisme :* La Triade de la Stratégie de Conviction : Durée, Fréquence, Intensité | *Verbatim :* Élicitation Couverte des Seuils de Décision
+- **Tranche 75 [Lignes 10055-10214]** : A : Traitement et Démantèlement d'un Assertif (Objection / Croyance Limitante) — *Protocole :* A : Traitement et Démantèlement d'un Assertif (Objection / Croyance Limitante) | *Mécanisme :* Ontologie du Langage comme Structure de Réalité (Théorie des Actes de Parole / Speech Acts) | *Verbatim :* s Verbatim
+- **Tranche 76 [Lignes 10216-10343]** : Désamorçage et Recadrage d'un Mismatching Rigide — *Protocole :* Désamorçage et Recadrage d'un Mismatching Rigide | *Mécanisme :* La Taxonomie des Actes de Langage (John Searle) comme Radar Stratégique | *Verbatim :* Le Défi d'Impuissance pour Mismatcher
+- **Tranche 77 [Lignes 10345-10473]** : Auto-Réglage et Réinitialisation Somatique dans le Biais Excitateur (Entraînement / In-Session) — *Protocole :* Auto-Réglage et Réinitialisation Somatique dans le Biais Excitateur (Entraînement / In-Session) | *Mécanisme :* Le Principe de Suprématie Biologique (Biology Rules / Biology Will Win) | *Verbatim :* La Loi Biologique d'Inéluctabilité
+- **Tranche 78 [Lignes 10475-10630]** : Réinitialisation Vaso-Vagale Somato-Respiratoire (Auto-régulation ou Guidage Sujet) — *Protocole :* Réinitialisation Vaso-Vagale Somato-Respiratoire (Auto-régulation ou Guidage Sujet) | *Verbatim :* La Bascule Pavlovienne
+- **Tranche 79 [Lignes 10632-10744]** : Réinitialisation Somatique Délibérée face à l'Escalade (Auto-Régulation Vagale) — *Protocole :* Réinitialisation Somatique Délibérée face à l'Escalade (Auto-Régulation Vagale) | *Verbatim :* Recadrage brutal sur l'illusion de la formule magique vs la physiologie
+- **Tranche 80 [Lignes 10746-10834]** : d'Exécution du Modèle Transactionnel (The Transactional Model) — *Protocole :* d'Exécution du Modèle Transactionnel (The Transactional Model) | *Mécanisme :* La Matrice de Décision en 5 Étapes (The Decision Matrix Loop) | *Verbatim :* La Définition de l'Influence et la Vente de Certitude
+- **Tranche 81 [Lignes 10836-10929]** : Diagnostic de Modèle & Franchissement de la Zone Liminale — *Protocole :* Diagnostic de Modèle & Franchissement de la Zone Liminale | *Mécanisme :* Le Continuum des Modèles d'Influence & le Niveau d'Incertitude Décisionnelle | *Verbatim :* Le Dialogue Transactionnel Pur (Clôture Logistique Immédiate)
+- **Tranche 82 [Lignes 10931-11086]** : Le Modèle du Cycle de Satisfaction (The Satisfaction Cycle) — *Protocole :* Le Modèle du Cycle de Satisfaction (The Satisfaction Cycle) | *Mécanisme :* Le Circuit de Recherche de Satisfaction Primaire (Satisfaction-Seeking Engine) | *Verbatim :* Le Cadre Biologique du Plaisir vs la Douleur
+- **Tranche 83 [Lignes 11088-11184]** : d'Exécution Transactionnelle : Séquence Assertion-Silence-Directive — *Protocole :* d'Exécution Transactionnelle : Séquence Assertion-Silence-Directive | *Verbatim :* Pattern 1 : Le Déclencheur d'Auto-Closing (Closing Statements du Client)
+- **Tranche 84 [Lignes 11186-11294]** : Construction de la Transaction Opératoire (Compliance Locking) — *Protocole :* Construction de la Transaction Opératoire (Compliance Locking)
+- **Tranche 85 [Lignes 11296-11443]** : Exploration, Synthèse et Verrouillage de Réalités Futures (Transe Guidée de R.I. / Future Pa... — *Protocole :* Exploration, Synthèse et Verrouillage de Réalités Futures (Transe Guidée de R.I. / Future Pacing) | *Mécanisme :* Ligne temporelle prospective à bifurcations quantiques (quantumtimelinejunctions decisionarchitecture) | *Verbatim :* L'Analyse Omnisciente par Big Data / IA
+- **Tranche 86 [Lignes 11445-11581]** : Le Recadrage Présuppositionnel de Problème en Capacité (Cleveland & Riggio Reframing) — *Protocole :* Le Recadrage Présuppositionnel de Problème en Capacité (Cleveland & Riggio Reframing) | *Verbatim :* La Minimisation Rétroactive Noyée dans l'Assise Positive
+- **Tranche 87 [Lignes 11583-11700]** : Le Sandwich Inhibiteur (Inhibitory Encapsulation Protocol) — *Protocole :* Le Sandwich Inhibiteur (Inhibitory Encapsulation Protocol) | *Verbatim :* Le Sandwich Positif / Inhibiteur appliqué au protocole médical
+- **Tranche 88 [Lignes 11702-11842]** : La Manœuvre d'Interruption Précoce de Réalité (Early Reality Break) — *Protocole :* La Manœuvre d'Interruption Précoce de Réalité (Early Reality Break) | *Mécanisme :* Le Triptyque Opératoire : Breaking, Bending, Building Realities | *Verbatim :* Le Pré-framing Contextuel d'Intention
+- **Tranche 89 [Lignes 11844-11980]** : Enchaînement Assertive -> Directive / Commissive (Drill d'Intégration Réflexe) — *Protocole :* Enchaînement Assertive -> Directive / Commissive (Drill d'Intégration Réflexe)
+- **Tranche 90 [Lignes 11982-12112]** : La Matrice d'Élicitation des Valeurs en 3 Questions (The 3-Question Values Model) — *Protocole :* La Matrice d'Élicitation des Valeurs en 3 Questions (The 3-Question Values Model) | *Mécanisme :* L'Élicitation Récursive de Valeurs (Chaining up aux Niveaux Logiques) | *Verbatim :* 1. Définition Opératoire des Valeurs (Joseph Riggio)
+- **Tranche 91 [Lignes 12114-12200]** : La Séquence des 3 Questions d'Élucidation des Valeurs (Format Cleveland/Riggio) — *Protocole :* La Séquence des 3 Questions d'Élucidation des Valeurs (Format Cleveland/Riggio) | *Verbatim :* La Triple Séquence Élégante avec Question Pivot Ultime
+- **Tranche 92 [Lignes 12202-12364]** : Élicitation Ascendante des Valeurs & Liaison "Junk-o-Logic" — *Protocole :* Élicitation Ascendante des Valeurs & Liaison "Junk-o-Logic" | *Verbatim :* Le Recadrage Nominal d'Arrêt de Boucle
+- **Tranche 93 [Lignes 12366-12499]** : Désarçonnage et Réorientation d'une Menace Verbale (Contre-Promissif) — *Protocole :* Désarçonnage et Réorientation d'une Menace Verbale (Contre-Promissif) | *Mécanisme :* Hiérarchie de Décodage Neurologique et Attentionnelle des Actes de Langage | *Verbatim :* s Verbatim
+- **Tranche 94 [Lignes 12501-12584]** : d'Altération et de Redirection d'un Commissif Adverse (Threat/Promise Bending) — *Protocole :* d'Altération et de Redirection d'un Commissif Adverse (Threat/Promise Bending)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 94 ---
+## Tranche 1 / 94 : A : Recadrage de Souveraineté de Cadre (The Anti-Presentation Reset)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -238,8 +338,7 @@ Le praticien commence par calibrer son propre système perceptif sur le résulta
   - **Double truisme restrictif** (*"And you can't do that alone. You can't exceed yourself by yourself"* : axiome posé comme une vérité universelle indiscutable).
   - **Double contrainte identitaire de vente** : En affirmant que le programme dépasse les fondateurs eux-mêmes et en invitant le sujet à le magnifier, l'achat n'est plus une dépense commerciale, mais un devoir moral d'alignement avec son propre besoin de transcendance (*legacy*).
 
-
-## --- Tranche 2 / 94 ---
+## Tranche 2 / 94 : Le "Bump" de Sortie du Cadre Inhibiteur (Counter-Intuitive Inhibitory Deframing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -357,8 +456,7 @@ Le praticien commence par calibrer son propre système perceptif sur le résulta
   - **Prétérition et feinte ignorance** (*"Now I don't know what that means..."*) : Désarme l'analyse critique tout en focalisant l'attention inconsciente sur le concept sous-jacent.
   - **Métaphore isomorphique et suggestion analogique encastrée** (*"understood implicitly when it was getting more than what it needed... to be healthy"*) : Délivre au niveau subconscient une instruction sur l'équilibre des ressources et la régulation saine sans éveiller le moindre filtre rationnel.
 
-
-## --- Tranche 3 / 94 ---
+## Tranche 3 / 94 : La Bascule de Présentation Complexe (Dissociation Analytique $\rightarrow$ Clôture Associée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -497,8 +595,7 @@ Le praticien commence par calibrer son propre système perceptif sur le résulta
 ```
 * **[Analyse du Pattern] :** Présupposition temporelle marquant une scission nette entre deux identités/états (*"different place"*, *"different position now"*). L'expression *"it made perfect sense when we had it"* protège l'estime et la compétence du client en validant la rationalité de son choix passé. Le connecteur de transition *"however"* disqualifie le besoin de rester figé dans l'ancien plan sans créer de friction, et l'impératif collaboratif *"Let's update together"* réengage le rapport en éliminant toute idée de confrontation ou d'invalidation.
 
-
-## --- Tranche 4 / 94 ---
+## Tranche 4 / 94 : d'Actualisation Conjointe (The "Let's Update Together" Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -618,8 +715,7 @@ Le praticien commence par calibrer son propre système perceptif sur le résulta
 * **[Analyse du Pattern]** :  
   Déclenchement du cadre métaphorique de permissivité illimitée (*"magic wand"*), levant immédiatement les barrières de faisabilité pratique. Association d'abord à ce qui fonctionne déjà pour stabiliser l'état excitateur (*"what you already have"*), puis ouverture de la brèche (la Delta) par présupposition d'optimisation continue (*"even better"*), complétée par la focalisation sur le vide fonctionnel (*"what's missing"*).
 
-
-## --- Tranche 5 / 94 ---
+## Tranche 5 / 94 : d'Augmentation de Valeur & Verrouillage Monopolistique (Value Augmentation & Monopoly Bindin...
 
 Voici l'analyse opératoire intégrale de la tranche 5/94 de la formation *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -765,8 +861,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/94 de la formation *Power
   - **Commandes impératives submodales directes (*"stick it back there", "make it little"*)** : Directives sans négociation s'adressant aux mécanismes de traitement de l'image visuelle interne.
   - **Recadrage d'attribution ressources** : La même représentation visuelle, une fois redimensionnée et repositionnée dans l'espace mental (*"fit into a spot that supports that"*), passe du statut de menace paralysante à celui de réserve d'énergie et de preuve d'évolution future.
 
-
-## --- Tranche 6 / 94 ---
+## Tranche 6 / 94 : A : Capture et Verrouillage Kinesthésique ("Zeroing In on the Feeling")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -889,8 +984,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/94 de la formation *Power
 ```
 * **[Analyse du Pattern]** : **Équivalence complexe opératoire et structuration d'espace mental.** Lie directement la syntaxe grammaticale (opérateurs de nécessité/possibilité) à une cinématique spatiale et neurologique (contraindre/lier vs relâcher/ouvrir), transformant la grammaire en outil de confinement ou d'expansion cognitive.
 
-
-## --- Tranche 7 / 94 ---
+## Tranche 7 / 94 : Séquence d'Alignement & d'Ouverture Contextuelle (One-to-Many / Webinaire)
 
 Voici l'analyse opératoire intégrale de la tranche 7/94 de la formation *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -1016,8 +1110,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/94 de la formation *Power
   - Présupposition structurelle fondamentale : l'intérêt initial était réel et légitime à un instant $T_0$, et une variable contextuelle spécifique s'est interposée entre-temps.
   - Évite tout étiquetage réducteur ou clivage en « parties » internes, obligeant l'interlocuteur à revisiter sa propre chronologie décisionnelle sans entrer dans la justification conflictuelle.
 
-
-## --- Tranche 8 / 94 ---
+## Tranche 8 / 94 : Le Recadrage Temporel de Rupture d'Engagement (« What Changed? »)
 
 Voici l'analyse modélisée et l'extraction opératoire intégrale de la tranche 8/94 du séminaire *Power Language*.
 
@@ -1169,8 +1262,7 @@ Voici l'analyse modélisée et l'extraction opératoire intégrale de la tranche
   - **Suggestion d'amplification d'amplitude** (*"at a level that's easy for me to recognize"*) : Programme le système pré-conscient à convertir les micro-signaux subliminaux en sensations kinesthésiques explicites.
   - **Négation présuppositionnelle de soulagement** (*"and not have to search for them because they're so subtle"*) : Supprime l'effort conscient et l'hyper-vigilance, confiant l'exécution du calibrage à l'inconscient.
 
-
-## --- Tranche 9 / 94 ---
+## Tranche 9 / 94 : Utilisation des Sessions d'Intégration Passive (NIS + IS)
 
 Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -1292,8 +1384,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminai
 > **"Should what you're doing in the image spinning and the narrow imprinting be having an effect? The answer is it can't not have an effect. If you're actually following our instructions, doing what we're teaching in the lessons, this is all layered in. So it can't not be having an effect."**
 * **[Analyse du Pattern]** : Double négation à force contraignante (*"it can't not have an effect"* répétée deux fois). La double négation neutralise le filtre critique du sujet et installe une certitude mathématique : l'effet est une conséquence inévitable du respect du protocole technique, découplé de la perception immédiate consciente.
 
-
-## --- Tranche 10 / 94 ---
+## Tranche 10 / 94 : Recalibrage d'État et Réinitialisation Neuro-Imprinting (NIS Reset Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1392,8 +1483,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminai
 ```
 * **[Analyse du Pattern]** : **Isomorphisme conversationnel et loi d'attraction structurelle**. Utilisation du truisme d'influence (réciprocité de Cialdini) appliqué à la syntaxe interne : la présentation préalable d'une structure de sens profonde contraint inconsciemment l'interlocuteur à calquer sa réponse sur le même niveau d'abstraction et d'authenticité.
 
-
-## --- Tranche 11 / 94 ---
+## Tranche 11 / 94 : d'Amorçage par Micro-Action Cinétique & Réciprocité de Cadre & Élicitation Induite du "Big Why"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1508,8 +1598,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminai
 > *"So he'd occupy 70 or 80% of that, 70 or 80 of those 100 units, and then force the remaining 20 or 30 to attend by doing very particular things perceptually. Like, for instance, marking out in language, using a different tonality and speed, what he was saying. And then come back to his normal pace and speed. And most people don't notice that unless it's really accentuated. But it forces the attention to go where you want it to go..."*
 * **[Analyse du Pattern]** : Décomposition mécaniste d'un pattern d'induction conversationnelle. Riggio explicite l'usage du marquage analogique (*analog marking*) au sein d'une surcharge contrôlée. L'impact linguistique repose sur le contraste sensoriel : la rupture tonale et temporelle agit comme un faisceau focalisateur direct sur le reliquat d'attention vigilante sans mobiliser la barrière analytique.
 
-
-## --- Tranche 12 / 94 ---
+## Tranche 12 / 94 : Le "State Overmatching" (Désamorçage d'une boucle hystérique ou panique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1663,8 +1752,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminai
 - **[Analyse du Pattern]** :
   Hypersuggestion d'amnésie sélective doublée d'une flatterie identitaire stratégique. Face à un décideur qui n'a pas prêté attention à la présentation, l'opérateur ne cherche pas à vérifier ce qu'il a compris (ce qui exposerait son inattention et créerait une défense d'ego). Il implante directement un souvenir d'excellence partagée : le succès de la présentation devient la preuve rétroactive de la brillante décision de management prise par le supérieur.
 
-
-## --- Tranche 13 / 94 ---
+## Tranche 13 / 94 : Récupération Douce de Ligne Directrice (Soft Frame Reclaim) — Variante Kenrick Cleveland
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1814,8 +1902,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 9/94 du séminai
   - *Détournement du filtre analytique conscient :* L'affirmation limitante *"I can't visualize"* est court-circuitée en modifiant la catégorie émotionnelle (passage d'un exercice géométrique abstrait à un déclencheur libidinal puissant).
   - *Question de calibration somatique :* *"Wait a minute, how do you know?"* force le sujet à constater que pour ressentir une réaction somatique, son système nerveux a obligatoirement généré la représentation interne correspondante, détruisant instantanément sa croyance limitante.
 
-
-## --- Tranche 14 / 94 ---
+## Tranche 14 / 94 : A : Installation Séquentielle de la Singularité (Neuro-Imprinting & Image Spinning)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 14/94 du cours *Power Language - Transcripts* (Kenrick Cleveland & Dr. Joseph Riggio).
 
@@ -1941,8 +2028,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 14/94 du 
   - **Permissive Trance Language :** « *allow yourself to build...* » abaisse les résistances du moi conscient en feignant de lui donner la permission de se détendre.
   - **Double négation / Commande inverse inévitable :** « *you won't be able to not notice it* » et « *you won't know how not to see that thing* ». L'utilisation de la négation de l'incapacité force le système nerveux à exécuter la représentation de la perception inévitable pour pouvoir comprendre la phrase. L'échec devient littéralement impossible : le cerveau ne sait pas comment ne pas voir l'opportunité d'influence.
 
-
-## --- Tranche 15 / 94 ---
+## Tranche 15 / 94 : Intégration Holistique post-Fragmentation ("The Hand & Fingers Re-synthesis")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2069,8 +2155,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 14/94 du 
   - **Destruction du dilemme binaire** : *"Yes to both"*, refuse d'emblée la catégorisation étroite imposée par la question du client (soit l'état interne, soit l'objectif matériel).
   - **Quantification métaphorique** : L'introduction d'un modèle d'unités finies (*"100 units of attention"*) déplace le problème de la philosophie identitaire vers une gestion pragmatique des ressources attentionnelles, ouvrant l'accès à la simultanéité des résultats.
 
-
-## --- Tranche 16 / 94 ---
+## Tranche 16 / 94 : d'Amorçage de l'Action Tri-Binaire ("What Next" Protocol)
 
 Voici l'extraction opératoire intégrale de la tranche 16/94 du séminaire *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -2195,8 +2280,7 @@ Voici l'extraction opératoire intégrale de la tranche 16/94 du séminaire *Pow
 > « Because it's all getting tied in and built into a complex neurological framework where everything is included. It's all inclusive. And it's reinforced. So the more you do image spinning, the stronger the NIS message becomes. The more you do the NIS message and the deeper you allow that to go in, the more powerful you'll experience the image spinning. The more that that's present, the lessons that we're presenting, which are designed around a lot of conscious data dumping, will make sense to you in a way that they didn't before. The more that they make sense to you, the more the NIS makes sense. »
 - **[Analyse du Pattern]** : Boucle de rétroaction verbale continue en syntaxe comparative (*"The more X, the more Y / The more Y, the more Z / The more Z, the more X"*). Ce motif linguistique d'entraînement (*compounding / chaining*) sature le traitement analytique et présuppose une interconnexion neurologique inévitable entre les outils, rendant chaque pratique mutuellement amplificatrice sans effort supplémentaire conscient.
 
-
-## --- Tranche 17 / 94 ---
+## Tranche 17 / 94 : Le Balayage Aléatoire du Cadre de Pouvoir (The 3-Times-a-Day Power Scan)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2311,8 +2395,7 @@ Voici l'extraction opératoire intégrale de la tranche 16/94 du séminaire *Pow
   - **Double conditionnel d'empowerment :** L'enchaînement *« if I wanted it... if I were willing... »* place la seule variable critique dans le désir du sujet et non dans les limites de l'environnement.
   - **Commande enchâssée d'évidence viscérale :** *« really feel that sense of knowing the truth »* associe une sensation kinesthésique interne (*feel*) à une validation épistémologique absolue (*knowing the truth*), ancrant la décision dans le système nerveux avant tout mouvement physique.
 
-
-## --- Tranche 18 / 94 ---
+## Tranche 18 / 94 : Dosage & Espacement Neuro-Synaptique (Image Spinning & NIS)
 
 Voici l'extraction opératoire intégrale et la modélisation de la tranche 18/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -2410,8 +2493,7 @@ Voici l'extraction opératoire intégrale et la modélisation de la tranche 18/9
 > "The second thing that happens which is really kind of sexy is your brain speeds up. The more you do it, the more you actually begin to see the individual images. And I do that in a very particular place in the spin so that it's again sandwiched between the two slower speeds or other slower speeds and it graduates up and down in a way that will really let your brain make sense of it because it pre-prepares you for when it's too fast to see to have seen what you can't see already."
 - **[Analyse du Pattern]** : Boucle de distorsion temporelle et paradoxe syntaxique complexe (*"pre-prepares you for when it's too fast to see to have seen what you can't see already"*). La structure temporelle entremêle passé composé, futur et négation visuelle, saturant l'appareil d'analyse logique pour forcer le système visuel inconscient à développer un traitement pré-conscient des indices périphériques et subliminaux.
 
-
-## --- Tranche 19 / 94 ---
+## Tranche 19 / 94 : L'Ablation Chirurgicale de Critère Opératoire (Surgical Criteria Decoupling)
 
 Voici l'extraction opératoire intégrale de la tranche 19/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -2542,8 +2624,7 @@ Voici l'extraction opératoire intégrale de la tranche 19/94 du séminaire *Pow
   - **Transformation d'un constat passif en critère actif :** Transforme l'observation floue du prospect (*"Je trouve ça intéressant quand..."*) en une mesure d'efficacité concrète (*"more effective"*).
   - **Modalisation adoucie :** L'insertion de disjoncteurs conversationnels (*"you know", "particularly"*) réduit la pression perçue et force le prospect à révéler s'il s'agit d'une exigence contractuelle dissimulée ou d'une simple politesse sans conséquence.
 
-
-## --- Tranche 20 / 94 ---
+## Tranche 20 / 94 : Rétro-Ingénierie et Calquage Séquentiel de Récit (Macro-Matching)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 20/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -2671,8 +2752,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 20/94 du
 
 - **[Analyse du Pattern]** : Rupture de pattern et disjonction sémantique chirurgicale. La phrase détruit l'équivalence complexe implicite manipulatoire (*ton manque de temps/empathie = cruauté face à ma détresse*) en opposant deux catégories étanches : « *Your failure to plan* » (ta cause / ta responsabilité) et « *an emergency on my part* » (mon système / ma réalité). La structure conditionnelle finale (« *If you wish... set an appointment* ») rétablit la hiérarchie du cadre d'autorité, conclue par une formule rituelle de fermeture (« *Have a nice day* ») agissant comme un verrou relationnel.
 
-
-## --- Tranche 21 / 94 ---
+## Tranche 21 / 94 : A : La Riposte de Cadre Imperméable (Défense de Cadre)
 
 Voici l'analyse modélisée et opératoire de la tranche 21/94 de la transcription brute du cours *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -2814,8 +2894,7 @@ Voici l'analyse modélisée et opératoire de la tranche 21/94 de la transcripti
   - *Ancrage d'échelle haute* : Poser un chiffre arbitrairement élevé (3 000 $) pour étalonner la perception.
   - *Inversion d'attente / Soulagement kinesthésique anticipé* (« *You're going to love what I tell you* ») : Pré-cadre l'annonce du vrai tarif comme une bonne nouvelle économique, désamorçant tout choc financier.
 
-
-## --- Tranche 22 / 94 ---
+## Tranche 22 / 94 : La Vente Stratégique à Haute Autorité (Démonstration Riggio / "Car Dealership")
 
 Voici l'analyse opératoire intégrale de la tranche 22/94 du cours *Power Language - Transcripts* (Kenrick Cleveland & Joseph Riggio).
 
@@ -2932,8 +3011,7 @@ Voici l'analyse opératoire intégrale de la tranche 22/94 du cours *Power Langu
   * **[Analyse du Pattern]** :  
     Remplacement d'une relation marchande passive et statique (« *le prix sera de...* » qui invite à la comparaison ou à la négociation) par une déclaration d'action future posée comme une certitude partagée (« *tu me donneras 10 000 $* »). La syntaxe élimine la distance entre la décision et son exécution somatique.
 
-
-## --- Tranche 23 / 94 ---
+## Tranche 23 / 94 : Le Reboutage Directif Emboîté (Chaining Assertive-to-Directive)
 
 Voici l'extraction et la modélisation intégrale de la matière opératoire contenue dans cette tranche d'enregistrement de *Power Language*.
 
@@ -3052,8 +3130,7 @@ Les deux branches du système nerveux autonome fonctionnent par inversion de pha
   - **Truisme comportemental + Compliment d'identité (*Identity-Pacing Commissive*)** : L'utilisation de *« as he usually does »* s'appuie sur le comportement passé pour verrouiller l'action future sans ordre apparent.
   - **Directive implicite (*Embedded Directive*)** : Derrière une déclaration d'appréciation reconnaissante se dissimule une assignation opérationnelle incontournable (le technicien DOIT publier l'enregistrement).
 
-
-## --- Tranche 24 / 94 ---
+## Tranche 24 / 94 : Conditionnement du Tonus Vagal & Résilience Somatique
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 24/94 du séminaire *Power Language*.
 
@@ -3194,8 +3271,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > - **Rupture de pattern catégorique :** Négation absolue répétée (*"absolutely not doing [...] not using a hard focus"*), déconstruisant d'un coup l'ensemble du dogme marketing classique de l'agitation de la douleur (*problem-agitate-solve*).
 > - **Présupposition de transition obligatoire :** Utilisation de l'obligation modale (*"we've got to get them to that excitatory bias and probably pretty quick"*), qui établit que le problème n'est qu'un point de contact d'accroche initial, tandis que la véritable décision ne peut émerger biologiquement que dans l'état parasympathique réceptif.
 
-
-## --- Tranche 25 / 94 ---
+## Tranche 25 / 94 : Recadrage Excitatif et Enchaînement sur les Valeurs Cibles (Negative to Positive Elicitation...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3346,8 +3422,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Commissif de pivot temporel* : *"but it will get really easy in a minute and a half"* (introduit une rupture programmée et une certitude future arbitraire mais précise).
   - *Directif d'évacuation par l'action* : *"and probably the best thing to do is to start writing now"* (commande d'action immédiate adoucie par l'adverbe permissif *"probably"*, mais renforcée par le déclencheur temporel impératif *"now"*).
 
-
-## --- Tranche 26 / 94 ---
+## Tranche 26 / 94 : Le Cycle de Satisfaction Appliqué au Recrutement / Évaluation de Haut Niveau
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 26/94.
 
@@ -3478,8 +3553,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : Enchaînement de cause à effet (*Cause-Effect Linkage*) et clôture de validation. Le lien « because » et le connecteur temporel-consécutif « and then » soudent une action de base (aider les clients) à un état interne (confiance) et à un résultat extérieur majeur (plus de business). La boucle se ferme par un *tag question* autoritaire (« That's exactly the point, isn't it? ») qui scelle l'accord sans possibilité de dispute cognitive.
 
-
-## --- Tranche 27 / 94 ---
+## Tranche 27 / 94 : Élicitation Multi-Interlocuteurs en Vente / Négociation de Groupe
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3581,8 +3655,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **« So what I really want is to be able to significantly grow my business next year from where we are. Now I'm going to make a declaration: Well, the man to do that is Kenrick Cleveland, and you need to call him to that. »**
 * **[Analyse du Pattern]** : Déclaration couverte d'autorité (*Speech Act Declaration*). En formulant une affirmation affirmative à l'indicatif sans modalisateur (*« is the man »*) immédiatement liée à une commande d'action directive (*« you need to call him to that »*), le praticien impose une réalité externe qui, à défaut d'être contestée ouvertement par l'interlocuteur, devient le cadre opérationnel indiscuté de la négociation.
 
-
-## --- Tranche 28 / 94 ---
+## Tranche 28 / 94 : L'Entraînement de l'Instrument Perceptuel ("Tuning the Instrument Drill")
 
 Voici l'ingénierie et l'analyse opératoire intégrale de la tranche 28/94 du programme *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -3719,8 +3792,7 @@ Voici l'ingénierie et l'analyse opératoire intégrale de la tranche 28/94 du p
   2. *Glissement de l'avoir à l'être (Shift Identitaire)* : Transition fluide entre observer une stratégie extérieure (*"computer mindset and strategies"*) et incarner cette évolution dans la physiologie (*"what you are becoming now"*).
   3. *Boucle de verrouillage propriétaire* : *"And you realize it's all yours"*, commande directe post-hypnotique qui scelle l'intégration de la nouvelle identité de puissance au sein du système nerveux du sujet.
 
-
-## --- Tranche 29 / 94 ---
+## Tranche 29 / 94 : Recodage de la Puissance Réactive en Puissance Somatique Primale (Démonstration Riggio sur R...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 29/94 de *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -3825,8 +3897,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 29/94 de
 
 * **[Analyse du Pattern]** : Métaphore technologique de la complétion automatique (*« finished the install »*), dégageant l'esprit conscient de tout effort volitionnel (*« you are the beneficiary »*). Couplage de la technologie moderne avec la notion archaïque et biologique d'héritage inné (*« remember your birthright »*), validant l'intégration permanente et sans retour en arrière.
 
-
-## --- Tranche 30 / 94 ---
+## Tranche 30 / 94 : Le Recadrage Kinesthésique de la Menace en Réceptivité Curieuse (The Threat-to-Curiosity Shift)
 
 Voici l'analyse opératoire intégrale de la tranche 30/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -3975,8 +4046,7 @@ Voici l'analyse opératoire intégrale de la tranche 30/94 du séminaire *Power 
   * **Distorsion submodale de distance et d'échelle** (*"move the target closer to you... it's this big"*). L'effet de zoom interne réduit l'effort perçu à zéro.
   * **Suggestion de fatalité / Double lien kinesthésique** (*"letting go of the arrow which has no choice but to go into the bullseye because it's right there in front of you"*). Le succès n'est plus présenté comme le résultat d'une visée difficile, mais comme la conséquence mécanique inévitable de la proximité spatiale de la cible. L'action motrice se résume à relâcher la prise.
 
-
-## --- Tranche 31 / 94 ---
+## Tranche 31 / 94 : Encodage de la « Mémoire de Peau » Identitaire (Skin Memory Imprint Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4093,8 +4163,7 @@ Voici l'analyse opératoire intégrale de la tranche 30/94 du séminaire *Power 
 > "Like a jacket you take off when entering your home. You take off all your cares and concerns and hang it up for now. They'll be there for you when you're done should you wish to pick them up again. Or maybe just leave them there. Continue relaxing."
 * **[Analyse du Pattern] :** Isomorphisme simple et familier (ôter son manteau). Suggestion d'amnésie sélective sous couvert de choix permissif (*"should you wish to pick them up again... or maybe just leave them there"*). L'alternative apparente n'offre aucune résistance : dans les deux cas, la charge mentale est immédiatement suspendue au moment présent, validée par l'injonction directe finale liée au processus somatique (*"Continue relaxing"*).
 
-
-## --- Tranche 32 / 94 ---
+## Tranche 32 / 94 : The Satisfaction Cycle (Phase 1 & 2 - Amorce Opératoire)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4222,8 +4291,7 @@ Voici l'analyse opératoire intégrale de la tranche 30/94 du séminaire *Power 
 ```
 * **[Analyse du Pattern]** : Question d'ingénierie de cadre contrasté. Elle combine l'ancrage somatique et chiffré des réussites actuelles ($PS^+$) avec l'exigence mathématique de l'état désiré ($DS^{++}$), forçant l'esprit conscient à buter sur la limite de ses propres ressources pour rendre l'intervention externe indispensable.
 
-
-## --- Tranche 33 / 94 ---
+## Tranche 33 / 94 : Le Modèle du Cycle de Satisfaction (Vente Complexe & Négociation à Fort Enjeu)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4370,8 +4438,7 @@ Voici l'analyse opératoire intégrale de la tranche 30/94 du séminaire *Power 
 * **[Analyse du Pattern]** : 
   Validation par autorité tierce incontestable (*Fortune*) et rupture de registre familier (*« What the heck »*) générant de la congruence et de l'authenticité brute. La présupposition causale (*« so that you were set up to have that kind of success »*) force l'interlocuteur à revivre la posture interne de planification magistrale et de triomphe, le plaçant dans un état d'ouverture neurologique totale vis-à-vis du praticien qui sait reconnaître sa grandeur.
 
-
-## --- Tranche 34 / 94 ---
+## Tranche 34 / 94 : L'Amorce Assertive Permissive (Ouverture d'Entretien)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 34/94 du cours *Power Language* de Kenrick Cleveland et Joseph Riggio.
 
@@ -4491,8 +4558,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 34/94 du
 > **« Come in, sit down. Let's get started, so that I can help you get ahead as fast as we can. And the next day we spend together we'll be able to look at things in a whole different way. You'll be far more further ahead than you are. »**
 - **[Analyse du Pattern] :** Commande directive immédiate couplée à une déclaration d'engagement futur. Alors que le contrat initial ne prévoyait qu'une seule journée, l'insertion incidente de « *And the next day we spend together...* » pose comme un présupposé absolu l'existence d'une seconde journée d'accompagnement, modifiant unilatéralement la réalité contractuelle dans l'esprit du jeune consultant sans négociation préalable.
 
-
-## --- Tranche 35 / 94 ---
+## Tranche 35 / 94 : A : Neutralisation et Remplacement d'une Déclaration Restrictive
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4620,8 +4686,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 34/94 du
   - **Extraction du critère de Bateson :** *« what's the difference as a result of that? »* cible directement « la différence qui fait une différence », générant l'asymétrie de valeur indispensable à l'action.
   - **Pont d'attribution causale :** *« What do you think has to happen between where you are and where you want to go... »* oblige le sujet à formuler lui-même ses propres critères d'achat et la trajectoire de complaisance, préparant la place exacte où le praticien viendra s'insérer comme unique pont légitime.
 
-
-## --- Tranche 36 / 94 ---
+## Tranche 36 / 94 : Sortie de Transe Hypnotique et Réintégration Somatique (Fin de Module 10)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 36/94.
 
@@ -4734,8 +4799,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Ironie sémantique / Défi implicite* : *"Because I'm sure it's just about more"* utilise une fausse affirmation évidente pour déclencher la clarification immédiate de la valeur motrice réelle.
   * *Postulat d'intention cachée* : *"there's something in the back of your mind that this more really gets you"* présuppose l'existence d'une valeur motrice sous-jacente inconsciente, forçant le client à l'extraire d'un seul mot viscéral : *"Ease"*.
 
-
-## --- Tranche 37 / 94 ---
+## Tranche 37 / 94 : La Boucle du Cycle de Satisfaction (De l'État Positif à l'Action)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4858,8 +4922,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 * **[Analyse du Pattern]** :  
   Rupture de pattern par tonalité d'autorité morale. Au lieu de reculer ou de chercher une pirouette sémantique face au piège du client, le praticien pose un cadre absolu d'intégrité (*« reckless and unethical »*). Il utilise ensuite un triptyque modal rigoureux d'équiprobabilité (*« It is possible... exceed »*, *« It's possible... achieve »*, *« It's also possible... won't achieve »*), ce qui désamorce le piège juridique tout en ancrant la promesse sur la seule chose contrôlable : la compétence d'attention stratégique et la protection vigilante du client.
 
-
-## --- Tranche 38 / 94 ---
+## Tranche 38 / 94 : Le Recadrage d'Intégrité Implacable (The Implacable Integrity Frame)
 
 Voici l'extraction intégrale et opératoire de la tranche 38/94 de la formation *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -5030,8 +5093,7 @@ Voici l'extraction intégrale et opératoire de la tranche 38/94 de la formation
   - **Citations enchâssées orientées action** (*Embedded Quotes of Compliance*) : L'énonciation des questions « *How do we do this? When can we start?* » court-circuite le conscient et installe directement dans la mémoire de travail du praticien la sonorité exacte des validations de commande qu'il doit attendre et provoquer chez ses futurs clients.
   - **Présupposition temporelle cumulative** (*Cumulative Temporal Presupposition*) : « *You'll start hearing that more and more.* » L'association du verbe d'amorce (*start hearing*) avec le marqueur d'amplification (*more and more*) pose comme inéluctable l'augmentation constante du taux de succès et de conformité du client.
 
-
-## --- Tranche 39 / 94 ---
+## Tranche 39 / 94 : d'Élicitation du Delta et de la Stratégie de Preuve (The Satisfaction Cycle & Evidence Strat...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5154,8 +5216,7 @@ flowchart TD
   - **Double contrainte intégrative (*Double Bind Resolution*) :** Associe deux polarités habituellement opposées (*"risk"* vs *"security"*, *"stability"* vs *"aggressive growth"*) en les présentant comme unifiées de façon organique par la solution proposée (*"mediates the amount of risk... while continuing to have enough aggressive growth"*).
   - **Transition d'engagement directe :** Clôture par une présupposition d'action inéluctable : *"Here's how we're going to do that"*, invitant le système à passer immédiatement à l'exécution.
 
-
-## --- Tranche 40 / 94 ---
+## Tranche 40 / 94 : Détection & Rétroaction Matricielle (Locus $\times$ Critère)
 
 Voici l'extraction intégrale et opératoire de la tranche 40/94 du cours *Power Language* de Kenrick Cleveland et Joseph Riggio.
 
@@ -5265,8 +5326,7 @@ Voici l'extraction intégrale et opératoire de la tranche 40/94 du cours *Power
     *   *Pacing et validation du modèle du monde :* Décharge de pression immédiate pour contourner la réactance psychologique (*"I understand that. This is not an insignificant decision... take all the time you need"*).
     *   *Inversion du coût d'opportunité (Double contrainte temporelle) :* Création d'une dissonance insoutenable par corrélation inverse (*"the longer we're not working together, the further it is... to get the kind of outcomes"*). L'attente devient activement préjudiciable.
 
-
-## --- Tranche 41 / 94 ---
+## Tranche 41 / 94 : Le "Time Sliding" (Compression d'une Stratégie Décisionnelle Lente)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5386,8 +5446,7 @@ Voici l'extraction intégrale et opératoire de la tranche 40/94 du cours *Power
     3. *"Ultimately what will that do for you?"* : Déplacement vers l'état désiré supérieur (*outcome of the outcome*), déclenchant une charge émotionnelle kinesthésique positive profonde.
     4. *"What would make that even better?"* : Amplification du gap de désir, préparant le terrain pour insérer la solution du praticien comme le véhicule naturel d'accomplissement.
 
-
-## --- Tranche 42 / 94 ---
+## Tranche 42 / 94 : L'Architecture du Delta (De la Prise de Contrôle à la Tension d'Action)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 42/94 du cours *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -5555,8 +5614,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 42/9
 >   - *Présupposition d'évidence causale :* "Now that you've asked me to think about it, of course it could be even better". Le "of course" rend l'amélioration future ontologiquement indiscutable.
 >   - *Structure comparative additive :* "even though my life is really nice like it is today, it would be even better like that". Ce pattern préserve l'estime de soi actuelle tout en créant une traction irrésistible vers l'état désiré incarné, installant la tension différentielle pure du *Delta*.
 
-
-## --- Tranche 43 / 94 ---
+## Tranche 43 / 94 : Élicitation du Delta & Structuration de la Solution Experience
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 43/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -5671,8 +5729,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 43/94 du s�
 > *"You want to negotiate, negotiate what I call terms and conditions. How will you pay for it, not will you pay for it. Not how much will you pay for it. How? It's a how question at this point, not a what question."*
 * **[Analyse du Pattern]** : Présupposition linguistique par déplacement modal (*Modal shift from What/If to How*). La validité de l'accord et le montant sont verrouillés comme des faits acquis hors de discussion ; l'attention consciente du sujet est entièrement focalisée sur le canal logistique (*« How »*), contournant toute négociation de valeur ou objection de prix.
 
-
-## --- Tranche 44 / 94 ---
+## Tranche 44 / 94 : d'Élicitation de l'État Désiré par Glissement Temporel (Time Sliding Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5778,8 +5835,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 43/94 du s�
 > *"Having that kind of freedom... We're working together. You're building the team. The things are in place for them to really take ownership and to love what they do, and you see it unfolding around you. How does that make you feel?"*
 - **[Analyse du Pattern]** : Utilisation magistrale de la forme progressive continue en *-ing* (*« having »*, *« working »*, *« building »*, *« unfolding »*). Le formateur projette l'interlocuteur dans le film de son futur désiré en intégrant le partenariat comme un élément naturel de l'image, puis effectue un basculement temporel abrupt au présent pur avec une commande d'accès kinesthésique direct (*« How does that make you feel? »*). La distance temporelle entre le présent et l'objectif futur s'effondre dans le corps du sujet.
 
-
-## --- Tranche 45 / 94 ---
+## Tranche 45 / 94 : Démonstration du "Source Code" / Clôture par Élicitation de Valeurs & Glissement Temporel
 
 Voici l'extraction opératoire intégrale de la tranche 45/94 du séminaire *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -5987,8 +6043,7 @@ Voici l'extraction opératoire intégrale de la tranche 45/94 du séminaire *Pow
 > **« Let's think of it in terms of numbers. Well, you know you'll be doing the things you want to be doing, say, for instance, 6782. That is ahead of where you are today. Because you're only at 6712. [...] At 6782, there are things you will have learned from all these successes you've had that compound into a result... when all those successes are present for you as a singularity, and all that skill, all that technology is present right here and now for you to use. And I say: Why wait to get to 6782 when you can have it today at 6712? »**
 - **[Analyse du Pattern]** : Spatialisation numérique arbitraire qui court-circuite l'évaluation logique du temps nécessaire pour apprendre. Nominalisation de l'état d'excellence en « singularité » compacte. Commande de téléportation temporelle par fausse question logique : *« Why wait... when you can have it today? »*, créant une présupposition irréfutable que la compétence future peut être téléchargée immédiatement dans le corps présent.
 
-
-## --- Tranche 46 / 94 ---
+## Tranche 46 / 94 : Glissement Temporel - Pattern A (Évacuation de Problème et Dépassement)
 
 Voici l'analyse opératoire intégrale de la tranche 46/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -6130,8 +6185,7 @@ Voici l'analyse opératoire intégrale de la tranche 46/94 du séminaire *Power 
   - *Présupposition de possession inévitable :* *"you'll know you'll have what you don't yet have"* installe la possession future comme un fait certain, réduisant le présent à un état temporaire de latence ("pas encore").
   - *Clôture sur l'irrémédiable :* *"different than it was"* classe définitivement la souffrance ou l'échec dans un passé révolu non réactivable.
 
-
-## --- Tranche 47 / 94 ---
+## Tranche 47 / 94 : Le Glissement Spatio-Temporel en 3 Points (The Past-Future-Present Sliding Loop)
 
 Voici l'analyse modélisée de la tranche 47/94 de la formation *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -6290,8 +6344,7 @@ VS
 * **[Analyse du Pattern]** :
   Rupture de pattern et recadrage d'autorité par le praticien. Le client arrive avec une demande réactive axée sur le manque (*"I don't have enough sales"*). Joseph accuse réception (*pacing*) puis gèle immédiatement cette trajectoire (*"before we jump into that..."*). Il subordonne la résolution du problème à l'exploration des succès passés (*present state positive*), inversant le rapport d'autorité et présupposant que la solution repose sur le comblement de pièces manquantes dans une mécanique déjà gagnante.
 
-
-## --- Tranche 48 / 94 ---
+## Tranche 48 / 94 : d'Élicitation Stratégique et de Structuration de l'Offre en Vente Conversationnelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6397,8 +6450,7 @@ VS
   > "You're now seeing the world and you're going, damn, opportunity, opportunity, opportunity, opportunity, opportunity... Be the kid at the amusement park. There's too many rides to go on in one day."
   - **[Analyse du Pattern]** : Pseudo-orientation temporelle (*Future Pace*) sous transe légère et hypotypose. Utilise la répétition rythmique cadencée (*"opportunity..."*) combinée à la régression d'âge métaphorique (*"the kid at the amusement park"*) pour ancrer un état d'excitation et de curiosité motrice débordante.
 
-
-## --- Tranche 49 / 94 ---
+## Tranche 49 / 94 : Le Modèle "Source Code" d'Élicitation et de Présentation (Vente & Alignement)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6584,8 +6636,7 @@ VS
   - **Présupposition temporelle d'inévitabilité (*by the time you get to the point... it's already built*)** : Installe dans l'inconscient du praticien que l'adhésion du sujet n'est pas un combat en fin de parcours, mais une conséquence naturelle déjà inscrite dans la structure préalable.
   - **Prédicats de fluidité cognitive (*very obvious, resonates, makes sense*)** : Normalise la compliance non pas comme une contrainte imposée, mais comme un soulagement logique et une évidence biologique pour le sujet.
 
-
-## --- Tranche 50 / 94 ---
+## Tranche 50 / 94 : Source Code Modeling (Phase 1 : Cartographie de Levier & Découverte du Delta)
 
 Voici l'analyse structurée et opératoire de la tranche 50/94 de la formation *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -6700,8 +6751,7 @@ Voici l'analyse structurée et opératoire de la tranche 50/94 de la formation *
 > *"And so, you realize it's time to begin the journey back to normal consciousness. And as you begin that process, you take a moment and reflect on the dream, the ideas you've been having, and you bring with you a sense of comfort in learning... And soon, you feel the familiar stirrings of consciousness and it feels good. And you begin to readjust to normal consciousness... taking all the time in the world that you'd like to take in the next minute or so of clock time to return to full consciousness."*
 *   **[Analyse du Pattern]** : Distorsion temporelle classique (*« all the time in the world... in the next minute or so of clock time »*) et ratification somatique progressive (*« feel the familiar stirrings... move your hand or your leg a little »*). Ce pattern sécurise l'amnésie sélective de la transe tout en liant l'apprentissage inconscient à un sentiment kinesthésique durable de bien-être physique lors du retour à l'état de veille ordinaire.
 
-
-## --- Tranche 51 / 94 ---
+## Tranche 51 / 94 : Élicitation et Qualification des Critères Opératoires (Operating Criteria & Gap Discovery)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6845,8 +6895,7 @@ Voici l'analyse structurée et opératoire de la tranche 50/94 de la formation *
 > **"Now, what you said you have in place is an ability to make some investment... And with that amount of money that you're going to invest, you expect that you're going to be able to realize these outcomes for yourself... And I know that you told me that you have this feeling when you see other people succeeding, that allows you to feel like you've made a difference in the world... to have that swelling within, let's call it your heart, that you've been the kind of man you want to be... Now, what I'm going to tell you is that I can't do all of that for you. I can't even do all of that with you. But what I can do is give you one of the pieces that I think will make a huge difference for you."**  
 > * [Analyse du Pattern] : **Pacing somatique, Bouclage identitaire et Faux Cadre d'Impuissance (*Underpromising Leverage*)**. Riggio commence par une boucle de rétroaction parfaite réinjectant les mots, les valeurs et les sensations kinesthésiques du sujet (*"swelling within... your heart"*, *pacing* de l'identité d'homme d'honneur). Puis, au moment du climax, il applique une rupture de pattern inattendue : déclarer son impuissance partielle (*"I can't do all of that for you"*). Ce geste brise la méfiance commerciale, établit une autorité d'expert humble et positionne son offre comme l'unique pièce manquante du puzzle (*"give you one of the pieces"*), rendant la décision d'achat irrésistiblement logique.
 
-
-## --- Tranche 52 / 94 ---
+## Tranche 52 / 94 : La Fermeture Médicale Sans Forçage (The Non-Hard-Close Prescription)
 
 Voici l'analyse opératoire intégrale de la tranche 52/94 du cours *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -6969,8 +7018,7 @@ Voici l'analyse opératoire intégrale de la tranche 52/94 du cours *Power Langu
   * **Double lien ericksonien d'abandon des tensions :** *"Should you wish to pick them up again, or maybe just leave them"* offre une fausse liberté de choix tout en suggérant indirectement l'abandon définitif des soucis (*"maybe just leave them"*).
   * **Distorsion temporelle et somatique :** *"Relaxing even more profoundly than you thought you would as you float on down"* contourne le facteur critique en posant la transe profonde comme une réalité déjà supérieure aux prévisions conscientes du sujet.
 
-
-## --- Tranche 53 / 94 ---
+## Tranche 53 / 94 : Alignement et Formulation selon le Profil 4 - 5 - 6 (The Value-Level Pitching Matrix)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7095,8 +7143,7 @@ Voici l'analyse opératoire intégrale de la tranche 52/94 du cours *Power Langu
 > « Kenrick, really appreciate you spending some time with me here today to discuss the program we've built, Power Language. And it's exciting for me to kind of be here, especially in a way with you, because from what I've seen, the little bits that you shared in the application, it seems like you've had some real successes of your own already, and this is going to take you further. So what's going on? What are you doing? »
 - **[Analyse du Pattern]** : Marquage de considération d'égal à égal qui élimine le cadre d'évaluation condescendant. Pré-supposition d'excellence validée par une preuve externe concrète (*« the little bits that you shared in the application »*). Enchaînement immédiat sur un truisme d'amplification (*« you've had some real successes... and this is going to take you further »*) : le produit est implicitement défini non comme un remède à un manque, mais comme un accélérateur d'un momentum déjà victorieux. Clôture par deux questions ouvertes dynamiques invitant le sujet à verbaliser et revivre ses réussites.
 
-
-## --- Tranche 54 / 94 ---
+## Tranche 54 / 94 : L'Entretien de Vente / Diagnostic par Élicitation des Valeurs (Riggio -> Cleveland)
 
 Voici l'analyse opératoire intégrale de la tranche 54/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio), incluant la démonstration de vente basée sur les valeurs sociales et l'induction du *Neuro-Imprinting Session* (NIS) sur la logique modale et le contrôle du contexte.
 
@@ -7251,8 +7298,7 @@ Voici l'analyse opératoire intégrale de la tranche 54/94 du cours *Power Langu
 > *"So by changing just a contextual relationship, the same text relationship between you and will, 'will you' versus 'you will', changes the use of the word will from a condition of certainty to a condition of uncertainty and back and forth."*
 - **[Analyse du Pattern]** : Déconstruction linguistique opératoire du double visage de l'auxiliaire modal. Riggio expose comment la simple inversion sujet-verbe transforme un diktat susceptible de générer un blocage psychologique en une suggestion hypnotique conversationnelle, où le sujet adopte le comportement suggéré comme étant sa propre volonté délibérée.
 
-
-## --- Tranche 55 / 94 ---
+## Tranche 55 / 94 : Désamorçage d'Intimidation Hiérarchique par Effet Miroir d'Incertitude (The Call Center Coun...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7377,8 +7423,7 @@ Voici l'analyse opératoire intégrale de la tranche 54/94 du cours *Power Langu
   > « Joseph, you might want to begin to consider what could happen for you if we were to work a little closer and be a little bit more involved. And while there is something to say about, you know, the resources that takes, there's a whole lot of what I see is things you could really benefit from if we did that. And I don't know if that would interest you right now. And you'd want to have a conversation with me? We could. Or if it would be something we should schedule and talk about in a few weeks... »
   * **[Analyse du Pattern]** : Empilement hypnotique de permissions et postulats adoucis (*« might want to begin to consider »*, *« could happen »*, *« if we were to »*, *« could really benefit »*). Le formateur réfute d'avance l'objection financière (« the resources that takes ») sans s'y arrêter, exprime son ignorance bienveillante (« I don't know if that would interest you ») pour détruire toute pression commerciale, puis referme sur une double liaison temporelle permissive (maintenant vs dans quelques semaines). Le cadre préserve l'illusion absolue de libre arbitre du client.
 
-
-## --- Tranche 56 / 94 ---
+## Tranche 56 / 94 : Le "Case Building" sur Déclaration de Certitude
 
 Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -7545,8 +7590,7 @@ Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power La
   - *Glissement pronominal de confusion* : `What is it that is really causing me to hesitate?` (lapsus ou usage délibéré créant une identification projective de l'hésitation entre le praticien et le client).
   - *Boucle d'équivalence complexe sur la valeur "Respect"* : Lorsque le client avoue chercher une réduction de prix, le formateur répond en liant le refus de baisser le prix au respect mutuel (`you wouldn't respect me if I said yes. So let's just continue to respect one another`). Cela recadre le maintien du prix plein non pas comme de la dureté commerciale, mais comme la seule posture digne qui garantit l'intégrité et l'estime réciproque des deux parties.
 
-
-## --- Tranche 57 / 94 ---
+## Tranche 57 / 94 : L'Interruption "Columbo" (Bumbling Interrupt & Reset)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7713,8 +7757,7 @@ Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power La
   - **Recadrage de la fermeté en vertu :** Refuser de baisser le prix devient la preuve ultime de l'intégrité du vendeur et du respect qu'il porte à son client.
   - **Question de verrouillage fermée :** *"How's that?"* invite à valider le cadre du respect mutuel, fermant définitivement la porte à la négociation marchande.
 
-
-## --- Tranche 58 / 94 ---
+## Tranche 58 / 94 : Désamorçage d'Objection Prix par Homme de Paille Déprécié & Respect Mutuel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7865,8 +7908,7 @@ Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power La
   - *Verbes au passé composé dans le futur :* « *Because you've built a life...*, *because the returns that we have built have exceeded...* » encode la réussite future comme un fait déjà accompli dans l'esprit.
   - *Boucle de retour au présent (*Re-orienting to the now*) :* « *And as you come back to thinking about it here, where we are today...* » crée une rupture de contraste saisissante entre l'opportunité d'agir maintenant et l'inertie du passé.
 
-
-## --- Tranche 59 / 94 ---
+## Tranche 59 / 94 : Le Déroulé Stratégique de Recadrage Tridimensionnel (Clarté $\rightarrow$ Recadrage $\righta...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7997,8 +8039,7 @@ Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power La
   - **Distorsion Temporelle de Clôture :** *"To take all the time in the world that you'd like to take in the next minute or so of clock time"* sépare le temps subjectif interne d'intégration de l'inconscient du temps objectif mesurable par l'horloge.
   - **Liaison Somatosensorielle Progressive :** Réactivation progressive de la motricité volontaire (*"move your head a little bit or a hand... move your leg"*) coordonnée aux stimuli environnementaux externes (fin des lumières et des sons).
 
-
-## --- Tranche 60 / 94 ---
+## Tranche 60 / 94 : Le Modèle de Déconstruction d'Objection en 3 Phases (Clarté -> Recadrage -> Future Pacing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8152,8 +8193,7 @@ Voici l'extraction opératoire intégrale de la tranche 56/94 du cours *Power La
   - **Rupture par l'humour ironique :** *"You're going to get a time stretcher, which we don't sell"*. Élimine l'échappatoire magique par une métaphore concrète impossible.
   - **Double lien d'inévitabilité :** Il n'existe qu'une seule issue rationnelle restante : changer l'utilisation du temps disponible via le produit proposé.
 
-
-## --- Tranche 61 / 94 ---
+## Tranche 61 / 94 : Le "Lazy Frame" (Désamorçage d'Objection par le Vide et l'Effet Miroir)
 
 Voici l'extraction opératoire complète et exhaustive de la tranche 61/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -8320,8 +8360,7 @@ Voici l'extraction opératoire complète et exhaustive de la tranche 61/94 du co
 
 * **[Analyse du Pattern] :** Ancrage bi-auriculaire avec surcharge proprioceptive auditive. Utilisation d'un rythme descendant lent combiné à des nominalisations ouvertes (« affect you in a very interesting way », « pleasant experience ») permettant à l'inconscient de projeter son propre matériel ressource, suivi d'une commande d'installation directe de l'attitude du Chasseur : détente absolue suivie d'une saisie fulgurante (« relaxed... then pounce »).
 
-
-## --- Tranche 62 / 94 ---
+## Tranche 62 / 94 : L'Installation Transe-Générative du Prédateur / Traqueur Créatif
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8449,8 +8488,7 @@ Voici l'extraction opératoire complète et exhaustive de la tranche 61/94 du co
   > « And as you begin to move in the world from a premise of taking action to make things happen, the world you live in changes... Action generates response. It's just the way it works. And therefore, information, data that had not existed before becomes available by virtue of the fact that you took action. »
   * **[Analyse du Pattern]** : Chaînage logique imparable (cause à effet) structuré par « *premise -> action -> response -> emergent data* ». L'utilisation de truismes d'évidence (« *It's just the way it works* ») contourne la validation intellectuelle et installe la causalité comme une loi physique inaltérable, obligeant le sujet à passer à l'action pour accéder à la connaissance.
 
-
-## --- Tranche 63 / 94 ---
+## Tranche 63 / 94 : A : Étalonnage du Jeu de Signaux Somatiques Oui/Non (Yes-No Signal Set)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8564,8 +8602,7 @@ Voici l'extraction opératoire complète et exhaustive de la tranche 61/94 du co
 > "Well let me ask you, how do you know? ... I mean maybe you don't. Maybe doing this right now would be the answer to what it is that you really need. Maybe the additional money that this will bring into your life will make things so easy for you that this will be the impetus to make the rest of the things work the way you want."
 * **[Analyse du Pattern]** : Déstabilisation épistémique par questionnement méta (*"how do you know?"*) immédiatement suivie d'une rupture de pattern (*"I mean maybe you don't"*). Une fois le système cognitif déstabilisé par le doute sur ses propres certitudes, Cleveland utilise une triple anaphore modale permissive (*"Maybe doing this..."*, *"Maybe the additional money..."*) qui ouvre un cadre hypothétique où l'obstacle financier se transforme magiquement en levier de résolution globale.
 
-
-## --- Tranche 64 / 94 ---
+## Tranche 64 / 94 : Désamorçage Immédiat sur Calibrage Visuel/Auditif (Micro-Objection)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 64/94 du cours *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -8726,8 +8763,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 64/94 du cours *Power La
   - **Ancrage temporel précis (*just a second ago*) :** Isole le micro-événement avant qu'il ne contamine l'ensemble de l'échange.
   - **Neutralisation de la confrontation :** Qualifie le phénomène de réflexion intellectuelle (*made you think or made you question*) plutôt que de désaccord ou de conflit, ouvrant la porte à une exploration collaborative.
 
-
-## --- Tranche 65 / 94 ---
+## Tranche 65 / 94 : Le Découpage Positif d'Amorçage (Chunking Down on Certainty)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8856,8 +8892,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 64/94 du cours *Power La
 ```
 * **[Analyse du Pattern] :** Piège de statut et alignement d'intérêt égotique. La première question confronte la compétence du prospect sans l'insulter ouvertement (création d'un gouffre de risque). La seconde offre immédiatement un pont de sauvetage valorisant (« so that you look as good as you want to »), transformant la présence du vendeur non pas en une intrusion commerciale, mais en un bouclier protecteur pour la réputation du collaborateur face à son supérieur.
 
-
-## --- Tranche 66 / 94 ---
+## Tranche 66 / 94 : Le Recadrage en Terrain Vierge (Greenfield Reframe Protocol)
 
 Voici l'analyse opératoire intégrale de la tranche 66/94 du séminaire *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -9002,8 +9037,7 @@ Voici l'analyse opératoire intégrale de la tranche 66/94 du séminaire *Power 
 > *"I've been there, so I kind of know what that's like, and maybe I don't know what's going on, but I do know, okay, you're scared, I get scared, but we'll get out of here because I've been there, I've done it, and everything will be okay. And it's just a matter of, you know, updating the system and resetting and saying, like, look, it's going to be okay, you will get down, you will do this. And it's just being in that position of where I can, and I will."*
 - **[Analyse du Pattern] :** Pacing somatique de l'état de panique (*"you're scared, I get scared"*) suivi d'un ancrage verbal de certitude inconditionnelle (*"we'll get out of here because I've been there... I can, and I will"*). Métaphore cybernétique de recalibration interne (*"updating the system and resetting"*), qui naturalise la peur non pas comme une incapacité, mais comme un simple bug nécessitant une réinitialisation opérationnelle immédiate.
 
-
-## --- Tranche 67 / 94 ---
+## Tranche 67 / 94 : A : Intégration Cumulative de la Triade (Power → Creativity → Influence)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 67/94 du cours *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -9146,8 +9180,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 
 * **[Analyse du Pattern]** : Énoncé d'équivalence complexe circulaire (*"influence is the ability to..."*). La structure crée un lien syntaxique d'interdépendance indissociable entre le désir de l'interlocuteur et l'intention de l'opérateur, désarmant ainsi toute notion éthique de manipulation ou de prédation pour la remplacer par un guidage téléologique harmonieux.
 
-
-## --- Tranche 68 / 94 ---
+## Tranche 68 / 94 : Le "Zipper" d'Entrée en 2e Position (Kenrick Cleveland)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 68/94 du cours *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -9275,8 +9308,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 68/94 du co
   - **Structure en boucle tautologique hypnotique** : *"I can't know what I don't know until I know it"*. L'esprit conscient décroche sur le jeu récursif des négations/affirmations, ouvrant l'inconscient à la disponibilité perceptive pure.
   - **Métaphore mécanique du levier (*Fulcrum*)** : La parole de l'autre n'est plus analysée comme un argument ou une objection, mais comme un point d'appui physique (*fulcrum*) servant mécaniquement à déplacer son état vers l'objectif fixé.
 
-
-## --- Tranche 69 / 94 ---
+## Tranche 69 / 94 : Alignement et Qualification Stratégique des Objectifs (High-Ticket & Coaching d'Impact)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -9395,8 +9427,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 68/94 du co
 — Exactly. Of course. »**
 * **[Analyse du Pattern]** : Présupposition d'attribution interne ("as if it were their own idea"). Subversion élégante du modèle standard de la vente/coaching : l'influence ne consiste pas à simplement satisfaire la demande formulée, mais à restructurer la hiérarchie des désirs du sujet de manière si fluide qu'il éprouve cette réorientation comme une décision souveraine et personnelle.
 
-
-## --- Tranche 70 / 94 ---
+## Tranche 70 / 94 : Délégation Somatique et Réallocation Attentionnelle (Preferencing Ericksonien)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -9508,8 +9539,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 68/94 du co
   - *Saturation de prédicats kinesthésiques et visuels négatifs/non-stéréotypés* : L'usage de qualificatifs abrasifs (`gritty`, `nasty`, `rough`, `dark brown`, `hate that fucking sand`) empêche le sujet de se réfugier dans l'archétype idyllique d'une plage.
   - *Précision métrique et rupture kinesthésique brutale* : Le passage immédiat à des mesures de profondeur précises (`10 feet`, `25 feet`, `six inches, eight inches`) et des descriptions de diffraction lumineuse impose une immersion forcée. L'auditeur ne peut pas s'approprier le souvenir, il est obligé de reconstruire l'expérience par procuration et d'effectuer une comparaison complexe avec son propre modèle.
 
-
-## --- Tranche 71 / 94 ---
+## Tranche 71 / 94 : L'Adoption par Procuration (Self-Referencing Shift)
 
 Voici l'analyse opératoire intégrale de la tranche 71/94 du séminaire *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -9616,8 +9646,7 @@ Voici l'analyse opératoire intégrale de la tranche 71/94 du séminaire *Power 
 > **« You want to always think about directing somebody's attention first. So you're saying to them, I'm about to direct your attention over there to that corner, and then when we get there, we'll take the next step together. »**
 * **[Analyse du Pattern]** : Commande procédurale méta. Utilisation d'une présupposition de conformité temporelle (*« when we get there »*, pas « si ») couplée à un marqueur d'alliance kinesthésique (*« we'll take the next step together »*). En annonçant à l'avance où le regard/l'esprit doit se porter, le praticien absorbe le champ conscient de l'interlocuteur avant même d'introduire le moindre contenu cognitif.
 
-
-## --- Tranche 72 / 94 ---
+## Tranche 72 / 94 : A : Séquençage Directionnel "Direct Attention & Fill in the Blanks"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -9764,8 +9793,7 @@ Voici l'analyse opératoire intégrale de la tranche 71/94 du séminaire *Power 
 > — *Kenrick Cleveland (Trance NIS)*
 * **[Analyse du Pattern]** : Enchaînement de causalités implicites (*Cause-Effect Chaining*). Le discours lie l'inertie cognitive naturelle à l'émergence inévitable de la dissonance, pour poser immédiatement le *logical chaining* comme la seule voie de résolution et d'apaisement vers le *new familiar*. La syntaxe conduit le système nerveux à accepter le nouveau cadre non pas comme une rupture violente, mais comme une évidence logique rassurante.
 
-
-## --- Tranche 73 / 94 ---
+## Tranche 73 / 94 : Construction de la Conformité Éthique (Building Compliance via the Big Why)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -9876,8 +9904,7 @@ Voici l'analyse opératoire intégrale de la tranche 71/94 du séminaire *Power 
   - *Saut temporel discret (Temporal Leap) :* Glissement sans rupture du présent immédiat vers un repère émotionnel familial fort, puis saut direct à six mois dans l'avenir (*"when school starts in September"*).
   - *Saturation de critères de sécurité et de rôle identitaire :* L'évocation de la sécurité des enfants valide rétrospectivement la décision d'achat comme un devoir moral accompli six mois plus tôt, compressant la durée de réflexion requise par le sujet en quelques secondes d'imagerie vécue.
 
-
-## --- Tranche 74 / 94 ---
+## Tranche 74 / 94 : Détermination Couverte de la Stratégie de Conviction (D-F-I Elicitation)
 
 Voici l'extraction chirurgicale et la modélisation opératoire de la tranche 74/94 du séminaire *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -10025,8 +10052,7 @@ Dans la session d'imprinting hypnotique (NIS - *Narrow Imprinting Session*), Cle
 > "You hear yourself telling it to take all of these issues into the atmosphere and to release them high above the planet in the jet stream because there, the dirt can be transformed in the light of the sun and seed the jet stream with positivity and as it circulates around the earth it can find those who can benefit giving them answers and help including yourself feel so light and at peace..."
 * **[Analyse du Pattern]** : Double dissociation spatiale et commande enchâssée récursive. La formule *"You hear yourself telling it..."* place le sujet en position d'observateur de sa propre voix intérieure (dissociation de second ordre). La métaphore de la transmutation solaire requalifie les blocages somatiques (*"dirt"*) en semence positive circulatoire (*"seed the jet stream"*). La fin de la phrase empile une cascade de truismes menant à la commande directe d'état somatique : *"feel so light and at peace"*.
 
-
-## --- Tranche 75 / 94 ---
+## Tranche 75 / 94 : A : Traitement et Démantèlement d'un Assertif (Objection / Croyance Limitante)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -10187,8 +10213,7 @@ Dans la session d'imprinting hypnotique (NIS - *Narrow Imprinting Session*), Cle
 * **[Analyse du Pattern]** :  
   Technique de **compression temporelle d'un commissif**. L'opérateur valide la promesse (*"Great"*), puis neutralise le délai d'un jour par une offre d'exécution immédiate (*"I can help you do that today"*), suivie d'un directif interrogatif très spécifique portant sur l'accessibilité matérielle des moyens de paiement (*"Do you have your bank information?"*), convertissant un engagement hypothétique en transaction en temps réel.
 
-
-## --- Tranche 76 / 94 ---
+## Tranche 76 / 94 : Désamorçage et Recadrage d'un Mismatching Rigide
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche.
 
@@ -10317,8 +10342,7 @@ Le système nerveux oscille entre deux modes fondamentaux de traitement :
 > « And the warp hole begins again in time and space... You can start your day in the excitatory bias by realizing that it's a superhighway. »
 - **[Analyse du Pattern]** : Double lien métaphorique et truisme physiologique. L'induction associe le passage spatiotemporel imaginaire à la neuro-anatomie réelle (l'autoroute du nerf vague reliant viscères et cerveau). Elle présuppose que l'éveil du biais excitatoire est une réalité biologique préexistante qu'il suffit d'emprunter dès le début de la journée.
 
-
-## --- Tranche 77 / 94 ---
+## Tranche 77 / 94 : Auto-Réglage et Réinitialisation Somatique dans le Biais Excitateur (Entraînement / In-Session)
 
 Voici l'extraction exhaustive et l'analyse opératoire de la tranche 77/94 du cours *Power Language* (Kenrick Cleveland & Joseph Riggio).
 
@@ -10448,8 +10472,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 77/94 du co
 > "Breathing all the way deep down the vein into your stomach, deeply into your diaphragm. It's already registered. It's already sending the signals. Exhale for a count of four. And hold it... For a count of four. Before breathing in... And you begin to realize you were in a full-blown virtual reality program. Receiving this model and the program has finished the install."
 * **[Analyse du Pattern] :** Métaphore technologique computationnelle associée à une boucle de rétroaction sensorielle directe. L'utilisation du langage informatique (*virtual reality program, finished the install*) agit comme une commande post-hypnotique scellant l'apprentissage dans les automatismes non-conscients, transformant une prise de conscience théorique en un sous-programme neurobiologique permanent.
 
-
-## --- Tranche 78 / 94 ---
+## Tranche 78 / 94 : Réinitialisation Vaso-Vagale Somato-Respiratoire (Auto-régulation ou Guidage Sujet)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -10606,8 +10629,7 @@ Voici l'extraction exhaustive et l'analyse opératoire de la tranche 77/94 du co
   3. *Liaison de nécessité logique* : Le double connecteur (« *the reason we do this... is because... we can't get unless we do...* ») pose l'inconfort de l'entretien comme un prix incompressible à payer pour leurs propres désirs profonds.
   4. *Double lien d'illusion de choix* : « *So tell me how you want me to have it with you* » ne laisse aucun choix sur le *fait* d'avoir la conversation (présupposition totale de l'action), mais délègue le choix superficiel de la *modalité*, forçant le sujet à collaborer activement à son propre processus de persuasion.
 
-
-## --- Tranche 79 / 94 ---
+## Tranche 79 / 94 : Réinitialisation Somatique Délibérée face à l'Escalade (Auto-Régulation Vagale)
 
 Voici l'extraction opératoire intégrale de la tranche 79/94 de la formation *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -10721,8 +10743,7 @@ Voici l'extraction opératoire intégrale de la tranche 79/94 de la formation *P
 
 * **[Analyse du Pattern] :** Structure de choix binaire radicale fondée sur la négation de l'action en cours. La phrase finale formule un axiome opératoire universel sous forme d'absolu comparatif (*"anything else other than what I'm doing is going to be better"*), installant une règle d'action réflexe : l'interruption physique devance et désamorce l'invalidation verbale du sujet.
 
-
-## --- Tranche 80 / 94 ---
+## Tranche 80 / 94 : d'Exécution du Modèle Transactionnel (The Transactional Model)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -10812,8 +10833,7 @@ Toute influence revient à « vendre de la certitude » : garantir au sujet que 
 > **« When the inhibitory bias is in place, it's literally like a digital switch where the person shuts down, they're no longer open to information, and any decision they make is based upon what's already present in the framework they have, and usually with the intention of getting out of the situation they're in. »**
 * **[Analyse du Pattern]** : Métaphore technologique (« digital switch ») appliquée à la neurophysiologie. Elle crée une distinction analogique radicale (ouvert/fermé) qui interdit toute illusion sur la capacité d'un client terrorisé ou sous pression à comprendre de nouveaux arguments.
 
-
-## --- Tranche 81 / 94 ---
+## Tranche 81 / 94 : Diagnostic de Modèle & Franchissement de la Zone Liminale
 
 Voici l'extraction intégrale et opératoire de la tranche 81/94 du séminaire *Power Language - Transcripts* par Kenrick Cleveland & Joseph Riggio.
 
@@ -10908,8 +10928,7 @@ Voici l'extraction intégrale et opératoire de la tranche 81/94 du séminaire *
   4. Projection dans un futur catastrophique (*"What's the ultimate outcome if you keep on..."*).
   Ce schéma pousse le système nerveux en inhibition par surcharge de désespoir (*learned helplessness*), empêchant la projection vers une ressource motrice si la transition n'est pas maîtrisée.
 
-
-## --- Tranche 82 / 94 ---
+## Tranche 82 / 94 : Le Modèle du Cycle de Satisfaction (The Satisfaction Cycle)
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 82/94.
 
@@ -11066,8 +11085,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 82/94.
   - **Présupposition temporelle permissive :** *"when you're ready"* confère le contrôle conscient au sujet tout en initiant la séquence motrice de fin de transe.
   - **Implantation d'identité par droit de naissance :** L'expression *"within your birthright of the hunter that you are"* ancre une posture psychologique d'acuité, de vigilance et d'autorité naturelle, intégrée non pas comme un apprentissage artificiel, mais comme une composante biologique intrinsèque préexistante.
 
-
-## --- Tranche 83 / 94 ---
+## Tranche 83 / 94 : d'Exécution Transactionnelle : Séquence Assertion-Silence-Directive
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -11165,8 +11183,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 82/94.
 > « Fantastic. George, I can do that. However, at the rate that you're investing, I need you to increase your contributions by 5%, 10%, $100 a week, whatever it is, $100 a month, right? So what I'd like to do is make an agreement where we can do a direct deposit of $100 a month into your account, which we can then feed back into the portfolio. »
 - **[Analyse du Pattern]** : Séquence de verrouillage de compliance. Validation immédiate de la réalité du client (« I can do that »), suivie d'un pivot de conditionnalité (« However... I need you to... »), puis d'une réduction drastique du champ d'action via une alternative de micro-choix (« 5%, 10%, $100... ») immédiatement convertie en geste somatique et administratif précis (« make an agreement where we can do a direct deposit... »). L'abstraction financière devient une action physique irréversible.
 
-
-## --- Tranche 84 / 94 ---
+## Tranche 84 / 94 : Construction de la Transaction Opératoire (Compliance Locking)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -11276,8 +11293,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 82/94.
 > *"And you reflect for a moment how you are enjoying hearing more and more enthusiastic yeses in your life that enabled you to be on this trip right now... Feel the raft taking on additional rigidity and it lurches forward. The speed is increasing incredibly... Having launched into the air at some point, you accelerate at such velocity you nearly blank out... Frozen. You aren't sure. In your head, you begin to hear instructions."*
 * **[Analyse du Pattern]** : Liaison suggestive puissante entre le contenu du cours ("dire oui", réceptivité) et la transe imaginaire (*"hearing more and more enthusiastic yeses in your life that enabled you to be on this trip"*). L'accélération brutale et la surcharge cinétique provoquent un décrochage du contrôle conscient (*"nearly blank out"*, *"frozen"*, *"you aren't sure"*), créant la brèche pour que les suggestions s'installent directement en tant qu'instructions internes autonomes (*"in your head, you begin to hear instructions"*).
 
-
-## --- Tranche 85 / 94 ---
+## Tranche 85 / 94 : Exploration, Synthèse et Verrouillage de Réalités Futures (Transe Guidée de R.I. / Future Pa...
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 85/94.
 
@@ -11426,8 +11442,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 85/94.
 > « She frankly doesn't need to know that because all the other information is so positive. It's so overwhelming. It would be strategic for me to focus her attention there. And if I had to, just to make sure I was, quote unquote, closing the deal properly, 'Oh, you know, by the way, they do have green tablecloths, but that's not going to matter, right?' »
 - **[Analyse du Pattern] :** Tag question de clôture avec truisme négatif orienté (*"that's not going to matter, right?"*). Utilisation du préfixe dévaluatif *"by the way"* (by-the-way pattern) qui déplace le focus attentionnel au rang de détail insignifiant, couplé à une injection préalable massive d'états hautement désirables pour court-circuiter l'inhibition.
 
-
-## --- Tranche 86 / 94 ---
+## Tranche 86 / 94 : Le Recadrage Présuppositionnel de Problème en Capacité (Cleveland & Riggio Reframing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -11565,8 +11580,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 85/94.
   - Truisme d'expérience (*« I know you've worked with... »*).
   - Présupposition d'excellence sélective (*« What did you like best... »*) utilisant un superlatif positif qui interdit toute réactivation de ressentiment ou d'inhibition tout en forçant l'interlocuteur à revivre ses meilleurs moments de collaboration.
 
-
-## --- Tranche 87 / 94 ---
+## Tranche 87 / 94 : Le Sandwich Inhibiteur (Inhibitory Encapsulation Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -11685,8 +11699,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 85/94.
   * *Accélération temporelle par présupposition continue* : `"And as you progress through this program, I guarantee..."`. Présuppose que la progression dans le cursus est déjà en cours et inarrêtable.
   * *Ancrage d'alliance et de sécurité psychologique* : `"Joseph and I will be right here to help you do that"`. Fermeture relationnelle éliminant le risque perçu d'abandon face à la tâche.
 
-
-## --- Tranche 88 / 94 ---
+## Tranche 88 / 94 : La Manœuvre d'Interruption Précoce de Réalité (Early Reality Break)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 88/94 de *Power Language - Transcripts* (Kenrick Cleveland & Joseph Riggio).
 
@@ -11828,8 +11841,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Injonction paradoxale négative** : L'esprit inconscient doit obligatoirement conceptualiser l'action positive pour pouvoir la nier (*"own this car quickly right now"*).
   - **Double contrainte temporelle** : L'association des marqueurs de vélocité temporelle (*"quickly right now"*) sous le couvert d'un déni poli force une urgence d'achat au niveau subliminal.
 
-
-## --- Tranche 89 / 94 ---
+## Tranche 89 / 94 : Enchaînement Assertive -> Directive / Commissive (Drill d'Intégration Réflexe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -11967,8 +11979,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 ```
 * **[Analyse du Pattern]** : Chaîne d'élicitation récursive des valeurs. Les deux premières itérations creusent les critères logiques et identitaires, tandis que la formulation terminale (*"And what will that do for you?"*) opère un saut somato-émotionnel, faisant basculer la cognition du sujet dans l'état kinesthésique pur lié à la satisfaction de sa valeur motrice suprême.
 
-
-## --- Tranche 90 / 94 ---
+## Tranche 90 / 94 : La Matrice d'Élicitation des Valeurs en 3 Questions (The 3-Question Values Model)
 
 Voici l'analyse opératoire intégrale de la tranche 90/94 du séminaire *Power Language* par Kenrick Cleveland & Joseph Riggio.
 
@@ -12100,8 +12111,7 @@ Voici l'analyse opératoire intégrale de la tranche 90/94 du séminaire *Power 
   * Causalité directe et implicite : le verbe *« enables »* installe une relation mécanique inévitable entre *« working with me »* et l'obtention de la valeur terminale *« be a great provider »*.
   * Conjonction temporelle de liaison continue (*« And as we do that... »*) couplée à une commande enchâssée de facilité (*« you'll find that it becomes really easy »*). La satisfaction de la valeur la plus haute du sujet est syntaxiquement soudée à l'intervention de l'opérateur.
 
-
-## --- Tranche 91 / 94 ---
+## Tranche 91 / 94 : La Séquence des 3 Questions d'Élucidation des Valeurs (Format Cleveland/Riggio)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -12189,8 +12199,7 @@ Voici l'analyse opératoire intégrale de la tranche 90/94 du séminaire *Power 
 
 * **[Analyse du Pattern]** : Interruption de pattern abrupte (*« To you, Joseph »*). Kenrick refuse la fuite sémantique dans l'altruisme abstrait et applique une contrainte linguistique de centrage phénoménologique. Dès que Joseph verbalise l'impact somatique personnel (*« makes me feel better »*), Kenrick ancre immédiatement par pacing-leading verbal et tag question confirmatoire (*« Definitely makes you feel better, doesn't it? »*), transformant une fuite cognitive en ancrage kinesthésique stable.
 
-
-## --- Tranche 92 / 94 ---
+## Tranche 92 / 94 : Élicitation Ascendante des Valeurs & Liaison "Junk-o-Logic"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -12354,8 +12363,7 @@ Voici l'analyse opératoire intégrale de la tranche 90/94 du séminaire *Power 
   - *Structure de surface (illocutoire apparente) :* Question polie sur la volonté/faisabilité (*Would you...*).
   - *Structure profonde (perlocutoire opératoire) :* Commande impérative directe (*Close the door*) renforcée par le marqueur temporel d'immédiateté hypnotique (*"now"*). L'esprit conscient répond à la politesse pendant que le système moteur exécute l'ordre sous-jacent.
 
-
-## --- Tranche 93 / 94 ---
+## Tranche 93 / 94 : Désarçonnage et Réorientation d'une Menace Verbale (Contre-Promissif)
 
 Voici l'ingénierie et la modélisation intégrale de la tranche 93/94 de la formation *Power Language* par Kenrick Cleveland et Joseph Riggio.
 
@@ -12490,8 +12498,7 @@ Voici l'ingénierie et la modélisation intégrale de la tranche 93/94 de la for
 > "When you've done that, you will have substantially created a scenario with more risk than you've ever shared with me that you'd be willing to take on. And I will need at least another full day to respond because I need to do the research fully."
 - **[Analyse du Pattern] :** **Contre-promissif à rupture ontologique et inversion de contrainte temporelle.** L'accusé de réception projette l'interlocuteur dans les conséquences négatives futures de sa propre menace (*more risk*), tandis que la clause temporelle (*need another full day*) brise net l'ultimatum adverse en rétablissant le contrôle unilatéral du rythme de l'interaction.
 
-
-## --- Tranche 94 / 94 ---
+## Tranche 94 / 94 : d'Altération et de Redirection d'un Commissif Adverse (Threat/Promise Bending)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -12575,3 +12582,4 @@ Voici l'ingénierie et la modélisation intégrale de la tranche 93/94 de la for
 > *"You know, this is like I was saying in the beginning is that this is helping me zero in to the intention, not only of the other person, but of mine. And the more I do that, the more these speech acts are popping out at me, and I'm hearing complexities within them that I wasn't hearing. Unless I really stayed really hell-bent focused on that intention."*
 * **[Analyse du Pattern] :**  
   *Double lien de causalité réciproque en boucle progressive (*The more X, the more Y* : `the more I do that, the more these speech acts are popping out at me`). Verbes à fort ancrage sensoriel visuel et auditif (`zero in`, `popping out`, `hearing complexities`). Suggestion post-hypnotique intégrée : le conditionnement à maintenir un focus absolu (`hell-bent focused`) opère comme une induction de transe focalisée où la réalité sous-jacente du langage se décode d'elle-même sans effort conscient.*
+

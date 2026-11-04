@@ -92,10 +92,20 @@ Le fil conducteur de toutes les interventions repose sur une dynamique immuable 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 108-255]** : Greffe d'une phase opératoire d'une compétence sur le déclencheur d'un symptôme (Exemple Mig... — *Protocole :* Greffe d'une phase opératoire d'une compétence sur le déclencheur d'un symptôme (Exemple Migraine / Procrastination) | *Mécanisme :* La synesthésie comme réponse conditionnée automatique et perte de choix fonctionnel | *Verbatim :* La redéfinition du rôle du coach
+- **Tranche 2 [Lignes 257-379]** : L'Arbre de Décision des 5 Stratagèmes de Traque (decisiontree) — *Protocole :* L'Arbre de Décision des 5 Stratagèmes de Traque (decisiontree) | *Mécanisme :* La Synesthésie comme Point de Bascule Névralgique (linchpin overlapofreps) | *Verbatim :* Recadrage de Confusion & Commande Enchâssée d'Apprentissage
+- **Tranche 3 [Lignes 381-552]** : Chaînage d'États avec Tampon Dissociatif (Pour Kinésthésiques Sévères / "Big K") — *Protocole :* Chaînage d'États avec Tampon Dissociatif (Pour Kinésthésiques Sévères / "Big K") | *Verbatim :* Élicitation Conversationnelle de la Dissociation par Empilement de Truismes
+- **Tranche 4 [Lignes 554-687]** : Le Questionnement d'Attribution Émergente & Recalibrage de Valeurs (Post-Intervention) — *Protocole :* Le Questionnement d'Attribution Émergente & Recalibrage de Valeurs (Post-Intervention) | *Mécanisme :* La Règle Neurochimique des 90 Secondes & la Récursion État-Pensée | *Verbatim :* La Mécanique Récursive du Méta-État Alimenté
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Greffe d'une phase opératoire d'une compétence sur le déclencheur d'un symptôme (Exemple Mig...
 
 Voici l’analyse chirurgicale et opératoire de la tranche 1/4 du cours **"Stalking the Wild Synesthesia"** de John Overdurf.
 
@@ -244,8 +254,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 1/4 du cours **"Stal
 
 * **[Analyse du Pattern]** : Utilisation d'une structure comparative d'égalité sous forme d'injonction fonctionnelle (*"as automatic as the problem once was"*). La suggestion temporelle intégrée (*"once was"*) présuppose implicitement et de façon conversationnelle que le problème appartient déjà irrémédiablement au passé.
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : L'Arbre de Décision des 5 Stratagèmes de Traque (decisiontree)
 
 Voici l'analyse opératoire intégrale de la tranche 2/4 du cours **"Stalking the Wild Synesthesia"** de **John Overdurf**.
 
@@ -369,8 +378,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/4 du cours **"Stalking th
 > « Well, you know, I know there's been times in your life when, you know, you've had the sense that you could sort of be up outside of yourself looking down on yourself. Have you ever had an experience like that? Or maybe like when you're looking at the mirror and you're not sure which way to comb your hair or something because, you know, you've got that distance from yourself. »
 * **[Analyse du Pattern]** : Induction conversationnelle de dissociation sans jargon formel. Empilement de truismes universels et présupposition de familiarité (*« I know there's been times in your life when... »*). Utilisation d'un ancrage spatial déictique (*« up outside of yourself looking down on yourself »*) adouci par des modificateurs de basculement permissifs (*« sort of »*, *« maybe like »*). Utilisation d'une analogie kinesthésique du quotidien (se regarder dans le miroir en hésitant sur la façon de se coiffer) qui force neurologiquement le sujet à créer une double représentation visuelle de son propre corps, instaurant instantanément la distance critique nécessaire pour désamorcer l'intensité phobique ou traumatique.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : Chaînage d'États avec Tampon Dissociatif (Pour Kinésthésiques Sévères / "Big K")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -543,8 +551,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/4 du cours **"Stalking th
   - *Questions négatives orientées (Tag Questions) :* « Is it not possible... », « isn't that even desirable? » forcent l'assentiment du système cognitif en rendant la contradiction absurde.
   - *Déliement paradoxal (Paradoxical Unbinding) :* En posant comme désirable le fait d'éprouver des émotions négatives au sein d'une vie heureuse, Overdurf détruit la méta-croyance pathologique selon laquelle « aller bien signifie ne jamais ressentir de douleur », désamorçant net l'introject critique parental.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : Le Questionnement d'Attribution Émergente & Recalibrage de Valeurs (Post-Intervention)
 
 Voici l'analyse opératoire intégrale de la tranche 4/4 du cours **« Stalking the Wild Synesthesia »** de John Overdurf.
 
@@ -678,3 +685,4 @@ Voici l'analyse opératoire intégrale de la tranche 4/4 du cours **« Stalking 
 #### Pépite 5 : La Transe de Clôture & Boucle d'Intégration Inconsciente
 > « You go from no choice, and if you have any recognition of what has transpired over the last five minutes, you're way deeper than you're thinking. Otherwise, you're sufficiently deep to have integrated what we've been doing this past, so that you can look forward to your next little expedition into the jungle, where you are stalking the prize of HNLP codes, known as synesthesia... find the appropriate synesthesias, capture them, transform them, and then release them back into the unconscious habitat once they came. »
 - **[Analyse du Pattern]** : Double lien ericksonien magistral (*Binds*) : que le sujet comprenne consciemment ce qui s'est passé (« you're way deeper than you're thinking ») ou qu'il ne comprenne pas (« otherwise, you're sufficiently deep to have integrated »), l'issue inévitable est la profondeur de transe et l'intégration inconsciente. Clôture par la métaphore filée de la chasse sauvage (*stalking, capture, release into the wild habitat*) qui ancre l'écologie de transformation respectueuse de l'inconscient.
+

@@ -83,10 +83,23 @@ Le fil rouge reliant l'ensemble des interventions s'articule autour de trois pri
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 102-254]** : Activation du Charisma Switch en Interaction Réelle — *Protocole :* Activation du Charisma Switch en Interaction Réelle | *Mécanisme :* Le Triptyque des Cadres Charismatiques (« The Three Frames ») | *Verbatim :* Le Recadrage Conversationnel de la Compétence Temporelle
+- **Tranche 2 [Lignes 256-374]** : A : Recadrage Émotionnel Live & Clôture du Cycle de Rejet (Cas Steve) — *Protocole :* A : Recadrage Émotionnel Live & Clôture du Cycle de Rejet (Cas Steve) | *Verbatim :* Verbatim : Recadrage Brut & Éradication de la Posture Défensive
+- **Tranche 3 [Lignes 376-522]** : L'Induction par Fatigue Oculaire et Décharge Neuromusculaire — *Protocole :* L'Induction par Fatigue Oculaire et Décharge Neuromusculaire | *Mécanisme :* Démystification Comportementale et Désamorçage de l'Impuissance Apprise | *Verbatim :* La Métaphore de la Lentille Bidirectionnelle
+- **Tranche 4 [Lignes 524-656]** : L'Induction par Fatigue Palpébrale & Fréquence Sonore (Light & Sound / Neuro-Imprinting) — *Protocole :* L'Induction par Fatigue Palpébrale & Fréquence Sonore (Light & Sound / Neuro-Imprinting) | *Mécanisme :* Le Rhéostat Somato-Cognitif (rheostatsomatique modulationdetat dialupdialdown) | *Verbatim :* L'installation de la voix directrice interne
+- **Tranche 5 [Lignes 658-765]** : d'Activation Somato-Identitaire du Cadre de Puissance (Power Frame Activation) — *Protocole :* d'Activation Somato-Identitaire du Cadre de Puissance (Power Frame Activation) | *Mécanisme :* Le Trépied Fondamental du Charisme (Frames Triad) | *Verbatim :* Fractionnement Métaphorique Conscient / Inconscient
+- **Tranche 6 [Lignes 767-916]** : Intégration en Temps Réel du "Charisma Switch" (Power + Warmth + Presence) — *Protocole :* Intégration en Temps Réel du "Charisma Switch" (Power + Warmth + Presence) | *Mécanisme :* La dialectique Tension/Attraction (Power & Prize vs Warmth) | *Verbatim :* s Verbatim & Puces d'Analyse
+- **Tranche 7 [Lignes 918-1108]** : L'Assemblage et l'Activation du "Charisma Switch" — *Protocole :* L'Assemblage et l'Activation du "Charisma Switch" | *Mécanisme :* Le Triptyque Charismatique : La Triangulation Somatique et Attentionnelle | *Verbatim :* La Fusion Somatique Puissance-Chaleur
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 7 ---
+## Tranche 1 / 7 : Activation du Charisma Switch en Interaction Réelle
 
 Voici l'analyse opératoire intégrale de la tranche 1/7 du cours *Charisma Switch* de Kenrick Cleveland.
 
@@ -240,8 +253,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/7 du cours *Charisma Swit
   * **Défocalisation / Désidentification radicale :** *"That's not you"* répété trois fois avec variation prosodique crée un rejet somatique de l'ancienne étiquette imposée par les harceleurs scolaires.
   * **Présupposition d'omniscience et de collusion inconsciente :** *"And you know it's not you"*. Cette formule verrouille l'intervention en présupposant que l'inconscient du sujet partageait déjà secrètement cette vérité, libérant instantanément le nouveau cadre identitaire.
 
-
-## --- Tranche 2 / 7 ---
+## Tranche 2 / 7 : A : Recadrage Émotionnel Live & Clôture du Cycle de Rejet (Cas Steve)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -361,8 +373,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/7 du cours *Charisma Swit
 
 * **[Analyse du Pattern] :** Réorganisation de la hiérarchie logique de Dilts. En posant la boucle déductive rigide (*"You are the person who does... And therefore, you are the person that has..."*), Kenrick verrouille l'équation comportementale. L'analogie finale de la lentille (*lens*) offre une structure géométrique claire à l'inconscient : condenser la totalité des ressources internes pour les projeter en un point focalisé sur l'interlocuteur afin de déclencher le réflexe d'acceptation (*get a yes*).
 
-
-## --- Tranche 3 / 7 ---
+## Tranche 3 / 7 : L'Induction par Fatigue Oculaire et Décharge Neuromusculaire
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 3/7 du corpus *Charisma Switch* de Kenrick Cleveland.
 
@@ -510,8 +521,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 3/7 
     *   **Injonction post-hypnotique classique ericksonienne (*My voice goes with you*)** : Conditionnement d'un automatisme deguidage auditif inconscient.
     *   **Présupposition modale d'affect positif** : *« You'll be pleasantly surprised »* présuppose deux faits incontestables : premièrement que le phénomène va se produire, deuxièmement que l'expérience sera agréable, bloquant toute anxiété liée à l'intrusion d'une voix extérieure dans le dialogue interne.
 
-
-## --- Tranche 4 / 7 ---
+## Tranche 4 / 7 : L'Induction par Fatigue Palpébrale & Fréquence Sonore (Light & Sound / Neuro-Imprinting)
 
 Voici l'extraction opératoire et la modélisation intégrale de la tranche 4/7 de *Charisma Switch* de Kenrick Cleveland.
 
@@ -645,8 +655,7 @@ Voici l'extraction opératoire et la modélisation intégrale de la tranche 4/7 
 > *"Like a supercomputer networked to hundreds of other supercomputers, your unconscious mind is installing this thoroughly in this area that you have chosen. You might even find yourself dreaming this at night while you sleep as your unconscious uses that time to do additional high-level processing to make this even more powerful for you."*
 * **[Analyse du Pattern]** : Métaphore technologique à haute densité computationnelle qui exploite la croyance du sujet dans la puissance du traitement informatique pour modéliser le traitement inconscient. Présupposition temporelle d'encodage nocturne (*"dreaming this at night while you sleep"*), programmant l'inconscient à transformer les phases de sommeil paradoxal en répétitions comportementales sans aucun effort conscient requis.
 
-
-## --- Tranche 5 / 7 ---
+## Tranche 5 / 7 : d'Activation Somato-Identitaire du Cadre de Puissance (Power Frame Activation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -755,8 +764,7 @@ Voici l'extraction opératoire et la modélisation intégrale de la tranche 4/7 
 
 * **[Analyse du Pattern] :** Mise en place chirurgicale d'une ancre kinesthésique auto-induite en état de pleine intensité somatique. L'utilisation répétée de modalisateurs de minimisation (*"small micro muscular shift", "just a little bit", "just a little"*) contourne toute résistance critique ou sensation d'effort. Le micro-mouvement physique est explicitement lié par un lien de cause à effet à l'activation de l'état (*"Let that trigger or signal that you're entering the power frame"*), créant le commutateur physique recherché.
 
-
-## --- Tranche 6 / 7 ---
+## Tranche 6 / 7 : Intégration en Temps Réel du "Charisma Switch" (Power + Warmth + Presence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -907,8 +915,7 @@ Voici l'extraction opératoire et la modélisation intégrale de la tranche 4/7 
 > "Take a deep breath and say strongly to yourself, charisma now, and feel all three strategies snapping into place."
 * **[Analyse du Pattern]** : Commande post-hypnotique d'effondrement et d'intégration d'ancres (*collapsing/stacking anchors*). La commande vocalisée (*say strongly to yourself: charisma now*) sert de pont linguistique d'activation. L'utilisation du verbe kinesthésique percutant (*snapping into place*) suggère un alignement mécanique instantané et sans effort des trois structures neurologiques (puissance, chaleur, présence) préalablement conditionnées.
 
-
-## --- Tranche 7 / 7 ---
+## Tranche 7 / 7 : L'Assemblage et l'Activation du "Charisma Switch"
 
 Voici l'extraction intégrale et modélisée de la matière opératoire de la tranche 7/7 du cours *Charisma Switch* de Kenrick Cleveland.
 
@@ -1099,3 +1106,4 @@ Conditionner un son externe distinctif à des états épistémologiques et émot
 * **[Analyse du Pattern]** :
   * **Tag Question de verrouillage épistémique :** L'adjonction finale de la question rhétorique *« It's no longer true, is it? »* force une validation kinesthésique interne incontournable. Le système nerveux doit valider l'absence de réalité actuelle du phénomène.
   * **Changement de ligne temporelle spatiale :** L'exemple concret de l'ancienne habitation déplace la représentation mentale du sujet hors de son espace présent pour la reléguer dans la zone mémorielle du « révolu ». En associant ce ressenti à un signal sonore spécifique, Cleveland forge un outil opératoire capable de rendre obsolète n'importe quelle objection ou blocage mental futur chez un interlocuteur.
+

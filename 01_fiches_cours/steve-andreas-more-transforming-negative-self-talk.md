@@ -79,10 +79,27 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 102-202]** : A : La Délégation Totale de Responsabilité (Modélisation de la Résolution Micmac) — *Protocole :* A : La Délégation Totale de Responsabilité (Modélisation de la Résolution Micmac)
+- **Tranche 2 [Lignes 204-382]** : Désamorçage de Boucle Auditive Intrusive par Unisson Stéréo (The Jenna Pattern) — *Protocole :* Désamorçage de Boucle Auditive Intrusive par Unisson Stéréo (The Jenna Pattern) | *Mécanisme :* Synchronisation par imitation motrice et réappropriation somatosensorielle | *Verbatim :* La double dissociation attentionnelle et le double lien permissif
+- **Tranche 3 [Lignes 384-556]** : A : Restauration et Récupération d'Information (Retrieving Information Process) — *Protocole :* A : Restauration et Récupération d'Information (Retrieving Information Process) | *Verbatim :* Fragmentation instantanée du quantificateur universel
+- **Tranche 4 [Lignes 558-747]** : Recadrage de Voix Interne par Expansion de Scope (Démonstration Lynne - 100% Content-Free) — *Protocole :* Recadrage de Voix Interne par Expansion de Scope (Démonstration Lynne - 100% Content-Free) | *Mécanisme :* Recadrage de Contexte par Expansion de Scope (Spatial, Temporel et Systémique) | *Verbatim :* Recadrage Définitionnel des Pleurs & Suggestion d'Unification
+- **Tranche 5 [Lignes 749-919]** : Réorganisation Spatiale & Vectorielle d'une Voix Toxique — *Protocole :* Réorganisation Spatiale & Vectorielle d'une Voix Toxique | *Mécanisme :* Le prototype expérientiel contre le piège linguistique | *Verbatim :* La présupposition de choix et d'agentivité
+- **Tranche 6 [Lignes 921-1092]** : Résolution de Deuil / Perte Émotionnelle (Steve Andreas Grief Pattern) — *Protocole :* Résolution de Deuil / Perte Émotionnelle (Steve Andreas Grief Pattern) | *Mécanisme :* Internalisation Somatique Sélective (Critique Externe vs Soutien Interne) | *Verbatim :* Reformulation en Résonance Non-Verbale
+- **Tranche 7 [Lignes 1094-1247]** : A : La Voix de l'Ami de Confiance (Transformation de Tonalité par Remplacement Global) — *Protocole :* A : La Voix de l'Ami de Confiance (Transformation de Tonalité par Remplacement Global) | *Mécanisme :* Les Trois Piliers de l'Intention Positive | *Verbatim :* Le Double Cadrage du Choix Ajouté
+- **Tranche 8 [Lignes 1249-1435]** : A : Transformation d'un Modèle Critique en Coach Spécialisé & Substitution Vocale de Confian... — *Protocole :* A : Transformation d'un Modèle Critique en Coach Spécialisé & Substitution Vocale de Confiance (Démonstration Steve Andreas avec Ray)
+- **Tranche 9 [Lignes 1437-1566]** : Découverte et Ajustement de la Frontière Personnelle (Boundary Discovery & Experimentation) — *Protocole :* Découverte et Ajustement de la Frontière Personnelle (Boundary Discovery & Experimentation) | *Mécanisme :* La Frontière Somatosensorielle / Spatiale comme Filtre Réactif Pré-Cognitif | *Verbatim :* La Désensibilisation Hypnotique par Écran Acoustique
+- **Tranche 10 [Lignes 1568-1670]** : A : Contre-Conditionnement Musical du Noyau Critique ("The Earworm Hack") — *Protocole :* A : Contre-Conditionnement Musical du Noyau Critique ("The Earworm Hack") | *Mécanisme :* La Signature Somato-Motrice de l'Incongruence vs Congruence | *Verbatim :* s Verbatim
+- **Tranche 11 [Lignes 1672-1832]** : maître : "Transforming a Troublesome Inner Voice" (21 Étapes Intégrales) — *Protocole :* maître : "Transforming a Troublesome Inner Voice" (21 Étapes Intégrales) | *Mécanisme :* Langage injonctif vs Langage descriptif (Génération d'expérience) | *Verbatim :* L'offre de choix asymétrique (Levier d'acceptation sans résistance)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 11 ---
+## Tranche 1 / 11 : A : La Délégation Totale de Responsabilité (Modélisation de la Résolution Micmac)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -184,8 +201,7 @@ flowchart TD
 > "While that loop continues, repeating over and over, you can listen to it with the back of your mind, and to me with the front of your mind. Or you can follow the loop with the front of your mind, while the back of your mind monitors where I’m headed. It doesn’t really matter. You might even find them switching back and forth."
 - **[Analyse du Pattern]** : Double lien d'illusion de choix avec saupoudrage dissociatif et dissociation spatiale de l'appareil perceptif (*front of your mind* vs *back of your mind*). L'injonction démarre par la ratification sensorielle continue du problème sans chercher à l'arrêter (*"While that loop continues"*). Ensuite, les deux branches de l'alternative distribuent les rôles de façon réversible : que la voix soit devant ou derrière, l'attention au thérapeute est inévitablement installée. La clause d'indifférence (*"It doesn’t really matter"*) court-circuite la résistance de l'effort conscient, et la suggestion ouverte finale (*"switching back and forth"*) prépare la labilité hypnotique et l'effondrement spontané de la boucle rigide.
 
-
-## --- Tranche 2 / 11 ---
+## Tranche 2 / 11 : Désamorçage de Boucle Auditive Intrusive par Unisson Stéréo (The Jenna Pattern)
 
 Voici l’analyse modélisatrice intégrale, opératoire et chirurgicale de la tranche 2/11 du cours *More Transforming Negative Self-Talk* de Steve Andreas.
 
@@ -365,8 +381,7 @@ Voici l’analyse modélisatrice intégrale, opératoire et chirurgicale de la t
 * **[Analyse du Pattern]** :
   Commande directe et intervention de pur processus (*pure process instruction*). L'injonction temporelle déictique (*"Now"*) force la transition immédiate de la modalité auditive isolée (où la critique est destructrice) vers la modalité visuelle associée. Le praticien ne suggère aucunement ce qui doit être vu (bienveillance, tristesse ou fragilité de l'autre), laissant l'inconscient du sujet compléter le champ perceptuel par les micro-expressions réelles oubliées, ce qui altère instantanément la valeur sémantique du reproche.
 
-
-## --- Tranche 3 / 11 ---
+## Tranche 3 / 11 : A : Restauration et Récupération d'Information (Retrieving Information Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -540,8 +555,7 @@ Voici l’analyse modélisatrice intégrale, opératoire et chirurgicale de la t
   - Plutôt que d'affronter l'intellectualisation du client (qui créerait une résistance praticien-client), Andreas valide le conscient (« *Well, OK* ») tout en transférant immédiatement la charge de vérification au canal sensoriel inconscient (« *ask the voice to tell you clearly* »).
   - Ce pattern établit une boucle de rétroaction phénoménologique fermée où seul le signal de la voix fait autorité, contournant la spéculation du néocortex.
 
-
-## --- Tranche 4 / 11 ---
+## Tranche 4 / 11 : Recadrage de Voix Interne par Expansion de Scope (Démonstration Lynne - 100% Content-Free)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -732,8 +746,7 @@ Voici l’analyse modélisatrice intégrale, opératoire et chirurgicale de la t
   2. L'inquiétude sincère dégradée par une incompétence communicative (*« not very good at communicating, so they said it in a crummy way »*). 
   Ce saupoudrage sépare radicalement l'impact négatif ressenti (*« feel bad all these years »*) de l'intention réelle de l'émetteur, préparant le terrain pour la découverte libératrice : *« It wasn’t about hurting me »*.
 
-
-## --- Tranche 5 / 11 ---
+## Tranche 5 / 11 : Réorganisation Spatiale & Vectorielle d'une Voix Toxique
 
 Voici l'analyse opératoire intégrale de la tranche 5/11 du cours *More Transforming Negative Self-Talk* de Steve Andreas, structurée selon vos exigences d'ingénierie.
 
@@ -905,8 +918,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/11 du cours *More Transfo
   - **Utilisation du cadre de croyance du sujet :** « Or whoever's important to you that way » s'assure de l'écologie du pattern quelle que soit la spiritualité de la personne.
   - **Commandes enchâssées pour état désiré :** « get some advice about how to live life, without the sorrow, without the sadness », posant la libération comme une orientation concrètement accessible.
 
-
-## --- Tranche 6 / 11 ---
+## Tranche 6 / 11 : Résolution de Deuil / Perte Émotionnelle (Steve Andreas Grief Pattern)
 
 Voici l'analyse opératoire intégrale de la tranche 6/11 de l'ouvrage et séminaire de Steve Andreas, *More Transforming Negative Self-Talk*.
 
@@ -1079,8 +1091,7 @@ Le levier de Steve Andreas consiste à inverser la sous-modalité de distance et
 > **Steve:** And I’d like, when you sit down there, I want you to just stay with yourself. Put yourself in a bubble like you’re in an egg, for a while, and just be with that sense. OK?
 - **[Analyse du Pattern] :** **Métaphore structurante d'isolation protectrice post-transe.** L'image de l'œuf / la bulle crée une frontière spatiale kinesthésique étanche autour du corps du sujet. Cela empêche les interactions sociales immédiates de l'auditoire de court-circuiter ou de contaminer le travail de consolidation neurologique profonde tout juste achevé.
 
-
-## --- Tranche 7 / 11 ---
+## Tranche 7 / 11 : A : La Voix de l'Ami de Confiance (Transformation de Tonalité par Remplacement Global)
 
 Voici l'ingénierie et la modélisation opératoire intégrale de la tranche 7/11 du cours de Steve Andreas.
 
@@ -1235,8 +1246,7 @@ Voici l'ingénierie et la modélisation opératoire intégrale de la tranche 7/1
   - Pacing du problème du sujet (*"troublesome and ambiguous"*).
   - Présupposition linguistique d'un déficit d'encodage chez l'émetteur plutôt que d'une intention agressive (*"confusingly"*, *"made it hard to understand"*). Cette dissociation entre le message profond et sa maladresse d'émission libère l'espace pour une clarification bienveillante.
 
-
-## --- Tranche 8 / 11 ---
+## Tranche 8 / 11 : A : Transformation d'un Modèle Critique en Coach Spécialisé & Substitution Vocale de Confian...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1424,8 +1434,7 @@ Voici l'ingénierie et la modélisation opératoire intégrale de la tranche 7/1
 > *Douglas: "Yes. And can you notice what happens to you when you allow her sadness to be hers? . . . You can give her the freedom to be sad. And this is a freedom for you too, isn't it?"*
 - **[Analyse du Pattern] :** Utilisation du verbe de prise de conscience *« notice »* qui présuppose un effet somatique inévitable. La formulation *« allow her sadness to be hers »* trace une frontière d'individuation nette. Flemons effectue un recadrage sémantique magistral : supporter la tristesse d'autrui n'est plus un échec ou un abandon, mais un don d'autonomie (*« give her the freedom »*), qui se répercute en miroir sur le sujet via le tag question final (*« isn't it? »*), scellant la double libération.
 
-
-## --- Tranche 9 / 11 ---
+## Tranche 9 / 11 : Découverte et Ajustement de la Frontière Personnelle (Boundary Discovery & Experimentation)
 
 Voici l'analyse opératoire intégrale de la tranche 9/11 de *"More Transforming Negative Self-Talk"* de Steve Andreas.
 
@@ -1556,8 +1565,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/11 de *"More Transforming
   * *Métaphore synesthésique puissante :* Relie l'auditif pur (*"voice"*) au tactile/kinesthésique liquide (*"drenched with tears"*), court-circuitant le masque verbal logique pour adresser directement l'affect refoulé.
   * *Feedback phénoménologique pur :* Ne formule aucune interprétation ni théorie psychologique ; nomme uniquement le signal analogique brut pour forcer le système nerveux du sujet à s'y reconnecter immédiatement.
 
-
-## --- Tranche 10 / 11 ---
+## Tranche 10 / 11 : A : Contre-Conditionnement Musical du Noyau Critique ("The Earworm Hack")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1661,8 +1669,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/11 de *"More Transforming
 > "Your task is that of altering, not abolishing." (Milton Erickson)
 * **[Analyse du Pattern] :** Axiome ericksonien binaire en contraste strict (*"altering, not abolishing"*). Présupposition écologique fondamentale : toute manifestation psychique ou somatique possède une fonction utile qui doit être transformée dans son expression, jamais détruite au risque de déséquilibrer l'écologie globale du système.
 
-
-## --- Tranche 11 / 11 ---
+## Tranche 11 / 11 : maître : "Transforming a Troublesome Inner Voice" (21 Étapes Intégrales)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1823,3 +1830,4 @@ Voici l'analyse opératoire intégrale de la tranche 9/11 de *"More Transforming
 * **[Analyse du Pattern]** :
   * **Analogie isomorphique double (Recette / Partition)** : Contourne l'illusion intellectualiste qui exige de comprendre conceptuellement un symptôme avant de le modifier.
   * **Mise en valeur du langage injonctif** : Établit que l'expérience vécue finale découle non de l'analyse sémiotique des notes ou des ingrédients, mais de l'exécution séquentielle scrupuleuse des opérations primaires.
+

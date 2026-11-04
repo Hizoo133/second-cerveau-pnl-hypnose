@@ -73,10 +73,41 @@ Le changement n'est jamais spécifié de l'extérieur ; il est **déclenché** p
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 110-216]** : Détection et Entrée dans la Matrice Métaphorique Client — *Protocole :* Détection et Entrée dans la Matrice Métaphorique Client | *Mécanisme :* La Triangulation des Domaines d’Expérience : Sensoriel, Conceptuel, Symbolique | *Verbatim :* Les questions de développement et de localisation Clean
+- **Tranche 2 [Lignes 218-345]** : A : Élicitation et Encodage des Métaphores Non-Verbales (Micro-gestes et Sons) — *Protocole :* A : Élicitation et Encodage des Métaphores Non-Verbales (Micro-gestes et Sons) | *Verbatim :* La logique isomorphique de la colère
+- **Tranche 3 [Lignes 347-459]** : d'Ingénierie Inverse du Paysage Métaphorique (Reverse-Engineering Protocol) — *Protocole :* d'Ingénierie Inverse du Paysage Métaphorique (Reverse-Engineering Protocol) | *Mécanisme :* Le Trialogue Thérapeutique & la Dé-contamination Épistémique | *Verbatim :* La modélisation comme ingénierie inverse (Pinker cité par Lawley & Tompkins)
+- **Tranche 4 [Lignes 461-593]** : Le Processus Thérapeutique en 5 Étapes (The Five-Stage Process) — *Protocole :* Le Processus Thérapeutique en 5 Étapes (The Five-Stage Process) | *Mécanisme :* Les Quatre Niveaux d'Organisation Systémique | *Verbatim :* La Définition Systémique du Changement
+- **Tranche 5 [Lignes 595-741]** : Fondamental : Déploiement et Matérialisation d'un Paysage Métaphorique (Modèle Castle Door) — *Protocole :* Fondamental : Déploiement et Matérialisation d'un Paysage Métaphorique (Modèle Castle Door) | *Mécanisme :* Posture du « Non-Savoir » et Isomorphisme Modélisant
+- **Tranche 6 [Lignes 743-895]** : A : La Question d'Attribut de Forme (« L'amie du thérapeute ») — *Protocole :* A : La Question d'Attribut de Forme (« L'amie du thérapeute ») | *Mécanisme :* La Répétition comme Récipient Symbolique (symboliccontainer lexicaliteration)
+- **Tranche 7 [Lignes 897-1052]** : Débobinage Temporel au Seuil de Ressource (Winding Back to the Threshold) — *Protocole :* Débobinage Temporel au Seuil de Ressource (Winding Back to the Threshold) | *Mécanisme :* Enroulement Temporel Rétrograde Répété (Winding Back) | *Verbatim :* Le Déroulement du Cycle Répétitif et le Rembobinage Immédiat
+- **Tranche 8 [Lignes 1054-1235]** : Utilisation Somatique Propre & Propulsion Temporelle du Silence — *Protocole :* Utilisation Somatique Propre & Propulsion Temporelle du Silence
+- **Tranche 9 [Lignes 1237-1380]** : Séquence d'Entrée Standard et Calibration Textuelle Verbatim — *Protocole :* Séquence d'Entrée Standard et Calibration Textuelle Verbatim | *Mécanisme :* Direction attentionnelle primaire et orientation spatio-temporelle
+- **Tranche 10 [Lignes 1382-1546]** : Capture et Déballage de la Ligne de Mire (Line of Sight Entry) — *Protocole :* Capture et Déballage de la Ligne de Mire (Line of Sight Entry) | *Mécanisme :* Ancrage Spatial du Regard & Capture Émergente (Line of Sight Trapping) | *Verbatim :* Verbatim 1 : L'accrochage à la ligne de mire fuyante
+- **Tranche 11 [Lignes 1548-1681]** : A : Détection & Cristallisation d'une Ressource Overte (Exemple "Castle Door") — *Protocole :* A : Détection & Cristallisation d'une Ressource Overte (Exemple "Castle Door") | *Verbatim :* s 1 : Ancrage de l'Affect et Révélation de l'Antidote ("Castle Door")
+- **Tranche 12 [Lignes 1683-1804]** : d'Exploration des Motifs et Relations (Étape 3 : Modelling Symbolic Patterns) — *Protocole :* d'Exploration des Motifs et Relations (Étape 3 : Modelling Symbolic Patterns) | *Mécanisme :* Auto-modélisation récursive et Isomorphisme Perceptif | *Verbatim :* Verbatim 1 : L'extraction et l'approfondissement du prédicat de symptôme
+- **Tranche 13 [Lignes 1806-1928]** : Cartographie d'une Séquence Temporelle Traumatique / Bloquante — *Protocole :* Cartographie d'une Séquence Temporelle Traumatique / Bloquante | *Mécanisme :* Les Relations Intentionnelles et l'Agentivité des Symboles | *Verbatim :* Verbatim 1 : La transition du conceptuel vers la forme géométrique
+- **Tranche 14 [Lignes 1930-2140]** : GLOBAL : Étape 4 — Encourager les Conditions d'Émergence de la Transformation — *Protocole :* GLOBAL : Étape 4 — Encourager les Conditions d'Émergence de la Transformation | *Mécanisme :* Isomorphisme de l'Auto-Modélisation (Self-Modelling Isomorphism) | *Verbatim :* La Détection de l'Émergence Spontanée
+- **Tranche 15 [Lignes 2142-2359]** : Modélisation et Transformation des Doubles Contraintes (Figure 8.2) — *Protocole :* Modélisation et Transformation des Doubles Contraintes (Figure 8.2) | *Mécanisme :* La Triade d'Évolution d'une Contrainte : Translation vs Clôture/Double Contrainte vs Transformation | *Verbatim :* La saturation récursive de l'impasse par écho et projection temporelle (T52)
+- **Tranche 16 [Lignes 2361-2516]** : Localisation et Traitement du Percepteur Extérieur (Outside Perceiver) — *Protocole :* Localisation et Traitement du Percepteur Extérieur (Outside Perceiver) | *Verbatim :* La Localisation du Percepteur
+- **Tranche 17 [Lignes 2518-2677]** : La Maturation d'un Paysage Évolué (Stage 5 Maturing Protocol) — *Protocole :* La Maturation d'un Paysage Évolué (Stage 5 Maturing Protocol) | *Mécanisme :* L'Équation à Trois Facteurs de la Réorganisation Systémique (Time, Space, Level) | *Verbatim :* Verbatim 1 : Initiation du mouvement en avant sur changement naissant
+- **Tranche 18 [Lignes 2679-2808]** : Protocole de Consolidation du Paysage Métaphorique Réorganisé (Stage 5) — *Protocole :* Protocole de Consolidation du Paysage Métaphorique Réorganisé (Stage 5) | *Verbatim :* La Tapisserie de Clôture et de Bénédiction du Paysage (Jubilee Clip)
+- **Tranche 19 [Lignes 2810-2970]** : Désamorçage d'Urgence et Régulation de Groupe (Le Protocole Susie Greenwood) — *Protocole :* Désamorçage d'Urgence et Régulation de Groupe (Le Protocole Susie Greenwood) | *Verbatim :* Le Recadrage Clean Collectif Face à la Révolte
+- **Tranche 20 [Lignes 2972-3099]** : A : Rétro-Ingénierie des Conditions Antérieures & Intégration de Ressource (Cas Castle Door) — *Protocole :* A : Rétro-Ingénierie des Conditions Antérieures & Intégration de Ressource (Cas Castle Door) | *Verbatim :* Déploiement de la relation observateur / objet observé
+- **Tranche 21 [Lignes 3101-3217]** : A : Élucidation et Résolution d'un Double Lien Symbolique (Cas "Jubilee Clip") — *Protocole :* A : Élucidation et Résolution d'un Double Lien Symbolique (Cas "Jubilee Clip")
+- **Tranche 22 [Lignes 3219-3360]** : Traçage de Source, Dissolution & Évolution Écologique du Symbole — *Protocole :* Traçage de Source, Dissolution & Évolution Écologique du Symbole
+- **Tranche 23 [Lignes 3362-3475]** : A : Exploitation de l'Absence d'Information (« I Don't Know » Clean Interventions) — *Protocole :* A : Exploitation de l'Absence d'Information (« I Don't Know » Clean Interventions)
+- **Tranche 24 [Lignes 3477-3610]** : Honorification de l'Intention Destructrice d'un Symbole (« And can it? ») — *Protocole :* Honorification de l'Intention Destructrice d'un Symbole (« And can it? ») | *Mécanisme :* Conscience Auto-Réflexive Récursive et Régression à l'Infini du Perceveur | *Verbatim :* La régression fractale de l'observateur
+- **Tranche 25 [Lignes 3612-3706]** : Macro : Le Processus Thérapeutique en 5 Étapes (Five-Stage Therapeutic Process) — *Protocole :* Macro : Le Processus Thérapeutique en 5 Étapes (Five-Stage Therapeutic Process) | *Mécanisme :* La Matrice d'Indexation Systémique du Paysage Métaphorique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : Détection et Entrée dans la Matrice Métaphorique Client
 
 Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de *Metaphors in Mind* (Lawley & Tompkins).
 
@@ -184,8 +215,7 @@ Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de
   - Présupposition épistémique : l'inconscient et le corps constituent un système dynamique auto-organisé doté d'une sagesse homéostatique intrinsèque (*« the wisdom in the system »*).
   - Rupture de pattern avec la posture médicale/analytique classique : le praticien est déchargé de la responsabilité d'expert du contenu (*« comfortable with 'not knowing' »*), libérant 100 % de sa bande passante attentionnelle pour la calibration du processus et de la structure spatiale.
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : A : Élicitation et Encodage des Métaphores Non-Verbales (Micro-gestes et Sons)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -314,8 +344,7 @@ Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de
 * **[Analyse du Pattern]** :  
   Structure de méta-niveaux d'apprentissage (Bateson Niveau II/III). Utilisation d'un empilement de truismes développementaux (*From birth... Later...*) aboutissant à une présupposition de libération par nominalisation réflexive (*« models of our models »*). En redéfinissant la perception comme une construction cartographique révisable, la formulation induit un état de flexibilité cognitive et ouvre la possibilité d'une auto-reprogrammation sans confrontation directe avec les croyances existantes.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : d'Ingénierie Inverse du Paysage Métaphorique (Reverse-Engineering Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -429,8 +458,7 @@ Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de
 
 * **[Analyse du Pattern]** : Analogie chimique à validité irréfutable pour introduire la notion d'émergence holarchique. Brise l'approche réductionniste classique. L'ancrage de deux éléments létaux (sodium et chlore) qui, combinés et mis en relation avec un système perceveur, créent une sensation gustative inoffensive et unique, prépare le client/praticien à comprendre que les symptômes ou les souffrances ne résident pas dans les éléments isolés de son passé, mais dans la relation émergente de leur organisation actuelle.
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : Le Processus Thérapeutique en 5 Étapes (The Five-Stage Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -564,8 +592,7 @@ Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de
 > « You can rely upon the intelligence and wisdom of the whole system (i.e. the combined conscious and unconscious mind-body-spirit that comprises you, the client, their metaphors and the immediate environment) to indicate what needs to happen at each and every moment in time. This requires you to stay true to the process, especially if you feel confused, lost, helpless or hopeless. In other words, when you do not know what to do, the system knows. »
 - **[Analyse du Pattern] :** Utilisation d'un recadrage de transe et suggestion post-hypnotique de sécurité pour le praticien. La juxtaposition d'états d'échec kinesthésiques (*confused, lost, helpless, hopeless*) est immédiatement reliée par le connecteur d'équivalence complexe (*"In other words"*) à un principe omniscient (*"the system knows"*), neutralisant l'anxiété de performance et installant l'état d'ouverture réceptive nécessaire au Clean Language.
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : Fondamental : Déploiement et Matérialisation d'un Paysage Métaphorique (Modèle Castle Door)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -713,8 +740,7 @@ Voici l’extraction et l’analyse opératoire intégrale de la tranche 1/25 de
   > « And absolutely pure. And absolutely pure gold’s always been there at the core of your being. And is there anything else about that absolutely pure gold? »
   * **[Analyse du Pattern]** : Présupposition d'intemporalité et d'immuabilité ontologique. En intégrant *« always been there »* au sein même de la description d'accusé de réception, la suggestion enchâssée ancre que la ressource n'est pas un état passager créé pour l'occasion, mais une composante ontologique préexistante, inaliénable et indestructible du soi (*« at the core of your being »*).
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : A : La Question d'Attribut de Forme (« L'amie du thérapeute »)
 
 Voici l'analyse opératoire intégrale de la tranche 6/25 de *Metaphors in Mind* (Lawley & Tompkins).
 
@@ -868,8 +894,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/25 de *Metaphors in Mind*
   > « And an almost silent powerful. And is there anything else about that absolutely pure gold that’s incredibly strong and malleable and almost silent powerful at the absolute core of your being? »
   * **[Analyse du Pattern]** : Syntaxe d'incorporation cumulative. L'opérateur empile tous les prédicats validés du symbole (*pure gold, incredibly strong, malleable, almost silent powerful, absolute core*) sous forme de présupposition d'état, avant d'élargir le champ d'investigation via l'opérateur d'ouverture *"is there anything else about..."*, provoquant immédiatement l'émergence d'une propriété dynamique nouvelle (*"It can move"*).
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : Débobinage Temporel au Seuil de Ressource (Winding Back to the Threshold)
 
 Voici l'extraction intégrale et l'analyse opératoire de la tranche 7/25 de *Metaphors in Mind* (Lawley & Tompkins).
 
@@ -1026,8 +1051,7 @@ C:      They’re locked away.
   * Calibration et discrimination linguistique fine : le praticien distingue rigoureusement le `[big sigh]` initial du `[sigh]` secondaire produit par le sujet, respectant scrupuleusement la calibration de l'intensité somatique sans la niveler.
   * Empilement syntaxique Clean classique : `And [X]... And when [X], [Question]?`. Ce tressage convertit un simple collapse respiratoire d'impuissance en une structure de confinement exploratoire (`words you can't find` $\to$ `locked away`), ouvrant directement sur la clé de déverrouillage de l'état ressource.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : Utilisation Somatique Propre & Propulsion Temporelle du Silence
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1210,8 +1234,7 @@ C:      They’re locked away.
   > `“And what would you like to have happen?”`
   * **[Analyse du Pattern]** : Question d'ouverture standard clean. Elle se caractérise par la conjonction d'orientation "*And*", l'absence totale de présupposition sur le contenu du problème, l'utilisation du conditionnel de facilitation imaginaire ("*would like*"), et la formulation impersonnelle passive/active ("*to have happen*") qui invite l'inconscient à présenter la structure globale de sa téléologie.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Séquence d'Entrée Standard et Calibration Textuelle Verbatim
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1356,8 +1379,7 @@ C:      They’re locked away.
   > C: Just over there [looks to the corner and pauses]. There’s a shadow."
   * **[Analyse du Pattern] :** Refus d'adhésion au décrochage social et utilisation du paradoxe sémantique. Le praticien refuse le contact oculaire de fuite du sujet, recycle l'absence de contenu ("nowhere") comme une localisation spatiale valide, et applique la question de mouvement sur cette négation même ("when you go nowhere"). L'ancrage visuel continu du praticien force l'attention du sujet à retourner dans le coin jusqu'à ce que l'inconscient matérialise l'entité occultée ("There's a shadow").
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Capture et Déballage de la Ligne de Mire (Line of Sight Entry)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1523,8 +1545,7 @@ C:      They’re locked away.
   * **Bifurcation spatiale d'un état émotionnel :** En demandant *« where is that very frustrated and that very angry? »*, l'opérateur traite deux états affectifs abstraits (*frustrated / angry*) comme des objets physiques occupant un volume géométrique.  
   * **Raffinement micro-géographique (*whereabouts*) :** Face à la localisation globale du client (*« In here »* + toucher du plexus), l'opérateur ne se contente pas de la région corporelle et affine chirurgicalement (*« whereabouts in here? »*). Cela force l'intéroception somatosensorielle à descendre dans la matière même de la sensation interne, révélant la structure cachée du symbole (*« Hollow. Full of darkness »*).
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : A : Détection & Cristallisation d'une Ressource Overte (Exemple "Castle Door")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1659,8 +1680,7 @@ C:      They’re locked away.
   > « And very young. And when very young is scared, what could very young be wearing? »
   * **[Analyse du Pattern] :** Consolidation somatique de l'identité régressive. Demander le vêtement d'une entité (« what could very young be wearing? ») matérialise l'enveloppe corporelle et permet au souvenir ou à la structure métaphorique enfouie de faire surface sans suggestion directive.
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : d'Exploration des Motifs et Relations (Étape 3 : Modelling Symbolic Patterns)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1783,8 +1803,7 @@ C:      They’re locked away.
 > **James :** « And take all the time you need to get to know what it is like now that you're standing on a stage, and a light is shining on you, and you're perfectly still, and not saying anything, and people [gestures to same place] have come to see you, and take all the time you need [pause]. »
 * **[Analyse du Pattern]** : Commande post-hypnotique d'assimilation rythmée par un double enchâssement de permission temporelle (*« take all the time you need... and take all the time you need »*). Utilisation du marqueur temporel présentiel transformé (*« now that »*), validant la nouvelle configuration identitaire comme étant un fait déjà accompli. Le départ physique du praticien pendant la pause ancre l'autonomie totale du système du client dans son nouvel état.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : Cartographie d'une Séquence Temporelle Traumatique / Bloquante
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 13/25 du cours et de l'ouvrage *Metaphors in Mind* de Penny Tompkins et James Lawley.
 
@@ -1908,8 +1927,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 13/2
 > **T49:** *"And like running round a track and you have to overtake him twice. And running and running. And you’ll have to prove yourself more than once. And you have to overtake him twice. And as you’re running round that track and you have to overtake him twice, what kind of him could he be?"*
 - **[Analyse du Pattern] :** Pacing prosodique et structural. Le thérapeute répète *"running and running"*, *"overtake him twice"*, mimant par la cadence verbale la dynamique d'épuisement circulaire de la métaphore. Cela prépare la question d'identification ontologique (*"what kind of him could he be?"*), permettant au client d'accoucher de la révélation traumatique centrale du paradoxe : l'ennemi à dépasser n'est autre que son propre moi idéalisé (*"My ideal me"*).
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : GLOBAL : Étape 4 — Encourager les Conditions d'Émergence de la Transformation
 
 Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 14/25 du cours *Metaphors in Mind - Clean Language and Symbolic Modelling* (James Lawley & Penny Tompkins, pp. 171-185).
 
@@ -2121,8 +2139,7 @@ Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 14/25 d
   - Métaphore d'une boucle fermée (*« run round a track »*) combinée à une fonction de rétroaction positive perverse : la croissance du sujet (*« the more he grows »*) entraîne proportionnellement l'amplification de l'écart avec son idéal (*« the gap to widen »*).
   - Présupposition d'impossibilité géométrique et cybernétique : l'effort vertueux alimente directement le sentiment d'échec et d'inadéquation. Le système ne peut être résolu en courant plus vite ou en grandissant davantage ; seule une sortie de la piste (transformation d'ordre 2) peut dissoudre le bind.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : Modélisation et Transformation des Doubles Contraintes (Figure 8.2)
 
 Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind* (Lawley & Tompkins).
 
@@ -2341,8 +2358,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
   - **Défamiliarisation du point de vue perceptif** (*« where are you seeing that from? »*) : transforme un constat dissocié banal en une entité spatiale concrète, révélant la structure de dissociation traumatique inconsciente.
   - **Question de spécification identitaire ontologique** (*« what kind of you is that you...? »*) : applique la Clean Question de catégorisation directement sur l'instance d'observation, amenant le sujet à identifier la partie clivée (*« A severed me »*) issue de son histoire somatique.
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : Localisation et Traitement du Percepteur Extérieur (Outside Perceiver)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2499,8 +2515,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
   - **Double sas de permission :** La formule conditionnelle d'invitation `would [X] be interested in going to [Y]?` protège le libre arbitre symbolique. Elle est suivie immédiatement du test d'effectivité motrice `And can [X] go...?`.
   - **Présupposition temporelle continue et transe d'intégration :** Dans `And as [X] goes to [Y] [pause], what happens next?`, l'usage de la conjonction temporelle `as` (au fur et à mesure que / pendant que) présuppose que le mouvement s'accomplit déjà dans la neurologie pendant que l'attention est projetée sur l'effet émergent (`what happens next?`), produisant le basculement kinesthésique vital (`He feels life again`).
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : La Maturation d'un Paysage Évolué (Stage 5 Maturing Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2661,8 +2676,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
     3.  La commande d'apprentissage permissif ("take all the time you need... to get to know...").
     4.  L'ancrage temporel étendu ("over the next few days and weeks") combiné à la fragmentation prosodique terminale ("what ... happens ... next") qui installe une anticipation inconsciente positive ouverte, empêchant toute régression ou fermeture prématurée du travail intégratif.
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : Protocole de Consolidation du Paysage Métaphorique Réorganisé (Stage 5)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2793,8 +2807,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
   - *Ancrage de l'agentivité :* L'adjonction finale « *—when you choose* » restitue la souveraineté complète au sujet, désamorçant toute injonction de performance.
   - *Rupture stylistique finale :* Transition abrupte d'un monologue hypnotique intégratif à une question conversationnelle ouverte (« *Do you have any comments...* ») marquant la fermeture officielle du cadre métaphorique.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : Désamorçage d'Urgence et Régulation de Groupe (Le Protocole Susie Greenwood)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2956,8 +2969,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
   - La première question traite les deux affects (« frustrated » et « angry ») comme des entités spatialisables distinctes en répétant fidèlement le double attribut et en exigeant des coordonnées spatiales (« where is... »).
   - La relance (« whereabouts in here? ») opère un zoom spatial micrométrique. Elle interdit au sujet de rester dans une référence proprioceptive floue (« in here ») et le contraint à délimiter la géométrie interne exacte de la sensation (« Hollow. Full of darkness »), préparant ainsi le terrain pour la transformation métaphorique du symptôme corporel.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : A : Rétro-Ingénierie des Conditions Antérieures & Intégration de Ressource (Cas Castle Door)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3086,8 +3098,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
 > **T57 (Castle Door) :** "And now you can open and close that door, take all the time you need, to get to know what it’s like, not to have to spend all that energy keeping that door closed any more. And what else can happen now more gold is inside and hollow is full and cool and all the darkness is gone [pause]. And what difference it makes, now that you can open and close castle door—when you choose."
 * **[Analyse du Pattern]** : Forme hybride d'hypnose éricksonienne et de Clean Language. Utilisation de suggestions permissives enchâssées (*"take all the time you need"*, *"to get to know what it’s like"*). Présupposition temporelle d'achèvement (*"now that..."*, *"any more"*). La phrase ancre le renversement du binding pattern (l'énergie n'est plus gaspillée à maintenir la porte close) et installe le choix délibéré (*"when you choose"*) comme nouvelle norme opérationnelle du système.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : A : Élucidation et Résolution d'un Double Lien Symbolique (Cas "Jubilee Clip")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3205,8 +3216,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
   > « And when you feel sick and nauseous and very anxious, does sick and nauseous and very anxious have a size or a shape? [...] And when [replicates gesture], that’s like what? »
   * **[Analyse du Pattern] :** Transition "Feeling into Form". Le prédicat somatosensoriel intolérable (*sick, nauseous, anxious*) est transformé en objet géométrique via un questionnement cartésien précis (*size or shape*). L'isomorphisme gestuel (le praticien reproduit fidèlement la largeur mesurée par les mains du sujet) fait le pont direct vers l'invite métaphorique (*that's like what?*), catalysant la matérialisation du symbole (*a lozenge*).
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : Traçage de Source, Dissolution & Évolution Écologique du Symbole
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3349,8 +3359,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
 * **Spatialisation Cognitive & Métaphore Incarnée :**
   - Les notes de fin d'ouvrage s'appuient sur *Julian Jaynes* (l'impossibilité neurologique de concevoir le temps sans le spatialiser dans la conscience), *Mark Johnson* (l'incarnation corporelle façonne la structure même de la métaphore et de la pensée abstraite) et *Daniel Dennett* (distinction entre le véhicule cérébral et l'espace phénoménologique représenté).
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : A : Exploitation de l'Absence d'Information (« I Don't Know » Clean Interventions)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3465,8 +3474,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de *Metaphors in Mind
 > **« A set of symptoms from an earlier experience reproduce themselves in the adult over and over again. This replication is the same as mitotic cell division. »**
 * **[Analyse du Pattern] :** Isomorphisme biologique et métaphore explicative structurelle de David Grove. L'analogie avec la division mitotique cellulaire recadre la persistance du symptôme : il ne s'agit pas d'un déficit de volonté ou d'un défaut de personnalité, mais d'une fonction auto-reproductrice biologique autonome active dans le système, orientant l'intervention vers l'interruption du mécanisme réplicatif plutôt que la lutte frontale contre le symptôme.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : Honorification de l'Intention Destructrice d'un Symbole (« And can it? »)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 24/25 de l'ouvrage et de l'enseignement de James Lawley & Penny Tompkins (*Metaphors in Mind - Clean Language and Symbolic Modelling*).
 
@@ -3601,8 +3609,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 24/25 de 
 * **[Analyse du Pattern] :**
   - **Ancrage somato-sémantique pérenne :** Utilisation de verbes d'inscription neurologique (*« registers in the client’s neurology »*) couplés à une métaphore d'orientation archétypale (*« acts as a beacon during future dark nights of the soul »*). Le pattern valide l'expérience subjective même fugace et installe une commande cachée : l'état ressource continuera de fonctionner automatiquement comme phare de guidage inconscient dans l'adversité future.
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : Macro : Le Processus Thérapeutique en 5 Étapes (Five-Stage Therapeutic Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3697,3 +3704,4 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 24/25 de 
 * **Question de Condition Émergente (Stage 4 - Conditions for Transformation)** :
   > *“And what needs to happen for [X] to [Y]?”*
   * **[Analyse du Pattern]** : Élicitation des pré-requis systémiques. Présuppose la possibilité absolue de la transition de [X] vers [Y]. Déplace l'attention de l'obstacle vers la condition écologique manquante, amenant le système nerveux à chercher ou générer la ressource latente nécessaire pour satisfaire la condition.
+

@@ -82,10 +82,26 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 104-215]** : Réduction Somatique & Réattribution du Contrôle par Attention à la Variabilité — *Protocole :* Réduction Somatique & Réattribution du Contrôle par Attention à la Variabilité
+- **Tranche 2 [Lignes 217-332]** : A : L'Épreuve de Désensibilisation Évaluative (La Démarche des « Chaussures Dépareillées ») — *Protocole :* A : L'Épreuve de Désensibilisation Évaluative (La Démarche des « Chaussures Dépareillées »)
+- **Tranche 3 [Lignes 334-451]** : Désamorçage de la Certitude par Inversion Rétroactive de Variable — *Protocole :* Désamorçage de la Certitude par Inversion Rétroactive de Variable
+- **Tranche 4 [Lignes 453-583]** : Induction de Concentration par Variance Stimulée (Le Switch « Objectif Mobile ») — *Protocole :* Induction de Concentration par Variance Stimulée (Le Switch « Objectif Mobile ») | *Mécanisme :* Le Piège de l'Immobilisation Visuo-Attentionnelle (Effet Troxler Cognitif) | *Verbatim :* Le Double Déverrouillage de la Culpabilité Attentionnelle
+- **Tranche 5 [Lignes 585-763]** : Conversion d'une Activité Aversive en Jeu par Détection Idiosyncratique de Distinctions — *Protocole :* Conversion d'une Activité Aversive en Jeu par Détection Idiosyncratique de Distinctions | *Mécanisme :* Le Biais d'Étiquetage Contextuel (Travail vs Jeu) et l'Errance Mentale | *Verbatim :* Rupture du lien univoque entre tâche et pénibilité
+- **Tranche 6 [Lignes 765-901]** : Encodage Multi-Perspectif et Pertinence Personnelle (Anti-Mémorisation Passive) — *Protocole :* Encodage Multi-Perspectif et Pertinence Personnelle (Anti-Mémorisation Passive) | *Verbatim :* Le cadrage de la pertinence subjective
+- **Tranche 7 [Lignes 903-1028]** : Désactivation de l'Effet Secondaire Négatif par Recontextualisation Opératoire — *Protocole :* Désactivation de l'Effet Secondaire Négatif par Recontextualisation Opératoire | *Mécanisme :* L'Inoculation Pré-Critique et la Prophétie Réalisatrice Identitaire | *Verbatim :* Citation 1
+- **Tranche 8 [Lignes 1030-1127]** : Recadrage Chirurgical d'Atténuation Somatique & Récupération Opératoire — *Protocole :* Recadrage Chirurgical d'Atténuation Somatique & Récupération Opératoire
+- **Tranche 9 [Lignes 1129-1222]** : A : La Transmutation d'Erreur par Translation de Contexte (Context Translation Protocol) — *Protocole :* A : La Transmutation d'Erreur par Translation de Contexte (Context Translation Protocol) | *Mécanisme :* Le Gel Contextuel Évaluateur (Context Freezing) | *Verbatim :* La Relativité Contextuelle des Absolus
+- **Tranche 10 [Lignes 1224-1309]** : Recadrage Contextuel d'Incompétence Induite (The Illusion of Incompetence Shatter) — *Protocole :* Recadrage Contextuel d'Incompétence Induite (The Illusion of Incompetence Shatter) | *Mécanisme :* Le Levier de l'Engagement Conditionnel vs Engagement Inconditionnel Prématuré | *Verbatim :* Le Déclencheur Fondamental de la Pleine Conscience
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 10 ---
+## Tranche 1 / 10 : Réduction Somatique & Réattribution du Contrôle par Attention à la Variabilité
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -198,8 +214,7 @@ graph TD
 > “To be mindful is to be confident and uncertain.”
 - **[Analyse du Pattern]** : Paradoxe ericksonien / Oxymore intégrateur. Rapprochement de deux états émotionnels traditionnellement exclusifs ("confident" et "uncertain"). La structure syntaxique détruit l'équation habituelle "incertitude = anxiété" et la remplace par "incertitude = vigilance ouverte et maîtrise détendue".
 
-
-## --- Tranche 2 / 10 ---
+## Tranche 2 / 10 : A : L'Épreuve de Désensibilisation Évaluative (La Démarche des « Chaussures Dépareillées »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -316,8 +331,7 @@ graph TD
 > « In a recent New York Times article psychologist Dean Radin described four stages of adopting ideas: “The first is, 1. ‘It’s impossible.’ 2. ‘Maybe it’s possible, but it’s weak and uninteresting.’ 3. ‘It is true and I told you so.’ 4. ‘I thought of it first.’” I would add a fifth stage, “We always knew that. How could it be otherwise?” »
 - **[Analyse du Pattern]** : Empilement progressif de truismes décrivant l'amnésie d'apprentissage. L'ajout du cinquième stade parachève la fermeture cognitive : il démontre comment l'esprit transforme une vérité jadis révolutionnaire en une nouvelle évidence aveugle et rigide (*"How could it be otherwise?"*), bouclant la transe de la normalisation.
 
-
-## --- Tranche 3 / 10 ---
+## Tranche 3 / 10 : Désamorçage de la Certitude par Inversion Rétroactive de Variable
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -436,8 +450,7 @@ graph TD
 > **« We asked whether they meant that the students should “hold the picture still” in their mind or did they mean that the students should “vary the picture” in their minds? Teachers overwhelmingly chose the first alternative. »**
 * **[Analyse du Pattern]** : Double lien et mise en lumière d'une présupposition erronée sous-jacente. L'alternative linguistique met en contraste deux métaphores spatiales internes : la fixité photographique (*« hold still »*) contre le flux cinématique (*« vary »*). Elle démontre que l'injonction scolaire usuelle repose sur une commande neurologiquement intenable (l'immobilisation sensorielle), source directe de la fatigue attentionnelle.
 
-
-## --- Tranche 4 / 10 ---
+## Tranche 4 / 10 : Induction de Concentration par Variance Stimulée (Le Switch « Objectif Mobile »)
 
 Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 4/10 du cours d'Ellen Langer.
 
@@ -569,8 +582,7 @@ Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 4/10 du
 > *« Two weeks later he ran into one of them at the market and asked why he and his friends no longer came around. The child replied, ‘What do you think, we’re going to come for nothing?’ »*
 * **[Analyse du Pattern] :** **Enchâssement Anecdotique & Punchline de Rupture Pédagogique.** Langer utilise une parabole relationnelle dont la réplique finale agit comme un électrochoc d'élicitation. L'interrogation rhétorique spontanée de l'enfant (*« What do you think, we're going to come for nothing? »*) cristallise parfaitement le basculement neuronal opéré par la surjustification : ce qui était du pur plaisir intrinsèque s'est métamorphosé en labeur transactionnel, détruisant instantanément l'appétence naturelle du sujet.
 
-
-## --- Tranche 5 / 10 ---
+## Tranche 5 / 10 : Conversion d'une Activité Aversive en Jeu par Détection Idiosyncratique de Distinctions
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -750,8 +762,7 @@ Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 4/10 du
 > No learning, no pleasure.”
 * **[Analyse du Pattern]** : **Chiasme hypnotique et équivalence complexe bidirectionnelle.** La structure syntaxique en miroir scelle une interdépendance neurologique absolue entre l'affect (« pleasure ») et l'action cognitive (« learning »). L'ellipse finale (« No pleasure, no learning. No learning, no pleasure ») fonctionne comme une double suggestion négative qui ancre le plaisir comme condition *sine qua non* et conséquence inévitable de tout apprentissage réel.
 
-
-## --- Tranche 6 / 10 ---
+## Tranche 6 / 10 : Encodage Multi-Perspectif et Pertinence Personnelle (Anti-Mémorisation Passive)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -889,8 +900,7 @@ Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 4/10 du
   - **Recadrage nominal et égalisateur de statut :** Substitution de *« absentminded »* par *« other mindedness »*, couplée à un pontage logique d'assimilation aux génies (*« Why should it be different for the rest of us? »*).
   - **Formule en chiasme et double commande paradoxale :** *« Memorizing keeps us in the past; forgetting forces us into the present »*. Ce truisme percutant ancre l'oubli non comme un défaut d'encodage, mais comme le moteur direct de l'état de présence (*mindfulness*).
 
-
-## --- Tranche 7 / 10 ---
+## Tranche 7 / 10 : Désactivation de l'Effet Secondaire Négatif par Recontextualisation Opératoire
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 7/10 de l'enseignement d'Ellen Langer.
 
@@ -1017,8 +1027,7 @@ Langer démontre que l'esprit humain ne perçoit jamais la relation directe entr
 * **[Analyse du Pattern]** :  
   *Recadrage d'Origine Spatiale et Commande Enchâssée d'Autonomie Émergente.* L'opposition contrastive *« Rather than look for... one discovers that... »* détourne l'attention de la quête épuisante d'une approbation extérieure (l'hétéronomie de la « bonne réponse » scolaire). L'utilisation de l'adverbe temporel continu *« perpetually »* couplé au prédicat biologique *« grows up endogenously »* et à la métaphore spatiale *« inside the web of experience »* reprogramme le siège de l'autorité cognitive : la validité d'une décision ne vient pas d'une conformité à un monde extérieur préexistant, mais germe spontanément du tissu même de l'action en cours.
 
-
-## --- Tranche 8 / 10 ---
+## Tranche 8 / 10 : Recadrage Chirurgical d'Atténuation Somatique & Récupération Opératoire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1117,8 +1126,7 @@ Langer démontre que l'esprit humain ne perçoit jamais la relation directe entr
   > "The perfectly flat surfaces of plane geometry are a mathematical abstraction, not an empirical reality. A small amount of variation in the surface of the carpet could easily account for the few additional degrees the child had carefully measured. It might also have provided a natural introduction to the geometry of curved surfaces, known as differential geometry. Yet the teacher was so constrained by his belief in truths independent of context that he failed to see this opportunity presented by a child measuring angles on a curved surface."
   - **[Analyse du Pattern]** : Renversement de la hiérarchie épistémique par recadrage de cadre (*frame recontextualization*). Langer prend l'erreur infantile (183°) et démontre que c'est l'expert qui est dans l'illusion hallucinatoire d'un plan parfait abstrait. Le langage oppose la rigidité intellectuelle de l'autorité (*"constrained by his belief"*) à la précision sensorielle pure de l'élève (*"painstakingly measured"*), induisant chez le praticien un recentrage absolu sur l'observation sensorielle directe aux dépens des dogmes théoriques.
 
-
-## --- Tranche 9 / 10 ---
+## Tranche 9 / 10 : A : La Transmutation d'Erreur par Translation de Contexte (Context Translation Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1213,8 +1221,7 @@ Langer démontre que l'esprit humain ne perçoit jamais la relation directe entr
 > « “How delightfully the fishes are enjoying themselves in the water,” exclaimed Soshi. His friend spoke to him thus, “You are not a fish, how do you know that the fishes are enjoying themselves?” “You are not myself,” returned Soshi, “how do you know that I do not know that the fishes are enjoying themselves?” »
 * **[Analyse du Pattern]** : Isomorphisme conversationnel rigoureux. Le premier locuteur pose une objection logique basée sur la démarcation ontologique (*« You are not X, how do you know X »*). Soshi retourne exactement la même structure logique contre l'objecteur (*« You are not Y, how do you know what Y knows »*). Ce pattern de récursion métaphorique dissout la prétention à l'objectivité externe et renvoie l'observateur à ses propres présuppositions aveugles.
 
-
-## --- Tranche 10 / 10 ---
+## Tranche 10 / 10 : Recadrage Contextuel d'Incompétence Induite (The Illusion of Incompetence Shatter)
 
 Voici l'extraction et l'analyse opératoire de la tranche finale (10/10) de *The Power of Mindful Learning* d'Ellen Langer (Notes finales, Index thématique analytique et Biographie de l'auteur).
 
@@ -1300,3 +1307,4 @@ Voici l'extraction et l'analyse opératoire de la tranche finale (10/10) de *The
 > *(The Power of Mindful Learning, Index Analytique)*
 
 * **[Analyse du Pattern]** : Rupture de cadre binaire et présupposition d'apprentissage conditionnel. En apposant systématiquement l'alternative (*« alternative views »*) à la croyance déterministe dominante (*« decline of memory »*), et en opposant l'apprentissage conditionnel et le traçage de distinctions (*« drawing distinctions »*) au rabâchage machinal (*« rote learning »*), la cartographie linguistique force le praticien à sortir de la simple mémorisation mécanique pour entrer dans une relation souple, écologique et créative avec les processus cognitifs inconscients.
+

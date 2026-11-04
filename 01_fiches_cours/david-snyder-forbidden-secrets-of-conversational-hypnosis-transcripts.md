@@ -99,10 +99,20 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 115-235]** : Fractionnement Plaisir/Douleur & Regret Anticipé (Resistance Removal) — *Protocole :* Fractionnement Plaisir/Douleur & Regret Anticipé (Resistance Removal) | *Verbatim :* La Captation Sensorielle par Séduction Viscérale
+- **Tranche 2 [Lignes 237-412]** : Le "Having Found" Pattern (Modèle Militaire d'Influence) — *Protocole :* Le "Having Found" Pattern (Modèle Militaire d'Influence) | *Mécanisme :* Le principe de Dérive Non-Corticale et Recherche de Transe (Bliss Out vs Numb Out) | *Verbatim :* PÉPITE 1 : Injection Subliminale d'un Terme Tabou dans un Pitch Médical
+- **Tranche 3 [Lignes 414-594]** : La Matrice "Just Suppose" avec Pseudo-Orientation Temporelle — *Protocole :* La Matrice "Just Suppose" avec Pseudo-Orientation Temporelle | *Mécanisme :* Le Cadre de Validation Inversée (Reverse Validation Frame) | *Verbatim :* La Bascule de Prise de Rendez-vous Thérapeutique
+- **Tranche 4 [Lignes 596-745]** : Le "What Would Happen If..." & Chaînage de Valeurs (Barron's Persuasion Whammy) — *Protocole :* Le "What Would Happen If..." & Chaînage de Valeurs (Barron's Persuasion Whammy) | *Mécanisme :* Le Pattern "What Would Happen If..." : Dérivation Hypothétique & Pont Temporel | *Verbatim :* La Formule "What Would Happen If..." appliquée à la Vente
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Fractionnement Plaisir/Douleur & Regret Anticipé (Resistance Removal)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -224,8 +234,7 @@ flowchart TD
   - **Interrogation en spirale négative (Soustraction brutale)** : L'enchaînement de questions *"what wouldn't be happening for you?"* et *"How bad would your life actually get...?"* active l'évitement de la douleur et l'aversion à la perte (2 unités de douleur contre 1 de gain).
   - **Cause-effet d'urgence temporelle** : *"Because if you don't make that decision today... that's what's going to happen"*. Encadre l'action présente comme l'unique rempart neurologique contre la douleur programmée de la dépossession.
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : Le "Having Found" Pattern (Modèle Militaire d'Influence)
 
 Voici l'analyse opératoire intégrale de la tranche 2/4 du cours **Forbidden Secrets of Conversational Hypnosis** de David Snyder.
 
@@ -402,8 +411,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/4 du cours **Forbidden Se
   * **Verbe somatique d'impact :** Utilisation du verbe kinesthésique d'impact *hit you*, induisant l'idée d'un événement subconscient soudain, irrépressible et hors de contrôle volontaire.
   * **Délégation de l'auto-persuasion :** En incitant le recruteur à narrer la genèse de son impression favorable, le sujet pousse l'autorité à verbaliser et consolider ses propres arguments de recrutement.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : La Matrice "Just Suppose" avec Pseudo-Orientation Temporelle
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 3/4 du séminaire *Forbidden Secrets of Conversational Hypnosis* de David Snyder.
 
@@ -585,8 +593,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 3/4 du sém
   - *Connexion aux critères et valeurs profondes* ("fully connect and communicate... intimate... share things... deep level").
   - *Structure d'échange conditionnel asymétrique* ("Now, if you'd be willing to X, I'd be willing to Y") : présente l'octroi de son propre temps et de sa présence comme une concession majeure, inversant totalement le rapport de force.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : Le "What Would Happen If..." & Chaînage de Valeurs (Barron's Persuasion Whammy)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 4/4 du cours **"Forbidden Secrets of Conversational Hypnosis"** de David Snyder.
 
@@ -736,3 +743,4 @@ Voici l'analyse d'ingénierie opératoire de la tranche 4/4 du cours **"Forbidde
   - **Effet de choc contextuel (Pattern Interrupt) :** Au cœur d'une dispute où les systèmes d'attaque/défense sont embrasés, l'injonction injecte une présupposition identitaire brutale : *tu m'aimes*.
   - **Double contrainte bienveillante (Double Bind implicite) :** Pour continuer à parler avec animosité, l'interlocuteur devrait admettre consciemment qu'il ne s'adresse pas à quelqu'un qu'il aime, ce qui fait s'effondrer le cadre conflictuel superficiel.
   - **Recadrage d'état (State Reframe) :** Force une réorientation synesthésique immédiate vers les circuits d'attachement et d'empathie.
+

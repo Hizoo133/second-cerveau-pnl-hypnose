@@ -69,10 +69,42 @@ Toutes les interventions du cours reposent sur un levier unique et élégant : *
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 107-211]** : de Rupture de Complaisance Théorique (« Show Me Now / Operational Reality Check ») — *Protocole :* de Rupture de Complaisance Théorique (« Show Me Now / Operational Reality Check ») | *Mécanisme :* Dé-nominalisation du Soi : Du « Self » au « Self-Concepting » | *Verbatim :* Défi Opératoire Direct face au Jargon Académique
+- **Tranche 2 [Lignes 213-336]** : d'Ancrage Vérifiable de l'Estime chez l'Enfant (ou Soi-Même) : Le Feedback Indexé sur Données — *Protocole :* d'Ancrage Vérifiable de l'Estime chez l'Enfant (ou Soi-Même) : Le Feedback Indexé sur Données | *Verbatim :* La Présupposition d'Évolution et le Split Contenu / Structure
+- **Tranche 3 [Lignes 338-444]** : Le Pré-Cadrage Cause-Effet : "Bascule Comportement $\rightarrow$ Identité" — *Protocole :* Le Pré-Cadrage Cause-Effet : "Bascule Comportement $\rightarrow$ Identité" | *Mécanisme :* La Dynamique Valeurs : Hiérarchie rigide vs Hétérarchie adaptative | *Verbatim :* Le Recadrage Rétroactif des Priorités de Valeurs
+- **Tranche 4 [Lignes 446-583]** : Réintégration d'une Neurologie Aliénée par Réempreinte des Représentations d'Autrui — *Protocole :* Réintégration d'une Neurologie Aliénée par Réempreinte des Représentations d'Autrui | *Mécanisme :* La Boucle de Rétroaction Corrective Synchrone (vs. Effondrement par Seuil Catastrophique) | *Verbatim :* La Métaphore du Témoin d'Huile et de la Rupture par Seuil
+- **Tranche 5 [Lignes 585-703]** : Élicitation de la Structure Fondatrice du Self-Concept (Exercice 4-1) — *Protocole :* Élicitation de la Structure Fondatrice du Self-Concept (Exercice 4-1) | *Mécanisme :* Architecture Hiérarchique de l'Identité et Portée Sémantique (Scope) | *Verbatim :* La Poignée et la Valise
+- **Tranche 6 [Lignes 705-812]** : A : Ajustement Écologique de la Base de Données (Résolution de la Saturation & Zoom Automati... — *Protocole :* A : Ajustement Écologique de la Base de Données (Résolution de la Saturation & Zoom Automatique) | *Mécanisme :* Le Paradoxe Résolution/Capacité de la Banquise Perceptive (Simultanéité vs Acuité) | *Verbatim :* Suggestion de l'Automatisme Inconscient Écologique
+- **Tranche 7 [Lignes 814-925]** : Audit & Ajustement Temporel du Concept de Soi (Checklist 5) — *Protocole :* Audit & Ajustement Temporel du Concept de Soi (Checklist 5) | *Verbatim :* La rupture de clarté par le méta-modèle inversé
+- **Tranche 8 [Lignes 927-1061]** : Audit et Rééquilibrage de la Distribution Temporelle — *Protocole :* Audit et Rééquilibrage de la Distribution Temporelle | *Mécanisme :* Distribution Temporelle et Continuité Émergente | *Verbatim :* La métaphore du biais photographique
+- **Tranche 9 [Lignes 1063-1236]** : Audit & Triangulation des Positions Perceptuelles dans la Base de Données — *Protocole :* Audit & Triangulation des Positions Perceptuelles dans la Base de Données | *Mécanisme :* Triangulation Perceptuelle et Holographie Identitaire | *Verbatim :* La Suggestion d'Inconfort Utile et Recadrage Temporel
+- **Tranche 10 [Lignes 1238-1421]** : L'Élicitation Conversationnelle du Concept de Soi chez un Tiers — *Protocole :* L'Élicitation Conversationnelle du Concept de Soi chez un Tiers | *Mécanisme :* Le piège de la bascule Orgueil / Honte et la comparaison sociale | *Verbatim :* Le double ancrage de l'ambivalence dans le « Bigger than life »
+- **Tranche 11 [Lignes 1423-1572]** : A : Intégration Visuo-Spatiale Simple d'un Contre-Exemple — *Protocole :* A : Intégration Visuo-Spatiale Simple d'un Contre-Exemple | *Mécanisme :* Transition Digital / Analogique de la Base de Données Identitaire | *Verbatim :* Le Méta-Recadrage de la Culpabilité Opératoire
+- **Tranche 12 [Lignes 1574-1719]** : Négociation Temporelle des Signaux d'Alerte (Exclusion Contextuelle) — *Protocole :* Négociation Temporelle des Signaux d'Alerte (Exclusion Contextuelle)
+- **Tranche 13 [Lignes 1721-1870]** : A : Regroupement et Transformation du Pire Contre-Exemple ("Exercise 8-4") — *Protocole :* A : Regroupement et Transformation du Pire Contre-Exemple ("Exercise 8-4") | *Mécanisme :* Le Regroupement par Isomorphisme et Transformation de l'Archétype Suprême ("Worst Example as Category Icon") | *Verbatim :* Le Verrouillage Écologique de Portée
+- **Tranche 14 [Lignes 1872-1996]** : A : Identification et Sélection d'une Qualité à Construire — *Protocole :* A : Identification et Sélection d'une Qualité à Construire | *Verbatim :* Le Recadrage du Geste et de la Réception Sensorielle
+- **Tranche 15 [Lignes 1998-2140]** : A : Construction d'une Nouvelle Qualité Identitaire (Exercice 9-1) — *Protocole :* A : Construction d'une Nouvelle Qualité Identitaire (Exercice 9-1)
+- **Tranche 16 [Lignes 2142-2293]** : Transformation d'une Qualité Ambiguë en Qualité Positive Stable — *Protocole :* Transformation d'une Qualité Ambiguë en Qualité Positive Stable
+- **Tranche 17 [Lignes 2295-2406]** : Transformer une Qualité Ambiguë en une Qualité Positive — *Protocole :* Transformer une Qualité Ambiguë en une Qualité Positive | *Mécanisme :* Hétérarchie des Besoins vs Hiérarchie Rigide | *Verbatim :* La Bascule de l'Hétérarchie Temporelle
+- **Tranche 18 [Lignes 2408-2606]** : Conversion d'Identité Négative en Base de Données Affirmative (Anti-Projection) — *Protocole :* Conversion d'Identité Négative en Base de Données Affirmative (Anti-Projection) | *Mécanisme :* Le Clivage Neuro-Sémantique de la Négation Identitaire | *Verbatim :* La Négation et l'Injonction Paradoxale Directe
+- **Tranche 19 [Lignes 2608-2751]** : Transmutation d'une Qualité Négative en Qualité Valorisée — *Protocole :* Transmutation d'une Qualité Négative en Qualité Valorisée | *Verbatim :* La Généralisation Temporelle de la Capacité Identitaire
+- **Tranche 20 [Lignes 2753-2871]** : Démonstration Andreas / Sam : Résolution Kinesthésique d'un Contre-Exemple Bloquant — *Protocole :* Démonstration Andreas / Sam : Résolution Kinesthésique d'un Contre-Exemple Bloquant | *Mécanisme :* Le Biofeedback Somatique comme Baromètre d'Intégration Identitaire | *Verbatim :* Le Choix Forcé Réducteur d'Anxiété
+- **Tranche 21 [Lignes 2873-3042]** : Exploration et Cartographie de la Frontière Protectrice Externe (Exercice 13-1) — *Protocole :* Exploration et Cartographie de la Frontière Protectrice Externe (Exercice 13-1) | *Mécanisme :* Transition Structurale : Du Contenu/Processus Intra-Psychique à la Topologie de Délimitation | *Verbatim :* Suggestion de l'espace d'alerte et de la métaphore analogique
+- **Tranche 22 [Lignes 3044-3152]** : Exploration et Transformation d'une Frontière Interne (Démonstration Sandy & Terri) — *Protocole :* Exploration et Transformation d'une Frontière Interne (Démonstration Sandy & Terri)
+- **Tranche 23 [Lignes 3154-3324]** : Cartographie différentielle Connexion vs Déconnexion (Exercice 14-1) — *Protocole :* Cartographie différentielle Connexion vs Déconnexion (Exercice 14-1) | *Mécanisme :* Le paradoxe de l'appauvrissement neurologique sous menace (Neurological Depletion via Boundary Contraction) | *Verbatim :* Le cadrage permissif de la vérité subjective
+- **Tranche 24 [Lignes 3326-3496]** : L'Aikido Mental & Rupture de Script Agressif & L'Aikido Mental & Non-Résistance Structurale — *Protocole :* L'Aikido Mental & Rupture de Script Agressif | *Mécanisme :* L'Aikido Mental & Non-Résistance Structurale | *Verbatim :* Verbatim 1 : L'Incongruence Absurde contre la Menace Armée
+- **Tranche 25 [Lignes 3498-3652]** : Protocole de Perspective Visuelle Simultanée (Démonstration Mike) — *Protocole :* Protocole de Perspective Visuelle Simultanée (Démonstration Mike) | *Verbatim :* Induction par Métaphore Sensorielle Concrète vs Nominalisation
+- **Tranche 26 [Lignes 3654-3746]** : McWhirter's Kinesthetic Perspective Pattern & Compartimentation et somatotopie des ressource... — *Protocole :* McWhirter's Kinesthetic Perspective Pattern | *Mécanisme :* Compartimentation et somatotopie des ressources (Quadrants corporels)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 26 ---
+## Tranche 1 / 26 : de Rupture de Complaisance Théorique (« Show Me Now / Operational Reality Check »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -178,8 +210,7 @@ Toutes les interventions du cours reposent sur un levier unique et élégant : *
     *   *Présupposition d'action créatrice (« the self that you construct ») :* Le choix du verbe « construct » prive l'identité de tout statut de fatalité génétique ou environnementale : si elle est construite, elle est déconstructible et reconfigurable.
     *   *Normalisation de l'amnésie sélective par nécessité neurologique :* L'emploi de « inevitably have to ignore others » déculpabilise le fonctionnement cognitif : oublier ou omettre des souvenirs n'est plus un dysfonctionnement mental, mais une loi thermodynamique inévitable du traitement de l'information. L'enjeu devient donc : que décide-t-on d'ignorer et d'illuminer ?
 
-
-## --- Tranche 2 / 26 ---
+## Tranche 2 / 26 : d'Ancrage Vérifiable de l'Estime chez l'Enfant (ou Soi-Même) : Le Feedback Indexé sur Données
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -304,8 +335,7 @@ Toutes les interventions du cours reposent sur un levier unique et élégant : *
     - Branche B : Émettre une nouvelle réponse comportementale alignée sur la valeur supérieure (*"a better expression of what is most important to you"*).
   - Le contraste syntaxique rend la branche A absurde et force le système nerveux à sélectionner la réorientation vers les valeurs fondamentales du sujet.
 
-
-## --- Tranche 3 / 26 ---
+## Tranche 3 / 26 : Le Pré-Cadrage Cause-Effet : "Bascule Comportement $\rightarrow$ Identité"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -413,8 +443,7 @@ Toutes les interventions du cours reposent sur un levier unique et élégant : *
   * **Instruction de dissociation visuelle directe :** *"See an image of yourself"* force le système nerveux à sortir de l'état associé du problème pour devenir l'observateur méta d'une version réorganisée de lui-même.
   * **Négation temporelle présupposée :** *"no longer having this problem"* n'invite pas à regarder comment résoudre le problème, mais postule que le problème appartient déjà au passé, orientant immédiatement l'attention du cerveau en mode feed-forward.
 
-
-## --- Tranche 4 / 26 ---
+## Tranche 4 / 26 : Réintégration d'une Neurologie Aliénée par Réempreinte des Représentations d'Autrui
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 4/26.
 
@@ -553,8 +582,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Calibration de surface sur les opérateurs linguistiques :** Distinction fondamentale entre le verbe d'état ontologique (*« To be »* / *« Je suis »*) qui verrouille l'élément au cœur de l'identité, et les verbes d'action ou de possession (*« To have »*, *« To live »*, *« To drive »*).
   - **Levier opératoire de flexibilité :** La simple rétrogradation syntaxique d'une identité vers un comportement ou une possession permet de dé-figer une généralisation rigide, ouvrant la voie à la transformation sans déclencher les défenses immunitaires du système du soi.
 
-
-## --- Tranche 5 / 26 ---
+## Tranche 5 / 26 : Élicitation de la Structure Fondatrice du Self-Concept (Exercice 4-1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -674,8 +702,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * Empilement de présuppositions d'universalité par soustraction négative (*« without a context... not doing any particular behavior »*).
   * Évacuation délibérée du contenu anecdotique pour forcer le système nerveux à générer une structure d'identité pure (état d'être) plutôt qu'un modèle de comportement isolé. Définition linguistique directe de la générativité cognitive.
 
-
-## --- Tranche 6 / 26 ---
+## Tranche 6 / 26 : A : Ajustement Écologique de la Base de Données (Résolution de la Saturation & Zoom Automati...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -784,8 +811,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Double séparation Conscient / Inconscient :** Scinde l'agentivité de l'auditeur en attribuant à l'inconscient une capacité de veille, de jugement critique indépendant (*"if it thinks it would be a good idea"*) et d'action directe autonome (*"goes ahead and changes what you do spontaneously"*).
   - **Pré-supposition d'intégration invisible :** Transforme la simple écoute d'un débat en un processus actif de reconfiguration neuronale profonde, déchargeant le conscient du besoin de contrôler le changement.
 
-
-## --- Tranche 7 / 26 ---
+## Tranche 7 / 26 : Audit & Ajustement Temporel du Concept de Soi (Checklist 5)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -898,8 +924,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "If you studied someone's family photos, would you get an accurate sample of their living?... The posters of Ireland always show bright blue sunny skies, with perhaps a small fluffy cloud or two. Then when you get there, you may notice that two-thirds of the time the sky is overcast or raining... By doing this you can find out how your representation of the quality is biased because there are periods of your life for which you have no examples, or only a few."
 * **[Analyse du Pattern]** : Isomorphisme métaphorique de recadrage épistémologique. Andreas détrône l'autorité du souvenir épisodique : les souvenirs ne sont pas la réalité mais des "affiches touristiques" choisies. Cela déculpabilise le client de ses manques et ouvre la voie technique à la collecte délibérée d'exemples dans les zones de vie négligées.
 
-
-## --- Tranche 8 / 26 ---
+## Tranche 8 / 26 : Audit et Rééquilibrage de la Distribution Temporelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1035,8 +1060,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : Calibration verbatim d'un shift neuro-kinesthésique franc (*gut reaction / visceral shift*). Le passage d'un acquiescement intellectuel superficiel en 1re/3e position (« Yeah, yeah... I can see that » - registre visuel détaché) à l'immersion sensorielle en 2e position (« grabbed me by the gut ») prouve le basculement complet de la chimie corporelle sous l'effet du changement de point de vue spatial.
 
-
-## --- Tranche 9 / 26 ---
+## Tranche 9 / 26 : Audit & Triangulation des Positions Perceptuelles dans la Base de Données
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1211,8 +1235,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Interrogation socratique de triangulation écologique* : Brise la complaisance euphorique (« *I feel quite nice being big* ») en forçant la recherche de la contrepartie négative cachée (« *Is there anything about it that is not so nice?* »).
   - *Recadrage somatosensoriel de la mégalomanie* : Lie immédiatement l'adjectif flatteur « *bigger than life* » au prédicat de fragilité somatique « *wobbly or unstable* », révélant la grandeur factice comme une construction anxiogène et précaire.
 
-
-## --- Tranche 10 / 26 ---
+## Tranche 10 / 26 : L'Élicitation Conversationnelle du Concept de Soi chez un Tiers
 
 Voici l'analyse opératoire intégrale de la tranche 10/26 du séminaire *Transforming Your Self* de Steve Andreas, structurée selon vos exigences d'ingénierie.
 
@@ -1397,8 +1420,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/26 du séminaire *Transf
   - **Distinction opératoire nette :** Établit une dichotomie stricte entre l'événement passé (invariable dans le temps) et son encodage topologique présent (*"where and how you represent your images"*).
   - **Présupposition d'efficacité instantanée :** L'utilisation de l'adverbe *"purely"* et de l'affirmation *"completely a result of changing the structure"* ancre chez le praticien l'inutilité de la catharsis historique pour obtenir un changement affectif durable.
 
-
-## --- Tranche 11 / 26 ---
+## Tranche 11 / 26 : A : Intégration Visuo-Spatiale Simple d'un Contre-Exemple
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1549,8 +1571,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/26 du séminaire *Transf
 
 * **[Analyse du Pattern]** : Suggestion négative paradoxale encastrée (*I don't suppose you could hear...*). Le cadrage syntaxique invite à l'immersion relationnelle tout en prétendant douter de sa faisabilité, ce qui désamorce toute résistance consciente. La syntaxe spatiale (« *completely surrounded by...* ») force la neuro-cognition à entourer l'unique négatif d'une barrière d'exemples ressources, modifiant la topologie mentale sans effort délibéré.
 
-
-## --- Tranche 12 / 26 ---
+## Tranche 12 / 26 : Négociation Temporelle des Signaux d'Alerte (Exclusion Contextuelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1697,8 +1718,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/26 du séminaire *Transf
 > "How do I wish I had responded when that happened? How would I like to respond if that kind of situation ever happens to me again in the future?"
 - **[Analyse du Pattern]** : Double questionnement génératif orienté solution. La première interrogation répare la trace mnésique dans le passé, tandis que la seconde opère un pont sur le futur immédiat (*future-pace*), installant un nouveau programme sensori-moteur prêt à l'emploi.
 
-
-## --- Tranche 13 / 26 ---
+## Tranche 13 / 26 : A : Regroupement et Transformation du Pire Contre-Exemple ("Exercise 8-4")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1849,8 +1869,7 @@ Oh, that's nice. Do you hear it? It's presupposed. "I can't imagine where you go
   - Commandes enchâssées temporelles et kinesthésiques : *"Just take your time"*, *"Gradually assemble, one by one"*.
   - Imposition de marqueurs de validité sensorielle : *"sincerely and congruently"*, qui programment l'inconscient à ne sélectionner que des données d'évidence qualitatives et inattaquables.
 
-
-## --- Tranche 14 / 26 ---
+## Tranche 14 / 26 : A : Identification et Sélection d'une Qualité à Construire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1976,8 +1995,7 @@ Oh, that's nice. Do you hear it? It's presupposed. "I can't imagine where you go
 
 * **[Analyse du Pattern]** : Présupposition par question d'échelle orientée vers une quantification finie. En demandant *"combien de fois"* et non *"est-ce que cela peut devenir familier"*, Andreas présuppose l'inévitabilité mathématique de la familiarisation. La réponse numérique du client devient un engagement contractuel inconscient que l'inconscient exécute ensuite en boucle close dans un espace de temps contracté ("take a minute or two").
 
-
-## --- Tranche 15 / 26 ---
+## Tranche 15 / 26 : A : Construction d'une Nouvelle Qualité Identitaire (Exercice 9-1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2121,8 +2139,7 @@ flowchart TD
 > **"Now, choose the most significant one of those counterexamples-the worst one that somehow symbolizes all the others, and represents of all of them."**
 - **[Analyse du Pattern] :** Présupposition d'isomorphisme et d'encapsulation holographique. L'étiquetage *"the worst one that somehow symbolizes all the others"* force l'esprit du sujet à condenser l'intégralité du réseau synaptique des contre-exemples sur un unique nœud critique, préparant le terrain pour un effet domino où la modification de ce seul spécimen entraînera l'effondrement ou la requalification de l'ensemble de la classe.
 
-
-## --- Tranche 16 / 26 ---
+## Tranche 16 / 26 : Transformation d'une Qualité Ambiguë en Qualité Positive Stable
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2275,8 +2292,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : Double contrainte temporelle avec présupposition d'association/dissociation structurelle. L'expression *« From your present position »* verrouille l'association corporelle dans le nouvel état résolu, tandis que *« looking back on when you were »* force la dissociation vis-à-vis de l'ancien état, le reléguant linguistiquement dans un passé révolu et objectivé.
 
-
-## --- Tranche 17 / 26 ---
+## Tranche 17 / 26 : Transformer une Qualité Ambiguë en une Qualité Positive
 
 Voici l'analyse opératoire intégrale de la tranche 17/26 du cours *Transforming Your Self* de Steve Andreas.
 
@@ -2389,8 +2405,7 @@ flowchart TD
 > *"When our expectations are not met, there is always a loss, and the first response to loss is disappointment and sadness. This feeling is often so immediately and completely overshadowed by anger and other attempts to avenge or repair the pride of the damaged ego, that the sadness is not noticed... sadness is a more basic feeling, and usually a much better place to start problem solving than pride, anger, and vengeance."*
 * **[Analyse du Pattern] :** Déconstruction hiérarchique de l'état émotionnel. Andreas requalifie la colère en tentative de réparation de surface de l'ego blessé (*« avenge or repair the pride »*) et redirige le praticien vers l'émotion primaire (*« more basic feeling »* : la tristesse issue de la perte), qui constitue l'unique levier stable de résolution de problème.
 
-
-## --- Tranche 18 / 26 ---
+## Tranche 18 / 26 : Conversion d'Identité Négative en Base de Données Affirmative (Anti-Projection)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 18/26.
 
@@ -2590,8 +2605,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Alternance permissive ericksonienne (« perhaps... or perhaps... or in a dream »)* : Élargit le champ de recherche de la mémoire jusqu'à des contextes non conventionnels ou oniriques, rendant la réponse impossible à bloquer par le filtre habituel d'impossibilité.
   - *Réactivation d'état ressource (Self-Surprise)* : La seconde question présuppose une structure d'apprentissage passée où l'impossibilité apparente s'est dissoute dans la surprise, reconnectant le sujet à sa propre plasticité adaptative.
 
-
-## --- Tranche 19 / 26 ---
+## Tranche 19 / 26 : Transmutation d'une Qualité Négative en Qualité Valorisée
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2736,8 +2750,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Rupture d'état radicale par le rire (Pattern Interrupt)* : En pleine exploration d'une confession douloureuse et culpabilisante (*"I'm just being an asshole"*), l'intervention humoristique brise net la spirale de gravité et de honte du sujet.
   - *Normalisation de l'ombre humaine* : La blague universalise l'imperfection humaine de manière percutante, permettant au sujet de dés-identifier son ego de la culpabilité pour se repositionner dans un état d'apprentissage cognitif pragmatique et détendu.
 
-
-## --- Tranche 20 / 26 ---
+## Tranche 20 / 26 : Démonstration Andreas / Sam : Résolution Kinesthésique d'un Contre-Exemple Bloquant
 
 Voici l'analyse opératoire intégrale de la tranche 20/26 de *Transforming Your Self* de Steve Andreas.
 
@@ -2857,8 +2870,7 @@ Voici l'analyse opératoire intégrale de la tranche 20/26 de *Transforming Your
 
 * **[Analyse du Pattern] :** Recadrage de contextualisation d'une polarité d'ombre. Au lieu de diaboliser le comportement « autoritaire », Andreas le valide comme une ressource contextuelle potentielle (*flexibilité comportementale*), tout en opérant une présupposition d'appartenance : l'identité centrale choisie et stabilisée dans le template reste le respect mutuel.
 
-
-## --- Tranche 21 / 26 ---
+## Tranche 21 / 26 : Exploration et Cartographie de la Frontière Protectrice Externe (Exercice 13-1)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 21/26 du séminaire *Transforming Your Self* de Steve Andreas.
 
@@ -3029,8 +3041,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 21/26 du 
   - **Révélation de la polarité sous-jacente** : Mise à nu chirurgicale du lien dialectique entre impuissance radicale (*impotent and helpless*) et fantasme de domination destructrice (*impulse to torture*).
   - **Désarmement projectif** : En reconnaissant l'impulsion chez lui-même, la distance aliénante ("ce monstre n'est pas moi") s'effondre, transformant la répulsion phobique en compréhension structurale intégrée.
 
-
-## --- Tranche 22 / 26 ---
+## Tranche 22 / 26 : Exploration et Transformation d'une Frontière Interne (Démonstration Sandy & Terri)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3140,8 +3151,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 21/26 du 
 > "Imagine that an evil neurologist from the 'dark side of the force' crept into your room last night while you were sleeping, anesthetized you, removed your brain, and put it into a nutrient solution and hooked up very sophisticated electrodes to all your sensory nerves, and then fed in all the detailed electrical inputs that exactly duplicated the experience of waking up and doing all the things you did today. How would you know the difference?"
 - **[Analyse du Pattern]** : Expérience de pensée disruptive (*Brain-in-a-vat paradox*) servant de rupture de pattern radicale de la réalité naïve. La question finale (*How would you know the difference?*) crée un vide transique (*trance logic*) qui force le sujet à admettre immédiatement que toute "réalité externe" est une hallucination interne générée par le système nerveux, brisant les certitudes rigides du self-concept.
 
-
-## --- Tranche 23 / 26 ---
+## Tranche 23 / 26 : Cartographie différentielle Connexion vs Déconnexion (Exercice 14-1)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 23/26.
 
@@ -3313,8 +3323,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Délivrance de la contrainte morale** (*"why not?"*) : autorise la conservation des comportements de défense s'ils procurent du plaisir.
   - **Suppression du prédicat d'obligation** (*"now that the 'having to' do them is gone"*) : ancre la disparition du devoir contraignant et transforme l'automatisme en jeu délibéré, altérant rétroactivement l'écologie du comportement sur autrui.
 
-
-## --- Tranche 24 / 26 ---
+## Tranche 24 / 26 : L'Aikido Mental & Rupture de Script Agressif & L'Aikido Mental & Non-Résistance Structurale
 
 Voici l'extraction intégrale, modélisée de manière purement opératoire, de la tranche 24/26 du séminaire et ouvrage *"Transforming Your Self"* de Steve Andreas.
 
@@ -3486,8 +3495,7 @@ Voici l'extraction intégrale, modélisée de manière purement opératoire, de 
 > "Milton Erickson often used to introduce people to hypnosis by reminding them of what it was like when they first learned the alphabet in grade school, sitting in those hard little desks in rows. Not even really knowing what letters are, seeing them up above the blackboard, or posted all around the room. Wondering why there are capital letters and small letters, and why some of them look so different from each other, even though it's the "same' letter, while other letters that are "different' look so much the same. 'Is a b an upside down p, or a backwards d-or is it an upside down and backwards q? Why doesn't a w actually sound like a double u? If a "silent e' is silent, why isn't it also invisible?' When you were learning these letters, and later learning how to put them together into words, and later sentences, you had no idea that you were laying the foundation for a skill that would later become totally unconscious."
 * **[Analyse du Pattern]** : **Induction par confusion et régression temporelle vers l'incompétence consciente dépassée**. La description kinesthésique concrète (*"sitting in those hard little desks"*) ancre le souvenir de l'enfance. Le paradoxe typographique sur les lettres (*b, p, d, q*) surcharge l'hémisphère analytique en reproduisant la confusion cognitive initiale de l'enfant. L'énoncé délivre ensuite la suggestion majeure : ce qui était jadis perçu comme arbitraire, lourd et conscient est aujourd'hui devenu une compétence neurologique entièrement automatisée et inconsciente, préfigurant l'intégration sans effort des processus de restructuration de l'auto-concept.
 
-
-## --- Tranche 25 / 26 ---
+## Tranche 25 / 26 : Protocole de Perspective Visuelle Simultanée (Démonstration Mike)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3643,8 +3651,7 @@ Voici l'extraction intégrale, modélisée de manière purement opératoire, de 
 
 * **[Analyse du Pattern] :** Utilisation d'une métaphore instrumentale sous-modalitaire croisée (synesthésie visuelle-auditive-kinesthésique). L'évocation du "Velcro" injecte une sous-modalité auditive précise ("that little sound that Velcro makes") qui active un ancrage de certitude kinesthésique d'adhérence ("know that they will stay put"). De plus, l'affirmation suivante prévient et normalise l'estompage des détails périphériques ("it will be a little harder to see the details... but you'll still know"), éliminant le doute cognitif avant même qu'il n'émerge.
 
-
-## --- Tranche 26 / 26 ---
+## Tranche 26 / 26 : McWhirter's Kinesthetic Perspective Pattern & Compartimentation et somatotopie des ressource...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3737,3 +3744,4 @@ Voici l'extraction intégrale, modélisée de manière purement opératoire, de 
 * **[Analyse du Pattern]** :  
   - *Commande d'intégration par subordination temporelle et permission* : La structure participiale d'ancrage continu ("keeping the feelings...") maintient la charge ressource active pendant qu'une tâche concurrente est introduite.  
   - L'adverbe temporel progressif ("After a little while") enclenche le processus inconscient à son propre rythme, tandis que le verbe permissif ("allow those resources to move... and blend") retire toute volonté forcée, laissant le lissage s'opérer de manière auto-organisée dans la neuro-musculature.
+

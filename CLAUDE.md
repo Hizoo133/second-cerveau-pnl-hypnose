@@ -6,6 +6,21 @@ Ce système est le résultat de l'extraction intégrale et non tronquée de **11
 
 ---
 
+## RÈGLES CRITIQUES DE SÉCURITÉ & DE FONCTIONNEMENT
+
+### 1. RÈGLE CRITIQUE D'UTILISATION DES CLÉS API
+- **Scripts d'extraction lourde uniquement :** L'usage de clés API externes (`GEMINI_API_KEY`, `OPENROUTER_API_KEY`, etc.) est autorisé **exclusivement** pour les scripts autonomes d'extraction batch de nouveaux cours volumineux (`scripts/02_extract_courses.py`).
+- **Formellement INTERDIT pour discuter ou pour toute autre tâche :** Il est STRICTEMENT INTERDIT d'appeler ou d'utiliser des clés API payantes pour converser, discuter avec l'utilisateur, réfléchir, explorer la base ou exécuter des tâches d'agent interactives. Toutes ces opérations passent à 100 % par l'environnement natif et le quota interne Antigravity (`agy`).
+
+### 2. RÈGLE DE LECTURE CHIRURGICALE SUR `01_fiches_cours/`
+- Les 113 fiches de cours font en moyenne 5 000 lignes (~400 Ko).
+- **Interdiction formelle de lire une fiche d'un seul bloc :** Ne fais JAMAIS un `read_file` complet ou aveugle d'une fiche de cours.
+- **Protocole obligatoire en 2 temps :**
+  1. Lis toujours d'abord les **150 premières lignes** (`StartLine: 1, EndLine: 150`) pour consulter la Synthèse Architecturale et le `## 0. Sommaire Sémantique & Index des Lignes`.
+  2. Lis ensuite **chirurgicalement** uniquement la plage de lignes exactes `[Lignes A-B]` correspondant à la tranche, au protocole ou au verbatim recherché.
+
+---
+
 ## 1. RÈGLE FONDAMENTALE : ANCRAGE STRICT DANS LE CORPUS
 - **Interdiction formelle de répondre avec de la PNL ou de l'hypnose de vulgarisation générique ou pré-entraînée.**
 - Toute affirmation, proposition technique, métaphore ou conseil de pratique **DOIT être sourcé et attribué** aux formateurs, cours et concepts réels de ce corpus (ex: *Igor Ledochowski*, *John Overdurf*, *Connirae Andreas*, *Steve Andreas*, *Richard Bandler*, *David Snyder*, *Kenrick Cleveland*, *Milton Erickson*, *Michael Breen*, *Doug O'Brien*, *Stephen Gilligan*, *Tad James*).
@@ -28,6 +43,11 @@ second-cerveau-pnl-hypnose/
 ├── 02_concepts/                     # Fiches transversales émergentes (pôles majeurs & signatures uniques)
 ├── 03_formateurs/                   # 43 Profils complets (philosophie, signatures, heuristiques, modèles)
 ├── 04_verbatim_scripts/             # Répertoires d'arsenal verbatim en V.O. avec [Analyse du Pattern]
+├── 05_mon_labo/                     # Atelier praticien : créations, hybridations et supervision
+│   ├── INDEX_LABO.md                # Guide de fonctionnement du laboratoire
+│   ├── protocoles_hybrides/         # Nouveaux protocoles nés du croisement des principes actifs
+│   ├── scripts_crees/               # Scripts hypnotiques, auto-hypnoses et métaphores rédigés
+│   └── journal_supervision/         # Débriefings de séances, calibrations et analyses d'échecs
 └── scripts/                         # Pipeline de maintenance, extraction, compilation et audit
 ```
 
@@ -45,10 +65,13 @@ Pour toute recherche, diagnostic ou génération, suis scrupuleusement cet ordre
    - Ouvre le profil du formateur dans [`03_formateurs/`](03_formateurs/) (ex: `john-overdurf.md`, `steve-andreas.md`, `david-snyder.md`) pour calibrer son style, ses heuristiques et ses angles d'attaque.
 
 3. **Plongée Opératoire & Verbatim :**
-   - Ouvre et inspecte les fiches maîtresses complètes dans [`01_fiches_cours/{course_id}.md`](01_fiches_cours/) pour obtenir les protocoles exacts pas à pas et les démonstrations réelles.
+   - Ouvre et inspecte les fiches maîtresses dans [`01_fiches_cours/{course_id}.md`](01_fiches_cours/) selon la règle des 150 premières lignes (Sommaire Sémantique & Index des Lignes), puis lis la plage de lignes ciblée.
    - Ouvre les répertoires dans [`04_verbatim_scripts/`](04_verbatim_scripts/) pour extraire des citations mot à mot en V.O., des boucles de suggestions ou des ruptures de pattern prêtes à l'emploi.
 
-4. **Vérification Contexte Intégral :**
+4. **Atelier Personnel :**
+   - Pour créer un protocole, rédiger un script ou documenter une séance, travaille directement dans [`05_mon_labo/`](05_mon_labo/).
+
+5. **Vérification Contexte Intégral :**
    - Ne consulte les fichiers de [`00_raw_txt/`](00_raw_txt/) que sur demande explicite pour vérifier le déroulé intégral d'une séance brute ou d'une anecdote longue.
 
 ---
@@ -60,17 +83,17 @@ Lorsque l'utilisateur préfixe sa demande par l'un de ces marqueurs, active le m
 ### `[LABO]` : Ingénierie & Hybridation de Protocoles
 - Déconstruis les principes actifs sous-jacents (neurologiques, linguistiques, somatiques, spatiaux) de deux ou plusieurs formateurs.
 - Isole les leviers mécaniques (ex: le fractionnement somatique d'Erickson + le jeu de sous-modalités de Bandler + le recadrage quantique d'Overdurf + la transmutation chromatique de Snyder).
-- Conçois une nouvelle technique ou un protocole hybride opérationnel étape par étape avec pré-talk, calibration et test d'écologie.
+- Conçois une nouvelle technique ou un protocole hybride opérationnel étape par étape avec pré-talk, calibration et test d'écologie, et enregistre-le dans `05_mon_labo/protocoles_hybrides/`.
 
 ### `[SCRIPT]` : Rédaction Hypnotique Haute Précision
 - Rédige des scripts hypnotiques, inductions, métaphores ou suggestions d'auto-hypnose en utilisant la syntaxe exacte des maîtres.
 - Intègre délibérément les marqueurs linguistiques du corpus : présuppositions empilées, doubles contraintes, truismes de ratification, ruptures de pattern et langage multi-niveaux.
-- Sous chaque section clé du script, annote entre crochets l'effet syntaxique visé : `[Effet : double contrainte temporelle]` ou `[Effet : rupture de synesthésie V-K]`.
+- Sous chaque section clé du script, annote entre crochets l'effet syntaxique visé : `[Effet : double contrainte temporelle]` ou `[Effet : rupture de synesthésie V-K]`, et sauvegarde dans `05_mon_labo/scripts_crees/`.
 
 ### `[SUPERVISION]` : Analyse de Cas Pratique & Diagnostic de Blocages
 - Évalue les situations vécues ou soumises par l'utilisateur à la lumière des heuristiques des 43 formateurs.
 - Formule le diagnostic en termes de structure et de processus (et non de contenu) : quelle règle conditionnelle a été manquée ? Quel signe de calibration a été ignoré ? Quel niveau d'intervention (environnement, capacité, croyance, identité, état source) est bloqué ?
-- Propose 2 à 3 contre-mesures chirurgicales testables immédiatement.
+- Propose 2 à 3 contre-mesures chirurgicales testables immédiatement, et documente dans `05_mon_labo/journal_supervision/`.
 
 ### `[PONTS]` : Alignement d'Ontologie & Comparaisons Transversales
 - Explore les convergences profondes et les divergences fertiles entre formateurs sur un thème donné (ex: comment Snyder aborde l'identité vs Steve Andreas vs Connirae Andreas).

@@ -67,10 +67,20 @@ Toutes les interventions et démonstrations du cours convergent vers une seule d
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 83-251]** : Le Recadrage de Dé-catastrophisation Probabiliste (Désamorçage du Stress d'Anticipation) — *Protocole :* Le Recadrage de Dé-catastrophisation Probabiliste (Désamorçage du Stress d'Anticipation) | *Mécanisme :* Attention Plène Socio-Cognitive vs Automatisme de Catégorisation | *Verbatim :* La Redéfinition Opératoire de la Présence
+- **Tranche 2 [Lignes 253-370]** : Le Décrochage de Catastrophe Professionnelle (Langer) — *Protocole :* Le Décrochage de Catastrophe Professionnelle (Langer) | *Verbatim :* La Parabole de la Justice Paradoxale
+- **Tranche 3 [Lignes 372-507]** : Recadrage de Décision par Alignement Axiologique (Values Card Sort) — *Protocole :* Recadrage de Décision par Alignement Axiologique (Values Card Sort) | *Mécanisme :* Le Découplage Émotion-Action par Ancrage Axiologique | *Verbatim :* La bascule de l'agilité émotionnelle
+- **Tranche 4 [Lignes 509-590]** : Le Recadrage de Désamorçage de Procrastination par Autocompassion Opératoire (Kristin Neff /... — *Protocole :* Le Recadrage de Désamorçage de Procrastination par Autocompassion Opératoire (Kristin Neff / Lieberman)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Le Recadrage de Dé-catastrophisation Probabiliste (Désamorçage du Stress d'Anticipation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -240,8 +250,7 @@ Toutes les interventions et démonstrations du cours convergent vers une seule d
   * **Séparation cause-effet stoïcienne** : Découplage linguistique strict entre l'événement (stimulus neutre) et la réaction somatique du sujet (*decorrente da forma como você enxerga*).
   * **Passage du binaire (Positif/Négatif) à l'espace multidimensionnel (A, B, C, D)** : Efface la charge affective de la perte pour transformer le réel en un ensemble d'itérations combinatoires équiprobables et exploitables.
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : Le Décrochage de Catastrophe Professionnelle (Langer)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -360,8 +369,7 @@ Toutes les interventions et démonstrations du cours convergent vers une seule d
 > *"Pode parecer brega, mas acredito totalmente nisto: a vida consiste apenas em momentos, nada mais do que isso. Assim, se você der importância ao momento, tudo vai importar. Você pode ser atenta ou não. Pode ganhar, pode perder. O pior caso é ser desatenta e perder."*
 * **[Analyse du Pattern]** : Réduction méréologique et matrice de décision radicale. En réduisant la complexité abstraite de "la vie" à une juxtaposition de micro-moments sensoriels discrets, le formateur élimine la rumination temporelle (passé/futur). Il pose ensuite un cadrage de gain/perte incontournable qui place la non-attention comme l'unique perte irréversible, agissant comme une puissante commande hypnotique finale d'éveil immédiat.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : Recadrage de Décision par Alignement Axiologique (Values Card Sort)
 
 > [!NOTE]
 > **Précision contextuelle d'ingénierie :** Cette tranche textuelle est issue de l'anthologie *HBR’s 10 Must Reads on Mindfulness* (compilation Harvard Business Review incluant Ellen Langer, Susan David, Dacher Keltner, Maria Gonzalez, Charlotte Lieberman). Le segment soumis comprend la fin du chapitre de Susan David & Christina Congleton (*Emotional Agility / Values*), l'intégralité du chapitre 6 de Dacher Keltner (*The Power Paradox*), l'intégralité du chapitre 7 de Maria Gonzalez (*Mindfulness for People Too Busy to Meditate*), et le début du chapitre 8 de Charlotte Lieberman (*McMindfulness vs Self-Compassion*). L'analyse ci-dessous extrait l'appareil opératoire pur et modélise les patterns psychologiques, somatiques et linguistiques présents dans cet échantillon.
@@ -498,8 +506,7 @@ Toutes les interventions et démonstrations du cours convergent vers une seule d
   * **Double interrogation rhétorique déstabilisatrice :** Utilisation de questions ouvertes pour briser le cadre utilitariste du sujet et faire imploser l'équivalence complexe [Pleine conscience = Outil de productivité].
   * **Contraste ontologique nominal :** Opposition radicale entre les nominalisations existentielles *"ser"* (l'état d'être, l'accueil inconditionnel de l'instant) et *"fazer"* (l'action instrumentale, la dépendance au résultat), provoquant un vide sémantique propice à la réévaluation des motivations profondes.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : Le Recadrage de Désamorçage de Procrastination par Autocompassion Opératoire (Kristin Neff /...
 
 Voici l'extraction et la modélisation opératoire intégrale de cette tranche (part0021 à fin), issue de l'anthologie *Mindfulness* (compilation Harvard Business Review incluant les travaux d'Ellen Langer, Charlotte Lieberman et David Brendel).
 
@@ -581,3 +588,4 @@ Voici l'extraction et la modélisation opératoire intégrale de cette tranche (
 
 > « A meditação da atenção plena deve ser usada sempre a serviço de melhorar, não substituir, os processos de pensamento racional e analítico... »
 * **[Analyse du Pattern]** : **Contraste de complémentarité modale (*Modality balancing*).** Verbe déontologique fort (« deve ser usada ») suivi de la paire d'opposition polarisée « a serviço de melhorar / não substituir ». Cette formulation prévient la dérive vers le bypass spirituel et réordonne la hiérarchie cognitive : l'état méditatif est l'infrastructure, l'analyse stratégique reste le processeur exécutif.
+

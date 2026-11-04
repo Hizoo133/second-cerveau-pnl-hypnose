@@ -89,10 +89,29 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 114-214]** : d'Élucidation des Récits Fondateurs (Get Your Story Straight) — *Protocole :* d'Élucidation des Récits Fondateurs (Get Your Story Straight) | *Verbatim :* La Métaphore Homologique de l'Hygiène
+- **Tranche 2 [Lignes 216-338]** : « Memory’s Favorite Memory » (Refonte Symbolique par Variations Itératives) — *Protocole :* « Memory’s Favorite Memory » (Refonte Symbolique par Variations Itératives) | *Mécanisme :* L’Architecture Symbolique de l’Identité (Symbol-Constellation Matrix) | *Verbatim :* La Distinction Fondatrice Événement vs Identité
+- **Tranche 3 [Lignes 340-507]** : Le Cadre Écologique Anti-Surcharge (Overwhelm Eraser) — *Protocole :* Le Cadre Écologique Anti-Surcharge (Overwhelm Eraser) | *Mécanisme :* Architecture du Renforcement par Micro-Momentum | *Verbatim :* La Métaphore de la Sculpture Continue
+- **Tranche 4 [Lignes 509-662]** : Dépollution Narratif par Rupture de Coût Irrécupérable (Story Scrapping Protocol) — *Protocole :* Dépollution Narratif par Rupture de Coût Irrécupérable (Story Scrapping Protocol) | *Mécanisme :* Le Recadrage du Biais des Coûts Irrécupérables appliqué aux Récits Internes | *Verbatim :* Pattern 1 : Présupposition d'Automatisation Inconsciente & Suggestion d'Éveil Somatique
+- **Tranche 5 [Lignes 664-757]** : Construction et Empilement d'une Ancre Ressource Multi-États (5 Étapes) — *Protocole :* Construction et Empilement d'une Ancre Ressource Multi-États (5 Étapes) | *Mécanisme :* Entropie de l'Ancrage et Règle d'Amortissement Kinesthésique | *Verbatim :* Brisure de l'objection d'anesthésie émotionnelle
+- **Tranche 6 [Lignes 759-911]** : Sortie de Transe et Réintégration Somatique Profonde (SRI Exit Phase) — *Protocole :* Sortie de Transe et Réintégration Somatique Profonde (SRI Exit Phase) | *Verbatim :* La réassociation somatique et métaphore de réincarnation
+- **Tranche 7 [Lignes 913-1057]** : Cartographie et Hiérarchisation Écologique des Valeurs (Life & Career) — *Protocole :* Cartographie et Hiérarchisation Écologique des Valeurs (Life & Career) | *Verbatim :* La Bascule Dissociative Délibérée
+- **Tranche 8 [Lignes 1059-1188]** : A : Audit et Conversion Pure des Valeurs (Away-From to Towards Alignment) — *Protocole :* A : Audit et Conversion Pure des Valeurs (Away-From to Towards Alignment) | *Mécanisme :* Levier de Direction Motivationnelle et Nettoyage Téléologique (Towards vs. Away-From Diagnostic) | *Verbatim :* La Transmutation d'Évitement en Attracteur Magnétique
+- **Tranche 9 [Lignes 1190-1326]** : Encodage de Réalité Simulée & Alignement de Valeurs (Simulated Reality Imprinting) — *Protocole :* Encodage de Réalité Simulée & Alignement de Valeurs (Simulated Reality Imprinting) | *Verbatim :* La Boucle d'Imbrication Temporelle et Amnésique
+- **Tranche 10 [Lignes 1328-1462]** : Démantèlement de la Peur par Rétractation et Distance (Exercise 2: Turning Down the Fear) — *Protocole :* Démantèlement de la Peur par Rétractation et Distance (Exercise 2: Turning Down the Fear) | *Verbatim :* Le Double Moteur Décisionnel (Recadrage de la Peur en Avantage Opérationnel)
+- **Tranche 11 [Lignes 1464-1674]** : A : DÉMANTÈLEMENT RÉCURSIF & SOUFFLAGE SUR LA TIMELINE (Transe de l'Arche) — *Protocole :* A : DÉMANTÈLEMENT RÉCURSIF & SOUFFLAGE SUR LA TIMELINE (Transe de l'Arche) | *Mécanisme :* Dégénérescence et Démantèlement Récursif de Stratégie Inopérante | *Verbatim :* Extrait 1 : Double Collapse et Élimination Récursive Instantanée
+- **Tranche 12 [Lignes 1676-1827]** : Le Processus d'Extension Identitaire & Nettoyage de Croyances (Cycle de 4 Mois) — *Protocole :* Le Processus d'Extension Identitaire & Nettoyage de Croyances (Cycle de 4 Mois) | *Mécanisme :* Le Recadrage Métacognitif de la Neuroplasticité | *Verbatim :* Suggestion Post-Hypnotique de Transmission et d'Ancrage Subconscient
+- **Tranche 13 [Lignes 1829-1935]** : L'Imprinting Planétaire & Scellement par Spirale Ascendante (Phase Finale d'Intégration) — *Protocole :* L'Imprinting Planétaire & Scellement par Spirale Ascendante (Phase Finale d'Intégration)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 13 ---
+## Tranche 1 / 13 : d'Élucidation des Récits Fondateurs (Get Your Story Straight)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -194,8 +213,7 @@ graph TD
 > "You know, when I was young, I went for a walk with my uncle out to a lake. Now, he was a philosopher. Now, stop. A walk, that's a symbol. Of what? Togetherness, closeness, exercise... To a lake. What is lake? A symbol of relaxation, nature... With my uncle. Uncle is family... He's a philosopher... symbol, what? Intelligence... Symbols are what we imbue meaning into... So you can think of stories like a constellation of symbols."
 - **[Analyse du Pattern]** : Rupture de pattern hypnotique par commande d'arrêt brusque (*"Now, stop"*), suivie d'un méta-commentaire déconstructiviste. Cleveland commence par installer une narration anecdotique classique pour capturer l'attention narrative, puis brise violemment la transe du récit pour forcer l'auditeur à monter d'un niveau logique : l'anecdote n'est pas une réalité, c'est une mosaïque sémantique arbitraire. Cette démonstration en direct apprend au système nerveux du praticien à segmenter le flux verbal en micro-unités de sens modifiables à volonté.
 
-
-## --- Tranche 2 / 13 ---
+## Tranche 2 / 13 : « Memory’s Favorite Memory » (Refonte Symbolique par Variations Itératives)
 
 Voici l’extraction intégrale et opératoire de la substance de la tranche 2/13.
 
@@ -319,8 +337,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 2/1
 > « But you know what? It isn't just make believe that I can imagine someone asking me to, I don't know, a much better job or a relationship... The answer is, it's only as make-believe as the meaning you've given to the symbols already. »
 * **[Analyse du Pattern]** : *Anticipation d'objection & Égalisation ontologique*. Cleveland verbalise la voix critique interne de l'auditeur avant qu'elle n'émerge, puis détruit l'objection par une équivalence complexe : *la nouvelle version n'est pas plus "inventée" que l'ancienne*. Il rétrograde le passé douloureux au statut de simple hallucination symbolique passée, retirant ainsi tout privilège de vérité au trauma d'origine.
 
-
-## --- Tranche 3 / 13 ---
+## Tranche 3 / 13 : Le Cadre Écologique Anti-Surcharge (Overwhelm Eraser)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (3/13).
 
@@ -489,8 +506,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « Because in reality, when you take an image and you make it anew and anew again and again and again, the fifth begins to make things so much more powerful that it's as if the other times begin to fade. Because the memory of the memory is more compelling, more enjoyable. »
 * **[Analyse du Pattern]** : Formalisation linguistique de la reconsolidation mémorielle. En introduisant le concept de « *memory of the memory* », l'opérateur crée une rupture épistémologique : le sujet comprend que le cerveau ne stocke pas la réalité historique mais la dernière version rappelée. L'effacement des versions antérieures (« *begin to fade* ») est présenté comme une conséquence neurologique mécanique du nombre de réitérations.
 
-
-## --- Tranche 4 / 13 ---
+## Tranche 4 / 13 : Dépollution Narratif par Rupture de Coût Irrécupérable (Story Scrapping Protocol)
 
 Voici l'extraction opératoire complète de la tranche 4/13, modélisée selon les règles strictes d'ingénierie et de modélisation PNL / hypnose.
 
@@ -645,8 +661,7 @@ Voici l'extraction opératoire complète de la tranche 4/13, modélisée selon l
   - *Passage au temps présent narratif et nominalisations kinésiques* : « you have this urge to step on the gas and go, and you do ». L'enchaînement de verbes d'action au présent force le cortex moteur à simuler la commande musculaire.
   - *Amplification kinesthésique ciblée* : L'accumulation « that urge, that push to move forward and to move [...] surge of adrenaline » convertit une métaphore de conduite en un patron neuro-végétatif pur d'action immédiate, court-circuitant le doute réflexif par la formule impérative internalisée : « I gotta go ».
 
-
-## --- Tranche 5 / 13 ---
+## Tranche 5 / 13 : Construction et Empilement d'une Ancre Ressource Multi-États (5 Étapes)
 
 Voici l'analyse modélisatrice opératoire de la tranche 5/13 de *Conquering Confidence* par Kenrick Cleveland.
 
@@ -741,8 +756,7 @@ Voici l'analyse modélisatrice opératoire de la tranche 5/13 de *Conquering Con
 > « And each one she begins to capture with her signals she's decided upon... And this continues movie after movie until all of your list has been added to the anchor. And even more profoundly each time you listen to this session. What an incredible feeling. She knows what she can do. »
 * **[Analyse du Pattern]** : **Glissement de personne (Switch pronominal Elle -> Vous) & Post-suggestion post-hypnotique**. Le récit passe subitement de la protagoniste (*"she begins to capture"*) au sujet lui-même (*"until all of your list has been added"*), sans transition logique. Ce saut syntaxique transfère instantanément l'apprentissage métaphorique au système neurologique réel de l'auditeur, verrouillé par une suggestion de cumul exponentiel à chaque écoute future (*"each time you listen"*).
 
-
-## --- Tranche 6 / 13 ---
+## Tranche 6 / 13 : Sortie de Transe et Réintégration Somatique Profonde (SRI Exit Phase)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -896,8 +910,7 @@ Voici l'analyse modélisatrice opératoire de la tranche 5/13 de *Conquering Con
   - *Recadrage sur le critère interne* : *"what I have set for myself"*. La référence d'arbitrage est ramenée à un standard interne non négociable plutôt qu'à un obstacle externe circonstanciel que l'autre pourrait proposer de contourner.
   - *Axiome de boucle fermée* : L'affirmation tautologique *"You don't owe anyone an explanation. You just simply don't"* détruit la présupposition culturelle acquise selon laquelle refuser sans raison détaillée constitue une faute morale.
 
-
-## --- Tranche 7 / 13 ---
+## Tranche 7 / 13 : Cartographie et Hiérarchisation Écologique des Valeurs (Life & Career)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1043,8 +1056,7 @@ Voici l'analyse modélisatrice opératoire de la tranche 5/13 de *Conquering Con
 * **[Analyse du Pattern] :**
   Déliement de culpabilité par attribution causale mécanique. En énonçant *« You will always do what it takes to prioritize... »*, il installe une loi déterministe qui décharge le sujet de l'étiquette morale d'« échec relationnel ». L'interrogation rhétorique *« Well, is it any wonder? »* agit comme une rupture d'illusion, transformant une apparente faiblesse psychologique en une simple conséquence logique et mécanique d'une hiérarchie inconsciente enfin rendue visible.
 
-
-## --- Tranche 8 / 13 ---
+## Tranche 8 / 13 : A : Audit et Conversion Pure des Valeurs (Away-From to Towards Alignment)
 
 Voici l'analyse opératoire intégrale de la tranche 8/13 de la formation *The Power Ark - Conquering Confidence* de Kenrick Cleveland.
 
@@ -1175,8 +1187,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/13 de la formation *The P
 > « And so your unconscious mind turns up its action on these stories. As you're going through the stories now to help you change, your unconscious fires off the anchor that you've developed, helping you to see these stories more positively, more effectively. And as that happens, the stories evolve as if they were made to change and evolve, giving you more stability, removing the neediness and enabling you to act under your own control in your real life outside of this session. »
 * **[Analyse du Pattern]** : Utilisation d'un pontage causal permanent (*« And so... As you're going... And as that happens... »*) qui lie le simple passage en revue mental du sujet à l'action autonome de son esprit inconscient (*« turns up its action »*, *« fires off the anchor »*). Cleveland introduit un postulat de plasticité naturelle fascinant avec la comparaison permissive *« as if they were made to change and evolve »*, ce qui élimine toute résistance psychologique : si les histoires étaient conçues pour muter, le changement n'est pas une violence faite à l'identité, mais l'accomplissement de leur nature. L'enchaînement se termine par une commande d'intégration post-hypnotique directe dans le monde réel (*« enabling you to act under your own control in your real life outside of this session »*).
 
-
-## --- Tranche 9 / 13 ---
+## Tranche 9 / 13 : Encodage de Réalité Simulée & Alignement de Valeurs (Simulated Reality Imprinting)
 
 Voici l'analyse opératoire intégrale de la tranche 9/13 du cours *"The Power Ark - Conquering Confidence"* par Kenrick Cleveland.
 
@@ -1314,8 +1325,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/13 du cours *"The Power A
   - **Démasquage de l'axiome comportemental erroné** (*« And then you act as if it's real »*) : isole l'erreur de calcul logique commise par le patient (réagir somatiquement à un mirage mental comme à un fauve prédateur).
   - **Ancrage culturel par distinction polarisée (Catchphrase Split)** (*« Is it real or is it Memorex? »*) : recours à un slogan d'impact mémoriel immédiat pour implanter une commande de discernement instantané, utilisable comme coupe-circuit cognitif face à toute montée d'angoisse future.
 
-
-## --- Tranche 10 / 13 ---
+## Tranche 10 / 13 : Démantèlement de la Peur par Rétractation et Distance (Exercise 2: Turning Down the Fear)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1451,8 +1461,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/13 du cours *"The Power A
 
 * **[Analyse du Pattern]** : Présupposition temporelle d'autonomie des processus inconscients (« takes on a life of its own »). Déclenchement d'une régression en chaîne spontanée sur la ligne du temps (« to another time before that time... again to a time before that »). Utilisation de l'onomatopée d'effondrement (« Boom! It's gone ») agissant comme une rupture kinesthésique nette. Passage fluide d'une dissociation d'observation externe (« watching it from the outside ») à une association identitaire totale par incorporation somatique immédiate (« You step in automatically and you feel a sense of joy and freedom radiating... »). Le lien métaphorique boucle la transe en miroir avec le début de la session (le reflet dans l'eau).
 
-
-## --- Tranche 11 / 13 ---
+## Tranche 11 / 13 : A : DÉMANTÈLEMENT RÉCURSIF & SOUFFLAGE SUR LA TIMELINE (Transe de l'Arche)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 11/13 du programme *The Power Ark - Conquering Confidence* de Kenrick Cleveland.
 
@@ -1664,8 +1673,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - *Transposition de la voix extérieure en dialogue interne permanent* (« my voice can go with you. Becoming the suggestions you need »).
   - *Installation d'un ancrage sonore post-hypnotique* qui garantit la persistance des apprentissages sans effort délibéré, la voix du formateur devenant le nouveau surmoi bienveillant et structurant du sujet.
 
-
-## --- Tranche 12 / 13 ---
+## Tranche 12 / 13 : Le Processus d'Extension Identitaire & Nettoyage de Croyances (Cycle de 4 Mois)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 12/13 du cours **"The Power Ark - Conquering Confidence"** dispensé par Kenrick Cleveland.
 
@@ -1818,8 +1826,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Désignation indirecte / Déplacement de la 3e personne :** L'usage de *"This one"* au lieu de *"You"* permet d'outrepasser le filtre critique du sujet qui pourrait rejeter un compliment direct trop frontal. Le sujet s'auto-attribue la projection flatteuse sans friction.
   - **Pont Somato-Neurologique (Bio-Feedback Guidé) :** La suggestion que *"something inside your very brain seems to move in agreement"* convertit une validation symbolique extérieure en une micro-sensation kinesthésique interne, immédiatement étiquetée comme une réorganisation physique neuronale (*"neurons reorganizing themselves"*).
 
-
-## --- Tranche 13 / 13 ---
+## Tranche 13 / 13 : L'Imprinting Planétaire & Scellement par Spirale Ascendante (Phase Finale d'Intégration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1926,3 +1933,4 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 
 > **"All of a sudden, you feel the straps on your wrists loosen. You stretch and think to yourself, what an incredible beginning to the new adventures that are coming right around the corner."**
 * **[Analyse du Pattern]** : Hallucination somatosensorielle positive de libération. La mention soudaine des « straps » qui se desserrent crée une focalisation kinesthésique vive sur les extrémités corporelles, immédiatement relayée par l'étirement physique et une projection vers l'avenir (future pace) teinté d'attente enthousiaste (*« new adventures right around the corner »*).
+

@@ -87,10 +87,48 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 131-246]** : Démonstration / Protocole : L'Interruption du Salutation (Handshake Interrupt) de Bandler — *Protocole :* Démonstration / Protocole : L'Interruption du Salutation (Handshake Interrupt) de Bandler | *Mécanisme :* Désamorçage de l'Attente Cognitive & Dé-sacralisation Radicale | *Verbatim :* Extrait 1 : Désamorçage de l'Autorité et de la Légitimité de la PNL
+- **Tranche 2 [Lignes 248-378]** : Désamorçage de l'Autorité Hostile ou Dogmatique par Hyper-Matérialisation Grotesque — *Protocole :* Désamorçage de l'Autorité Hostile ou Dogmatique par Hyper-Matérialisation Grotesque | *Mécanisme :* Réduction à l'absurde des hallucinations consensuelles / Dé-nomination des fétiches socio-religieux
+- **Tranche 3 [Lignes 380-497]** : Désamorçage Immédiat d'un Craving (Tabac / Compulsion) — *Protocole :* Désamorçage Immédiat d'un Craving (Tabac / Compulsion) | *Mécanisme :* Le « Blank » Syntaxique et la Fixation Attentionnelle Transdérivationnelle | *Verbatim :* La Commande d'Inconscience par Homophonie et Découpage Syntaxique
+- **Tranche 4 [Lignes 499-638]** : A : Extraction Dissociée de Données Traumatiques (Amnésie Protectrice & Écriture Inconsciente) — *Protocole :* A : Extraction Dissociée de Données Traumatiques (Amnésie Protectrice & Écriture Inconsciente) | *Verbatim :* Verbatim 1 : L'Inversion Épistémique et le Piège de la Certitude
+- **Tranche 5 [Lignes 640-767]** : L'Arrêt Éclair du Dialogue Interne et Déprogrammation de la Timidité — *Protocole :* L'Arrêt Éclair du Dialogue Interne et Déprogrammation de la Timidité
+- **Tranche 6 [Lignes 769-923]** : A : La Technique du Spin (Inversion de la Rotation de la Peur & Détermination) — *Protocole :* A : La Technique du Spin (Inversion de la Rotation de la Peur & Détermination) | *Verbatim :* Double contrainte métathérapeutique et méta-déni
+- **Tranche 7 [Lignes 925-1101]** : La Cure de Phobie & Démantèlement de Souvenir Traumatique (The Backwards Movie) — *Protocole :* La Cure de Phobie & Démantèlement de Souvenir Traumatique (The Backwards Movie) | *Mécanisme :* Le Rebobinage Neurologique et Aplatissement de la Charge Émotionnelle | *Verbatim :* Rupture d'illusion sur les critères de beauté et ancrage de contrôle
+- **Tranche 8 [Lignes 1103-1230]** : Le Filtre Décisionnel Spatial DHE (The Spatial Decision Sieve) — *Protocole :* Le Filtre Décisionnel Spatial DHE (The Spatial Decision Sieve) | *Mécanisme :* Encodage Spatial Différentiel des Décisions (Spatial Decision Submodalities) | *Verbatim :* Verbatim 1 : L'Interruption du Pattern de Justification de l'Inaction
+- **Tranche 9 [Lignes 1232-1370]** : Le Folioscope de la Compétence Rapide (High-Speed Pattern Ingestion) — *Protocole :* Le Folioscope de la Compétence Rapide (High-Speed Pattern Ingestion) | *Verbatim :* Verbatim 1 : L'Injonction Brutale au Tri Positif Direct
+- **Tranche 10 [Lignes 1372-1505]** : Alignement Spatial de l'Inévitable et du Désiré (The Inevitability Overlap) — *Protocole :* Alignement Spatial de l'Inévitable et du Désiré (The Inevitability Overlap) | *Mécanisme :* Encodage Spatial de la Certitude vs Désir Déconnecté (Spatial Timeline Intersection) | *Verbatim :* La Double Négation Inductive & Désorientation Sémantique
+- **Tranche 11 [Lignes 1507-1697]** : A : Programmation Métabolique & Rémission Spontanée Nocturne (Horloge Inconsciente) — *Protocole :* A : Programmation Métabolique & Rémission Spontanée Nocturne (Horloge Inconsciente) | *Mécanisme :* Le Brouillage Psychique Spatial & Vectoriel | *Verbatim :* Recadrage Provocateur de la Relation Thérapeutique
+- **Tranche 12 [Lignes 1699-1841]** : « Le Compulseur de Motivation DHE » (Démonstration sur Benjamin) — *Protocole :* « Le Compulseur de Motivation DHE » (Démonstration sur Benjamin) | *Mécanisme :* Accélération de Boucle Kinesthésique (Kinesthetic Spin & Velocity Acceleration) | *Verbatim :* L'Accélération et la Greffe Subconsciente
+- **Tranche 13 [Lignes 1843-1960]** : Inversion et Décharge du Doute par Amplification (The Reverse-Spin Doubt Protocol) — *Protocole :* Inversion et Décharge du Doute par Amplification (The Reverse-Spin Doubt Protocol) | *Verbatim :* La Double Contrainte de l'Attente Temporelle
+- **Tranche 14 [Lignes 1962-2078]** : Désamorçage Immédiat de la Fausse Double-Contrainte Relationnelle (The "Rhetorical Trap" Pro... — *Protocole :* Désamorçage Immédiat de la Fausse Double-Contrainte Relationnelle (The "Rhetorical Trap" Protocol) | *Mécanisme :* Relativisation de l'Index Référentiel et Dissolution Contexte/Sujet | *Verbatim :* La Bascule de l'Index Référentiel chez Erickson
+- **Tranche 15 [Lignes 2080-2177]** : Le Banc d'Essai d'Ingénierie Mentale (Modélisation Tesla) — *Protocole :* Le Banc d'Essai d'Ingénierie Mentale (Modélisation Tesla) | *Verbatim :* Pattern 1 : Le Verrouillage de la Décision par Truisme Visuel et Glissement Spatial
+- **Tranche 16 [Lignes 2179-2313]** : Le Dégrisement d'Urgence par Saturation Absurde & Pacing de Survie — *Protocole :* Le Dégrisement d'Urgence par Saturation Absurde & Pacing de Survie
+- **Tranche 17 [Lignes 2315-2432]** : A : Installation du Tableau de Bord DHE & Bouton d'Amplification ("The Velvet Double-It Butt... — *Protocole :* A : Installation du Tableau de Bord DHE & Bouton d'Amplification ("The Velvet Double-It Button") | *Mécanisme :* Le Tableau de Bord Kinesthésique Interne (DHE Control Panel & Feedback Amplification) | *Verbatim :* Verbatim : La Rupture Impertinente de l'Accord Social
+- **Tranche 18 [Lignes 2434-2573]** : Induction de Régression Biologique & Restauration Cellulaire — *Protocole :* Induction de Régression Biologique & Restauration Cellulaire | *Mécanisme :* Le Leading Directif vs Le "Pacing" Dogmatique (antipacing rapportinversion directcommandinduction) | *Verbatim :* La Directive d'Inversion et Déconstruction du Pacing
+- **Tranche 19 [Lignes 2575-2692]** : L'Auto-Reprogrammation Métabolique et de Rémission Spontanée Nocturne — *Protocole :* L'Auto-Reprogrammation Métabolique et de Rémission Spontanée Nocturne | *Mécanisme :* Le Levier de l'Interférence Télépathique / Résonance Synesthésique Émettrice | *Verbatim :* Le Double-Lien d'Impossibilité du Mal-Être
+- **Tranche 20 [Lignes 2694-2841]** : La Machine DHE d'Arbitrage et d'Assimilation Cognitive (Confusion $\rightarrow$ Compréhension) — *Protocole :* La Machine DHE d'Arbitrage et d'Assimilation Cognitive (Confusion $\rightarrow$ Compréhension)
+- **Tranche 21 [Lignes 2843-2943]** : Intégration du Sélecteur d'États Psychoactifs Endogènes (DHE Drug Dial) — *Protocole :* Intégration du Sélecteur d'États Psychoactifs Endogènes (DHE Drug Dial) | *Mécanisme :* Paradoxe de Neutralisation par Contre-Conditionnement Symétrique | *Verbatim :* Le Choix Forcé par Destruction Symétrique
+- **Tranche 22 [Lignes 2945-3086]** : Recréation Somatosensorielle d'un État Chimique / Anesthésique (The 5-Location Drug Loop) — *Protocole :* Recréation Somatosensorielle d'un État Chimique / Anesthésique (The 5-Location Drug Loop) | *Mécanisme :* Le Moteur Séquentiel Somatosensoriel (Endogenous Pharmacopoeia / Drug State Re-access) | *Verbatim :* Extrait 1 : L'installation de la boucle de re-sensation pharmacologique
+- **Tranche 23 [Lignes 3088-3224]** : Recréation Endogène d'États Neurochimiques & Double Ancre Somatique — *Protocole :* Recréation Endogène d'États Neurochimiques & Double Ancre Somatique
+- **Tranche 24 [Lignes 3226-3396]** : Le Flash d'Effacement Visuel (The Submodality Whiteout Protocol) — *Protocole :* Le Flash d'Effacement Visuel (The Submodality Whiteout Protocol) | *Verbatim :* Le Double Lien Hypnotique de la Convalescence Involontaire
+- **Tranche 25 [Lignes 3398-3519]** : Protocole Flash de Guérison des Phobies (Fast Phobia Cure / VKD) — *Protocole :* Protocole Flash de Guérison des Phobies (Fast Phobia Cure / VKD) | *Mécanisme :* Le Paradoxe Kinésthésique / Exagération Neuro-Musculaire (Principe de Feldenkrais) | *Verbatim :* La rupture d'escalade panique
+- **Tranche 26 [Lignes 3521-3653]** : Désamorçage Éclair d'une Transe Morbide et de Douleur Intractable — *Protocole :* Désamorçage Éclair d'une Transe Morbide et de Douleur Intractable | *Mécanisme :* Disruption Thalamique & Choc Réticulaire par Rupture Brutale de Rôle | *Verbatim :* La Transmutation Kinesthésique de la Brûlure en Énergie
+- **Tranche 27 [Lignes 3655-3807]** : Projection Émotionnelle Directe ("Throwing Thunderbolts") — *Protocole :* Projection Émotionnelle Directe ("Throwing Thunderbolts") | *Verbatim :* Séquence d'amplification sous-modale et de rotation kinesthésique
+- **Tranche 28 [Lignes 3809-3934]** : Désamorçage Éclair Phobie / Blocage par Rupture d'Identité Comique — *Protocole :* Désamorçage Éclair Phobie / Blocage par Rupture d'Identité Comique | *Verbatim :* Élicitation saturée d'excitation motrice
+- **Tranche 29 [Lignes 3936-4093]** : A : Installation d'un Désir Irrésistible sur une Hésitation (Démonstration du Chocolat / Com... — *Protocole :* A : Installation d'un Désir Irrésistible sur une Hésitation (Démonstration du Chocolat / Compulsion Transfer) | *Verbatim :* Rupture du mythe des profondeurs et redéfinition de l'identité
+- **Tranche 30 [Lignes 4095-4297]** : Le Vendeur Irrésistible (Transfert Spatial d'Appétence DHE) — *Protocole :* Le Vendeur Irrésistible (Transfert Spatial d'Appétence DHE)
+- **Tranche 31 [Lignes 4299-4407]** : Désamorçage Catastrophique par Amplification Extrême (Catastrophic Overdo Protocol) — *Protocole :* Désamorçage Catastrophique par Amplification Extrême (Catastrophic Overdo Protocol) | *Verbatim :* Verbatim 1 : L'Instruction d'Isolation Idéomotrice
+- **Tranche 32 [Lignes 4409-4565]** : Réveil en Hyper-Alerte Sensorielle et Vitalité Exponentielle — *Protocole :* Réveil en Hyper-Alerte Sensorielle et Vitalité Exponentielle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 32 ---
+## Tranche 1 / 32 : Démonstration / Protocole : L'Interruption du Salutation (Handshake Interrupt) de Bandler
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 1/32 de *Design Human Engineering (DHE 12 CDs)* par Richard Bandler.
 
@@ -207,8 +245,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 1/32 de *
   * **Démystification par dérision onomatopéique :** Réduire un protocole complexe en 6 étapes à un simple *"blah blah blah blah"* efface la valeur rituelle de la technique au profit de son intention brute.
   * **Mise en lumière du paradoxe logique (Double Bind critique) :** Bandler isole l'incohérence des thérapeutes institutionnels : affirmer simultanément que l'hypnose est « mauvaise » (danger moral) et qu'elle « n'existe pas » (inexistence matérielle). En pointant ce non-sens avec le mot *"stupid"*, il libère l'audience des interdits thérapeutiques classiques.
 
-
-## --- Tranche 2 / 32 ---
+## Tranche 2 / 32 : Désamorçage de l'Autorité Hostile ou Dogmatique par Hyper-Matérialisation Grotesque
 
 Voici l'extraction opératoire intégrale de la tranche 2/32 de la transcription du séminaire *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -340,8 +377,7 @@ Voici l'extraction opératoire intégrale de la tranche 2/32 de la transcription
   * **[Analyse du Pattern]** :  
     *Rupture de syntaxe (Sentence Fragment) & Création d'un vide transdérivatif*. La séquence *« watch how Mondays face »* ou *« watch how the tablecloth »* viole la structure grammaticale attendue (sujet + verbe + complément). L'absence délibérée de prédicat fige le processeur linguistique de l'interlocuteur dans une recherche d'achèvement (*closure*). Le signal d'arrêt abrupt force le système nerveux à basculer instantanément en écoute interne réceptive.
 
-
-## --- Tranche 3 / 32 ---
+## Tranche 3 / 32 : Désamorçage Immédiat d'un Craving (Tabac / Compulsion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -460,8 +496,7 @@ Voici l'extraction opératoire intégrale de la tranche 2/32 de la transcription
   * Jeux de mots satirique et provocateur sur l'étiquette (« *therapist* » transformé en « *the rapist* »), induisant une rupture immédiate de respectabilité pour la thérapie classique.
   * Démasquage méta-linguistique de la question en boucle (« *How do you feel about that?* ») démontrant qu'elle ne constitue pas un outil de changement mais une boucle d'attente passive révélant l'incompétence structurelle du praticien face au traitement du processus neurologique.
 
-
-## --- Tranche 4 / 32 ---
+## Tranche 4 / 32 : A : Extraction Dissociée de Données Traumatiques (Amnésie Protectrice & Écriture Inconsciente)
 
 Voici l'analyse opératoire intégrale de la tranche 4/32 de la transcription brute du cours *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -602,8 +637,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/32 de la transcription br
   2. *Déclencheur kinesthésique/auditif inévitable* (*« when you hit that zipper, every time you pull it down »*) : Utilise une action physique réflexe et non négociable comme stimulateur contextuel.
   3. *Commande auditive enchâssée impérative* (*« I want you to hear, turn it up »*) : Greffe directement l'instruction sous forme d'hallucination auditive interne liée à l'amplification d'état, transformant un geste d'élimination somatique trivial en un levier d'expansion neurochimique.
 
-
-## --- Tranche 5 / 32 ---
+## Tranche 5 / 32 : L'Arrêt Éclair du Dialogue Interne et Déprogrammation de la Timidité
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -732,8 +766,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/32 de la transcription br
 > **« Your doctor believes that being stuck at the breastfeeding developmental stage makes this sound something that when you hear it, you will have fear. That's right. »**
 * **[Analyse du Pattern]** : Suggestion hypnotique indirecte par contagion spatiale (*Trance Bleed*). Tout en ayant l'air de décrire la théorie du psychiatre, Bandler structure la phrase comme une commande directe de cause à effet : [entendre ce son = ressentir la peur]. En regardant les médecins tout en ratifiant (*« That's right »*), il installe le pattern phobique directement chez les observateurs sceptiques.
 
-
-## --- Tranche 6 / 32 ---
+## Tranche 6 / 32 : A : La Technique du Spin (Inversion de la Rotation de la Peur & Détermination)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -889,8 +922,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/32 de la transcription br
   - *Prise au mot ultra-littérale (Literal De-nominalization) :* L'expression abstraite « perdre du poids » (*lose 40 pounds*) est traitée au premier degré physique le plus brutal (amputation à la hache). Cela pulvérise instantanément la structure linguistique défensive du client.
   - *Démantèlement de l'équivalence complexe fallacieuse :* Bandler attaque frontalement la fausse équation « Perte de poids = Bonheur » pour la recadrer en « Perte de poids par privation = Mauvaise humeur » (*cranky*), forçant le sujet à réévaluer sa véritable stratégie de plaisir.
 
-
-## --- Tranche 7 / 32 ---
+## Tranche 7 / 32 : La Cure de Phobie & Démantèlement de Souvenir Traumatique (The Backwards Movie)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 7/32 de la formation *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -1068,8 +1100,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Rupture linguistique brutale :** Utilisation du juron comme électrochoc auditif (*shut the fuck up*) qui interrompt net la rumination interne.
   - **Double dénégation / Boucle autoréférentielle :** En affirmant que « l'hypnose n'existe pas » et que « les suggestions post-hypnotiques n'existent pas », Bandler contourne toute résistance analytique : le sujet ne peut pas résister à une suggestion qui prétend ne pas exister, ce qui l'implante d'autant plus profondément au niveau inconscient.
 
-
-## --- Tranche 8 / 32 ---
+## Tranche 8 / 32 : Le Filtre Décisionnel Spatial DHE (The Spatial Decision Sieve)
 
 Voici l'extraction et la modélisation intégrale de la **tranche 8/32** du séminaire *Design Human Engineering (DHE)* de Richard Bandler, structurée selon les exigences strictes d'ingénierie opératoire.
 
@@ -1198,8 +1229,7 @@ Voici l'extraction et la modélisation intégrale de la **tranche 8/32** du sém
   * **Ancrage temporel et spatial sur un seuil inévitable :** Lie le déclenchement de la transe au fait physique incontournable de franchir la porte (*"wait till you walk out of this room"*).
   * **Présupposition d'irrévocabilité absolue :** *"Basically, what I'm telling you is it's too late."* Verrouille l'acceptation inconsciente des changements profonds, interdisant tout retour en arrière analytique pendant la pause.
 
-
-## --- Tranche 9 / 32 ---
+## Tranche 9 / 32 : Le Folioscope de la Compétence Rapide (High-Speed Pattern Ingestion)
 
 Voici l'analyse opératoire intégrale de la tranche 9/32 du séminaire *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -1339,8 +1369,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/32 du séminaire *Design 
 * **[Analyse du Pattern] :**  
   * **Ambiguïté phonétique interlinguale et neutralisation du surmoi moral :** Bandler exploite l'homophonie entre le mot anglais *"sin"* (péché/faute morale) et l'expression gaélique *"Sinn"* (nous-mêmes). En ordonnant de manière répétée à un niveau d'écoute hypnotique *"go forth and sin"* sous couvert d'un fait linguistique exotique, il injecte une commande d'émancipation et de transgression des interdits culpabilisants directement dans l'inconscient du groupe, tout en conservant une dénégation plausible totale au niveau conscient.
 
-
-## --- Tranche 10 / 32 ---
+## Tranche 10 / 32 : Alignement Spatial de l'Inévitable et du Désiré (The Inevitability Overlap)
 
 Voici l’analyse chirurgicale et opératoire de la tranche 10/32 du cours **Design Human Engineering (DHE)** par Richard Bandler.
 
@@ -1475,8 +1504,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/32 du cours **Des
 * **[Analyse du Pattern] :**
   Mise en lumière et **démystification par l'absurde des boucles méta-réflexives**. En utilisant l'expression nominalisée dérivée *« meta bad »*, Bandler expose le mécanisme d'amplification névrotique causé par la psychologie moralisatrice (stratification de la culpabilité sur la culpabilité). Il utilise une satire parodique de la voix du thérapeute traditionnel (*« my wise and intelligent information »*) pour provoquer un rire libérateur (choc de recadrage), libérant le sujet du piège de l'auto-jugement réflexif.
 
-
-## --- Tranche 11 / 32 ---
+## Tranche 11 / 32 : A : Programmation Métabolique & Rémission Spontanée Nocturne (Horloge Inconsciente)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 11/32 de la transcription de *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -1668,8 +1696,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   * Commande récursive d'amplification mathématique (*"times two, times two, times two"*), qui reprogramme la réponse dopaminergique en chaîne fermée.
   * Test provocateur immédiat (*"Are you sure?"*) pour calibrer la solidité de l'état sans laisser de place au doute conscient.
 
-
-## --- Tranche 12 / 32 ---
+## Tranche 12 / 32 : « Le Compulseur de Motivation DHE » (Démonstration sur Benjamin)
 
 Voici l'analyse opératoire intégrale de la tranche 12/32 du cours *Design Human Engineering (DHE)* de Richard Bandler.
 
@@ -1813,8 +1840,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/32 du cours *Design Huma
   - **Verbe d'impact kinesthésique :** L'usage du verbe moteur *« explode into your day »* détruit l'inertie habituelle du réveil.
   - **Questions présuppositionnelles orientées vers l'avant :** L'usage de clauses ouvertes de recherche (*wondering how much you can learn, how much fun you can have, where are all the opportunities that you used to miss*) force l'orientation attentionnelle de l'inconscient dès l'état hypnopompique sur la détection active d'opportunités ignorées par le passé.
 
-
-## --- Tranche 13 / 32 ---
+## Tranche 13 / 32 : Inversion et Décharge du Doute par Amplification (The Reverse-Spin Doubt Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1933,8 +1959,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/32 du cours *Design Huma
   - *Glissement de portée pronominale (Pronoun Shift)* : L'utilisation intentionnelle de "them" au lieu de "her" crée une anomalie de référence syntaxique.  
   - *Commande hypnotique trans-contextuelle* : En décrivant au passé ce qu'il racontait à propos d'une tierce personne, l'opérateur adresse en réalité un ordre direct ("go into a deep trance") aux observateurs qui croyaient analyser un cas clinique, contournant totalement leur esprit critique.
 
-
-## --- Tranche 14 / 32 ---
+## Tranche 14 / 32 : Désamorçage Immédiat de la Fausse Double-Contrainte Relationnelle (The "Rhetorical Trap" Pro...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 14/32 du cours DHE de Richard Bandler.
 
@@ -2052,8 +2077,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 14/32 du
   - Le mot passerelle somatique (*"It makes me dizzy"*) agit comme une commande de vertige induit par résonance kinesthésique.
   - La description de mouvements orthogonaux contradictoires (rotation terrestre sur un axe vs rotation des champs magnétiques sur un autre axe) surcharge le cortex pariétal responsable de l'orientation spatiale, ouvrant une fenêtre idéale d'amnésie et de plasticité hypnotique.
 
-
-## --- Tranche 15 / 32 ---
+## Tranche 15 / 32 : Le Banc d'Essai d'Ingénierie Mentale (Modélisation Tesla)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2152,8 +2176,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 14/32 du
 ```
 * **[Analyse du Pattern]** : Effondrement d'ancrage identitaire par greffe sous-modalitaire grotesque. Bandler détruit le cadre du criminel macho (« *tough guy* ») en lui superposant l'imagerie sensorielle kitchissime du tutu rose, des chaussons de danse et du voile de mousseline. En modifiant les sous-modalités visuelles et kinesthésiques de l'environnement carcéral (transformer la musculation en cours de ballet et diffuser *Le Lac des Cygnes* sur le canal du quartier), il rend l'identité de gangster totalement incompatible avec la posture physique requise pour commettre un braquage armé.
 
-
-## --- Tranche 16 / 32 ---
+## Tranche 16 / 32 : Le Dégrisement d'Urgence par Saturation Absurde & Pacing de Survie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2289,8 +2312,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 14/32 du
 ```
 * **[Analyse du Pattern]** : **Boucle d'Amplification Logarithmique et Commande Enchâssée de Vélocité Neurologique**. Utilisation d'un rythme staccato avec des ordres d'échelle sous-modale démultipliée (*« double the size... and double... and double it again »*). Le recadrage humoristique par le truisme physiologique (*« check your fucking pulse »*) élimine le droit à l'échec tout en présupposant que la réponse somatique a DÉJÀ eu lieu. L'injonction absolue de vélocité (*« You cannot do this slowly »*) contourne l'esprit critique néocortical.
 
-
-## --- Tranche 17 / 32 ---
+## Tranche 17 / 32 : A : Installation du Tableau de Bord DHE & Bouton d'Amplification ("The Velvet Double-It Butt...
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 17/32 de la formation *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -2409,8 +2431,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 17/32 de
 > "You want to teach somebody to go into a trance? Guess how you do it? You just go. Go ahead, fight me, I love it. The more they fight, the deeper they go. Goodbye. Close your eyes and feel really wonderful. Because that's what I do to people. I make them feel good against their will. I make it so that suddenly this tingling sensation that's starting in your cheeks and spreading around your face is going to begin to spread all over your body and fill your cells with oxygen. And suddenly in the back of your mind, a clock is going to begin to tick backwards."
 * **[Analyse du Pattern]** : Paradoxe d'absorption de la résistance (*"The more they fight, the deeper they go"* : toute velléité d'opposition est requalifiée en carburant hypnotique). Rupture relationnelle abrupte (*"Goodbye"*), suivie de la prise de possession sensorielle de l'autre (*"I make them feel good against their will"*). Description au présent indicatif de sensations physiologiques inévitables (*"tingling sensation starting in your cheeks"*, induite par l'attention focalisée) couplée à une commande de régression/distorsion temporelle involontaire (*"a clock is going to begin to tick backwards"*), dissolvant les repères chronologiques habituels de veille.
 
-
-## --- Tranche 18 / 32 ---
+## Tranche 18 / 32 : Induction de Régression Biologique & Restauration Cellulaire
 
 Voici l’extraction opératoire intégrale de la tranche 18/32 du séminaire *Design Human Engineering (DHE)* de Richard Bandler.
 
@@ -2551,8 +2572,7 @@ Voici l’extraction opératoire intégrale de la tranche 18/32 du séminaire *D
   - **Règle posturale d'effacement du praticien** : « *Don't sit right in front of them... you'll be in the way.* » Recadrage fondamental montrant que l'espace projectif entre le sujet et l'environnement n'est pas vide mais occupé par des structures cognitives réelles.
   - **Recadrage ontologique radical** : « *People don't do their thinking in their head, they kind of do it outside.* » Sortie du paradigme computationnel classique intériorisé au profit d'une cognition spatiale externalisée directement calibrable et manipulable par l'observateur.
 
-
-## --- Tranche 19 / 32 ---
+## Tranche 19 / 32 : L'Auto-Reprogrammation Métabolique et de Rémission Spontanée Nocturne
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche de formation DHE (CD 7 fin & CD 8 début).
 
@@ -2671,8 +2691,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : Utilisation d'une structure de travail sans contenu (*content-free therapy* : *"They don't even have to tell you what it is"*), ce qui évite toute intellectualisation ou justification du problème. Bandler emploie des ancres spatiales directes couplées à des déictiques (*"over here"*, *"over there"*), imposant l'idée que la confusion et la compréhension sont des coordonnées géographiques dans le champ visuel. L'expression décontractée (*"blah, blah, blah"*, *"whatever it is"*) dépouille le processus de tout sérieux mystique, rendant la transition finale (*"piece by piece make it so that it's just like understanding"*) perçue comme un jeu d'assemblage mécanique enfantin et inévitable.
 
-
-## --- Tranche 20 / 32 ---
+## Tranche 20 / 32 : La Machine DHE d'Arbitrage et d'Assimilation Cognitive (Confusion $\rightarrow$ Compréhension)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2821,8 +2840,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
     - **Recadrage de la certitude en déclencheur de curiosité** (*"every time you get certain... back up and know more"*), convertissant l'état de rigidité dogmatique en point d'ancrage d'expansion de conscience.
     - **Pont temporel d'éveil positif** (*"you'll wake up with all kinds of wild and great ideas"*), installant une attente passive et joyeuse de résultats tangibles dès le réveil.
 
-
-## --- Tranche 21 / 32 ---
+## Tranche 21 / 32 : Intégration du Sélecteur d'États Psychoactifs Endogènes (DHE Drug Dial)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2924,8 +2942,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > *"The reason they give it to you before you get a root canal is it doesn't really get rid of the pain, but it makes it so you really don't give a fuck."*
 * **[Analyse du Pattern] :** Recadrage pragmatique par déflation de l'enjeu. Bandler dissocie la sensation sensorielle brute (la douleur) de son évaluation cognitive et émotionnelle (l'importance qu'on lui accorde), posant la métacognition du détachement comme l'état ressource ultime.
 
-
-## --- Tranche 22 / 32 ---
+## Tranche 22 / 32 : Recréation Somatosensorielle d'un État Chimique / Anesthésique (The 5-Location Drug Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3068,8 +3085,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Empilement kinesthésique rapide ("Feel the breathing, feel the thing, feel the sensations...") :** Matraquage kinesthésique à rythme soutenu forçant la focalisation interne sans laisser de temps au traitement logique.
   - **Questions d'accès mnésique à présupposition de fait ("You remember that special tingling...?") :** L'usage de *remember* présuppose que le picotement, les frissons et le goût existent déjà dans le corps du sujet au moment où il entend la phrase, matérialisant immédiatement l'état halluciné/somatique.
 
-
-## --- Tranche 23 / 32 ---
+## Tranche 23 / 32 : Recréation Endogène d'États Neurochimiques & Double Ancre Somatique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3207,8 +3223,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   > "I pull it out and I look at them and when I do, they become very afraid, not because I'm angry, because I breathe at the same rate and go into a wanton state of fear. So they become afraid, and I anchor it and amplify it, and go BOOM, and they go AHH and run away. Hey, you want to get somebody in a state? Go there first."
   * [Analyse du Pattern] : **Modélisation de contagion somatique et ancrage kinesthésique d'effroi**. Description explicite de synchronisation respiratoire isopratique inversée : en calquant le rythme respiratoire de l'adversaire et en simulant une folie terrifiante, le praticien transfère l'état panique par résonance somatique, l'ancre par une rupture acoustique brutale (*"BOOM"*), concluant par l'axiome fondamental de l'hypnose d'impact : *"Go there first"*.
 
-
-## --- Tranche 24 / 32 ---
+## Tranche 24 / 32 : Le Flash d'Effacement Visuel (The Submodality Whiteout Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3380,8 +3395,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Répétition incantatoire en rythme ternaire** : « *Just remit it, remit it, remit it, give in.* » Rythme d'entraînement hypnotique conduisant à la reddition du contrôle conscient (*give in*).
   - **Fractionnement et recadrage du souci** : « *I've spent years worrying, and I'm worried now because I may forget.* » La dynamique compulsive de l'inquiétude est récupérée et attachée à l'idée d'oublier l'ancien problème, garantissant l'amnésie post-hypnotique du trouble.
 
-
-## --- Tranche 25 / 32 ---
+## Tranche 25 / 32 : Protocole Flash de Guérison des Phobies (Fast Phobia Cure / VKD)
 
 Voici l'analyse opératoire intégrale de la tranche 25/32 de la transcription de *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -3504,8 +3518,7 @@ Voici l'analyse opératoire intégrale de la tranche 25/32 de la transcription d
 > "Ma'am, gentlemen prefer women with gray hair or silver hair. But either way, they do prefer women that have a brain."
 * **[Analyse du Pattern]** : **Recadrage de critère par substitution de prémisse.** L'interlocutrice posait une alternative basée sur l'apparence physique superficielle (*blondes vs brunes*). O'Toole déplace le critère d'évaluation vers l'âge/maturité (*"gray hair or silver hair"*), puis opère un basculement logique foudroyant sur la capacité intellectuelle (*"women that have a brain"*), provoquant une sidération totale et l'extinction du comportement parasite de l'intervieweuse.
 
-
-## --- Tranche 26 / 32 ---
+## Tranche 26 / 32 : Désamorçage Éclair d'une Transe Morbide et de Douleur Intractable
 
 Voici l'analyse modélisatrice et opératoire de la tranche 26/32 de la formation *Design Human Engineering (DHE)* par Richard Bandler.
 
@@ -3639,8 +3652,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 26/32 de la formatio
   - **Modélisation proprioceptive sous-modalitaire :** Réduction de l'état panique à une mécanique kinesthésique vectorielle (*"which way the fear was moving"*).
   - **Commande d'inversion somatosensorielle directe :** Présuppose que la simple inversion mécanique de la boucle directionnelle du ressenti éteint instantanément l'affect toxique.
 
-
-## --- Tranche 27 / 32 ---
+## Tranche 27 / 32 : Projection Émotionnelle Directe ("Throwing Thunderbolts")
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 27/32 du cours *Design Human Engineering (DHE 12 CDs)* dispensé par Richard Bandler.
 
@@ -3794,8 +3806,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 27/32 du 
   - *Suggestion post-hypnotique d'ajustement du seuil* : La structure syntaxique lie le départ temporel futur (*"when you leave here"*) à une redéfinition permanente de la norme émotionnelle inconsciente (*"make them the bottom line for what you're willing to feel in the future"*).
   - *Argument d'incarnation par autorité directe* : Clôture par un truisme d'existence personnelle absolue (*"Believe me, I know. I live this way"*) qui élimine le doute quant à la faisabilité neurologique de l'opération.
 
-
-## --- Tranche 28 / 32 ---
+## Tranche 28 / 32 : Désamorçage Éclair Phobie / Blocage par Rupture d'Identité Comique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3922,8 +3933,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 27/32 du 
 > "So what you do is you have this voice inside your head telling you you're a stupid shit. And it's screaming really loud this close... wow, then do you get paid for this?... You just enjoy people screaming that close?... Has it ever occurred to you to just stop it?"
 - **[Analyse du Pattern]** : Élicitation ultra-directe des sous-modalités critiques (volume + proximité spatiale). Rupture de cadre par ironie financière (*"get paid for this?"*), suivie d'un cadrage d'incongruité hédoniste (*"enjoy people screaming that close?"*), pour finir sur une présupposition d'action volontaire immédiate (*"just stop it"*), réduisant à néant le sentiment d'impuissance du sujet face à son propre cerveau.
 
-
-## --- Tranche 29 / 32 ---
+## Tranche 29 / 32 : A : Installation d'un Désir Irrésistible sur une Hésitation (Démonstration du Chocolat / Com...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4082,8 +4092,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 27/32 du 
   - **Recherche transdérivative d'obsession d'achat** : *"is there ever anything in your entire life that when you saw you absolutely had to have..."*. Force le système nerveux à rechercher l'empreinte neuronale d'un désir absolu.
   - **Capture d'accès oculaire et ancrage spatial dynamique** : L'interception de la direction du regard par la main (*"Their eyes shifted up, my hand went over"*) capte l'image mentale interne du client pour la translater physiquement et la superposer sur le produit cible (*"now look at this car. Bang!"*).
 
-
-## --- Tranche 30 / 32 ---
+## Tranche 30 / 32 : Le Vendeur Irrésistible (Transfert Spatial d'Appétence DHE)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4287,8 +4296,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 27/32 du 
 ```
 * **[Analyse du Pattern]** : Dissociation classique consciente/inconsciente ericksonienne avec présupposition d'action subconsciente autonome. L'usage de la négation temporelle (« when your conscious mind is not... ») disqualifie l'intellect conscient perçu comme un parasite curieux, autorisant le système idéomoteur profond à s'exprimer de manière pure sans censure corticale.
 
-
-## --- Tranche 31 / 32 ---
+## Tranche 31 / 32 : Désamorçage Catastrophique par Amplification Extrême (Catastrophic Overdo Protocol)
 
 Voici l'extraction chirurgicale et opératoire de la **tranche 31/32** du cours *Design Human Engineering (DHE 12 CDs)* de Richard Bandler.
 
@@ -4398,8 +4406,7 @@ Voici l'extraction chirurgicale et opératoire de la **tranche 31/32** du cours 
 > *"And the minute you find you're in another state, stop it. Take a deep breath and go, look, for me to do whatever I have to do, and even if it's just pay the phone bill, if you want to get things done on this planet, and you want miracles to be there every day... When I wake up in the morning, I wake up and I go, ooh, just another shitty day in paradise."*
 - **[Analyse du Pattern]** : Commande directe d'interruption de pattern (« *stop it* ») liée immédiatement à une ancre physiologique de réinitialisation (« *take a deep breath* »). Clôture par un paradoxe linguistique percutant (*oxymore*) : « *just another shitty day in paradise* », qui court-circuite le pessimisme en superposant la banalité vulgaire et le cadre d'un paradis immuable.
 
-
-## --- Tranche 32 / 32 ---
+## Tranche 32 / 32 : Réveil en Hyper-Alerte Sensorielle et Vitalité Exponentielle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4556,3 +4563,4 @@ Voici l'extraction chirurgicale et opératoire de la **tranche 31/32** du cours 
 "3, 2, 1, minus 1, minus 2, minus 3, minus 2, minus 1, 1, 2, 3, all the way up. Four, alertness. Five, enthusiasm. Six, sparkling. Seven, eight, nine, ten, times two is twenty. Times a hundred is two thousand. And feel yourself zip, come all the way up, pow, come on out."
 ```
 * **[Analyse du Pattern]** : Induction mathématique et rythmée de réveil hyperesthésique. La descente sous le zéro crée une désorientation proprioceptive brève, suivie d'une inversion violente du vecteur. Les multiplicateurs cognitifs (« times two », « times a hundred ») contournent l'incrémentation habituelle pour saturer le cortex et projeter le sujet dans une physiologie d'éveil intense marquée par l'onomatopée finale (« pow »), servant d'ancrage auditif de décharge.
+

@@ -85,10 +85,29 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 110-200]** : de Sélection et de Calibration Préparatoire des Objectifs (Cadre 3 Paliers) — *Protocole :* de Sélection et de Calibration Préparatoire des Objectifs (Cadre 3 Paliers) | *Mécanisme :* Le Levier de Présence et d'Êtreté (Beingness / Presence) | *Verbatim :* Verbatim 1 : Autorisation du non-savoir et levée du filtre d'expertise
+- **Tranche 2 [Lignes 202-336]** : L'Élicitation Initiale et la Descente dans la Chaîne de Résultats (Exercice Fondamental du C... — *Protocole :* L'Élicitation Initiale et la Descente dans la Chaîne de Résultats (Exercice Fondamental du Core State) | *Mécanisme :* Le Découplage Comportement / Intention Positive (Reframing de Prémisse) | *Verbatim :* La Présupposition de la Stratification Verticale
+- **Tranche 3 [Lignes 338-477]** : Découverte de l'État Source et Rétro-Propagation (Core State & Outcome Chain Reversal) — *Protocole :* Découverte de l'État Source et Rétro-Propagation (Core State & Outcome Chain Reversal)
+- **Tranche 4 [Lignes 479-637]** : Core Transformation sur une Partie Déjà Ressource (Enhancing a Resourceful Part) — *Protocole :* Core Transformation sur une Partie Déjà Ressource (Enhancing a Resourceful Part) | *Mécanisme :* Le Sillon Neurologique Progressif (The Sledding Hill Effect) | *Verbatim :* La question d'extraction fondamentale vs l'erreur d'improvisation
+- **Tranche 5 [Lignes 639-784]** : Recadrage de dispersion associative pendant la rétro-propagation — *Protocole :* Recadrage de dispersion associative pendant la rétro-propagation | *Mécanisme :* Endiguement de la contagion associative par compartimentation temporelle | *Verbatim :* Triple choix hypnotique d'ouverture (Pseudo-choix d'intégration)
+- **Tranche 6 [Lignes 786-915]** : d'Alignement de la Position d'Observateur (Aligning Perceptual Positions - Position 3) — *Protocole :* d'Alignement de la Position d'Observateur (Aligning Perceptual Positions - Position 3) | *Mécanisme :* Alignement Spatio-Visuel de la Position Méta (Observateur Neutre)
+- **Tranche 7 [Lignes 917-1042]** : Protocole d'Alignement de la Position Observateur (3e Position) — *Protocole :* Protocole d'Alignement de la Position Observateur (3e Position) | *Mécanisme :* Réintégration Somatotopique de la Voix Interne | *Verbatim :* Recadrage de la baisse d'activité mentale & Introduction du silence
+- **Tranche 8 [Lignes 1044-1158]** : Généralisation de la Position de Soi Alignée (Self-Position) — *Protocole :* Généralisation de la Position de Soi Alignée (Self-Position) | *Verbatim :* La distinction fondamentale entre Ressourcement et Détachement
+- **Tranche 9 [Lignes 1160-1281]** : Découplage de Polarité par Consentement Inconscient — *Protocole :* Découplage de Polarité par Consentement Inconscient | *Mécanisme :* Différenciation Fonctionnelle des Positions Perceptuelles : Calibration vs Harmonisation | *Verbatim :* La Métaphore Structurante du Double Nœud
+- **Tranche 10 [Lignes 1283-1402]** : A : Gestion des Parties Émergentes, Objectantes ou Interférentes — *Protocole :* A : Gestion des Parties Émergentes, Objectantes ou Interférentes | *Verbatim :* Inoculation de la fluidité à rebours
+- **Tranche 11 [Lignes 1404-1594]** : A : Intégration Collective des Parties (« All-Parts Gathering / Core Transformation Party ») — *Protocole :* A : Intégration Collective des Parties (« All-Parts Gathering / Core Transformation Party ») | *Verbatim :* La métaphore de la vague temporelle et l'autorisation permissive
+- **Tranche 12 [Lignes 1596-1755]** : Parental Timeline Reimprinting with Core States — *Protocole :* Parental Timeline Reimprinting with Core States | *Verbatim :* Pattern 1 : Le Recadrage de la Lumière Inépuisable (Dissolution de la Pénurie)
+- **Tranche 13 [Lignes 1757-1866]** : Intégration Temporelle des Ressources Parentales (Phase Terminale & Autonomie) — *Protocole :* Intégration Temporelle des Ressources Parentales (Phase Terminale & Autonomie) | *Verbatim :* Verbatim 1 : L'Anticipation et l'Inondation de la Matrice
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 13 ---
+## Tranche 1 / 13 : de Sélection et de Calibration Préparatoire des Objectifs (Cadre 3 Paliers)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -180,8 +199,7 @@ flowchart TD
 > "I had a part that just didn't really fit in somewhere. In fact, I even called it the evil part of me... But after going through the process and understanding that core state that this part of me was trying to accomplish was actually something that I was always trying to accomplish as it was. It allowed me to really bring this part into me and honor this part and take its rightful place."
 *   **[Analyse du Pattern]** : *Recadrage ontologique d'identité et boucle d'intégration*. Passage de l'exclusion (« evil part », aliénation interne) à la réunification (« honor this part and take its rightful place ») via le pont de l'état noyau. Les présuppositions linguistiques font de la partie non plus un ennemi à dompter mais une instance fondamentale cherchant l'état source que l'individu poursuivait lui-même.
 
-
-## --- Tranche 2 / 13 ---
+## Tranche 2 / 13 : L'Élicitation Initiale et la Descente dans la Chaîne de Résultats (Exercice Fondamental du C...
 
 Voici l'analyse opératoire intégrale de la tranche 2/13 du séminaire *Core Transformation* de Connirae Andreas, modélisée selon les principes stricts d'ingénierie PNL, hypnose ericksonienne et modélisation symbolique.
 
@@ -317,8 +335,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/13 du séminaire *Core Tr
   - **Truisme d'effacement linguistique :** « *regardless of what word we use for it, really* » dévalue l'étiquette cognitive rationnelle pour recentrer toute l'attention sur l'expérience somato-sensorielle directe.
   - **Suggestion d'autonomie bienveillante :** « *just the way it wants* » redonne la totalité du contrôle directionnel à la partie inconsciente, augmentant le rapport et la profondeur du relâchement.
 
-
-## --- Tranche 3 / 13 ---
+## Tranche 3 / 13 : Découverte de l'État Source et Rétro-Propagation (Core State & Outcome Chain Reversal)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/13 du cours de Connirae Andreas.
 
@@ -459,8 +476,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/13 du c
   > « In that context of thinking of that person, now that this part already has this warm feeling within, notice how this evolves into your behavior in that situation so that you're expressing this sense of this warm feeling in the most congruent manner in that situation. Noticing, of course, that expressing this sense of warmth... room for both compassion and limits. »
   * [Analyse du Pattern] : Pont temporel contextuel combinant présupposition d'état acquis (*« now that this part already has »*) et truisme d'évolution naturelle (*« notice how this evolves into your behavior »*). Connirae dissout la polarité rigide compassion/fermeté en insérant un cadre intégrateur fluide (*« room for both compassion and limits »*), réconciliant bienveillance et protection sans conflit interne.
 
-
-## --- Tranche 4 / 13 ---
+## Tranche 4 / 13 : Core Transformation sur une Partie Déjà Ressource (Enhancing a Resourceful Part)
 
 Voici l'analyse opératoire intégrale de la tranche 4/13 de la formation *Core Transformation* de Connirae Andreas.
 
@@ -620,8 +636,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/13 de la formation *Core 
   - **Suppression du présupposé de défaillance :** L'omission délibérée de *"used to"* (qui présupposait un comportement problématique révolu) remplace la notion de correction par celle d'expansion pure (*"transform or enrich"*).
   - **Double contrainte permissive :** Que la situation soit *"transformée"* ou *"enrichie"*, le changement génératif est inévitablement validé par la grammaire de la phrase.
 
-
-## --- Tranche 5 / 13 ---
+## Tranche 5 / 13 : Recadrage de dispersion associative pendant la rétro-propagation
 
 Voici l'extraction opératoire intégrale de la **Tranche 5/13** du séminaire *Core Transformation - 3 Days Training* (Connirae Andreas / Tamara Andreas).
 
@@ -768,8 +783,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/13** du séminaire *
 
 * **[Analyse du Pattern] :** Commande de feinte cognitive délibérée (*« Pretend to be... »*) qui contourne l'effort conscient pour induire l'hallucination d'identité en Position 2. Elle est suivie immédiatement d'une commande d'action directe et concrète (*« literally shake it off »*). L'adverbe *« literally »* force le passage de la pensée à l'acte neuromusculaire, interrompant net la rémanence du schéma moteur et émotionnel de l'interlocuteur avant la réassociation en Soi.
 
-
-## --- Tranche 6 / 13 ---
+## Tranche 6 / 13 : d'Alignement de la Position d'Observateur (Aligning Perceptual Positions - Position 3)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -900,8 +914,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/13** du séminaire *
   > « *Now, you might also consider that what you're calling the ADD processor could be a really a combination of voices, sounds, and feelings... allow this aspect of your inner processing and thinking to begin discovering the resource that comes also from focus.* »
   * **[Analyse du Pattern]** : Dénominalisation radicale d'une étiquette médicale/identitaire (« *what you're calling the ADD processor* ») fragmentée en variables de sous-modalités simples et malléables (« *voices, sounds, and feelings* »). La formulation « *discovering the resource that comes also from focus* » utilise le verbe de découverte et l'adverbe inclusif « *also* » pour contourner l'objection de privation d'excitation et installer le focus non comme une contrainte, mais comme une nouvelle ressource disponible.
 
-
-## --- Tranche 7 / 13 ---
+## Tranche 7 / 13 : Protocole d'Alignement de la Position Observateur (3e Position)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1028,8 +1041,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 5/13** du séminaire *
     *   *Question rhétorique de validation factuelle* : "*did we?*" force l'assentiment du groupe et du sujet sur le fait qu'aucune technique de dissociation n'a été employée.
     *   *Redéfinition de l'état interne* : Connirae démonte le piège conceptuel courant en PNL où l'association est assimilée au débordement émotionnel. Par l'antithèse "*not that he pushed aside... actually that he fully stepped into them*", elle redéfinit la pleine association comme un élargissement somatique permettant la fluidité et l'accès aux ressources, plutôt qu'une contraction défensive.
 
-
-## --- Tranche 8 / 13 ---
+## Tranche 8 / 13 : Généralisation de la Position de Soi Alignée (Self-Position)
 
 Voici l'analyse opératoire intégrale de la tranche 8/13 de la transcription du séminaire *Core Transformation* dispensé par Connirae Andreas.
 
@@ -1145,8 +1157,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/13 de la transcription du
 > *"Let's all move our viewpoint into our physical eyes. Just say from wherever it is, just let it go right into our eyes even more fully. Let our listening point from wherever it is, let it go right into our physical ears. Let our feelings be centered in our body and let our inner voice go right here from wherever it might be. Now, how long did that take? 15 seconds, right?"*
 * **[Analyse du Pattern] :** **Commandes enchâssées séquentielles et effacement d'effort.** Enchaînement de quatre directives kinésiques et proprioceptives directes utilisant le permissif engageant (*"Let our... let it go..."*). L'incise itérative (*"from wherever it is"*) présuppose qu'aucun diagnostic préalable n'est requis : l'inconscient rapatrie instantanément la sous-modalité quel que soit son point de départ. La question finale de ratification temporelle ancre la facilité cognitive du geste dans la physiologie du groupe.
 
-
-## --- Tranche 9 / 13 ---
+## Tranche 9 / 13 : Découplage de Polarité par Consentement Inconscient
 
 Voici l'analyse opératoire intégrale de la tranche 9/13 du séminaire *Core Transformation* de Connirae Andreas, modélisée selon les règles d'ingénierie demandées.
 
@@ -1269,8 +1280,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/13 du séminaire *Core Tr
   * *Sleight of Mouth / Redéfinition du critère :* Utilise le mot-piège du sujet (« perfectly ») pour valider sa réussite, puis opère une fusion d'opposés (« even if there were imperfections, it's still perfect »).
   * *Démantèlement du piège binaire :* Brise la structure cognitive rigide du perfectionnisme (qui oppose perfection et imperfection) en logeant la perfection à un méta-niveau englobant l'imperfection.
 
-
-## --- Tranche 10 / 13 ---
+## Tranche 10 / 13 : A : Gestion des Parties Émergentes, Objectantes ou Interférentes
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1391,8 +1401,7 @@ flowchart TD
 > « And then just allow yourself to notice how having your core states fill your whole lifetime supports your having them even more fully right here and now in this moment in time, sitting in this room. »
 - **[Analyse du Pattern]** : Boucle de rétroaction positive reliant l'imaginaire temporel le plus vaste à l'ancrage sensoriel immédiat (`sitting in this room`). La syntaxe lie causalement l'expérience de transe passée à la solidité de l'état présent (`supports your having them even more fully right here and now`).
 
-
-## --- Tranche 11 / 13 ---
+## Tranche 11 / 13 : A : Intégration Collective des Parties (« All-Parts Gathering / Core Transformation Party »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1584,8 +1593,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Commande conversationnelle émotionnellement chargée (*« welcome home »*) marquant la fin de l'exil psychique. L'injonction kinesthésique d'expansion et de fusion (*« mingling and merging together »*) dissout la frontière séparatrice des parties pour réinstaller la Gestalt unifiée de l'identité somatique.
 
-
-## --- Tranche 12 / 13 ---
+## Tranche 12 / 13 : Parental Timeline Reimprinting with Core States
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1746,8 +1754,7 @@ flowchart TD
 * **[Analyse du Pattern]** :  
   *Recadrage de la dissonance et suggestion post-hypnotique de robustesse.* Utilisation de subordonnées concessives d'opposition (*"even when those around you are not reflecting them back... even when your parents are the way that you remember them being"*). L'adverbe comparatif *"even stronger"* transforme la toxicité ou l'inadéquation du contexte passé en un catalyseur de puissance interne. Ce pattern empêche l'évasion psychique dans le déni et ancre la permanence ontologique du *Core State*, le découplant définitivement de toute validation contextuelle externe.
 
-
-## --- Tranche 13 / 13 ---
+## Tranche 13 / 13 : Intégration Temporelle des Ressources Parentales (Phase Terminale & Autonomie)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1857,3 +1864,4 @@ flowchart TD
 > « And if you're consciously aware of a specific image, that's fine and wonderful. And if you're not consciously aware of a specific image, that's also fine and wonderful. Yeah, have the space there for the person. »
 
 - **[Analyse du Pattern]** : Double lien permissif classique de l'hypnose éricksonienne (*« If X, that's fine... and if not X, that's also fine »*). Cette structure symétrique détruit l'anxiété de performance du sujet, tout en introduisant la solution spatiale opératoire (*« have the space there »*) qui maintient la fonctionnalité du protocole sans nécessiter de rappel mnésique explicite.
+

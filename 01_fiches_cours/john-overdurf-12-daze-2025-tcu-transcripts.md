@@ -100,10 +100,40 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 136-273]** : Sensational Sliding Probabilities (Démonstration Peter) — *Protocole :* Sensational Sliding Probabilities (Démonstration Peter) | *Mécanisme :* Le codage somatosensoriel des croyances (Somatic Submodalities of Belief) | *Verbatim :* La réfutation préventive du rôle de thérapeute (Anti-Suggestive Suggestion)
+- **Tranche 2 [Lignes 275-385]** : Glissement de Probabilités & Réduction Analogique (Sensational Sliding Probabilities) — *Protocole :* Glissement de Probabilités & Réduction Analogique (Sensational Sliding Probabilities) | *Mécanisme :* Érosion Bayésienne du Dogme (Probability Sliding)
+- **Tranche 3 [Lignes 387-528]** : La Boucle Générative "Beyond Goals" (Induction-Déduction Itérative) — *Protocole :* La Boucle Générative "Beyond Goals" (Induction-Déduction Itérative) | *Mécanisme :* La dynamique Induction vs Déduction du Système Nerveux | *Verbatim :* Le Recadrage Biologique Déculpabilisant (Désactivation de l'Équivalence Complexe)
+- **Tranche 4 [Lignes 530-700]** : Le "No Fluff Template" (Navigation & Résolution de Contradiction) — *Protocole :* Le "No Fluff Template" (Navigation & Résolution de Contradiction) | *Mécanisme :* Le "Subtle Toggle" & la Détection Infraclinique des Pixels Somatiques | *Verbatim :* Le Cadrage Métaphorique de la Lente Décroissance Sonore
+- **Tranche 5 [Lignes 702-829]** : A : L'Oscillation Somatique Fine & L'Espace Interstitiel (Antoine / Overdurf) — *Protocole :* A : L'Oscillation Somatique Fine & L'Espace Interstitiel (Antoine / Overdurf) | *Mécanisme :* L'Espace Interstitiel Émergent (interstitialspace emergentthreshold voidtransduction) | *Verbatim :* Le Double Lien Temporel de l'Espace Interstitiel
+- **Tranche 6 [Lignes 831-975]** : Intégration par Oscillation, Désensibilisation et Fusion (Overdurf Oscillation & Merging Pro... — *Protocole :* Intégration par Oscillation, Désensibilisation et Fusion (Overdurf Oscillation & Merging Process) | *Verbatim :* Normalisation Somatique & Dépathologisation Immédiate
+- **Tranche 7 [Lignes 977-1070]** : Le Pattern « I Don't Know, But I Do Know » (Seed Structure) — *Protocole :* Le Pattern « I Don't Know, But I Do Know » (Seed Structure) | *Verbatim :* Rupture du Charabia Analytique et Verrouillage du Savoir Somatique
+- **Tranche 8 [Lignes 1072-1224]** : A : La Tag Question Non-Contractée pour Mismatchers Lourds — *Protocole :* A : La Tag Question Non-Contractée pour Mismatchers Lourds | *Verbatim :* La Tag Question Non-Contractée pour Mismatchers
+- **Tranche 9 [Lignes 1226-1369]** : Désamorçage d'Idée Fixe et Réorientation Trans-Objectif ("You Might Think...") — *Protocole :* Désamorçage d'Idée Fixe et Réorientation Trans-Objectif ("You Might Think...")
+- **Tranche 10 [Lignes 1371-1533]** : Le "Reset de Rythme" par Shifting Attentionnel et Vision Périphérique (Expanding Senses in N... — *Protocole :* Le "Reset de Rythme" par Shifting Attentionnel et Vision Périphérique (Expanding Senses in Now - Short Form) | *Verbatim :* Foreground/Background Sensory Expansion Loop
+- **Tranche 11 [Lignes 1535-1669]** : L'Induction Non-Duelle par la Décatégorisation Sensorielle Immédiate — *Protocole :* L'Induction Non-Duelle par la Décatégorisation Sensorielle Immédiate | *Mécanisme :* Attention à la variabilité somato-contextuelle | *Verbatim :* La comptine de dépolarisation identitaire non-duelle
+- **Tranche 12 [Lignes 1671-1788]** : L'Induction Éclair "Avant le Nom" (The Pre-Labeling Induction) — *Protocole :* L'Induction Éclair "Avant le Nom" (The Pre-Labeling Induction) | *Mécanisme :* La Dé-nominalisation Pré-conceptuelle Somatique (The Pre-labeling Induction) | *Verbatim :* La Dé-nominalisation Régressive Instantanée
+- **Tranche 13 [Lignes 1790-1978]** : Protocole STP – Phase 3A : La Passe de Pleine Conscience Dé-identifiée (Mindfulness Pass) — *Protocole :* Protocole STP – Phase 3A : La Passe de Pleine Conscience Dé-identifiée (Mindfulness Pass) | *Verbatim :* La Dé-identification Somatique Fondamentale
+- **Tranche 14 [Lignes 1980-2121]** : A : Oscillation Somatique & Variabilité Contrastive pour la Douleur Chronique (Cas Annette) — *Protocole :* A : Oscillation Somatique & Variabilité Contrastive pour la Douleur Chronique (Cas Annette) | *Verbatim :* La Déconstruction Non-Duale du Témoin
+- **Tranche 15 [Lignes 2123-2279]** : Protocole de Dissolution Attentionnelle Circulaire (« The Healing Paradigm / Alpha Sequence ») — *Protocole :* Protocole de Dissolution Attentionnelle Circulaire (« The Healing Paradigm / Alpha Sequence ») | *Verbatim :* Le Découplage de la Sensation et l'Attente de Mouvement
+- **Tranche 16 [Lignes 2281-2409]** : Fusion et Expansion Non-Duelle (Merging into Expansion) — *Protocole :* Fusion et Expansion Non-Duelle (Merging into Expansion)
+- **Tranche 17 [Lignes 2411-2548]** : Somatic Oscillation into Non-Dual Expansion (Merging into Expansion) — *Protocole :* Somatic Oscillation into Non-Dual Expansion (Merging into Expansion) | *Verbatim :* Le Double-Lien du Non-Faux-Pas
+- **Tranche 18 [Lignes 2550-2725]** : Résolution de Conflit Intérieur par Traitement Sensoriel en V (Démonstration Chuck) — *Protocole :* Résolution de Conflit Intérieur par Traitement Sensoriel en V (Démonstration Chuck) | *Mécanisme :* Le Modèle de l'Entonnoir en V (The V-Model : Nominalisation -> Sensation -> Re-Nominalisation) | *Verbatim :* La Métaphore de la Lazy Susan (David Eagleman)
+- **Tranche 19 [Lignes 2727-2846]** : The High-Confidence Bet / Identity Decoupling Protocol — *Protocole :* The High-Confidence Bet / Identity Decoupling Protocol | *Mécanisme :* Le Principe d'Équivalence Complexe : Croyance = Pari Subjectif (De Finetti & QBism) | *Verbatim :* Le Recadrage de l'Identité comme Pari à Haute Confiance
+- **Tranche 20 [Lignes 2848-2993]** : La Déconstruction Scalaire Bayésienne & Recherche de Contre-Exemples — *Protocole :* La Déconstruction Scalaire Bayésienne & Recherche de Contre-Exemples | *Mécanisme :* Le Biais d'Objectivité vs Le Modèle Prédictif Interne | *Verbatim :* La Déconstruction du Réel Prédictif
+- **Tranche 21 [Lignes 2995-3105]** : Sensational Sliding Probability (SSP) Process (Processus de Probabilité Glissante Sensationn... — *Protocole :* Sensational Sliding Probability (SSP) Process (Processus de Probabilité Glissante Sensationnelle)
+- **Tranche 22 [Lignes 3107-3283]** : SSP — Sensational Sliding Probability Process (Processus de Probabilité Glissante Kinesthési... — *Protocole :* SSP — Sensational Sliding Probability Process (Processus de Probabilité Glissante Kinesthésique) | *Mécanisme :* Le Principe de Cohérence vs Certitude (Modèle De Finetti / Mécanique Quantique Somatisée) | *Verbatim :* Le Clivage Probabiliste Immédiat
+- **Tranche 23 [Lignes 3285-3398]** : Le Protocole de Recadrage de Croyance par Oscillations de Probabilités (Pages 12-14) — *Protocole :* Le Protocole de Recadrage de Croyance par Oscillations de Probabilités (Pages 12-14) | *Verbatim :* Le Test d'Incongruence Absolue
+- **Tranche 24 [Lignes 3400-3543]** : A : Chaînage Quantificateur Réducteur (Fracturation de Problème / Déduction) — *Protocole :* A : Chaînage Quantificateur Réducteur (Fracturation de Problème / Déduction) | *Mécanisme :* L'Échelle de Quantification Dynamique (Quantifier Chaining & Deductive/Inductive Scaling) | *Verbatim :* La Bascule Déductive Présente
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 24 ---
+## Tranche 1 / 24 : Sensational Sliding Probabilities (Démonstration Peter)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -242,8 +272,7 @@ flowchart TD
 > « Yeah, so as you're noticing this up here, all I want you to do is just notice which one feels better. That's right. This is just the prediction error. Yeah, yeah. And so as you're staying with this one, just notice what happens with that. »
 - **[Analyse du Pattern]** : Utilisation d'un double lien kinesthésique couplé au concept neuroscientifique d'« erreur de prédiction ». Le praticien ne demande pas au sujet de « croire » intellectuellement au nouvel état ; il le met au défi de comparer deux signaux proprioceptifs concurrents. Le système nerveux choisissant organiquement le signal le plus confortable et fonctionnel, l'ancien modèle prédictif s'effondre de lui-même sans recours à la volonté consciente.
 
-
-## --- Tranche 2 / 24 ---
+## Tranche 2 / 24 : Glissement de Probabilités & Réduction Analogique (Sensational Sliding Probabilities)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -355,8 +384,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : **Recadrage rhizomatique par Rupture Asignifiante & Attribution causale inconsciente**. La rigidité mentale du sujet (qui refusait auparavant les alternatives) est ré-attribuée comme une compétence protectrice sélective (*« hidden ability »*). Le praticien présuppose que l'inconscient a déjà décidé de verrouiller définitivement la porte à l'ancien pattern (*« it's not going to let you let it back in »*), transformant ce qui aurait pu être une résistance en une barrière immunitaire psychologique.
 
-
-## --- Tranche 3 / 24 ---
+## Tranche 3 / 24 : La Boucle Générative "Beyond Goals" (Induction-Déduction Itérative)
 
 Voici l'analyse opératoire intégrale de la tranche 3/24 du cours *12 Daze 2025 - TCU* de John Overdurf, structurée selon les exigences d'ingénierie demandées.
 
@@ -499,8 +527,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/24 du cours *12 Daze 2025
   - **Double présupposition temporelle et cognitive :** L'adverbe *"Now"* couplé à la subordonnée temporelle ancre fermement l'action comme déjà actée dans la réalité.
   - **Présupposition d'expansion d'apprentissage :** La question présuppose obligatoirement qu'une connaissance nouvelle a émergé (*"what do I know now..."*) et rend l'ignorance passée caduque (*"...that I didn't know before"*), forçant le système nerveux à basculer immédiatement du mode d'exécution déductif au mode d'absorption inductif.
 
-
-## --- Tranche 4 / 24 ---
+## Tranche 4 / 24 : Le "No Fluff Template" (Navigation & Résolution de Contradiction)
 
 Voici l'analyse opératoire intégrale de la tranche 4/24 de la transcription de John Overdurf (*12 Daze 2025 - TCU*).
 
@@ -672,8 +699,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/24 de la transcription de
   - *Double lien temporel :* L'ancrage temporel *"the moment you stopped trying to fix it"* lie la réorganisation inconsciente à l'inaction du moi conscient.
   - *Généralisation par suggestion ouverte (Open-ended question) :* *"I wonder if that's a metaphor for a lot of other things"* est une commande enchâssée d'expansion fractale qui invite l'inconscient à projeter et appliquer spontanément cette nouvelle dynamique à l'ensemble des domaines de la vie du sujet.
 
-
-## --- Tranche 5 / 24 ---
+## Tranche 5 / 24 : A : L'Oscillation Somatique Fine & L'Espace Interstitiel (Antoine / Overdurf)
 
 Voici l'analyse opératoire intégrale de la tranche 5/24 du cours *12 Daze 2025 - TCU* de John Overdurf, structurée selon les exigences d'ingénierie avancée.
 
@@ -802,8 +828,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/24 du cours *12 Daze 2025
 > "Think of it this way, Amanda. It's a book that you've read really thoroughly, and you don't need to read it again, so you can put it up on the shelf over to your left there. Okay? ... You can let it get dusty, and you can forget about it, you know. And if somebody says, oh, what's that book? You can tell them if they want to, they can pick it up and read it. But you've got another one that's more interesting."
 - **[Analyse du Pattern]** : Métaphore isomorphique directe calquée sur le geste de la cliente. Le problème est réifié en « livre déjà lu », validant son utilité passée tout en détruisant son utilité présente. La suggestion d'oubli et d'empoussièrement (*« let it get dusty, and you can forget about it »*) ancre la défocalisation définitive, tandis que l'orientation vers le nouveau livre réoriente l'énergie vers le futur.
 
-
-## --- Tranche 6 / 24 ---
+## Tranche 6 / 24 : Intégration par Oscillation, Désensibilisation et Fusion (Overdurf Oscillation & Merging Pro...
 
 Voici l'analyse modélisatrice intégrale, chirurgicale et opératoire de la tranche 6/24 de John Overdurf (*12 Daze 2025 - TCU - Transcripts*).
 
@@ -949,8 +974,7 @@ Voici l'analyse modélisatrice intégrale, chirurgicale et opératoire de la tra
 > « How do you know? Because you know. Really? Are you sure? Oh, she just did it. Isn't that awesome? That's it. That's your knowing. »
 - **[Analyse du Pattern]** : Test provocateur de solidité post-intervention (*challenge testing*). Overdurf martèle les déclencheurs initiaux avec le ton du doute pour calibrer si le système rechute. La réponse spontanée de rejet comique (« *It's gibberish* ») et l'affirmation somatique calme (« *Because you know* ») signent l'effondrement définitif de l'ancien programme neuronal.
 
-
-## --- Tranche 7 / 24 ---
+## Tranche 7 / 24 : Le Pattern « I Don't Know, But I Do Know » (Seed Structure)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1045,8 +1069,7 @@ Voici l'analyse modélisatrice intégrale, chirurgicale et opératoire de la tra
 * **[Analyse du Pattern]** :  
   *Rupture syntaxique par découplage de la négation (Uncontracted Tag Question) combinée à un Pacing kinesthésique/prosodique* : La forme classique contractée (*"don't you?"*) glisse dans le langage familier sans friction, alors que la formule archaïque/formelle *"do you not?"* force une focalisation attentionnelle aiguë sur la particule négative. En accentuant le volume et l'ancrage musculaire sur le *"NOT"* à hauteur exacte de la résistance manifestée par l'interlocuteur, le praticien s'approprie la négation du sujet pour la fusionner avec la proposition initiale, tout en induisant corporellement l'accord par le hochement de tête synchrone.
 
-
-## --- Tranche 8 / 24 ---
+## Tranche 8 / 24 : A : La Tag Question Non-Contractée pour Mismatchers Lourds
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 8/24 du cours de John Overdurf (*12 Daze 2025 - TCU*).
 
@@ -1200,8 +1223,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 8/24
 > « So I don't know how much you are going to change before you even realize that you've already been changing. So whether you realize that you're already changing, or you're just surprised after the fact that you already have, is all how unconscious change occurs. »
 * **[Analyse du Pattern]** : Empilement récursif de présuppositions temporelles et d'aspects verbaux d'accomplissement (`before you even realize`, `you've already been changing`, `after the fact that you already have`). Le pattern enferme la réalité du changement dans le passé et le présent continuel, ne laissant au conscient que le choix du moment où il en prendra acte.
 
-
-## --- Tranche 9 / 24 ---
+## Tranche 9 / 24 : Désamorçage d'Idée Fixe et Réorientation Trans-Objectif ("You Might Think...")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1346,8 +1368,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 8/24
 > **"And as you're seeing what you're seeing in front of you, what are some other things that you hadn't been seeing in front of you or around you that you can now? And as you're seeing all of this, what were you not hearing that you now can begin to hear?"**
 - **[Analyse du Pattern]** : Enchaînement de liaisons conversationnelles (*Expanding Now Sequence*). Utilisation du connecteur d'équivalence temporelle (*And as you're [V-ing]...*) pour empiler les modalités sensorielles (V -> A) tout en orientant l'attention de la négation passée (*hadn't been seeing / were not hearing*) vers l'activation présente et continue (*you can now begin to hear*). Déplace la charge attentionnelle de l'interne vers l'externe élargi.
 
-
-## --- Tranche 10 / 24 ---
+## Tranche 10 / 24 : Le "Reset de Rythme" par Shifting Attentionnel et Vision Périphérique (Expanding Senses in N...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1511,8 +1532,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 8/24
   * **Métaphore isomorphe du sommeil paradoxal :** Assimile l'état de transe éveillé au processus biologique universel du rêve nocturne, validant le fait que l'intégration et la résolution de problèmes opèrent hors de toute surveillance consciente (*"You don't even have to know you're dreaming in order for dreams to begin to bring together..."*).
   * **Présupposition de recalibrage autonome :** Présuppose que le repos corporel induit obligatoirement une réorganisation créative de la problématique.
 
-
-## --- Tranche 11 / 24 ---
+## Tranche 11 / 24 : L'Induction Non-Duelle par la Décatégorisation Sensorielle Immédiate
 
 Voici l'analyse opératoire intégrale de la tranche 11/24 du cours **"12 Daze 2025 - TCU - Transcripts"** de John Overdurf.
 
@@ -1648,8 +1668,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/24 du cours **"12 Daze 2
   * **Présupposition d'interdépendance radicale :** L'affirmation que l'objet n'existe sous sa forme perçue que par l'intermédiaire du filtre conceptuel humain.
   * **Affaiblissement des structures rigides du problème :** En étendant cette loi physique (Nobel 2022) à la réalité psychologique, Overdurf suggère indirectement que le "problème" ou le "blocage" du client n'a pas de masse, pas d'existence intrinsèque ni de spin figé en dehors de l'acte d'observation et de mémoire qui le recrée en boucle. C'est un démantèlement indirect de la persistance des traumatismes et des symptômes.
 
-
-## --- Tranche 12 / 24 ---
+## Tranche 12 / 24 : L'Induction Éclair "Avant le Nom" (The Pre-Labeling Induction)
 
 Voici l'analyse opératoire intégrale de la tranche 12/24 de la formation de John Overdurf, structurée selon les exigences d'ingénierie demandées.
 
@@ -1768,8 +1787,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/24 de la formation de Jo
 > **"What happens to the sensation when there's no need for you to describe what's happening?"**
 * **[Analyse du Pattern] :** Présupposition enchâssée d'inutilité du langage verbal (*when there's no need...*), couplée à une focalisation kinesthésique exclusive (*What happens to the sensation*). La question impose une double contrainte positive : pour répondre intérieurement à la question, le sujet est obligé de cesser de verbaliser son état et d'observer le mouvement sensoriel pur, ce qui déclenche mécaniquement l'effondrement de la charge affective du symptôme.
 
-
-## --- Tranche 13 / 24 ---
+## Tranche 13 / 24 : Protocole STP – Phase 3A : La Passe de Pleine Conscience Dé-identifiée (Mindfulness Pass)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1959,8 +1977,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/24 de la formation de Jo
   - **Empilement de questions oratoires éristiques :** Série d'interrogations guidées imposant la conclusion inévitable que la réalité objective perçue dépend entièrement de l'acte de conscience.
   - **Effondrement de la réalité du symptôme :** La sensation/problème est reléguée au statut de simple reflet immatériel dépourvu de substance propre, retirant tout pouvoir pathologique à l'expérience symptomatique.
 
-
-## --- Tranche 14 / 24 ---
+## Tranche 14 / 24 : A : Oscillation Somatique & Variabilité Contrastive pour la Douleur Chronique (Cas Annette)
 
 Voici l'analyse opératoire intégrale de la tranche 14/24 du cours de John Overdurf (*12 Daze 2025 - TCU*).
 
@@ -2103,8 +2120,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/24 du cours de John Over
   - *Interrogation binaire de rupture* (*« Is this thought useful? »*) : Déclenche un test de conformité immédiat, générant une erreur de prédiction si la réponse est « non ».
   - *Question adverbiale de présupposition* (*« How is that thought important? »*) : Court-circuite la remise en question de l'existence de la valeur ; elle force l'inconscient à modéliser la structure de son utilité, ouvrant la voie à la recherche de fonction adaptative et d'intention positive.
 
-
-## --- Tranche 15 / 24 ---
+## Tranche 15 / 24 : Protocole de Dissolution Attentionnelle Circulaire (« The Healing Paradigm / Alpha Sequence »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2262,8 +2278,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/24 du cours de John Over
   - Glissement temporel linguistique chirurgical : passage au plus-que-parfait (« what *had been* the problem » / « you *had been* calling the problem ») qui relègue rétroactivement le problème au statut de vestige du passé, tandis que le bien-être est ancré au présent continu (« the sensation that feels good »).
   - Focalisation liminaire transogène : orienter l'esprit sur l'espace « entre les deux » crée une induction hypnotique spontanée par suspension de la dualité sujet/objet, dissolvant la polarité pathologique dans un continuum somatique unifié.
 
-
-## --- Tranche 16 / 24 ---
+## Tranche 16 / 24 : Fusion et Expansion Non-Duelle (Merging into Expansion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2393,8 +2408,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/24 du cours de John Over
 > *"And as you're experiencing this, notice what happens when neither is true... when neither exists... This is something that only your body can answer."*
 - **[Analyse du Pattern]** : Formulation de la 4ème position du tétralemme (*non-mirror image reverse*) verrouillée somatiquement. La commande *"notice what happens when neither is true... neither exists"* détruit la double contrainte en supprimant les deux prémisses du problème. L'adjonction *"only your body can answer"* empêche la rationalisation intellectuelle et oblige le cerveau à trouver la réponse dans un réalignement neuro-végétatif pur.
 
-
-## --- Tranche 17 / 24 ---
+## Tranche 17 / 24 : Somatic Oscillation into Non-Dual Expansion (Merging into Expansion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2533,8 +2547,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/24 du cours de John Over
 * **[Analyse du Pattern]** :
   Exploitation kinésique d'une métaphore littérale (*"scratch the surface / have an itch"*). L'injonction paradoxale ericksonienne classique (*"try not to scratch it"*) déclenche inévitablement une fixation accrue sur la sensation. Il couple immédiatement l'effort d'inhibition à l'approfondissement de la transe (*"the more you think about not scratching it, the deeper the suggestions go"*). Le dénouement par le double-lien quantique (*"either way is better, and both are"*) verrouille toutes les échappatoires : toute réaction somatique devient la preuve vivante de l'intégration du travail.
 
-
-## --- Tranche 18 / 24 ---
+## Tranche 18 / 24 : Résolution de Conflit Intérieur par Traitement Sensoriel en V (Démonstration Chuck)
 
 Voici l'analyse exhaustive et opératoire de la tranche 18/24 du cours *12 Daze 2025 - TCU* de John Overdurf.
 
@@ -2711,8 +2724,7 @@ Voici l'analyse exhaustive et opératoire de la tranche 18/24 du cours *12 Daze 
   * **Commande enchâssée d'orientation spatiale microscopique :** Force le processeur interne du sujet à rechercher une ligne de démarcation infinitésimale entre une absence de sensation (*space that's not that feeling*) et une présence sensorielle (*where does the sensation start*).
   * **Double focalisation contradictoire (Confusion Inducer) :** L'esprit conscient tente d'isoler une frontière géographique nette sur un système somatosensoriel diffus ; l'incapacité à situer la frontière exacte sature le néocortex et provoque l'effondrement immédiat de l'expérience du problème (*boundary of a boundary is zero*).
 
-
-## --- Tranche 19 / 24 ---
+## Tranche 19 / 24 : The High-Confidence Bet / Identity Decoupling Protocol
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2833,8 +2845,7 @@ Protocole d'assouplissement des certitudes identitaires et de déverrouillage du
 >   - **Répétition anaphorique pour rupture de cadre** : *« The prediction isn't in the storm. The prediction isn't in the storm. The prediction's in us. »* frappe directement l'ancrage réaliste-naïf du sujet.
 >   - **Défamiliarisation cognitive par absurdité logique** : *« the clouds didn't do sliding probabilities on themselves »* met en lumière le caractère purement projectif des constructions mentales. Ce recadrage isole le stimulus externe (les nuages font ce qu'ils font) de l'attribution de probabilité interne, rendant au sujet la flexibilité de modifier son propre calcul d'anticipation.
 
-
-## --- Tranche 20 / 24 ---
+## Tranche 20 / 24 : La Déconstruction Scalaire Bayésienne & Recherche de Contre-Exemples
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2981,8 +2992,7 @@ Ce protocole émerge directement de la démonstration avec Nicola (croyance : *�
   * *Nominalisation convertie en probabilité temporelle* : transformation de l'identité (« je suis comme ça ») en fréquence statistique (« le pourcentage de temps où c'est présent »).
   * *Recadrage par calcul de négation* : conversion instantanée du score élevé de certitude négative (85%) en existence mathématiquement irréfutable de contre-exemples (15% de liberté). Le sujet ne peut contester l'espace qu'il vient lui-même de concéder.
 
-
-## --- Tranche 21 / 24 ---
+## Tranche 21 / 24 : Sensational Sliding Probability (SSP) Process (Processus de Probabilité Glissante Sensationn...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3094,8 +3104,7 @@ Ce protocole émerge directement de la démonstration avec Nicola (croyance : *�
 > **« You're not me. I'm not me. And I'm not me-ing. I'm awareness me-ing. Awareness having the me-ing experience. »**
 - **[Analyse du Pattern]** : Déconstruction linguistique non-duelle et nominalisation inversée. L'utilisation du néologisme verbal actif (*"me-ing"*) subvertit la réification du pronom personnel, puis replace le sujet en méta-position absolue : la conscience n'est plus l'individu, l'individu est un processus transitoire traversant la conscience.
 
-
-## --- Tranche 22 / 24 ---
+## Tranche 22 / 24 : SSP — Sensational Sliding Probability Process (Processus de Probabilité Glissante Kinesthési...
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 22/24 de la formation de John Overdurf.
 
@@ -3273,8 +3282,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 22/24 de 
   *Test de Décharge Somato-Linguistique et Ratification de Non-Congruence.*
   Le test ultime chez Overdurf ne consiste pas à demander « Comment tu te sens ? », mais à contraindre le sujet à verbaliser l'ancienne proposition identitaire absolue. L'inhibition physique de l'appareil phonatoire (« *I can't say it* ») fournit une calibration somatique indiscutable : l'ancienne croyance est rejetée neurologiquement par le sentiment d'identité du sujet (« *completely incongruent with who I am* »). Le test au palier 85% démontre que la synesthésie est définitivement rompue : les mots peuvent être prononcés, mais le système de croyance inconscient ne leur accorde plus aucune valeur de vérité.
 
-
-## --- Tranche 23 / 24 ---
+## Tranche 23 / 24 : Le Protocole de Recadrage de Croyance par Oscillations de Probabilités (Pages 12-14)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3389,8 +3397,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 22/24 de 
 > « So why don't you just like, remember, because they're all going to shift. This is a sensation. So without judging it, without doing anything, how about if you and I just go, okay, you pay attention to that sensation right there and kind of go, hmm, hmm, hmm, what's going on with this sensation here? Hmm, Just notice what's happening with the sensation, and we know it's going to change in some way. We don't know how it's going to change, but we're already noticing right now. »
 - **[Analyse du Pattern]** : Présupposition inévitable de changement (*they're all going to shift*, *we know it's going to change*). Utilisation du truisme d'inconnaissance éricksonien (*we don't know how it's going to change*) qui empêche toute résistance consciente en validant le mystère du processus. L'inclusion des onomatopées de curiosité (*hmm, hmm*) et l'usage du présent continu (*we're already noticing right now*) ancrent le système nerveux dans un état d'observation sécurisée et dopaminergique.
 
-
-## --- Tranche 24 / 24 ---
+## Tranche 24 / 24 : A : Chaînage Quantificateur Réducteur (Fracturation de Problème / Déduction)
 
 Voici l'analyse modélisée et opératoire de la tranche 24/24 de la formation *12 Daze 2025 - TCU* par John Overdurf.
 
@@ -3534,3 +3541,4 @@ Voici l'analyse modélisée et opératoire de la tranche 24/24 de la formation *
   * **Recadrage d'utilisation de la résistance** : Redéfinition immédiate de la résistance comme indicateur de sérieux et d'impact inconscient profond.
   * **Couverture exhaustive des possibilités (Double Lien / Multiple Binds)** : Énumération de toutes les modalités oniriques concevables (rêves intenses, ennuyeux, colorés, noir et blanc, peuplés ou absence totale de souvenirs de rêves).
   * **Lien de cause à effet universel (*In any event*)** : Quel que soit le phénomène nocturne réel (rêver ou ne pas rêver), il est syntaxiquement rattaché et converti en une preuve irréfutable : *"let that be a sign that the learning's occurring at the deepest unconscious level"*. L'inconscient ne dispose d'aucune issue pour invalider l'apprentissage.
+

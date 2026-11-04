@@ -68,10 +68,52 @@ Voici la **Synthèse Architecturale du Cours** conçue comme tête de pont pour 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 116-268]** : Le Recadrage par Contraste Pénitentiaire (The Prison Thought Experiment) — *Protocole :* Le Recadrage par Contraste Pénitentiaire (The Prison Thought Experiment) | *Mécanisme :* Le Piège de l'Orientation Problème des Systèmes d'Atteinte (Attainment Systems Flaw) | *Verbatim :* La Reconfiguration Hypnotique du « Livre de Vie »
+- **Tranche 2 [Lignes 270-394]** : Le Double Test de Projection Mnésique Contrastée — *Protocole :* Le Double Test de Projection Mnésique Contrastée | *Mécanisme :* Le Re-cadrage Épistémique : Problème Dissatisfaisant vs Casse-tête Stimulant | *Verbatim :* Le Recadrage du Problème en Casse-Tête Récréatif
+- **Tranche 3 [Lignes 396-520]** : d'Installation d'une Préférence Par Défaut (Modélisation de l'Appétence Naturelle) — *Protocole :* d'Installation d'une Préférence Par Défaut (Modélisation de l'Appétence Naturelle) | *Mécanisme :* Le Biais d'Accessibilité Mnésique comme Moteur Comportemental | *Verbatim :* Le Recadrage de la Loi de l'Attention
+- **Tranche 4 [Lignes 522-661]** : Extraction & Standardisation d'un Micro-Palais de Mémoire (10 Pegs par Pièce) — *Protocole :* Extraction & Standardisation d'un Micro-Palais de Mémoire (10 Pegs par Pièce) | *Mécanisme :* Le Principe du « Default Mode » Comportemental & Identitaire | *Verbatim :* Verbatim 1 : Recadrage de l'Effort vers le « Default Mode »
+- **Tranche 5 [Lignes 663-795]** : d'Encodage Physique de Pegs Mnésiques In-Situ — *Protocole :* d'Encodage Physique de Pegs Mnésiques In-Situ | *Mécanisme :* Ancrage Somato-Sensoriel Kinesthésique Immédiat
+- **Tranche 6 [Lignes 797-908]** : d'Arpentage et de Calibrage de Palais Mnésique Domestique — *Protocole :* d'Arpentage et de Calibrage de Palais Mnésique Domestique | *Verbatim :* Verbatim : Ancrage de la permanence interne contre la fluctuation externe
+- **Tranche 7 [Lignes 910-1027]** : L'Élicitation du Template d'Automatisation (Démonstration de la Porte) — *Protocole :* L'Élicitation du Template d'Automatisation (Démonstration de la Porte) | *Verbatim :* La Redéfinition de l'Effortless et l'Enchaînement Identitaire
+- **Tranche 8 [Lignes 1029-1160]** : Démonstration Opératoire : Recadrage et Réalignement Mnésique sur Tâche Évitée (Cas des Impô... — *Protocole :* Démonstration Opératoire : Recadrage et Réalignement Mnésique sur Tâche Évitée (Cas des Impôts de Drew) | *Mécanisme :* Le Piège de la Fixation sur le Problème et le "Rubbernecking" Cognitif | *Verbatim :* La Re-mémorisation Quotidienne de Soi
+- **Tranche 9 [Lignes 1162-1271]** : Recalibrage de la Pile Mémorielle d'une Tâche (Alternative au Swish NLP) — *Protocole :* Recalibrage de la Pile Mémorielle d'une Tâche (Alternative au Swish NLP) | *Verbatim :* Recadrage de l'effort par la métaphore robotique de la porte
+- **Tranche 10 [Lignes 1273-1405]** : L'Inventaire de la Vie Parfaite & L'Index Mnésique d'Attestation — *Protocole :* L'Inventaire de la Vie Parfaite & L'Index Mnésique d'Attestation | *Verbatim :* Extrait 1 : Cadrage de Parcimonie et Ancrage au Présent
+- **Tranche 11 [Lignes 1407-1561]** : Le Tour d'Échauffement de Flexibilité des Palais (30 à 90 Secondes) — *Protocole :* Le Tour d'Échauffement de Flexibilité des Palais (30 à 90 Secondes)
+- **Tranche 12 [Lignes 1563-1672]** : Désensibilisation de la Linéarité Mnésique (Drill de 90 secondes) — *Protocole :* Désensibilisation de la Linéarité Mnésique (Drill de 90 secondes)
+- **Tranche 13 [Lignes 1674-1770]** : A : Migration & Réinitialisation d'un Peg Mnésique (Memory Migration & Peg Reset) — *Protocole :* A : Migration & Réinitialisation d'un Peg Mnésique (Memory Migration & Peg Reset)
+- **Tranche 14 [Lignes 1772-1916]** : Construction de la « Pièce de l'Exercice & Vitalité » (Exercise Room) — *Protocole :* Construction de la « Pièce de l'Exercice & Vitalité » (Exercise Room) | *Mécanisme :* Recâblage Somato-Hédonique par Pandiculation | *Verbatim :* Le Recadrage Sensoriel de la Tension Corporelle
+- **Tranche 15 [Lignes 1918-2033]** : A : Encodage d'un Souvenir Ressource sur un Crochet Spatial (Méthode Symbolique / Souvenir) — *Protocole :* A : Encodage d'un Souvenir Ressource sur un Crochet Spatial (Méthode Symbolique / Souvenir) | *Verbatim :* La Bascule Probabiliste du Changement Comportemental
+- **Tranche 16 [Lignes 2035-2183]** : L'Exorcisme Psychologique d'Espace (Neutralisation & Recouvrement de Lieu Négatif) — *Protocole :* L'Exorcisme Psychologique d'Espace (Neutralisation & Recouvrement de Lieu Négatif) | *Mécanisme :* Ancrage Spatial et Recyclage Émotionnel d'Espaces (spatialanchoring exorcismepsychologique memorypalacepeg) | *Verbatim :* Suggestion Post-Hypnotique & Ancrage de la Dissolution
+- **Tranche 17 [Lignes 2185-2329]** : A : Recadrage "Non-Healing" & Dérivation vers l'État Ressource — *Protocole :* A : Recadrage "Non-Healing" & Dérivation vers l'État Ressource
+- **Tranche 18 [Lignes 2331-2467]** : A : Structuration de la Pièce "Vitalité Mentale / Clarté" (Mental Clarity & Vitality Pegging) — *Protocole :* A : Structuration de la Pièce "Vitalité Mentale / Clarté" (Mental Clarity & Vitality Pegging)
+- **Tranche 19 [Lignes 2469-2582]** : Construction de la Pièce "Growth Mindset" dans le Palais de Vie — *Protocole :* Construction de la Pièce "Growth Mindset" dans le Palais de Vie | *Verbatim :* Recadrage de la Douleur en Impulsion Désirable
+- **Tranche 20 [Lignes 2584-2740]** : Encodage d'un Souvenir de "Patience / Incompétence Initiale" (Suck at First) — *Protocole :* Encodage d'un Souvenir de "Patience / Incompétence Initiale" (Suck at First)
+- **Tranche 21 [Lignes 2742-2876]** : Encodage de la Détermination (Resolve / Grit Room) — *Protocole :* Encodage de la Détermination (Resolve / Grit Room) | *Mécanisme :* Stabilisation Sémantique par Agrégation Spatiale Contextuelle | *Verbatim :* Verbatim 1 : Distinction Souvenir Réel vs Idée Abstraite
+- **Tranche 22 [Lignes 2878-3017]** : Encodage et Cartographie de la Pièce de la Résilience (The Resilience Room) — *Protocole :* Encodage et Cartographie de la Pièce de la Résilience (The Resilience Room) | *Mécanisme :* Le Redimensionnement Relatif de l'Ego/Espace Spatial (Relative Ego-Space Scaling) | *Verbatim :* Le Redimensionnement Spatial Égo-Environnement
+- **Tranche 23 [Lignes 3019-3156]** : d'Encodage de la Salle « Estime de Soi » (Self-Esteem Room) — *Protocole :* d'Encodage de la Salle « Estime de Soi » (Self-Esteem Room) | *Mécanisme :* Le Baromètre Écologique du Groupe de Pairs (vs Narcissisme) | *Verbatim :* Recadrage de la Dissolution de Croyance par l'Indifférence
+- **Tranche 24 [Lignes 3158-3292]** : Flash-Drill de Réchauffement Cérébral Multi-Directionnel (90-Second Warmup) — *Protocole :* Flash-Drill de Réchauffement Cérébral Multi-Directionnel (90-Second Warmup) | *Verbatim :* Verbatim 1 : La dissolution des problèmes en approche orientée solution
+- **Tranche 25 [Lignes 3294-3407]** : Encodage de la Gratitude Relationnelle dans le Palais de Mémoire — *Protocole :* Encodage de la Gratitude Relationnelle dans le Palais de Mémoire | *Mécanisme :* Le Principe d'Inondation Perceptive et Déchéance d'Attention (The Red Balloon Paradox) | *Verbatim :* La Métaphore Isomorphique du Ballon Rouge et l'Extinction par Saturation
+- **Tranche 26 [Lignes 3409-3544]** : Encodage de la Gratitude Relationnelle Critique — Catégorie « Commitment » (Engagement / Sou... — *Protocole :* Encodage de la Gratitude Relationnelle Critique — Catégorie « Commitment » (Engagement / Soutien en Crise) | *Verbatim :* Le Recadrage du Manque Perceptif & Amorçage Double
+- **Tranche 27 [Lignes 3546-3686]** : Encodage de la Salle de la Bonté (Kindness Room) — *Protocole :* Encodage de la Salle de la Bonté (Kindness Room) | *Verbatim :* Verbatim 1 : L'extinction du symptôme par saturation d'espace
+- **Tranche 28 [Lignes 3688-3796]** : Indexation Mnémonique du Palais Relationnel & Énergie Interne (Rooms & Pegs) — *Protocole :* Indexation Mnémonique du Palais Relationnel & Énergie Interne (Rooms & Pegs) | *Verbatim :* L'Inversion de l'Inhibition Somatique
+- **Tranche 29 [Lignes 3798-3931]** : A : Extraction et Encodage d'un Filtre de Communication dans le Palais Mémoriel — *Protocole :* A : Extraction et Encodage d'un Filtre de Communication dans le Palais Mémoriel | *Verbatim :* La Présupposition de la Trace Mémorielle
+- **Tranche 30 [Lignes 3933-4060]** : Encodage et Ancrage Bidirectionnel (Palais Réel <-> Symbole Intérieur) — *Protocole :* Encodage et Ancrage Bidirectionnel (Palais Réel <-> Symbole Intérieur) | *Mécanisme :* Le Continuum de Consolidation Mnémonique (De l'Éphémère au Long Terme) | *Verbatim :* La distinction opératoire Encodage vs Récupération
+- **Tranche 31 [Lignes 4062-4177]** : L'Algorithme SuperMemo Manuel appliqué au Palais de Mémoire — *Protocole :* L'Algorithme SuperMemo Manuel appliqué au Palais de Mémoire
+- **Tranche 32 [Lignes 4179-4342]** : Le Système de Révision Professionnelle (Spaced Repetition & Batch Memory Management) — *Protocole :* Le Système de Révision Professionnelle (Spaced Repetition & Batch Memory Management) | *Mécanisme :* Amorçage et programmation du Système Réticulé Activateur Ascendant (SRAA / RAS) | *Verbatim :* La métaphore du gymnase et l'activation du SRAA
+- **Tranche 33 [Lignes 4344-4496]** : « The 5-Step Parmenidean Brain-Melt » (Déconstruction Logique de l'Illusion des Problèmes) — *Protocole :* « The 5-Step Parmenidean Brain-Melt » (Déconstruction Logique de l'Illusion des Problèmes) | *Mécanisme :* Le Débrayage Ontologique Parménidien (Radical Non-Dual Reduction) | *Verbatim :* Le Pré-cadrage de Rupture et Hypothèse de Non-Retour
+- **Tranche 34 [Lignes 4498-4640]** : d'Initialisation du Disque Dur Spatial (Fondation du Palais de Mémoire) — *Protocole :* d'Initialisation du Disque Dur Spatial (Fondation du Palais de Mémoire) | *Verbatim :* La dissolution parménidienne du problème
+- **Tranche 35 [Lignes 4642-4772]** : A : Formatage de Disque Dur Spatial (Préparation d'un Palais de Mémoire Épuré) — *Protocole :* A : Formatage de Disque Dur Spatial (Préparation d'un Palais de Mémoire Épuré) | *Verbatim :* Présupposition d'effort nul et recadrage de simplicité
+- **Tranche 36 [Lignes 4774-4903]** : Création et Sauvegarde Somatique de Palais de Mémoire Multiples — *Protocole :* Création et Sauvegarde Somatique de Palais de Mémoire Multiples | *Mécanisme :* Le Découplage Structure/Contenu (Cognitive Load Decoupling) | *Verbatim :* Le Découplage de la Charge Mentale
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 36 ---
+## Tranche 1 / 36 : Le Recadrage par Contraste Pénitentiaire (The Prison Thought Experiment)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -225,8 +267,7 @@ Voici la **Synthèse Architecturale du Cours** conçue comme tête de pont pour 
   - **Mise en lumière du paradoxe d'évitement :** Démonstration de la manière dont la tentative d'éviter une douleur du passé engendre directement la misère présente en coupant le feedback de la réalité actualisée.
   - **Métaphore de rupture technologique (*Star Trek Door Isomorphism*) :** Utilisation d'une analogie visuelle et absurde (la peur des portes dans un monde où les portes coulissent sans contact) pour saturer la logique consciente et faire toucher du doigt au sujet l'absurdité de ses précautions de survie périmées.
 
-
-## --- Tranche 2 / 36 ---
+## Tranche 2 / 36 : Le Double Test de Projection Mnésique Contrastée
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 2/36 du cours **Perfect Life Method**.
 
@@ -352,8 +393,7 @@ Mesurer le chiffre (qui explose au-delà de 10/10) et valider le déverrouillage
 
 * **[Analyse du Pattern]** : Recadrage de niveau logique (de l'Action/Comportement à l'Identité : *« not something you do, it's something you become »*). Utilisation du retournement paradoxal d'un défaut (utiliser la procrastination et l'oubli non pas contre ses devoirs, mais *contre ses propres symptômes néfastes*). Ancrage par analogie viscérale et physiologique crue (l'évacuation intestinale comme archétype de l'effort homéostatique non négociable et non pénible).
 
-
-## --- Tranche 3 / 36 ---
+## Tranche 3 / 36 : d'Installation d'une Préférence Par Défaut (Modélisation de l'Appétence Naturelle)
 
 Voici l'analyse opératoire intégrale de la tranche 3/36 du cours **"Perfect Life Method"**.
 
@@ -479,8 +519,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/36 du cours **"Perfect Li
 > *"Yesterday, I had a craving for pizza. I went to one place, it was shut. I went to another place, it was shut. I went, 'Oh, fuck, I'm having a burger.' What happened? I still want that pizza. It's still in my mind. It's an incomplete loop. You just want your mind filled with loops that give you what you want, not what you don't want."*
 * **[Analyse du Pattern]** : Métaphore isomorphe de l'effet Zeigarnik appliqué au désir. Le formateur illustre la force indestructible d'une boucle mnésique ouverte orientée vers le plaisir, démontrant que l'esprit n'abandonne jamais un *craving* tant qu'il n'a pas été vécu ou substitué par un désir équivalent ou supérieur.
 
-
-## --- Tranche 4 / 36 ---
+## Tranche 4 / 36 : Extraction & Standardisation d'un Micro-Palais de Mémoire (10 Pegs par Pièce)
 
 Voici l’analyse chirurgicale et l'extraction de matière opératoire de la tranche 4/36 du cours **« Perfect Life Method »** (animé par Igor Ledochowski).
 
@@ -621,8 +660,7 @@ Voici l’analyse chirurgicale et l'extraction de matière opératoire de la tra
   * **Double lien conversationnel & Commande d'impossibilité de résistance** : Répète à deux reprises la suggestion directe de non-contrôle conscient : *« You can't help it »* (Vous ne pouvez pas vous en empêcher). 
   * **Démonstration en temps réel (Loop Closure)** : Il prononce l'amorce (*« ball and pattern »*) et capture immédiatement la réponse automatique de l'inconscient du sujet (*« Salad »*), prouvant par l'expérience vécue sans contestation possible que le conditionnement est instantané, universel et autonome.
 
-
-## --- Tranche 5 / 36 ---
+## Tranche 5 / 36 : d'Encodage Physique de Pegs Mnésiques In-Situ
 
 Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/36 du cours *Perfect Life Method*.
 
@@ -756,8 +794,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/36 du
 ```
 * **[Analyse du Pattern]** : Auto-calibration modélisante partagée en temps réel (démonstration par l'exemple). En verbalisant sa propre avance conceptuelle sous-corticale par rapport à l'élocution verbale, il implante une présupposition puissante : le système de pegs spatiaux est tellement rapide et naturel qu'il dépasse les contraintes de la linguistique consciente.
 
-
-## --- Tranche 6 / 36 ---
+## Tranche 6 / 36 : d'Arpentage et de Calibrage de Palais Mnésique Domestique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -870,8 +907,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/36 du
 - **[Analyse du Pattern] :**  
   **Utilisation de l'égalisation (pacing) et métaphore analogique contrastée (dimmer switch vs 4K).** Le praticien commence par s'aligner sur la limitation perçue du sujet en affirmant que sa propre mémoire visuelle est défaillante. Il redéfinit ensuite le critère de réussite par une preuve d'action déjà accomplie : *« Whatever that was is good enough »*. Il termine par un recadrage sémantique séparant la modalité technique (*« quality of the imagery »*) de l'efficacité kinesthésique et fonctionnelle (*« quality of experience »*), levant instantanément toute résistance liée à l'incapacité d'imagerie mentale.
 
-
-## --- Tranche 7 / 36 ---
+## Tranche 7 / 36 : L'Élicitation du Template d'Automatisation (Démonstration de la Porte)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -990,8 +1026,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/36 du
   - **Recadrage provocateur du terme « Ignorance » :** Réhabilitation positive du mot en lui adjoignant la curiosité vers la maturité (« *the kind of ignorance that was just interested in more grownup things* »).
   - **Métaphores enchevêtrées :** Glissement élégant entre le « doudou » d'enfance et le « plat en rotation » (*spinning plate* de jonglerie), suggérant que le problème psychologique ne meurt pas parce qu'on le résout, mais parce qu'on cesse de lui insuffler de l'élan cinétique.
 
-
-## --- Tranche 8 / 36 ---
+## Tranche 8 / 36 : Démonstration Opératoire : Recadrage et Réalignement Mnésique sur Tâche Évitée (Cas des Impô...
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/36 de la formation **Perfect Life Method**.
 
@@ -1124,8 +1159,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/36 de l
   - **Présupposition de compétence :** Présuppose que le sujet possède déjà tous les souvenirs d'efficacité requis (*"you've done it successfully... you don't run four businesses without being able to do numbers"*).
   - **Suggestion directe de focalisation sélective :** Commande conversationnelle invitant à isoler la seule phase opératoire neutre, rendant la résistance structurellement impossible.
 
-
-## --- Tranche 9 / 36 ---
+## Tranche 9 / 36 : Recalibrage de la Pile Mémorielle d'une Tâche (Alternative au Swish NLP)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1236,8 +1270,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 8/36 de l
 * **[Analyse du Pattern] :**
   *Double contrainte de frugalité et présupposition d'état complet.* Le superlatif restrictif répété (*"the fewest things / fewer stretches"*) combiné au marqueur temporel d'invariance (*"consistently"*) force l'esprit du sujet à évacuer le superflu matériel. La clause terminale *"for you to know that your life is perfect"* présuppose la perfection de la vie non pas comme un futur lointain à bâtir, mais comme un état déjà reconnaissable dès lors que ces conditions minimes sont cochées.
 
-
-## --- Tranche 10 / 36 ---
+## Tranche 10 / 36 : L'Inventaire de la Vie Parfaite & L'Index Mnésique d'Attestation
 
 Voici l'analyse opératoire et la modélisation intégrale de la tranche 10/36 du cours *Perfect Life Method*.
 
@@ -1371,8 +1404,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 10/36 d
   - *Questions d'accès mnésique immédiat* : La bascule instantanée de *"What would that jet do?"* vers *"Where have you had... in your life?"* convertit une projection future inaccessible en une recherche immédiate de ressources intérieures déjà vécues.
   - *Conclusion axiomatique d'effondrement sémantique* : La phrase finale (*"You don't want the jet. You want what the jet can give you"*) agit comme une rupture d'illusion matérialiste et recentre l'ensemble de l'appareil psychologique sur la gestion d'états internes.
 
-
-## --- Tranche 11 / 36 ---
+## Tranche 11 / 36 : Le Tour d'Échauffement de Flexibilité des Palais (30 à 90 Secondes)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1528,8 +1560,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 10/36 d
 * **[Analyse du Pattern]** : 
   Induction conversationnelle par fixation d'attention somatique externe et suggestion post-hypnotique instantanée. En dirigeant le regard et l'imagerie mentale sur une partie précise du corps d'autrui (*« right down his nose »*) et en superposant une image absurde et vivante (*« spinning globe »*), il contourne l'esprit critique. La formulation *« and it's already taken effect »* est une présupposition d'accomplissement temporel qui valide la transe sans laisser le temps de douter.
 
-
-## --- Tranche 12 / 36 ---
+## Tranche 12 / 36 : Désensibilisation de la Linéarité Mnésique (Drill de 90 secondes)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1640,8 +1671,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 10/36 d
 > **"Remember, we're setting the template for unconscious mind to follow and the fact that you've lived the template already solves so many problems of can I believe this? Is this true? Is this really me? Irrelevant. It was true at least once. If it was true once, your unconscious mind can figure out conditions to make it happen again. Make sense?"**
 - **[Analyse du Pattern]** : Démantèlement d'objections internes par empilement de questions rhétoriques suivi d'une rupture sèche de pattern (*"Irrelevant"*). Application d'un postulat ericksonien sur la capacité de l'inconscient à généraliser à partir d'un échantillon unique (*"If it was true once, your unconscious mind can figure out conditions to make it happen again"*). Cette structure dissout instantanément le syndrome de l'imposteur ou la résistance au changement d'identité.
 
-
-## --- Tranche 13 / 36 ---
+## Tranche 13 / 36 : A : Migration & Réinitialisation d'un Peg Mnésique (Memory Migration & Peg Reset)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1739,8 +1769,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 10/36 d
   > "You, have you ever taking a long journey in a car, in a plane, in a train? And then after being confined for hours in a small space, what do you do? Something like this. Oh, oh, yeah. Oh, it's kind of like yawning, but it's more than yawning. You get the idea? What is that? Expanding, stretching, growing. Pandiculation. That's what it means. It's like a full body yawn... I have not met a human being yet that didn't find great pleasure in tensing their muscles and moving through a random series of stretches like this... Why is this important? Because it teaches you that it's actually enjoyable to strain your body."
   * **[Analyse du Pattern]** : Question de recherche transdérivationnelle universelle (*"have you ever..."*), mimétisme somatique en temps réel avec vocalises sensorielles (*"Oh, oh, yeah"*), et empilement de prédicats kinesthésiques (*"expanding, stretching, growing, tensing"*). Le recadrage identitaire culmine par une conclusion normative indiscutable (*"I have not met a human being yet..."*) pour installer le postulat thérapeutique : contraindre son corps est intrinsèquement source de plaisir.
 
-
-## --- Tranche 14 / 36 ---
+## Tranche 14 / 36 : Construction de la « Pièce de l'Exercice & Vitalité » (Exercise Room)
 
 Voici l'analyse opératoire intégrale de la **tranche 14/36** du cours *"Perfect Life Method Transcripts"*.
 
@@ -1886,8 +1915,7 @@ Voici l'analyse opératoire intégrale de la **tranche 14/36** du cours *"Perfec
   - **Analogie d'accès direct (Evocation de truisme identitaire)** : L'interrogation ultra-rapide sur le prénom court-circuite la réflexion analytique et prouve immédiatement ce qu'est un état de connaissance inconsciente intégrée (sans effort de recherche mnésique).
   - **Présupposition temporelle et structurelle** : Utilisation du verbe modal d'évidence (*"They just need to be there"*) et de la locution temporelle *"That's when they become a template"*, suggérant que le passage de la technique consciente à l'automatisme inconscient de second ordre est inévitable avec la répétition.
 
-
-## --- Tranche 15 / 36 ---
+## Tranche 15 / 36 : A : Encodage d'un Souvenir Ressource sur un Crochet Spatial (Méthode Symbolique / Souvenir)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2004,8 +2032,7 @@ Voici l'analyse opératoire intégrale de la **tranche 14/36** du cours *"Perfec
 > *"Oral storytellers will use, and you'll notice this a lot in ancient poems. They give every character a symbolic element, right? So, you know, Aeneas with his tree-like spear... Thor and his hammer... These symbols are ways of taking an abstract idea... and giving it a characteristic, a symbolic characteristic... that helps you separate Oh, who are we talking about right now?"*
 * **[Analyse du Pattern] :** **Normalisation archétypale et légitimation anthropologique.** En reliant l'exercice de mémorisation aux poèmes épiques antiques et aux traditions orales ancestrales (songlines aborigènes, mythes grecs et scandinaves), il contourne l'esprit critique de l'auditoire. La technique n'est plus perçue comme un "truc mnémotechnique artificiel", mais comme l'utilisation du code d'exploitation natif de l'esprit humain.
 
-
-## --- Tranche 16 / 36 ---
+## Tranche 16 / 36 : L'Exorcisme Psychologique d'Espace (Neutralisation & Recouvrement de Lieu Négatif)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 16/36 du cours **Perfect Life Method**.
 
@@ -2155,8 +2182,7 @@ flowchart TD
   - **Recadrage métaphorique d'impuissance en agentivité** : En racontant l'histoire d'Erickson à un élève perclus de douleurs aux genoux et incapable de se tenir debout, il contourne l'objection organique sans la nier.
   - **Commande idéomotrice enchâssée** : L'accent mis sur le mot *« gusto »* et sur la bascule involontaire du fauteuil suggère que l'immersion mentale active possède une puissance biomécanique réelle, réinstallant l'espoir et l'intérêt pour la pratique interne sans entrer dans le registre de la fausse promesse médicale.
 
-
-## --- Tranche 17 / 36 ---
+## Tranche 17 / 36 : A : Recadrage "Non-Healing" & Dérivation vers l'État Ressource
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/36 de *Perfect Life Method*.
 
@@ -2302,8 +2328,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 17/36 de
 ```
 * **[Analyse du Pattern]** : **Réductionnisme pragmatique radical et permission d'auto-organisation**. En réduisant l'ensemble de la complexité technique à un seul critère binaire d'accessibilité (*"do you have access to the memory?"*), il élimine le perfectionnisme pathologique de l'apprenant. La formule *"The answer to 'can I?' is 'yes, you can'"* dissout toute surcharge analytique et installe une transe d'autorisation opératoire absolue.
 
-
-## --- Tranche 18 / 36 ---
+## Tranche 18 / 36 : A : Structuration de la Pièce "Vitalité Mentale / Clarté" (Mental Clarity & Vitality Pegging)
 
 Voici l’analyse chirurgicale et l’extraction opératoire de la tranche 18/36 de *Perfect Life Method*.
 
@@ -2441,8 +2466,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire de la tranche 18/36
 > **"It didn't diminish the loss, but it gave him his son back, if that kind of makes sense. [...] We actually carry the person with us long after they passed, because they're still with us."**
 * **[Analyse du Pattern]** : *Recadrage paradoxal de la présence intérieure*. En séparant formellement l'événement de la perte (*the loss*) de la relation d'expérience interne (*gave him his son back*), le formateur dissout la croyance selon laquelle se souvenir de la personne équivaut à revivre sa mort. La suggestion *"they're still with us"* convertit l'absence physique en permanence mnésique active.
 
-
-## --- Tranche 19 / 36 ---
+## Tranche 19 / 36 : Construction de la Pièce "Growth Mindset" dans le Palais de Vie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2557,8 +2581,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire de la tranche 18/36
 > "Look, if you don't suck at first, that means you have nothing to learn. And you might be lucky you might have a talent or something... The problem being talented straight away is that as soon as you hit one challenge, you'll give up, because you're just so used to being good, you can't handle not being good. I was really lucky in the sense that I was pretty bad at most things I've ever tried to do... So, I'm not worried about sucking. It's not important. It's a temporary state of affairs."
 - **[Analyse du Pattern]** : Renversement de critère radical (*Reframing values/criteria*). Le formateur redéfinit le "talent" initial comme un handicap psychologique majeur (source de fragilité et d'abandon) et redéfinit l'incompétence initiale ("sucking") comme une chance immense ("really lucky") et un critère indispensable à l'apprentissage durable. L'utilisation du présent de vérité générale scelle l'acceptation de la phase ingrate comme une simple temporalité mécanique ("temporary state of affairs").
 
-
-## --- Tranche 20 / 36 ---
+## Tranche 20 / 36 : Encodage d'un Souvenir de "Patience / Incompétence Initiale" (Suck at First)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2716,8 +2739,7 @@ Voici l’analyse chirurgicale et l’extraction opératoire de la tranche 18/36
 > *"Why don't you just go home? When you're sitting there washing your feet and putting the dressing on, why not just go home? I believed that I could work through it... That's the goal. It's not just because the goal is in the future. It's that belief that you can do it. And so you don't even contemplate giving up, right? It just makes no sense. Exactly. That's what we're looking for."*
 * **[Analyse du Pattern]** : **Question de provocation et rupture de cadre pour éliciter la structure profonde de la conviction**. En demandant crûment *"Pourquoi ne pas simplement rentrer chez toi ?"*, le formateur crée une friction délibérée qui force le sujet à contacter immédiatement la croyance racine sous-jacente. Dès que le sujet formule sa certitude ("I believed that I could work through it"), le formateur verrouille le pattern par ratification verbale ("That's what we're looking for") et présupposition d'évidence ("you don't even contemplate giving up... it makes no sense").
 
-
-## --- Tranche 21 / 36 ---
+## Tranche 21 / 36 : Encodage de la Détermination (Resolve / Grit Room)
 
 Voici l'extraction chirurgicale et la modélisation opératoire intégrale de la tranche 21/36 du cours **Perfect Life Method**.
 
@@ -2853,8 +2875,7 @@ Voici l'extraction chirurgicale et la modélisation opératoire intégrale de la
 > *"Look how many spaces I can put together, right? And all I have to do is make myself, shrink myself down to being tiny. And suddenly this house, this car is vast. It's not like I'm all locked into it. I make myself whatever relative size I need it to be for that space to be the size I want it to be, to feel accommodating. Make sense?"*
 * **[Analyse du Pattern]** : Modification délibérée des sous-modalités kinesthésiques et visuelles spatiales. Utilisation d'une commande de distorsion d'échelle (*« shrink myself down »*) couplée à un recadrage de libération spatiale (*« suddenly this house, this car is vast... to feel accommodating »*). Cela supprime le sentiment de saturation mentale en déverrouillant la flexibilité dimensionnelle de l'espace de stockage inconscient.
 
-
-## --- Tranche 22 / 36 ---
+## Tranche 22 / 36 : Encodage et Cartographie de la Pièce de la Résilience (The Resilience Room)
 
 Voici l'analyse opératoire intégrale de la tranche 22/36 du cours *Perfect Life Method Transcripts*.
 
@@ -2995,8 +3016,7 @@ Voici l'analyse opératoire intégrale de la tranche 22/36 du cours *Perfect Lif
 
 * **[Analyse du Pattern]** : Narration isomorphique modélisant la flexibilité d'état en temps réel. La formule conclusive formalise une règle d'alchimie comportementale (*"The conditions that I thought were causing my defeat were actually the conditions that allowed me to create a triumph"*). Ce recadrage redéfinit l'obstacle non pas comme une barrière, mais comme la matière première exacte et indispensable nécessaire à l'accomplissement du succès.
 
-
-## --- Tranche 23 / 36 ---
+## Tranche 23 / 36 : d'Encodage de la Salle « Estime de Soi » (Self-Esteem Room)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 23/36 de la formation.
 
@@ -3135,8 +3155,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 23/3
   - **Alerte méta-cognitive (ventriloquie de l'inconscient)** : Le formateur met en scène la réaction souterraine du système nerveux (*« Oh well, this belief is still strong »*), rendant immédiatement perceptible pour le sujet la contre-productivité d'une recherche d'efficacité indirecte.
   - **Loi d'absorption attentionnelle** : Définition opératoire du lâcher-prise non comme une passivité, mais comme une hyper-absorption dans un acte porteur de sa propre fin.
 
-
-## --- Tranche 24 / 36 ---
+## Tranche 24 / 36 : Flash-Drill de Réchauffement Cérébral Multi-Directionnel (90-Second Warmup)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3272,8 +3291,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 23/3
   - *Répétition rythmée & Ancrage kinesthésique d'allure :* *"flash flash flash... move on"* cadence le fonctionnement neurologique sur un tempo rapide et sans effort, désactivant le piège de la rumination ou de l'analyse analytique lente.
   - *Suggestion d'intégration somato-psychique :* *"lighting up the neural network... body mind links to that"* métaphorise l'activation synaptique sous forme d'un circuit électrique qui illumine le système corps-esprit.
 
-
-## --- Tranche 25 / 36 ---
+## Tranche 25 / 36 : Encodage de la Gratitude Relationnelle dans le Palais de Mémoire
 
 Voici l'analyse d'ingénierie et de modélisation de la tranche 25/36 du cours **"Perfect Life Method"**.
 
@@ -3388,8 +3406,7 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 25/36 du cours *
 
 * **[Analyse du Pattern]** : Élimination brutale de la nuance intermédiaire (« double lien inversé ») pour forcer une bascule identitaire binaire (*"You're a hero. You're a victim."*). L'équivalence complexe posée (« raconter une histoire = générer l'état biologique correspondant ») dépouille la victimisation de tout fondement externe pour la ramener à une simple répétition active inconsciente, créant ainsi la responsabilité immédiate de changer de pratique mentale.
 
-
-## --- Tranche 26 / 36 ---
+## Tranche 26 / 36 : Encodage de la Gratitude Relationnelle Critique — Catégorie « Commitment » (Engagement / Sou...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3526,8 +3543,7 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 25/36 du cours *
   - *Accumulation rythmée et empilement spatial sensoriel* (*« on the bumper... on the hood... on the wing mirror... on the door... »*) : Induction kinesthésique et visuelle rapide qui sature l'hémisphère logique par une énumération continue de sous-emplacements évidents.
   - *Changement d'échelle hypnotique (« zoom the car open » / « hyperlink to another room »)* : Utilisation de métaphores numériques/informatiques transposées dans la phénoménologie de la transe mnésique, rendant la plasticité spatiale instantanément intuitive et manipulable.
 
-
-## --- Tranche 27 / 36 ---
+## Tranche 27 / 36 : Encodage de la Salle de la Bonté (Kindness Room)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3669,8 +3685,7 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 25/36 du cours *
 
 - **[Analyse du Pattern]** : Chiasme et enchaînement rythmique en cadence serrée (*« their inhibition inhibits you / The other person's freedom frees you »*). Ce parallélisme linguistique crée une équivalence neuro-émotionnelle directe entre la physiologie interne du sujet et l'impact immédiat généré sur autrui, débouchant sur une injonction d'identité éthique (*« So be someone who frees »*).
 
-
-## --- Tranche 28 / 36 ---
+## Tranche 28 / 36 : Indexation Mnémonique du Palais Relationnel & Énergie Interne (Rooms & Pegs)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3780,8 +3795,7 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 25/36 du cours *
 > **« When he talks about clarity, and give me an idea simply and with clarity and other people understanding it, how is that understanding exactly what he means? Because you can't understand any concept without a reference experience. And that reference experience is called a memory. [...] That sentence would be completely meaningless if you had no memories that were relevant to that idea. »**
 * **[Analyse du Pattern]** : Présupposition linguistique logique irréfutable basée sur la sémantique générale. Le formateur enferme l'interlocuteur dans un double lien cognitif : pour affirmer « je ne trouve pas de souvenir correspondant à ce que tu dis », tu es obligé de *comprendre* ce que je dis ; or la compréhension nécessite une structure d'ancrage vécue. L'impossibilité de nier la prémisse force l'inconscient à déverrouiller l'accès au réseau mémoriel pertinent.
 
-
-## --- Tranche 29 / 36 ---
+## Tranche 29 / 36 : A : Extraction et Encodage d'un Filtre de Communication dans le Palais Mémoriel
 
 Voici l'analyse opératoire intégrale de la tranche 29/36 du cours *Perfect Life Method*.
 
@@ -3916,8 +3930,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/36 du cours *Perfect Lif
 > *"Once you've shaken that, then you can address any negative experience with the same mindset and realize what am I adding to this? Let's bring it on forward, by the way. What am I adding to this? That's actually creating the illusion that the problem is real, right? I would argue, well, we'll get into this afternoon, that actually maybe no problem's actually real."*
 * **[Analyse du Pattern]** : Question réflexive transformée en suggestion hypnotique (*« What am I adding to this? »*), qui présuppose que la souffrance ne provient pas de l'événement mais d'une surcouche projective du sujet. L'insertion de l'adverbe modalisateur (*« actually creating the illusion »*) détruit la nominalisation « problème », ramenée au statut d'hallucination cognitive subjective (*« no problem's actually real »*). Pré-cadrage à boucle ouverte (*open loop*) pour la session de l'après-midi.
 
-
-## --- Tranche 30 / 36 ---
+## Tranche 30 / 36 : Encodage et Ancrage Bidirectionnel (Palais Réel <-> Symbole Intérieur)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 30/36.
 
@@ -4046,8 +4059,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
     *   *Conditionnement pavlovien par présupposition temporelle continue* : La formulation *« So every time you look at the tap, you think elephant, elephant reminds you of the feelings of courage »* crée un ancrage en chaîne (*chaining anchor*) sans laisser d'échappatoire logique à l'inconscient.
     *   *Tags de transe (Right?)* : Ponctuation répétée par des *« right? »* qui saturent le facteur critique et forcent un accord somatique et cognitif tacite à chaque pas de la trame.
 
-
-## --- Tranche 31 / 36 ---
+## Tranche 31 / 36 : L'Algorithme SuperMemo Manuel appliqué au Palais de Mémoire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4164,8 +4176,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   > "And then, and then you'll create new palaces, and you'll create new rooms, and it will create new pegs, and you'll store new memories. And you'll start again, you'll create even more palaces, and even more rooms... At first you have five memories stored, then you'll store 10 memories, then 20 memories, then 50 memories, then 100 memories, then 500 memories, then 1000 memories, it's all super easy for you at that point."
   * **[Analyse du Pattern]** : Empilement rythmique d'assertions en crescendo (*pacing and leading* par induction progressive). L'accumulation répétitive de conjonctions (*polysyndète*) et la progression arithmétique exponentielle (5 -> 1000) agissent comme un aplatissement de la résistance : la suggestion terminale *"it's all super easy for you at that point"* est acceptée par glissement hypnotique sur la dynamique d'expansion.
 
-
-## --- Tranche 32 / 36 ---
+## Tranche 32 / 36 : Le Système de Révision Professionnelle (Spaced Repetition & Batch Memory Management)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 32/36, selon la grille stricte d'ingénierie opératoire.
 
@@ -4330,8 +4341,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 32/36, selon la grill
   - **Présupposition d'irréversibilité cognitive** : *"difficult to shake once you hear it... very hard to un-hear it"*. Suggère avant même la délivrance du concept qu'il s'implantera comme un virus mental permanent dans l'appareil psychique du récepteur.
   - **Métaphore somatique de choc** : *"experience what a melting brain can feel like"*, préparant le système nerveux à un état de transe de confusion avancée.
 
-
-## --- Tranche 33 / 36 ---
+## Tranche 33 / 36 : « The 5-Step Parmenidean Brain-Melt » (Déconstruction Logique de l'Illusion des Problèmes)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 33/36.
 
@@ -4485,8 +4495,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 33/3
   * **Équivalence complexe conclusive :** Fusion de *Être = Vrai = Réel = Parfait*.
   * **Suggestion post-hypnotique directe :** *« All you have to do is notice when it is perfect »*. Le travail thérapeutique n'est plus une réparation ou un combat, mais un simple acte attentionnel de reconnaissance de ce qui est déjà là.
 
-
-## --- Tranche 34 / 36 ---
+## Tranche 34 / 36 : d'Initialisation du Disque Dur Spatial (Fondation du Palais de Mémoire)
 
 Voici l'analyse opératoire intégrale de la tranche 34/36 du séminaire.
 
@@ -4630,8 +4639,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/36 du séminaire.
   - **Rupture de pattern par pointage humoristique direct** : le formateur met en exergue l'incohérence flagrante entre l'identité revendiquée par le sujet (*"j'ai une mauvaise mémoire"*) et son comportement neuromoteur immédiat (afflux intarissable de détails visuels et spatiaux).
   - **Validation conversationnelle indirecte** : au lieu d'argumenter pour convaincre le sujet, il attire l'attention de la pièce et de la conscience du sujet sur la preuve somatique vivante de sa compétence mnésique.
 
-
-## --- Tranche 35 / 36 ---
+## Tranche 35 / 36 : A : Formatage de Disque Dur Spatial (Préparation d'un Palais de Mémoire Épuré)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4763,8 +4771,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/36 du séminaire.
 
 * **[Analyse du Pattern]** : Clivage hypnotique et dissociation de tâches cognitives (« *generating* » vs « *having the experience* », « *thinking* » vs « *doing* »). En posant comme truisme l'impossibilité de penser et faire simultanément, le formateur valide la technique de découplage séquentiel et implémente la suggestion que chaque tâche isolée est exempte d'effort (« *so that they're both easy to do* »).
 
-
-## --- Tranche 36 / 36 ---
+## Tranche 36 / 36 : Création et Sauvegarde Somatique de Palais de Mémoire Multiples
 
 Voici l’analyse et l’extraction opératoire intégrale de la tranche 36/36 de *Perfect Life Method*.
 
@@ -4894,3 +4901,4 @@ Voici l’analyse et l’extraction opératoire intégrale de la tranche 36/36 d
 * **[Analyse du Pattern]** :
   * **Recadrage d'état** : Redéfinition de la "lutte" non pas comme une preuve d'effort louable, mais comme une focalisation dysfonctionnelle sur le manque (*"attainment", "what's not there"*).
   * **Suggestion de bascule attentionnelle vers l'évidence** : *"Just use what's there, instead of what's not there"*. La répétition syntaxique crée un truisme d'une simplicité désarmante qui induit un lâcher-prise cognitif immédiat.
+

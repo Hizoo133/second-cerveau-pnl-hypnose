@@ -122,10 +122,23 @@ L'architecture complète du cours repose sur un cycle invariant en 4 phases :
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 141-285]** : Hypnotique en 4 Étapes (Four-Stage Hypnotic Protocol) — *Protocole :* Hypnotique en 4 Étapes (Four-Stage Hypnotic Protocol) | *Mécanisme :* La Transe comme Amplificateur d'Expérience et Processus Biologique Naturel | *Verbatim :* Evocation Sensorielle d'Absorption (Démonstration de la Transe Naturelle)
+- **Tranche 2 [Lignes 287-484]** : A : Conditionnement et Ancrage de la Double Voix (Hypnotic Voice Split) — *Protocole :* A : Conditionnement et Ancrage de la Double Voix (Hypnotic Voice Split) | *Mécanisme :* Différenciation Expérience Primaire vs Secondaire (Phénomènes Cliniques vs Expérimentaux) | *Verbatim :* Cause-Effect & Complex Equivalence
+- **Tranche 3 [Lignes 486-586]** : Rupture et Rétablissement Calibré du Rapport (Rapport 1) — *Protocole :* Rupture et Rétablissement Calibré du Rapport (Rapport 1)
+- **Tranche 4 [Lignes 588-790]** : L'Entraînement au Marquage par Ton d'Ordre Descendant ("Command Tone Down") — *Protocole :* L'Entraînement au Marquage par Ton d'Ordre Descendant ("Command Tone Down") | *Mécanisme :* Le Tri-Système Prosodique de Conditionnement Social (inflexionprosodique commandtonality sémantiqueacoustique) | *Verbatim :* PÉPITE 1 : Le Modèle de l'Interspersal Technique sur le Sommeil
+- **Tranche 5 [Lignes 792-1159]** : Le Blocage de Chiffre / Nom (Amnesia Testing) — *Protocole :* Le Blocage de Chiffre / Nom (Amnesia Testing) | *Mécanisme :* Amnésie Dirigée & Évacuation Cognitive Sélective | *Verbatim :* La Transition du Handshake Interrupt n°1
+- **Tranche 6 [Lignes 1161-1396]** : Relaxation Progressive Somato-Mentale — *Protocole :* Relaxation Progressive Somato-Mentale | *Verbatim :* La Lévitation Ericksonienne par Questionnement & Double Lien
+- **Tranche 7 [Lignes 1398-1571]** : Approfondissement par Scène Idyllique et Saturation Multisensorielle (VAK Mingle) — *Protocole :* Approfondissement par Scène Idyllique et Saturation Multisensorielle (VAK Mingle) | *Verbatim :* Approfondissement et Entrelacement VAK
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 7 ---
+## Tranche 1 / 7 : Hypnotique en 4 Étapes (Four-Stage Hypnotic Protocol)
 
 Voici l'extraction opératoire complète et modélisée de la **Tranche 1/7** du cours *Deep Trance Training Manual Vol 1* d'Igor Ledochowski.
 
@@ -271,8 +284,7 @@ Voici l'extraction opératoire complète et modélisée de la **Tranche 1/7** du
   - **Injonction d'automatisation inconsciente ("find yourself naturally speaking") :** Le sujet s'observe en train d'agir sans effort délibéré, signe distinctif de la compétence inconsciente.
   - **Bouclage par question d'accordement ("...wouldn't you say?") :** Clôture la suggestion par un tag question forçant le sujet à valider consciemment la projection future.
 
-
-## --- Tranche 2 / 7 ---
+## Tranche 2 / 7 : A : Conditionnement et Ancrage de la Double Voix (Hypnotic Voice Split)
 
 Voici l'extraction et la modélisation intégrale de la matière opératoire contenue dans cette tranche du cours d'Igor Ledochowski (*Deep Trance Training Manual Vol 1*).
 
@@ -471,8 +483,7 @@ Voici l'extraction et la modélisation intégrale de la matière opératoire con
     *   *Garder le cheval sur la route* = Maintenir le cadre de l'attention et le focus de la transe sans imposer de contenu.
     *   *Le retour au propriétaire* = La résolution thérapeutique spontanée émergeant des compétences internes du client.
 
-
-## --- Tranche 3 / 7 ---
+## Tranche 3 / 7 : Rupture et Rétablissement Calibré du Rapport (Rapport 1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -574,8 +585,7 @@ Voici l'extraction et la modélisation intégrale de la matière opératoire con
 > "You can... relax... can you not?"
 - **[Analyse du Pattern]** : Marquage analogique par encadrement temporel (pauses) combiné à un tag question inversé. L'isolation du verbe "relax" entre deux silences le détache du flux verbal pour l'imprimer comme commande brute à l'inconscient, tandis que le "can you not?" sature le conscient dans une recherche logique d'assentiment.
 
-
-## --- Tranche 4 / 7 ---
+## Tranche 4 / 7 : L'Entraînement au Marquage par Ton d'Ordre Descendant ("Command Tone Down")
 
 Voici l'analyse opératoire intégrale de la tranche 4/7 du manuel d'Igor Ledochowski (*The Deep Trance Training Manual, Volume 1*), modélisée selon la structure stricte d'ingénierie hypnotique.
 
@@ -779,8 +789,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/7 du manuel d'Igor Ledoch
     *   *Utilisation perverse du verbe "Try" :* En PNL et hypnose, le mot "essayer" présuppose et programme intrinsèquement l'échec de la tentative.
     *   *Double lien bindé / Loi de l'effort converti :* *"the harder you try the more tightly your hands lock together"*. Ce pattern lie mathématiquement la force musculaire antagoniste déployée par la volonté à l'augmentation mécanique du collage. Le sujet se piège lui-même : s'il n'essaie pas, ses mains restent collées ; s'il essaie de toutes ses forces, il les serre encore plus fort.
 
-
-## --- Tranche 5 / 7 ---
+## Tranche 5 / 7 : Le Blocage de Chiffre / Nom (Amnesia Testing)
 
 Voici l'analyse opératoire intégrale de la tranche 5/7 du *Deep Trance Training Manual Vol 1* d'Igor Ledochowski, structurée selon les exigences d'ingénierie du praticien.
 
@@ -1149,8 +1158,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/7 du *Deep Trance Trainin
   * **Conditionnel absolu et stimulus kinesthésique** (*« every time I touch your shoulder like this »*) : Couple un geste tactile précis et reproductible à l'apparition de l'état.
   * **Présupposition d'approfondissement cumulatif** (*« as deep as or even deeper than this »*) : Assure que chaque réinduction future ne sera pas simplement égale à la précédente, mais bénéficiera d'un effet d'amplification géométrique.
 
-
-## --- Tranche 6 / 7 ---
+## Tranche 6 / 7 : Relaxation Progressive Somato-Mentale
 
 Voici l'analyse opératoire intégrale de la tranche 6/7 du cours *Deep Trance Training Manual Vol 1* d'Igor Ledochowski, modélisée selon les règles strictes d'ingénierie et d'analyse linguistique.
 
@@ -1387,8 +1395,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/7 du cours *Deep Trance T
 ```
 * **[Analyse du Pattern]** : Ancrage verbo-tonal direct par conditionnement pavlovien. L'allongement phonétique du mot (*"NOWwww..."*) modifie la prosodie pour en faire une balise acoustique unique qui se distingue du reste du discours. La répétition en triple lien du mot associé à la suggestion de dédoublement de l'état (*"relax twice"*, *"relax doubly"*) conditionne une réponse réflexe immédiate du système nerveux autonome à chaque future occurrence du signal.
 
-
-## --- Tranche 7 / 7 ---
+## Tranche 7 / 7 : Approfondissement par Scène Idyllique et Saturation Multisensorielle (VAK Mingle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1562,3 +1569,4 @@ Voici l'analyse opératoire intégrale de la tranche 6/7 du cours *Deep Trance T
 
 > « It's not night time yet, you're still awake, you're thinking about these language drills and you can look forward to how much you'll enjoy practising them again and again. »
 * **[Analyse du Pattern]** : Rythme de truismes (*Pacing and Leading* classique : 3 faits sensoriels et temporels indiscutables) enchaînés par une conjonction vers une suggestion projective de plaisir répétitif (*"enjoy practising them again and again"*).
+

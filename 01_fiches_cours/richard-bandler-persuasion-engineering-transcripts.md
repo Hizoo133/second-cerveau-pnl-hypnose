@@ -92,10 +92,37 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 125-287]** : Extraction Immédiate de la Stratégie d'Achat & Calibrage Spatial — *Protocole :* Extraction Immédiate de la Stratégie d'Achat & Calibrage Spatial | *Mécanisme :* Rupture Catastrophique de Croyance par Contre-Exemple Massif | *Verbatim :* Rupture Radicale de Rapport et Menace Motivatrice Paradoxale
+- **Tranche 2 [Lignes 289-414]** : A : La Vaccination Anti-Remords d'Achat (Inoculation Protocol) — *Protocole :* A : La Vaccination Anti-Remords d'Achat (Inoculation Protocol)
+- **Tranche 3 [Lignes 416-564]** : A : La Transe de Réencodage Temporel & Sortie de Limitation — *Protocole :* A : La Transe de Réencodage Temporel & Sortie de Limitation | *Verbatim :* Le Cadrage Temporel Réducteur
+- **Tranche 4 [Lignes 566-656]** : A : Élicitation Comparative de l'Architecture Décisionnelle (Good vs Bad Decision) — *Protocole :* A : Élicitation Comparative de l'Architecture Décisionnelle (Good vs Bad Decision) | *Mécanisme :* L'ancrage décisionnel projectif (Future-Pacing d'Action vs Accord Passif) | *Verbatim :* Le piège de l'assentiment passif
+- **Tranche 5 [Lignes 658-787]** : Transfert de Sous-Modalités Client (Customer Submodality Cross-Mapping) — *Protocole :* Transfert de Sous-Modalités Client (Customer Submodality Cross-Mapping)
+- **Tranche 6 [Lignes 789-956]** : Désamorçage Immédiat d'une Ancre Négative Suggestionnée — *Protocole :* Désamorçage Immédiat d'une Ancre Négative Suggestionnée
+- **Tranche 7 [Lignes 958-1113]** : Calibration et Calibration Croisée de la Hiérarchie des Opérateurs Modaux — *Protocole :* Calibration et Calibration Croisée de la Hiérarchie des Opérateurs Modaux | *Mécanisme :* Les Opérateurs Modaux comme Moteurs Somato-Kinesthésiques (« Motivators ») | *Verbatim :* La Propulsion Temporelle du « YET »
+- **Tranche 8 [Lignes 1115-1255]** : A : Éradication des Comportements à Risque en Milieu Automatisé (The Factory Safety Protocol) — *Protocole :* A : Éradication des Comportements à Risque en Milieu Automatisé (The Factory Safety Protocol)
+- **Tranche 9 [Lignes 1257-1364]** : Le "Kinesthetic Spin & Future Self-Propulsion" (Démonstration sur Dale) — *Protocole :* Le "Kinesthetic Spin & Future Self-Propulsion" (Démonstration sur Dale)
+- **Tranche 10 [Lignes 1366-1513]** : L'Intervention Somato-Acoustique de Couple (Cas « Throwing Wife Out the Window ») — *Protocole :* L'Intervention Somato-Acoustique de Couple (Cas « Throwing Wife Out the Window ») | *Mécanisme :* Le Levier de l'« Attitude vs Compétence » et la Neuroplasticité Active | *Verbatim :* Le Recadrage de la Direction Attentionnelle
+- **Tranche 11 [Lignes 1515-1604]** : Calibrage et Bouclage en Miroir Pur (Exact-Word Criterion Feedback) — *Protocole :* Calibrage et Bouclage en Miroir Pur (Exact-Word Criterion Feedback)
+- **Tranche 12 [Lignes 1606-1713]** : Le Remplacement Émotionnel de Contrat (Want/Like Trade-off) — *Protocole :* Le Remplacement Émotionnel de Contrat (Want/Like Trade-off) | *Mécanisme :* Le Taux de Compensation Émotionnelle (The Want/Like Trade-off) | *Verbatim :* Répétition à l'identique (Parrot Phrasing)
+- **Tranche 13 [Lignes 1715-1816]** : Le Réciprocité-Interrogatoire en Négociation B2B — *Protocole :* Le Réciprocité-Interrogatoire en Négociation B2B | *Verbatim :* Verbatim 1 : L'Ancrage de Réciprocité par Injection Naïve
+- **Tranche 14 [Lignes 1818-1986]** : Extraction du DBM & Préparation de la Clôture Conditionnelle (Conditional Close) — *Protocole :* Extraction du DBM & Préparation de la Clôture Conditionnelle (Conditional Close) | *Verbatim :* Le Softener de Déstabilisation Bienveillante
+- **Tranche 15 [Lignes 1988-2101]** : L'Ancrage Kinesthésique de Poignée de Main (Handshake Anchor) — *Protocole :* L'Ancrage Kinesthésique de Poignée de Main (Handshake Anchor) | *Mécanisme :* Ancrage Kinesthésique Hybride & Gestes Sociaux Autorisés | *Verbatim :* Le piège de démonstration instantanée
+- **Tranche 16 [Lignes 2103-2246]** : Désamorçage par Inoculation Frontale du Tarif Élevé — *Protocole :* Désamorçage par Inoculation Frontale du Tarif Élevé | *Mécanisme :* Le « Jolt Factor » et la Rupture Agressive de Pattern Dominant | *Verbatim :* Le Double Scénario de Menace et l'Injonction de Service (Kathleen La Valle)
+- **Tranche 17 [Lignes 2248-2427]** : Désamorçage d'Objection et Reprise de Contrôle par Trans-Derivational Search — *Protocole :* Désamorçage d'Objection et Reprise de Contrôle par Trans-Derivational Search
+- **Tranche 18 [Lignes 2429-2633]** : Le Rétro-Verrouillage Linguistique du Futur (Past-Tense Future Tagging) — *Protocole :* Le Rétro-Verrouillage Linguistique du Futur (Past-Tense Future Tagging) | *Verbatim :* Le Déplacement Temporel et l'Implantation d'Achat Réalisé
+- **Tranche 19 [Lignes 2635-2763]** : L'Accélération Adverbiale de Pitch Téléphonique — *Protocole :* L'Accélération Adverbiale de Pitch Téléphonique | *Mécanisme :* Levier de Synesthésie Grammaticale : Trajectoire Diégétique par Déplacement d'Adverbe | *Verbatim :* Le Double Lien Logistique de Clôture
+- **Tranche 20 [Lignes 2765-2917]** : A : Conditionnement de Détermination Inarrêtable & Destruction du Client Bloquant — *Protocole :* A : Conditionnement de Détermination Inarrêtable & Destruction du Client Bloquant | *Verbatim :* Induction spatiale et expansion kinesthésique du vortex
+- **Tranche 21 [Lignes 2919-3049]** : Recadrage de Transe de Clôture & Conditionnement Post-Hypnotique du Comportement Futur — *Protocole :* Recadrage de Transe de Clôture & Conditionnement Post-Hypnotique du Comportement Futur | *Mécanisme :* Rupture et Remplacement du Script Relationnel Réactif
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 21 ---
+## Tranche 1 / 21 : Extraction Immédiate de la Stratégie d'Achat & Calibrage Spatial
 
 Voici l'extraction et la modélisation intégrale de la **Tranche 1/21** du séminaire *Persuasion Engineering* de Richard Bandler, structurée selon les règles strictes d'ingénierie opératoire.
 
@@ -259,8 +286,7 @@ Voici l'extraction et la modélisation intégrale de la **Tranche 1/21** du sém
   - **Ancre kinesthésique d'urgence irréversible :** Le geste de déchirer le document juridique transforme un morceau de papier ordinaire en opportunité unique en voie de destruction (*"only one contract in the whole store"*).
   - **Prise de judo psychologique (Future Pacing d'objection) :** Bandler fait vivre au client la trahison future de ses proches (*"try to spoil the good feeling you have now"*), transformant toute objection future de l'entourage en agression que le client repoussera violemment pour protéger sa décision d'achat.
 
-
-## --- Tranche 2 / 21 ---
+## Tranche 2 / 21 : A : La Vaccination Anti-Remords d'Achat (Inoculation Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -387,8 +413,7 @@ Voici l'extraction et la modélisation intégrale de la **Tranche 1/21** du sém
 > **"And when you say that, you should go today. Today I'm a better hypnotist. Today this guy's better at selling cars than me... And as your head comes forward, you're going to start to build a series of new beliefs where you see yourself becoming more successful than you would have believed yesterday. And those pictures are going to pop up just where the new car was."**
 * **[Analyse du Pattern]** : Recadrage temporel de limitation linguistique (*"today"*), synchronisation motrice (*"as your head comes forward"*), commande temporelle comparative enchâssée (*"more successful than you would have believed yesterday"*), et ancrage spatial de sous-modalités liant automatiquement les nouvelles croyances de succès à l'emplacement neurologique exact de la certitude absolue (*"just where the new car was"*).
 
-
-## --- Tranche 3 / 21 ---
+## Tranche 3 / 21 : A : La Transe de Réencodage Temporel & Sortie de Limitation
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -538,8 +563,7 @@ Voici l'extraction et la modélisation intégrale de la **Tranche 1/21** du sém
   - **Présupposition d'inefficacité de la compréhension intellectuelle** : *« Understanding is really overrated »*. Bandler scinde la cognition en deux camps rivaux : la compréhension sémantique (passive, statique, terminale) contre l'installation neurologique (dynamique, motrice, tournée vers l'action future).  
   - **Recadrage du signal d'acquiescement** : Le signal social classique « uh-huh » est recadré non pas comme un accord, mais comme un indicateur d'extinction attentionnelle et de mise en veille cérébrale, invalidant toute illusion de persuasion chez le praticien débutant.
 
-
-## --- Tranche 4 / 21 ---
+## Tranche 4 / 21 : A : Élicitation Comparative de l'Architecture Décisionnelle (Good vs Bad Decision)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche.
 
@@ -631,8 +655,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > *"It's a much better way to think about things. The idea might get stuck in your mind tonight while you sleep and while you dream. I don't know. Do you see my point? So, an hour and a half for lunch. Come back here. Thank you very much."*
 - **[Analyse du Pattern] :** Enchaînement classique d'une suggestion post-hypnotique ouverte enchâssée juste avant une transition d'état (la pause déjeuner). L'utilisation de l'opérateur de possibilité (*« might »*) couplé à une dissociation temporelle et d'état (*« while you sleep and while you dream »*), immédiatement désengagée par un feint désintérêt (*« I don't know »*) et un marqueur d'ancrage visuel/kinesthésique (*« Do you see my point? »*), permet d'implanter le traitement inconscient des informations sans résistance consciente.
 
-
-## --- Tranche 5 / 21 ---
+## Tranche 5 / 21 : Transfert de Sous-Modalités Client (Customer Submodality Cross-Mapping)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -763,8 +786,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   > "The two biggest excuses in the world don't really exist. We made them up. Time and money. I don't have the time, or I don't have the money... The answer to that is bullshit. Okay? Because you have not overcome whatever their time or money thing is... How come you spent more? What's that? Excited? Oh, God, a feeling. Oops, right?"
   - **[Analyse du Pattern]** : Déconstruction d'objection par interrogation provocatrice et ancrage conversationnel instantané (« Oops, right? »). Bandler force les membres du public à confesser leurs propres incohérences financières pour prouver que les notions d'argent et de temps ne sont que des nominalisations creuses masquant un sous-seuil kinesthésique. Dès que le sujet prononce le mot émotionnel (« excited »), il referme le piège logique, démontrant la toute-puissance de l'état interne sur les calculs cognitifs froids.
 
-
-## --- Tranche 6 / 21 ---
+## Tranche 6 / 21 : Désamorçage Immédiat d'une Ancre Négative Suggestionnée
 
 Voici l'extraction intégrale, rigoureuse et opératoire de la substance de la tranche 6/21.
 
@@ -933,8 +955,7 @@ Voici l'extraction intégrale, rigoureuse et opératoire de la substance de la t
 ```
 * **[Analyse du Pattern] :** **Dérivation transdérivationnelle par hallucination olfactive et gustative enchâssée.** Au beau milieu d'une explication technique sur la vente, Bandler glisse une évocation sensorielle concrète (*chocolate chip cookies baking in the oven*). Par la répétition phonétique et la question fermée à tag négatif (*didn't she though?*), il force instantanément chaque auditeur à rechercher dans sa propre mémoire kinesthésique l'odeur et le goût des cookies de son enfance, démontrant la puissance de l'expérience vécue par rapport à l'explication conceptuelle.
 
-
-## --- Tranche 7 / 21 ---
+## Tranche 7 / 21 : Calibration et Calibration Croisée de la Hiérarchie des Opérateurs Modaux
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de *Persuasion Engineering* (Richard Bandler & John La Valle).
 
@@ -1091,8 +1112,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de 
   * **Recadrage de la conformité :** Bandler recadre la désobéissance apparente en une obéissance neurologique parfaite au stimulus visuel interne (*« Yes, they do [listen] »*).
   * **Prescription positive de substitution :** Formulation en micro-commandes physiques séquentielles observables (*hold carefully, move away*), éliminant toute ambiguïté de représentation.
 
-
-## --- Tranche 8 / 21 ---
+## Tranche 8 / 21 : A : Éradication des Comportements à Risque en Milieu Automatisé (The Factory Safety Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1234,8 +1254,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de 
 * **"Take the contract, put it on the clipboard, and hold it up over here [...] I'd like you to reconsider the contract. And the guy flips through it and signs the last page."**
   * **[Analyse du Pattern]** : Recadrage spatial sous-modal pur. Déplacer l'objet de fixation du champ visuel bas (zone kinesthésique/dialogue interne critique de doute) vers le champ visuel haut (zone visuelle de décision et de conformité) reconfigure l'état neurologique du signataire, inhibant les programmes d'objection verbale au profit d'un acte moteur d'exécution directe.
 
-
-## --- Tranche 9 / 21 ---
+## Tranche 9 / 21 : Le "Kinesthetic Spin & Future Self-Propulsion" (Démonstration sur Dale)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1344,8 +1363,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 7/21 de 
   > "Double the size of the picture, spin the feelings faster so the desire gets stronger. And the stronger you make the desire, the more you're going to be drawn to acting that way. [...] Try and go back and feel bad. It's hard now, isn't it?"
   * **[Analyse du Pattern]** : Équivalence complexe liant la sous-modalité visuelle (taille doublée) à l'accélération somatique (spin kinesthésique). Utilisation de la structure comparative d'inévitabilité (*"The stronger... the more..."*) créant un lien de cause à effet direct, conclu par un défi en présupposition d'impossibilité (*"Try and... It's hard now, isn't it?"*).
 
-
-## --- Tranche 10 / 21 ---
+## Tranche 10 / 21 : L'Intervention Somato-Acoustique de Couple (Cas « Throwing Wife Out the Window »)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (avec la fin de l'intervention matinale de Richard Bandler puis la reprise post-déjeuner par John La Valle).
 
@@ -1494,8 +1512,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Validation de la rupture de pattern par l'insulte** : L'exclamation de la cible (« *You son of a bitch* ») est calibrée comme le signal absolu que la transe de résistance s'est effondrée.
   - **Recadrage relationnel instantané (Pacing métaphorique)** : La comparaison « *This is his first date* » recadre la négociation d'entreprise sous les règles de la séduction et du désir : maintenir la rareté, ne pas dévoiler le tour de main, et poser l'embauche comme l'unique moyen d'obtenir la gratification cognitive.
 
-
-## --- Tranche 11 / 21 ---
+## Tranche 11 / 21 : Calibrage et Bouclage en Miroir Pur (Exact-Word Criterion Feedback)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1586,8 +1603,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **"What question would you like to ask?"**
 - **[Analyse du Pattern] :** Boucle de rétroaction en miroir modal strict. Le praticien ne dévie pas d'un millimètre de l'opérateur modal de possibilité/désir (*"would like to"*) introduit par le sujet, garantissant une fluidité de communication exempte de toute résistance cognitive.
 
-
-## --- Tranche 12 / 21 ---
+## Tranche 12 / 21 : Le Remplacement Émotionnel de Contrat (Want/Like Trade-off)
 
 Voici l'analyse opératoire intégrale de la tranche 12/21 de la transcription de *Persuasion Engineering* (Richard Bandler & John La Valle).
 
@@ -1696,8 +1712,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/21 de la transcription d
 > "Did you know Pepsi-Cola is going to open up a gigantic market in Indonesia? And they go, what? You go, yeah, oh, I thought you would have known about that. I'm really sorry. But what kind of things are you guys figuring on doing? Blah, blah, blah. Where are you going with this? Every time you give something back to them, number one, it must be true... And that it's relevant to your discussion... They feel obligated to you, more and more obligated when you're giving them certain information."
 - **[Analyse du Pattern] :** Pattern d'installation d'une asymétrie d'information couplée au principe de dette sociale. En révélant une information stratégique externe vraie ("*Pepsi-Cola opening in Indonesia*"), le communicateur crée une rupture de certitude chez la cible ("*what?*"), s'excuse faussement pour accentuer l'effet de surprise, puis enchaîne immédiatement sur une question exploratoire ouverte. Le sentiment inconscient d'obligation de réciprocité contraint le prospect à livrer ses plans internes.
 
-
-## --- Tranche 13 / 21 ---
+## Tranche 13 / 21 : Le Réciprocité-Interrogatoire en Négociation B2B
 
 Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *Persuasion Engineering* (Richard Bandler).
 
@@ -1800,8 +1815,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/21 du cours *Persuasion 
 > "Now, let me ask you a question. You mentioned the financing and it sounded to me like that's kind of really important to you... Why is that important to you?"
 - **[Analyse du Pattern] :** Pattern d'interruption attentionnelle (*« let me ask you a question »* crée une micro-suspension d'attente) suivi d'une rétroaction sensorielle douce (*« it sounded to me like »* qui valide l'écoute active) puis de la propulsion verticale sur les valeurs via la question d'élicitation *« Why is that important to you? »*, contournant la défensive rationnelle pour atteindre la charge motrice inconsciente.
 
-
-## --- Tranche 14 / 21 ---
+## Tranche 14 / 21 : Extraction du DBM & Préparation de la Clôture Conditionnelle (Conditional Close)
 
 Voici l'analyse d'ingénierie comportementale et linguistique de la tranche 14/21 de *Persuasion Engineering* (Richard Bandler & John La Valle).
 
@@ -1971,8 +1985,7 @@ Voici l'analyse d'ingénierie comportementale et linguistique de la tranche 14/2
   4. *Tag question de fermeture* : *"didn't they?"* (force l'accès transdérivationnel à la sensation de fierté).
   5. *Ancrage d'identification immédiate* : Dès que les yeux se vitrifient, le geste d'ancrage est posé sur le bras avec la commande verbale directe : *"I'm just like him"*.
 
-
-## --- Tranche 15 / 21 ---
+## Tranche 15 / 21 : L'Ancrage Kinesthésique de Poignée de Main (Handshake Anchor)
 
 Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la tranche 15/21 du séminaire *Persuasion Engineering* (animée ici conjointement par Richard Bandler et John La Valle).
 
@@ -2087,8 +2100,7 @@ Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la tra
 > *"Let me tell you something. You ever fucking call me babe again, I'm going to kick you right in the balls... and before you hit the fucking floor, I'm going to kick your ass from that side of the room to that side of the room and then right back here again, okay? You got it? You fucking got it?... I don't want you to be sorry, okay? Don't you ever let it happen again. Got it? Yeah. Get me a cup of coffee."*
 * **[Analyse du Pattern] :** Rupture de pattern cataclysmique par escalade verbale et somatique ultra-violente, suivie d'une redirection comportementale immédiate. Le choc émotionnel plonge l'agresseur dans un état d'hébétude et d'amnésie partielle de ses défenses habituelles. Dès que l'ouverture de soumission apparaît (« I'm really sorry »), elle est immédiatement rejetée (« I don't want you to be sorry ») pour installer une relation de commande directe sans négociation possible (« Get me a cup of coffee »), scellant un rapport de respect inconditionnel.
 
-
-## --- Tranche 16 / 21 ---
+## Tranche 16 / 21 : Désamorçage par Inoculation Frontale du Tarif Élevé
 
 Voici l'analyse d'ingénierie opératoire de la tranche 16/21 de la transcription brute du cours *Persuasion Engineering* de Richard Bandler et John La Valle (segment animé ici par John La Valle avec des références directes à Kathleen La Valle et Richard Bandler).
 
@@ -2233,8 +2245,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 16/21 de la transcriptio
   * *Pacing d'identité factuelle* : La reformulation littérale du problème (« We shipped you the wrong product ») prive le client de tout prétexte pour surenchérir dans la colère ou l'accusation.
   * *Leading ouvert à solution unique* : « What can I do to fix it up for you? » présuppose que le problème est déjà clos sur le plan émotionnel et que la seule étape restante est un ajustement matériel pragmatique.
 
-
-## --- Tranche 17 / 21 ---
+## Tranche 17 / 21 : Désamorçage d'Objection et Reprise de Contrôle par Trans-Derivational Search
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2415,8 +2426,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 16/21 de la transcriptio
 ```
 * **[Analyse du Pattern]** : Empilement de truismes et d'équivalences complexes (*When X... and you do Y... then Z*). Pendant que le formateur débite ces évidences de façon continue, il maintient un hochement de tête rythmique pour installer un *yes set* kinesthésique et somatique involontaire chez les auditeurs, augmentant leur potentiel de suggestibilité.
 
-
-## --- Tranche 18 / 21 ---
+## Tranche 18 / 21 : Le Rétro-Verrouillage Linguistique du Futur (Past-Tense Future Tagging)
 
 Voici l'analyse opératoire intégrale de la tranche 18/21 du séminaire *Persuasion Engineering* (Bandler & La Valle).
 
@@ -2622,8 +2632,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/21 du séminaire *Persua
   - *Basculement modal de certitude* : Remplacement du verbe d'aide ou de promesse non crédible (`I will`) par le verbe de capacité pure (`I can`), ouvrant une boucle de curiosité cognitive (`"How?"`).
   - *Saturation de sous-modalités par insertion d'adjectifs à forte charge de valeur* : L'ajout d'`adjectives` stratégiques (`profitable sales`, `great new job`) force l'hémisphère visuel du prospect à générer une image riche, lumineuse et attrayante, augmentant la valeur subjective perçue bien avant l'exposé des faits techniques.
 
-
-## --- Tranche 19 / 21 ---
+## Tranche 19 / 21 : L'Accélération Adverbiale de Pitch Téléphonique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2753,8 +2762,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/21 du séminaire *Persua
 > « Focus right here. Okay? Right below your eye sockets. Close your eyes and focus on that point there. Pull your head back and your chin down a little bit. Right? Take a deep breath and flare your nostrils. And if you focus on those points right under your eye sockets, you will begin to feel more determined... When you know which way it goes, I want you to start to spin it bigger, faster, till it spins down to your toes and all the way up to the top of your head. And make it so that if it's a small circle, the circle gets bigger. So that it's more like air conditioning conduit than a hose. So that you're literally bathing yourself in the feeling of determination. Take a deep breath in and hear a voice inside your head say, I'm going to do this... keep spinning this determined feeling, so that when you look at them, a little voice in the back of your head says, their ass is going to be mine. »
 * **[Analyse du Pattern]** : **Empilement de micro-instructions somatiques, métaphore d'amplification submodale et commande interne synchronisée**. Bandler ancre l'état par des marqueurs physiologiques précis et inhabituels (focalisation sous les orbites, menton rentré, dilatation des narines). Dès que la sensation kinesthésique émerge, il utilise la technique de rotation de sous-modalité (*spinning*), couple l'expansion volumétrique via une métaphore kinesthésique industrielle (*"air conditioning conduit"*), et surimpose un ancrage auditif digital interne à haute congruence (*"I'm going to do this"* / *"their ass is going to be mine"*), connectant directement la réponse somatique à l'exposition visuelle du prospect réfractaire.
 
-
-## --- Tranche 20 / 21 ---
+## Tranche 20 / 21 : A : Conditionnement de Détermination Inarrêtable & Destruction du Client Bloquant
 
 Voici l'analyse opératoire intégrale de la tranche 20/21 de la formation *Persuasion Engineering* de Richard Bandler.
 
@@ -2908,8 +2916,7 @@ Voici l'analyse opératoire intégrale de la tranche 20/21 de la formation *Pers
   - **Répétition rythmée incantatoire :** *"practice, practice, practice"* agit comme un martèlement direct.
   - **Prescription de secret protectrice (Pattern interrupt relationnel) :** Interdire l'explication intellectuelle du stage au conjoint et injecter la réplique fermée (*"I thought about you"*) protège l'apprentissage inconscient de la déperdition analytique tout en activant un bénéfice affectif immédiat (*anticipation d'un baiser*).
 
-
-## --- Tranche 21 / 21 ---
+## Tranche 21 / 21 : Recadrage de Transe de Clôture & Conditionnement Post-Hypnotique du Comportement Futur
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3040,3 +3047,4 @@ Voici l'analyse opératoire intégrale de la tranche 20/21 de la formation *Pers
 "Now, the more you smile, the more you giggle, the happier you are, the easier it's going to be to apply all of these things. So take a deep breath and give me a giggle. [...] Right. Now start thinking about your limitations again. I just could never get along with my uncle. When my wife cries, it makes me angry. When my boss criticized me, I feel like I'm going to have a heart attack. There's a good plan. Or not."
 ```
 * **[Analyse du Pattern]** : Double lien d'amplification progressive ("the more X, the more Y, the easier Z") liant l'état somatique involontaire (rire) à la facilité d'intégration inconsciente. Suivi immédiatement d'une mise à l'épreuve par collision d'états (*scrambling pattern*) : Bandler force le sujet à invoquer ses pires limitations alors qu'il est neurologiquement saturé d'endorphines et d'activation faciale du rire. L'ironie finale ("There's a good plan. Or not.") ridiculise la structure interne du problème, rendant sa réactivation synaptique impossible.
+

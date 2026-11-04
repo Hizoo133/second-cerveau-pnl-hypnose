@@ -89,10 +89,52 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 137-291]** : Le Cycle Autogène Basique Déclaratif (Formule du Bras Lourd) — *Protocole :* Le Cycle Autogène Basique Déclaratif (Formule du Bras Lourd) | *Mécanisme :* La Double Posture Opératoire (Hypnotiseur / Sujet) | *Verbatim :* Le mécanisme de l'auto-hypnose et l'élagage verbal
+- **Tranche 2 [Lignes 293-421]** : Stabilisation et Résolution des Zones Floues (Beyond Self Hypnosis - Cycle d'Affinement Mnés... — *Protocole :* Stabilisation et Résolution des Zones Floues (Beyond Self Hypnosis - Cycle d'Affinement Mnésique)
+- **Tranche 3 [Lignes 423-544]** : des 3 Grands Cycles d'Intégration Autogène (Bras Lourds 3-3-9) — *Protocole :* des 3 Grands Cycles d'Intégration Autogène (Bras Lourds 3-3-9) | *Mécanisme :* Le Seuil de la Léthargie et le Maintien sur le « Fil du Rasoir » | *Verbatim :* Définition Opératoire de la Frontière de Transe
+- **Tranche 4 [Lignes 546-658]** : Recalibrage de la Fenêtre Temporelle d'Attention (The Anti-Drifting / Re-honing Cycle) — *Protocole :* Recalibrage de la Fenêtre Temporelle d'Attention (The Anti-Drifting / Re-honing Cycle) | *Mécanisme :* Le Gradient Conscience/Inconscience (The Cliff vs. The Smooth Gradient) | *Verbatim :* Le Recadrage Métaphorique du Poids Oublié
+- **Tranche 5 [Lignes 660-788]** : A : Intégration Somatique des Membres Inférieurs (Training Autogène Étendu) — *Protocole :* A : Intégration Somatique des Membres Inférieurs (Training Autogène Étendu) | *Verbatim :* La Métaphore du Pilote & de la Membrane Sémi-Perméable
+- **Tranche 6 [Lignes 790-957]** : A : Induction & Réentraînement Autogène Fractionné (Base Somatique) — *Protocole :* A : Induction & Réentraînement Autogène Fractionné (Base Somatique) | *Mécanisme :* Le « Grand Écart de Contrôle » en Auto-Hypnose (The Hypnotist-Subject Split) | *Verbatim :* La régulation du grand écart conscient/inconscient
+- **Tranche 7 [Lignes 959-1104]** : Le Pont Affectif Déclaratif (Affect Bridge Self-Elicitation) — *Protocole :* Le Pont Affectif Déclaratif (Affect Bridge Self-Elicitation) | *Verbatim :* La gestion de résistance par calibrage lexical
+- **Tranche 8 [Lignes 1106-1253]** : A : Induction Autogène Silencieuse par Intention Pure — *Protocole :* A : Induction Autogène Silencieuse par Intention Pure | *Verbatim :* La Nature Éthérée de l'Intention Pure
+- **Tranche 9 [Lignes 1255-1374]** : L'Échelle de Récolte et d'Ancrage des Ressources (The State Harvesting & Storage Ladder) — *Protocole :* L'Échelle de Récolte et d'Ancrage des Ressources (The State Harvesting & Storage Ladder) | *Mécanisme :* La Hiérarchie à Cinq Niveaux d'Évocation et de Stabilisation d'État (The 5-Level State Ladder) | *Verbatim :* Le mécanisme d'incarnation par commande subliminale
+- **Tranche 10 [Lignes 1376-1471]** : d'Intégration Graduée de Ressource (Formule en 5 Paliers) — *Protocole :* d'Intégration Graduée de Ressource (Formule en 5 Paliers) | *Verbatim :* Recadrage de la Lourdeur : De l'Hallucination à la Dé-délétion Sensorielle
+- **Tranche 11 [Lignes 1473-1619]** : Le Sas de Nettoyage Mental & Somatique (Basic Clearing Sequence) — *Protocole :* Le Sas de Nettoyage Mental & Somatique (Basic Clearing Sequence) | *Verbatim :* Verbatim 1 : L'Échelle de l'Identité et le Rôle du Présent Continu
+- **Tranche 12 [Lignes 1621-1740]** : A : Décodage et Transduction Symbolique (Symbol Decoding Protocol) — *Protocole :* A : Décodage et Transduction Symbolique (Symbol Decoding Protocol) | *Verbatim :* La confirmation de l'inintelligibilité comme marqueur d'accès inconscient
+- **Tranche 13 [Lignes 1742-1854]** : L'Escalade des Trois Niveaux d'Interaction Symbolique — *Protocole :* L'Escalade des Trois Niveaux d'Interaction Symbolique | *Mécanisme :* La dialectique Stabilisation / Déstabilisation (Balancement Stabilité-Spontanéité)
+- **Tranche 14 [Lignes 1856-2017]** : Réglage d'Absorption Somato-Cérébrale (Traitement de l'Ennui/Dissociation) — *Protocole :* Réglage d'Absorption Somato-Cérébrale (Traitement de l'Ennui/Dissociation) | *Mécanisme :* Le Budget Attentionnel et la Genèse de l'Ennui | *Verbatim :* Citation 1 : Recadrage de l'Attention et Analogies de Fascination
+- **Tranche 15 [Lignes 2019-2167]** : A : Construction du Bouclier de Sécurité Tri-Phase ("The Safety Shield") — *Protocole :* A : Construction du Bouclier de Sécurité Tri-Phase ("The Safety Shield") | *Mécanisme :* Le Gradient d'Intériorisation de l'Identité (Passé $\to$ État Présent $\to$ Identité Émergente) | *Verbatim :* Le Pré-cadrage de la "Descente aux Enfers"
+- **Tranche 16 [Lignes 2169-2290]** : Voyage en Lieux Thématiques & Stabilisation Sensorielle — *Protocole :* Voyage en Lieux Thématiques & Stabilisation Sensorielle | *Verbatim :* La distinction fondamentale entre savoir sur et vivre à travers
+- **Tranche 17 [Lignes 2292-2433]** : Le Test d'Environnement (« Lucky Dip » de la Portière de Voiture) — *Protocole :* Le Test d'Environnement (« Lucky Dip » de la Portière de Voiture) | *Verbatim :* L'Instruction d'Exploration Motrice Aveugle
+- **Tranche 18 [Lignes 2435-2584]** : d'Exploration Symbolique Multi-Couches (Layers 1 à 4 : Conscience, Relation, Perspective, Re... — *Protocole :* d'Exploration Symbolique Multi-Couches (Layers 1 à 4 : Conscience, Relation, Perspective, Ressources) | *Verbatim :* Verbatim 1 : Le Décentrement Projectif
+- **Tranche 19 [Lignes 2586-2727]** : A : La Question de Répétition & Déclenchement de Fusion (Rehearsal Sequence) — *Protocole :* A : La Question de Répétition & Déclenchement de Fusion (Rehearsal Sequence) | *Verbatim :* La Puissance Latente du Verbatim Écrit
+- **Tranche 20 [Lignes 2729-2839]** : A : Sortie de Fusion et Clôture Somatique (Unmerge & Body Clear) — *Protocole :* A : Sortie de Fusion et Clôture Somatique (Unmerge & Body Clear) | *Verbatim :* Présupposition d'Égalité de Conscience
+- **Tranche 21 [Lignes 2841-2973]** : Fusion avec le Végétal / La Plante (Partie 2 : Merging Approfondi) — *Protocole :* Fusion avec le Végétal / La Plante (Partie 2 : Merging Approfondi) | *Mécanisme :* L'Allongement du Cycle d'Approfondissement pour Dissolution de l'Interférence Analytique | *Verbatim :* Recadrage de la Métaphore du Lierre (Travail Inconscient à Action Lente)
+- **Tranche 22 [Lignes 2975-3118]** : Diagnostic & Dépannage du Chasseur de Monstres Incomplet (Monster Hunter Troubleshooting) — *Protocole :* Diagnostic & Dépannage du Chasseur de Monstres Incomplet (Monster Hunter Troubleshooting) | *Verbatim :* La Physique de Dessin Animé et l'Invulnérabilité par l'Équanimité
+- **Tranche 23 [Lignes 3120-3283]** : A : Évocation, Dialogue et Fusion avec le Trickster (Méthode ASH) — *Protocole :* A : Évocation, Dialogue et Fusion avec le Trickster (Méthode ASH) | *Verbatim :* Le Double Recadrage Ericksonien du Pied Écrasé
+- **Tranche 24 [Lignes 3285-3433]** : A : Régulation & Transmutation de l'Archétype Déviant (Gestion de l'Enfant Blessé) — *Protocole :* A : Régulation & Transmutation de l'Archétype Déviant (Gestion de l'Enfant Blessé) | *Verbatim :* La distinction somatique entre le Trickster et l'Enfant
+- **Tranche 25 [Lignes 3435-3624]** : d'Assimilation Accélérée d'Expertise par Modélisation et Fusion Filtrée (The 3-Stage Mentor... — *Protocole :* d'Assimilation Accélérée d'Expertise par Modélisation et Fusion Filtrée (The 3-Stage Mentor & Role Model Merge) | *Verbatim :* Fractionnement et Préparation Cognitive à la Dissociation
+- **Tranche 26 [Lignes 3626-3789]** : Modélisation Chirurgicale de Compétence Physique / Technique — *Protocole :* Modélisation Chirurgicale de Compétence Physique / Technique | *Verbatim :* Le Découpage Chirurgical de Modélisation Motrice
+- **Tranche 27 [Lignes 3791-3886]** : Démonstration Vicariante du Guérisseur Intérieur (Mega Placebo Protocol) — *Protocole :* Démonstration Vicariante du Guérisseur Intérieur (Mega Placebo Protocol)
+- **Tranche 28 [Lignes 3888-4015]** : « The Shaman » (Déliement des Cordon Sombres & Allègement Émotionnel) — *Protocole :* « The Shaman » (Déliement des Cordon Sombres & Allègement Émotionnel) | *Mécanisme :* Le Levier Archétypal Tiers vs Fusion (Non-Merging Relational Healing) | *Verbatim :* Cadrage de l'Inertie Traumatique et Allègement Somatique
+- **Tranche 29 [Lignes 4017-4152]** : Le Laboratoire de l'Alchimiste (Transmutation & Réincorporation Émotionnelle) — *Protocole :* Le Laboratoire de l'Alchimiste (Transmutation & Réincorporation Émotionnelle) | *Verbatim :* La Permission d'Innovation et l'Auto-Autorisation
+- **Tranche 30 [Lignes 4154-4321]** : La Transe du Jardinier Métaphysique (Équilibre & Harmonie Émotionnelle) — *Protocole :* La Transe du Jardinier Métaphysique (Équilibre & Harmonie Émotionnelle) | *Mécanisme :* La Métaphore Isomorphe du Jardin Émotionnel | *Verbatim :* Le Recadrage Métaphorique de la Santé Émotionnelle
+- **Tranche 31 [Lignes 4323-4530]** : L'ARCHÉTYPE DE L'AMBASSADEUR (Forging Relationships & Harmony) — *Protocole :* L'ARCHÉTYPE DE L'AMBASSADEUR (Forging Relationships & Harmony) | *Mécanisme :* Post-Hypnotic Night Processing & Amnésie Permissive | *Verbatim :* Le Verrouillage Hypnotique du Sommeil et de l'Amnésie Permissive
+- **Tranche 32 [Lignes 4532-4691]** : Le Diagnostic Projectif Éclair de l'Écosystème Intérieur (The House & Meadow Blitz) — *Protocole :* Le Diagnostic Projectif Éclair de l'Écosystème Intérieur (The House & Meadow Blitz) | *Mécanisme :* Cartographie Symbolique Émergente du Soi (The House-Boundary-Garden Diagnostic Blitz) | *Verbatim :* Le Pré-cadrage de la Compétence Inconsciente Immédiate
+- **Tranche 33 [Lignes 4693-4848]** : La Prophétie Subconsciente par les Trois Miroirs de Vie (Phase 1 & 2 extraites) — *Protocole :* La Prophétie Subconsciente par les Trois Miroirs de Vie (Phase 1 & 2 extraites) | *Verbatim :* Le principe de la victoire creuse et de l'échelle inversée
+- **Tranche 34 [Lignes 4850-5010]** : L'Alignement des Trois Miroirs (Fantasme, Réalité, Vérité Intérieure) — *Protocole :* L'Alignement des Trois Miroirs (Fantasme, Réalité, Vérité Intérieure) | *Mécanisme :* Le Triptyque d'Alignement Identitaire : Fantasme, Réalité, Vérité | *Verbatim :* Déconstruction du Fantasme vs Réalité Sérotoninergique
+- **Tranche 35 [Lignes 5012-5180]** : Résolution des Charges de Culpabilité/Honte Rétroactives (« Hunt & Reintegrate the Monster ») — *Protocole :* Résolution des Charges de Culpabilité/Honte Rétroactives (« Hunt & Reintegrate the Monster ») | *Mécanisme :* Reconfiguration Identitaire par Fusion des Miroirs Ternaires | *Verbatim :* Le Recadrage de la Charge Mémorielle
+- **Tranche 36 [Lignes 5182-5287]** : La Métaphore de la Maturation et de l'Élagage Systémique (Clôture de Boucle Nichée) — *Protocole :* La Métaphore de la Maturation et de l'Élagage Systémique (Clôture de Boucle Nichée) | *Verbatim :* Le non-agir cognitif et l'absorption naturelle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 36 ---
+## Tranche 1 / 36 : Le Cycle Autogène Basique Déclaratif (Formule du Bras Lourd)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -248,8 +290,7 @@ flowchart TD
   * **Démystification / Dé-pressurisation cognitive** (*« your current best guess »*) : libère le sujet de l'obligation de fidélité ou d'exactitude historique de son souvenir, éliminant le doute invalidant.
   * **Recadrage d'utilité secondaire vers l'entraînement capacitaire** : le souvenir n'est plus le but mais un simple haltère d'entraînement neurologique (*« training your mental faculty to mentalize »*), rendant chaque tentative réussie quel que soit le niveau de clarté obtenu.
 
-
-## --- Tranche 2 / 36 ---
+## Tranche 2 / 36 : Stabilisation et Résolution des Zones Floues (Beyond Self Hypnosis - Cycle d'Affinement Mnés...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -379,8 +420,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : Recadrage de sens radical de la notion de « contrôle ». Ledochowski redéfinit l'hyper-contrôle comme étant en réalité une manifestation de « peur de perdre le contrôle », libérant ainsi le sujet du besoin compulsif de retenir ses pensées pour lui faire embrasser la flexibilité attentionnelle.
 
-
-## --- Tranche 3 / 36 ---
+## Tranche 3 / 36 : des 3 Grands Cycles d'Intégration Autogène (Bras Lourds 3-3-9)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -503,8 +543,7 @@ flowchart TD
   - **Truisme et validation rétroactive** : Présente l'absence de mouvement comme la conséquence naturelle de l'excellence en transe.
   - **Question rhétorique de verrouillage d'accord (*Tag question*)** : *"You all know that, right?"* force l'acceptation sans débat du précepte technique et pousse le sujet à inhiber tout geste parasite pour se conformer à l'archétype du « bon sujet en transe profonde ».
 
-
-## --- Tranche 4 / 36 ---
+## Tranche 4 / 36 : Recalibrage de la Fenêtre Temporelle d'Attention (The Anti-Drifting / Re-honing Cycle)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 4/36 du cours *Beyond Self Hypnosis* dispensé par Igor Ledochowski.
 
@@ -618,8 +657,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 4/36 du c
 
 *   **[Analyse du Pattern] :** **Recadrage pragmatique par déconstruction de mythe & Argument d'inviolabilité cognitive**. Igor tranche avec le fétichisme du « tout-permissif » éricksonien en ramenant la technique à sa fonction cybernétique : la suggestion indirecte est une voie de contournement des résistances, non un dogme sacré. L'argument central (*« you can't fool yourself »*) agit comme une commande de congruence absolue : tenter d'être permissif avec soi-même relève de la comédie mentale et diminue la force exécutive de l'inconscient.
 
-
-## --- Tranche 5 / 36 ---
+## Tranche 5 / 36 : A : Intégration Somatique des Membres Inférieurs (Training Autogène Étendu)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -749,8 +787,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 4/36 du c
   - **Anaphore hypnotique stabilisatrice :** La réitération du préfixe verbal *« I remember... »* active les circuits mnésiques déclaratifs sans solliciter l'effort de synthèse de l'imagination active.
   - **Pacing & Leading somato-sensoriel :** Transforme un stimulus instable ou anxiogène en un îlot de certitude (*safe spots*), permettant à l'inconscient de reconstruire la résolution visuelle sans générer de sursaut d'adrénaline.
 
-
-## --- Tranche 6 / 36 ---
+## Tranche 6 / 36 : A : Induction & Réentraînement Autogène Fractionné (Base Somatique)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 6/36 du cours *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -919,8 +956,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Règle d'émergence non-téléologique** : *"You don't target it. You just observe it when it happens."* L'inhibition de l'effort conscient est posée comme condition sine qua non de la réussite du phénomène hypnotique complexe.
   - **Conversion du phénomène en levier d'action futur** : Une fois le phénomène validé somatiquement, il est réinjecté dans la syntaxe de base (`I remember time expanding`), convertissant un effet secondaire passif en une commande d'auto-hypnose directement exécutable.
 
-
-## --- Tranche 7 / 36 ---
+## Tranche 7 / 36 : Le Pont Affectif Déclaratif (Affect Bridge Self-Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1067,8 +1103,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "And there's nothing you can do to prevent it, because later tonight you will sleep deeply. And I hope that you will also sleep comfortably. As you continue to integrate. All the experiences of today. Through the natural process of sleeping and dreaming... And I really don't know if you will notice your dreaming. Or if you can even recall your dreams in the morning. Because sometimes the conscious mind is convinced you did not dream at all. Meanwhile, your unconscious has been doing all the work quietly."
 - **[Analyse du Pattern]** : *Injonction paradoxale d'impuissance positive et double lien ericksonien*. La formule « *there's nothing you can do to prevent it* » transforme toute tentative de résistance en validation du processus. La conjonction « *because* » relie artificiellement l'intégration à un fait physiologique inévitable (le sommeil). La fausse ignorance du praticien (« *I really don't know if you will notice...* ») désamorce l'effort de mémoire vigile, tandis que le recadrage final requalifie l'absence de souvenirs de rêve en preuve absolue du travail souterrain de l'inconscient.
 
-
-## --- Tranche 8 / 36 ---
+## Tranche 8 / 36 : A : Induction Autogène Silencieuse par Intention Pure
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1217,8 +1252,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Redéfinition euphémistique** (*a very intense sensation*) : Désensibilise la charge traumatique attachée au mot « douleur » en la rétrogradant au statut neutre d'intensité sensorielle pure.
   - **Paradoxe thérapeutique ericksonien** (*embrace the pain and say, okay, go for it*) : La cessation de la lutte et l'accueil total du signal neutralisent la boucle de rétroaction qui entretient la détresse émotionnelle.
 
-
-## --- Tranche 9 / 36 ---
+## Tranche 9 / 36 : L'Échelle de Récolte et d'Ancrage des Ressources (The State Harvesting & Storage Ladder)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hypnosis* par Igor Ledochowski.
 
@@ -1339,8 +1373,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hyp
 >   - **Maxime hypnotique d'orientation attentionnelle (*Where attention goes, energy flows*)** : Agit comme un truisme d'autorité validant l'expérience physiologique immédiate.
 >   - **Commande directe finale enchâssée** : Clôture l'explication théorique par l'amorce performative sèche *« I feel calm »*, réactivant instantanément le circuit somatique chez l'auditeur.
 
-
-## --- Tranche 10 / 36 ---
+## Tranche 10 / 36 : d'Intégration Graduée de Ressource (Formule en 5 Paliers)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1437,8 +1470,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hyp
 > "The identity of I am a calm person is linked to memories. The more memories I have of feeling calm, or actually being calm... the more easily I can accept the idea that I'm a calm person... Whereas being calm is not linked to memories at all. I can have not a single memory of feeling calm and still say to myself congruently, I am calm. So I am calm is the identity linked to the feeling. Whereas I'm a calm person is the identity linked to the memory."
 - **[Analyse du Pattern]** : Clarification chirurgicale des présuppositions cognitives. Il isole le levier exact qui fait échouer la méthode Coué ou les affirmations naïves : affirmer *"I am [X] person"* interroge la mémoire épisodique autobiographique, tandis que *"I am [X]"* ne nécessite qu'un ancrage dans la réalité somatosensorielle du présent immédiat.
 
-
-## --- Tranche 11 / 36 ---
+## Tranche 11 / 36 : Le Sas de Nettoyage Mental & Somatique (Basic Clearing Sequence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1586,8 +1618,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hyp
   - **Liaison cause-effet hypnotique (*Cause-Effect Linkage*) :** Relie la sensation corporelle de relâchement autogène à l'incapacité/inutilité de penser activement (*"Once you're so relaxed, you don't really want to think too hard anymore"*).
   - **Injonction paradoxale de désengagement intentionnel :** *"Your conscious mind needs to have zero involvement in grasping for an answer"*. En interdisant à la conscience de chercher activement la réponse, toute tension de résultat est neutralisée, permettant l'émergence sans entrave des fonctions associatives libres de l'inconscient.
 
-
-## --- Tranche 12 / 36 ---
+## Tranche 12 / 36 : A : Décodage et Transduction Symbolique (Symbol Decoding Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1708,8 +1739,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hyp
   - **Double contrainte permissive (Permissive Double Bind) :** *"imagine or allow yourself to imagine"* offre une illusion de choix tout en rendant l'acte d'imaginer inévitable (soit par volonté active, soit par lâcher-prise passif).
   - **Déconstruction progressive des cadres de référence :** Empilement négatif de défocalisation (*"never been before"*, *"no one's seen before"*, *"doesn't have to be on Earth"*, *"doesn't have to conform to Earth's physics"*). Cette cascade de négations permissives désamorce le système de cohérence rationnelle et autorise le cortex visuel à générer des hallucinations hypnagogiques sans contrainte.
 
-
-## --- Tranche 13 / 36 ---
+## Tranche 13 / 36 : L'Escalade des Trois Niveaux d'Interaction Symbolique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1823,8 +1853,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 9/36 de *Beyond Self Hyp
   > *"And in his half dream, he was staring at the flame as he was half asleep. As he was half asleep, half waking up, he had the mentalization, the image, the symbol, of an Ouroboros, the snake that bites its own tail, crawling through the flames, right? ... And suddenly, with a flash of insight, he wakes up totally shocked. He solved one of the biggest problems in chemistry of his age... And that's the foundation of organic chemistry, came from a dream, a dream that you now know how to generate on purpose, on demand."*
   * **[Analyse du Pattern]** : Emboîtement d'états hypnotiques hypnagogiques (*"half asleep, half waking up"* répété pour amorcer la transe chez l'auditeur) couplé à une métaphore d'autorité scientifique. La chute utilise un lien de présupposition d'équivalence (*"a dream that you now know how to generate on purpose, on demand"*), transférant instantanément le prestige du génie créatif de Kékulé aux capacités directes de l'étudiant assis dans la pièce.
 
-
-## --- Tranche 14 / 36 ---
+## Tranche 14 / 36 : Réglage d'Absorption Somato-Cérébrale (Traitement de l'Ennui/Dissociation)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 14/36 du cours *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -1987,8 +2016,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 14/3
   * *Élicitation socratique de la ressource* : En demandant au sujet ce dont on a besoin pour aller en enfer (« What do you think, Janet? »), il pousse le sujet à générer lui-même le concept de protection (« fireproof jacket »), ce qui garantit une congruence totale.
   * *Ancrage nominal et verbal direct* : Glissement immédiat du symbole de la veste ignifugée vers la ressource somato-linguistique pure : « a sense of safety » scellé par l'incantation « I'm safe ».
 
-
-## --- Tranche 15 / 36 ---
+## Tranche 15 / 36 : A : Construction du Bouclier de Sécurité Tri-Phase ("The Safety Shield")
 
 Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la **tranche 15/36** du séminaire *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -2138,8 +2166,7 @@ Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la **t
 > *"And when you think about that, you notice how an image flashed up in your mind of the bar and the place you were in and so on. Whereabouts in space was that image? Was that like behind you, above you, in front of you, to the side of you?"*
 *   **[Analyse du Pattern]** : Présupposition d'action inconsciente (*"you notice how an image flashed up"*). L'usage du verbe au passé combiné à *"flashed up"* présuppose que l'image est déjà là avant même que le conscient n'ait décidé de la chercher. La série de questions à choix multiples sur l'espace (*"behind you, above you..."*) force le sujet à diriger son attention kinesthésique et visuelle interne sur la topographie spatiale de son architecture mentale.
 
-
-## --- Tranche 16 / 36 ---
+## Tranche 16 / 36 : Voyage en Lieux Thématiques & Stabilisation Sensorielle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2262,8 +2289,7 @@ Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la **t
   * *Métaphores comportementales sensorielles* : Opposer « *put its fist in* » (intrusion brutale) / « *shout too loudly* » (surcontrôle autoritaire) à « *stay entirely meek* » (passivité totale abandonnant le gouvernail).
   * *Suggestion du juste milieu (Cadre homéostasique)* : Le praticien installe l'idée que les oscillations et les échecs temporaires (« *fall off the edge one end or the other* ») font partie intégrante du calibrage normal du système.
 
-
-## --- Tranche 17 / 36 ---
+## Tranche 17 / 36 : Le Test d'Environnement (« Lucky Dip » de la Portière de Voiture)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2406,8 +2432,7 @@ Voici l’extraction intégrale, opératoire et sans filtre conceptuel de la **t
 > **« Every symbol, every entity that you meet in your internal world is you, but it's the you that you don't express in your personality. So it's the you that you could be. ... By asking them, how do you perceive me, you get a new look at yourself, and that alone starts shifting your perspective, which is exactly what we're trying to do here, unsticking our stuck frame of reference. »**
 * **[Analyse du Pattern]** : Distinction d'identité jungienne formulée en langage conversationnel. L'équation *« symbol = unexpressed you »* permet une réappropriation progressive de l'ombre et des potentiels dormants sans affoler les défenses du moi. La question en miroir *« How do you perceive me? »* induit une double dissociation (se regarder soi-même à travers les yeux d'une part de soi ignorée), provoquant un déblocage instantané du cadre de référence rigide (*« unsticking our stuck frame of reference »*).
 
-
-## --- Tranche 18 / 36 ---
+## Tranche 18 / 36 : d'Exploration Symbolique Multi-Couches (Layers 1 à 4 : Conscience, Relation, Perspective, Re...
 
 Voici l'analyse modélisatrice complète et opératoire de la tranche 18/36 du cours *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -2558,8 +2583,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 18/36 du c
   - **Inversion paradoxale (Double lien négatif) :** Déclarer qu'il devient plus difficile d'*éviter* la transe/fusion que de la réaliser (*"harder to avoid merging than to figure out how to do it"*). Le cerveau capitule devant l'effort d'évitement et bascule naturellement dans l'état visé.
   - **Chapelet de commandes kinesthésiques et motrices enchâssées :** Formulation d'actions subjectives impossibles à l'état de veille ordinaire (*"step into... see things from its perspective... feel things from its body... do things which you don't have the anatomy to do"*), qui forcent le cortex pariétal et la schéma corporel à se dissocier de la physiologie humaine réelle.
 
-
-## --- Tranche 19 / 36 ---
+## Tranche 19 / 36 : A : La Question de Répétition & Déclenchement de Fusion (Rehearsal Sequence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2702,8 +2726,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 18/36 du c
   - Triplet 3 : Stabilisation du système nerveux autonome dans un état de clarté équilibrée (*"I am calm"*).
   - Mot de rupture final : *"and close"*, verrouillant la séance et rétablissant l'état d'éveil ordinaire.
 
-
-## --- Tranche 20 / 36 ---
+## Tranche 20 / 36 : A : Sortie de Fusion et Clôture Somatique (Unmerge & Body Clear)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2815,8 +2838,7 @@ Voici l'analyse modélisatrice complète et opératoire de la tranche 18/36 du c
 
 * **[Analyse du Pattern]** : Pattern de saturation par martèlement syntaxique direct. La répétition obsessionnelle et continue de la même question, sans laisser au conscient le temps d'élaborer une réponse logique ou narrative, épuise les filtres discursifs. Le sujet, incapable de formuler 8 justifications rationnelles successives, est forcé d'abandonner l'analyse intellectuelle pour laisser jaillir la réponse brute, somatique ou archétypale du système nerveux profond.
 
-
-## --- Tranche 21 / 36 ---
+## Tranche 21 / 36 : Fusion avec le Végétal / La Plante (Partie 2 : Merging Approfondi)
 
 Voici l’extraction opératoire intégrale et la modélisation de la tranche 21/36 du cours *Beyond Self Hypnosis* d’Igor Ledochowski.
 
@@ -2950,8 +2972,7 @@ Voici l’extraction opératoire intégrale et la modélisation de la tranche 21
   - *Présupposition temporelle & Cause à effet lâche* : *"Which is why over the coming days you might begin to notice..."*. L'utilisation de *"notice"* présuppose que les nouveaux comportements et insights existent déjà et vont émerger sans intervention volontaire (*"effortlessly"*, *"arise naturally"*).
   - *Post-hypnotic pacing and leading* : Lie le sommeil nocturne à une assimilation automatique continue des apprentissages de la journée.
 
-
-## --- Tranche 22 / 36 ---
+## Tranche 22 / 36 : Diagnostic & Dépannage du Chasseur de Monstres Incomplet (Monster Hunter Troubleshooting)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3096,8 +3117,7 @@ Voici l’extraction opératoire intégrale et la modélisation de la tranche 21
   - *Recadrage paradoxal par grossissement hyperbolique :* L'affirmation que les pieds de la jeune fille sont minuscules au point qu'un homme ne peut pas les voir attaque frontalement sa croyance obsédante (« mes pieds sont géants ») par une antithèse violente.
   - *Postulat d'amnésie du symptôme :* La séquence finale d'actions neutres et fluides (*« gets up, gets dressed, ready to school. No more problems »*) insère une présupposition de résolution immédiate et totale, sans effort conscient d'analyse.
 
-
-## --- Tranche 23 / 36 ---
+## Tranche 23 / 36 : A : Évocation, Dialogue et Fusion avec le Trickster (Méthode ASH)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3262,8 +3282,7 @@ Voici l’extraction opératoire intégrale et la modélisation de la tranche 21
   - **Dé-nominalisation et déconstruction de concept adulte** : Le mot « Joie » est traité comme une abstraction artificielle inventée par les adultes pour compenser la perte de leur état de présence fondamentale.
   - **Présupposition d'état d'être permanent (*Just Is*)** : La phrase postule que la joie n'est pas un objectif à atteindre ou une émotion transitoire à fabriquer, mais la condition de base de la conscience non contaminée par les obligations mentales. Utilisation de la tautologie ontologique pour ramener l'esprit à la simple présence sensorielle.
 
-
-## --- Tranche 24 / 36 ---
+## Tranche 24 / 36 : A : Régulation & Transmutation de l'Archétype Déviant (Gestion de l'Enfant Blessé)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3413,8 +3432,7 @@ Voici l’extraction opératoire intégrale et la modélisation de la tranche 21
 > I am calm... »
 * **[Analyse du Pattern]** : Commande répétitive en boucle descendante (triple répétition hypnotique). « *The scene fades* » dissout la fixation fovéale sur l'espace d'entraînement pour éviter les résidus hallucinatoires ou les charges émotionnelles en suspens, tandis que « *I am calm* » réinstalle l'homéostasie autonome avant la reprise du dialogue conscient.
 
-
-## --- Tranche 25 / 36 ---
+## Tranche 25 / 36 : d'Assimilation Accélérée d'Expertise par Modélisation et Fusion Filtrée (The 3-Stage Mentor...
 
 Voici l'analyse d'ingénierie opératoire de la tranche 25/36 du cours *Beyond Self Hypnosis* par Igor Ledochowski.
 
@@ -3605,8 +3623,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 25/36 du cours *Beyond S
   - La cascade de questions pré-fusionnelles (*« What does it feel like to be you... »*) dissout progressivement les frontières de l'ego en orientant l'attention sur la phénoménologie interne du modèle.
   - L'impératif direct final (*« Unmerge »*) suivi de la commande de scan (*« ask your mentor to scan you... »*) rétablit instantanément la différenciation du Moi sans laisser de flottement identitaire.
 
-
-## --- Tranche 26 / 36 ---
+## Tranche 26 / 36 : Modélisation Chirurgicale de Compétence Physique / Technique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3771,8 +3788,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 25/36 du cours *Beyond S
   - **Démystification et Recadrage Sémantique Noble** : Déconstruire la connotation péjorative populaire du mot "placebo" (qui serait du vide ou du faux) en l'ancrant dans son résultat physiologique vérifié (*"because it heals"*).
   - **Amplication Superlative Contextualisée** : L'expression *"enhanced placebo effect"* associée à la métaphore du ciblage (*"target to an enhanced degree"*) transforme le phénomène accidentel passif de la médecine conventionnelle en un outil technologique délibéré, actif et focalisé dirigé par l'art du praticien.
 
-
-## --- Tranche 27 / 36 ---
+## Tranche 27 / 36 : Démonstration Vicariante du Guérisseur Intérieur (Mega Placebo Protocol)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 27/36 du cours *Beyond Self Hypnosis* par Igor Ledochowski.
 
@@ -3869,8 +3885,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 27/36 du cours *Beyond S
 > **"Now bring in another patient with your problem and watch the healer heal... When the demonstration is complete, ask him to repeat the healing on you."**
 * **[Analyse du Pattern]** : Commande directe d'apprentissage vicariant. La structure en deux temps dissocie l'action de guérison de l'identité du sujet dans un premier temps (*"watch the healer heal"*), créant la preuve perceptive avant d'ordonner la réplication somatique directe (*"repeat the healing on you"*).
 
-
-## --- Tranche 28 / 36 ---
+## Tranche 28 / 36 : « The Shaman » (Déliement des Cordon Sombres & Allègement Émotionnel)
 
 Voici la modélisation intégrale et l'ingénierie opératoire de la tranche 28/36 du programme *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -3999,8 +4014,7 @@ Voici la modélisation intégrale et l'ingénierie opératoire de la tranche 28/
   - **Empilement de suggestions amnésiques** : La structure répétée *« forget that you exist / forget everything / forget about your body / it's just gone »* induit une anesthésie sensorielle et une amnésie de la réalité immédiate au profit de la transe.
   - **Submodalités critiques amplifiées** : Utilisation d'intensificateurs visuels et sémantiques (*hyper real, colors extra vivid, significance, vitality, meaning*) qui encodent la transe non pas comme un état brumeux ou léthargique, mais comme un état d'hyper-présence lucide où chaque symbole devient un vecteur de reconfiguration neuronale.
 
-
-## --- Tranche 29 / 36 ---
+## Tranche 29 / 36 : Le Laboratoire de l'Alchimiste (Transmutation & Réincorporation Émotionnelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4137,8 +4151,7 @@ Voici la modélisation intégrale et l'ingénierie opératoire de la tranche 28/
 > "How do you perceive emotions? This really establishes the character of the gardener now. He's a metaphysical gardener, not just a flower gardener, right? What's it like to be you?"
 - **[Analyse du Pattern]** : Glissement de cadre ontologique par questionnement orienté. Poser à une figure de jardinier une question sur la nature des émotions l'arrache instantanément au plan littéral (jardinage botanique) pour le transmuter en métaphore vivante (intendance psychologique). La transition immédiate vers *"What's it like to be you?"* prépare l'incorporation kinesthésique de cette perspective élargie par double dissociation empathique.
 
-
-## --- Tranche 30 / 36 ---
+## Tranche 30 / 36 : La Transe du Jardinier Métaphysique (Équilibre & Harmonie Émotionnelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4307,8 +4320,7 @@ Voici la modélisation intégrale et l'ingénierie opératoire de la tranche 28/
   * *Suggestion post-hypnotique ouverte* : *"over the coming days, you may begin to notice..."* n'impose pas de délai rigide, évitant l'échec de la suggestion si rien ne se passe le lendemain matin.
   * *Paradoxe perceptif éricksonien* : *"you might not even notice yourself using these new tools"* : Prémunit l'apprentissage contre le doute. Si le sujet remarque un changement, la suggestion a marché ; s'il ne remarque rien mais agit mieux, la suggestion a également marché. Double lien d'efficacité garantie.
 
-
-## --- Tranche 31 / 36 ---
+## Tranche 31 / 36 : L'ARCHÉTYPE DE L'AMBASSADEUR (Forging Relationships & Harmony)
 
 Voici l’analyse structurelle, technique et linguistique complète de la tranche 31/36 du cours *Beyond Self Hypnosis* d’Igor Ledochowski.
 
@@ -4517,8 +4529,7 @@ Le levier correcteur consiste soit à pré-fixer un **adjectif gardien** (*admir
   - **Mise en lumière de la double contrainte interne :** *"interfering by not trying to interfere"*. Ledochowski verbalise exactement le piège de la méta-volition (vouloir contrôler le non-contrôle).
   - **Prescription de déflation de l'Ego :** L'attitude *"I don't care"* n'est pas du désintérêt, mais une suspension radicale de l'attente de résultat, condition neurologique sine qua non de la transe générative et de l'accès aux symboles autonomes.
 
-
-## --- Tranche 32 / 36 ---
+## Tranche 32 / 36 : Le Diagnostic Projectif Éclair de l'Écosystème Intérieur (The House & Meadow Blitz)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4679,8 +4690,7 @@ Le levier correcteur consiste soit à pré-fixer un **adjectif gardien** (*admir
   - **Empilement Régressif Neuro-Linguistique :** Opère une descente rigoureuse dans les niveaux logiques : *Avoir (Environnement/Objet) $\rightarrow$ Faire (Comportement) $\rightarrow$ Ressentir (Capacités/États somatiques) $\rightarrow$ ÊTRE (Identité)*.
   - **Double Boucle Rétroactive Imbriquée :** Dès que le niveau de l'ÊTRE est verrouillé (*"Who are you being"*), la syntaxe réenclenche immédiatement une chaîne de causalité descendante inéluctable : l'Être engendre mécaniquement le Ressenti, qui active les habitudes comportementales inconscientes (*"habitually do"*), lesquelles débouchent de façon mathématique et prévisible sur l'acquisition de la forme matérielle désirée (*"predictably result in having"*).
 
-
-## --- Tranche 33 / 36 ---
+## Tranche 33 / 36 : La Prophétie Subconsciente par les Trois Miroirs de Vie (Phase 1 & 2 extraites)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4837,8 +4847,7 @@ Le levier correcteur consiste soit à pré-fixer un **adjectif gardien** (*admir
   3. Qu'il existe une disponibilité psychique immédiate pour accueillir la vérité (*"ready to embrace"*).
   Ces présuppositions contournent l'esprit analytique et obligent le subconscient à générer les réponses sous forme d'insights directs.
 
-
-## --- Tranche 34 / 36 ---
+## Tranche 34 / 36 : L'Alignement des Trois Miroirs (Fantasme, Réalité, Vérité Intérieure)
 
 Voici l'analyse opératoire intégrale de la tranche 34/36 du séminaire *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -5000,8 +5009,7 @@ Voici l'analyse opératoire intégrale de la tranche 34/36 du séminaire *Beyond
 
 * **[Analyse du Pattern]** : Décomposition analytique suivie d'une réification spatiale. Ledochowski sépare chirurgicalement la mémoire factuelle (« the event ») de la réponse somatique (« the emotion ») et de la boucle discursive (« the story »). Dès que l'émotion est isolée, il la transforme en objet manipulable (« turn that emotion into a monster ») ou en géographie navigable (« the land of shame », « the land of guilt »). Le passage du substantif abstrait au lieu physique permet au sujet de s'extraire de l'expérience (dissociation) pour devenir l'explorateur ou le chasseur de son propre état affectif.
 
-
-## --- Tranche 35 / 36 ---
+## Tranche 35 / 36 : Résolution des Charges de Culpabilité/Honte Rétroactives (« Hunt & Reintegrate the Monster »)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 35/36.
 
@@ -5171,8 +5179,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * **Commande cachée de renforcement et d'abandon :** *« naturally strengthen the connections that give the most in return. And they will simply let go of the connections that drain... »*.
   * **Présupposition de compétence biologique :** Le terme *« pruning the roots »* (élaguer les racines) confère à l'inconscient une autorisation souveraine et non culpabilisante d'amputer les influences parasites pour préserver l'intégrité de l'organisme.
 
-
-## --- Tranche 36 / 36 ---
+## Tranche 36 / 36 : La Métaphore de la Maturation et de l'Élagage Systémique (Clôture de Boucle Nichée)
 
 Voici l'analyse opératoire intégrale de la tranche 36/36 du programme *Beyond Self Hypnosis* d'Igor Ledochowski.
 
@@ -5278,3 +5285,4 @@ Voici l'analyse opératoire intégrale de la tranche 36/36 du programme *Beyond 
   - *Submodalités visuelles et kinesthésiques de puissance* : « *breaking the paving slabs* », « *buckle the fence* » démontrent la force irrépressible de la croissance lente face à des contraintes artificielles rigides (le béton/la clôture cédant sous la vie).
   - *Kinesthésie ascendante répétitive* : « *look up and up and up* » force une réorientation somatique de la tête et des yeux vers le haut, induisant un état d'admiration, d'élévation et d'ouverture.
   - *Présupposition d'accomplissement à long terme* : « *what was once thought to be completely extinct* » offre un réencadrement identitaire ultime (la renaissance de ce que le sujet croyait perdu ou mort en lui), scellé par l'installation finale du processus organique : « *plant a seed and give it time* ».
+

@@ -87,10 +87,40 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 123-269]** : Résolution de la Peur du Public par Ré-encodage Sensoriel & Spatial (Cas Joan) — *Protocole :* Résolution de la Peur du Public par Ré-encodage Sensoriel & Spatial (Cas Joan) | *Mécanisme :* Encodage Sensoriel Interne de la Réalité Subie (Modélisation de la Cause) | *Verbatim :* Verbatim 1 : L'accès sensoriel guidé
+- **Tranche 2 [Lignes 271-408]** : A : Stratégie d'Orthographe PNL (Installation Neuro-visuelle) — *Protocole :* A : Stratégie d'Orthographe PNL (Installation Neuro-visuelle)
+- **Tranche 3 [Lignes 410-616]** : A : Recadrage Conversationnel de la Codépendance (Ligne de Temps & Respect) — *Protocole :* A : Recadrage Conversationnel de la Codépendance (Ligne de Temps & Respect)
+- **Tranche 4 [Lignes 618-751]** : A : Le « Decision Destroyer » (Destructeur de Décision & Ré-empreinte Temporelle) — *Protocole :* A : Le « Decision Destroyer » (Destructeur de Décision & Ré-empreinte Temporelle) | *Mécanisme :* Le Destructeur de Décision / Ré-empreinte Préventive | *Verbatim :* Question d'Élicitation de la Pré-Empreinte
+- **Tranche 5 [Lignes 753-903]** : A : Traitement des Allergies Non-Spécifiques (Variante Régression Ressources / Anna) — *Protocole :* A : Traitement des Allergies Non-Spécifiques (Variante Régression Ressources / Anna) | *Mécanisme :* Déconditionnement et Réancrage Psychoneuroimmunologique | *Verbatim :* Régression Ressource & Présupposition d'Apprentissage Automatique
+- **Tranche 6 [Lignes 905-1033]** : Fin du Protocole de Réponse Constructive aux Critiques (Étapes 6 & 7) — *Protocole :* Fin du Protocole de Réponse Constructive aux Critiques (Étapes 6 & 7) | *Mécanisme :* Réintégration Somatosensorielle et Réunification de Partie (Embodied Resource Reintegration) | *Verbatim :* Rupture d'état somatique et ancrage immédiat
+- **Tranche 7 [Lignes 1035-1186]** : A : Recodage Global des Traumatismes et Abus Multiples — *Protocole :* A : Recodage Global des Traumatismes et Abus Multiples | *Mécanisme :* Généralisation Récursive Inconsciente du Recodage de Sous-Modalités | *Verbatim :* La Permission d'Intégration Inconsciente Automatisée
+- **Tranche 8 [Lignes 1188-1381]** : Protocole du Recadrage en Six Pas (Six-Step Reframing) en Auto-Application ou Guidé — *Protocole :* Protocole du Recadrage en Six Pas (Six-Step Reframing) en Auto-Application ou Guidé | *Verbatim :* La Directive d'Appel au Signal Inconscient
+- **Tranche 9 [Lignes 1383-1517]** : Désamorçage de l'Agression et Réalignement d'Intention chez l'Enfant (Finding the Positive I... — *Protocole :* Désamorçage de l'Agression et Réalignement d'Intention chez l'Enfant (Finding the Positive Intention) | *Mécanisme :* Le Triptyque des Positions Perceptuelles (Self, Other, Observer) | *Verbatim :* Rupture d'Agression et Bifurcation vers l'Intention
+- **Tranche 10 [Lignes 1519-1659]** : A : Solidification d'une Posture Négociatrice Sécurisée (Cas Claire) — *Protocole :* A : Solidification d'une Posture Négociatrice Sécurisée (Cas Claire) | *Verbatim :* Recadrage de la Masse de Données Passées
+- **Tranche 11 [Lignes 1661-1798]** : de Résolution du Deuil (Grief Resolution Process) — *Protocole :* de Résolution du Deuil (Grief Resolution Process) | *Mécanisme :* Structure de Sous-Modalités du Deuil vs Pleine Présence Intérieure | *Verbatim :* Recadrage Écologique de la Propriété Émotionnelle
+- **Tranche 12 [Lignes 1800-1937]** : La Stratégie du Mangeur Naturellement Mince (The Naturally Slender Eating Strategy) — *Protocole :* La Stratégie du Mangeur Naturellement Mince (The Naturally Slender Eating Strategy) | *Mécanisme :* Le Levier de Sélection Alimentaire Naturelle : Évaluation Viscérale Différée | *Verbatim :* Extrait 1 : Steve / Connirae Andreas – Recadrage de la restriction vs plaisir étendu
+- **Tranche 13 [Lignes 1939-2159]** : A : Le « Visual Squash » (Intégration de Parties en Conflit / Polarités) — *Protocole :* A : Le « Visual Squash » (Intégration de Parties en Conflit / Polarités) | *Mécanisme :* Recadrage d'Intention Positive et Séparation Comportement/But | *Verbatim :* Extrait 1 : Induction de la présence de la partie et alliance inconsciente
+- **Tranche 14 [Lignes 2161-2315]** : Résolution de la Honte (Shame Resolution Process) — *Protocole :* Résolution de la Honte (Shame Resolution Process) | *Verbatim :* Verbatim 1 : L'Induction du Balayage Temporel (Decision Destroyer)
+- **Tranche 15 [Lignes 2317-2533]** : Installation d'une Stratégie de Motivation Positive (Cas Brian) — *Protocole :* Installation d'une Stratégie de Motivation Positive (Cas Brian) | *Mécanisme :* Le Piège de la Motivation par Évitement/Catastrophe (Negative / "Disaster" Motivator) | *Verbatim :* Utilisation Paradoxale de l'Ancienne Stratégie d'Évitement (Pacing & Utilization)
+- **Tranche 16 [Lignes 2535-2660]** : A : Réencodage d'une Stratégie de Créativité / Choix d'Avenir (Cas Ralph) — *Protocole :* A : Réencodage d'une Stratégie de Créativité / Choix d'Avenir (Cas Ralph)
+- **Tranche 17 [Lignes 2662-2815]** : Le Swish Pattern Appliqué aux Traumatismes et Situations d'Urgence (Cas de Kate) — *Protocole :* Le Swish Pattern Appliqué aux Traumatismes et Situations d'Urgence (Cas de Kate) | *Verbatim :* La Définition Métacognitive du Soi Ressource
+- **Tranche 18 [Lignes 2817-2969]** : A : Élicitation et Cartographie de la Ligne du Temps — *Protocole :* A : Élicitation et Cartographie de la Ligne du Temps | *Mécanisme :* Encodage Spatial du Temps (Spatial Location Coding) | *Verbatim :* Présupposition spatiale et réduction de la résistance
+- **Tranche 19 [Lignes 2971-3098]** : Réduction de la préoccupation du passé (Passé envahissant / Rumination) — *Protocole :* Réduction de la préoccupation du passé (Passé envahissant / Rumination) | *Mécanisme :* Le codage spatial comme déterminant attentionnel et affectif | *Verbatim :* La suggestion de plasticité unconscious en rêve
+- **Tranche 20 [Lignes 3100-3232]** : d'Auto-Guérison Automatique (Engaging Your Body's Natural Ability to Heal) — *Protocole :* d'Auto-Guérison Automatique (Engaging Your Body's Natural Ability to Heal) | *Mécanisme :* Échec de la "Pensée Positive" Consciente vs Encodage Submodalitaire Inconscient | *Verbatim :* Dé-cadrage de l'espoir & Prescription de neutralité absolue (Adressé à April)
+- **Tranche 21 [Lignes 3234-3440]** : Le Protocole Complet de Recodage d'Auto-Guérison Naturelle (Étapes 4 à 10) — *Protocole :* Le Protocole Complet de Recodage d'Auto-Guérison Naturelle (Étapes 4 à 10) | *Mécanisme :* Le Recodage Submodalitaire Isomorphe de l'Auto-Guérison | *Verbatim :* Verbatim : Recadrage de la rechute en preuve d'efficacité neurologique
+- **Tranche 22 [Lignes 3442-3580]** : A : Négociation d'Alerte Écologique Post-Guérison (Signal Somatique Réduit) — *Protocole :* A : Négociation d'Alerte Écologique Post-Guérison (Signal Somatique Réduit) | *Verbatim :* Verbatim 1 : La Négociation du Micro-Signal Écologique
+- **Tranche 23 [Lignes 3582-3682]** : d'Élicitation de l'Objectif Essentiel (« The Goal of the Goal ») — *Protocole :* d'Élicitation de l'Objectif Essentiel (« The Goal of the Goal ») | *Verbatim :* Le Découplage de l'Approbation d'Autrui
+- **Tranche 24 [Lignes 3684-3762]** : Matrice Opératoire de Sélection d'Intervention (Index Synthétique Andreas) — *Protocole :* Matrice Opératoire de Sélection d'Intervention (Index Synthétique Andreas)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 24 ---
+## Tranche 1 / 24 : Résolution de la Peur du Public par Ré-encodage Sensoriel & Spatial (Cas Joan)
 
 Voici l'extraction opératoire intégrale de la tranche 1/24 du cours et de l'ouvrage *Heart of the Mind* de Connirae & Steve Andreas.
 
@@ -238,8 +268,7 @@ Voici l'extraction opératoire intégrale de la tranche 1/24 du cours et de l'ou
   * Utilisation paradoxale (Jiu-Jitsu conversationnel) : s'appuie sur le respect absolu et l'admiration que le sujet porte à l'auditoire pour désarmer sa peur.
   * Double lien contraignant (*therapeutic double bind*) : qualifier l'auditoire de « stupid » crée une rupture de pattern inacceptable pour le sujet. Pour maintenir son postulat que les participants sont intelligents, le sujet est neurologiquement contraint d'accepter qu'ils ont une excellente raison d'être là pour l'écouter.
 
-
-## --- Tranche 2 / 24 ---
+## Tranche 2 / 24 : A : Stratégie d'Orthographe PNL (Installation Neuro-visuelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -378,8 +407,7 @@ Voici l'extraction opératoire intégrale de la tranche 1/24 du cours et de l'ou
 > *"Now put that picture into the same place as one of the pictures of your being kind. Make it exactly the same as the picture of kindness; the same size, the same distance from you, etc. ... Continue doing this until you have a whole bunch of pictures sort of in a row, fairly small, at arm's length."*
 > - **[Analyse du Pattern]** : **Isomorphisme de sous-modalités par réutilisation du langage brut du sujet (Backtracking syntaxique)**. L'intervenant réinjecte mot pour mot les descripteurs sous-modaux identifiés chez la patiente (*"a whole bunch of pictures sort of in a row, fairly small, at arm's length"*). Cela permet au système nerveux d'encoder les nouvelles représentations directement dans la trame neuronale déjà validée du concept de soi, contournant tout effort conscient d'intégration.
 
-
-## --- Tranche 3 / 24 ---
+## Tranche 3 / 24 : A : Recadrage Conversationnel de la Codépendance (Ligne de Temps & Respect)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -587,8 +615,7 @@ Voici l'extraction opératoire intégrale de la tranche 1/24 du cours et de l'ou
 * **[Analyse du Pattern]** :  
   Questionnement génératif rétro-temporel (Pre-framing temporel salvateur). La question force le sujet à se dissocier de la fatalité du trauma pour se projeter dans un passé alternatif où l'antidote psychologique précède l'agression, modélisant ainsi une intervention chirurgicale de réencodage avant consolidation de la blessure d'abandon.
 
-
-## --- Tranche 4 / 24 ---
+## Tranche 4 / 24 : A : Le « Decision Destroyer » (Destructeur de Décision & Ré-empreinte Temporelle)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 4/24 de *Heart of the Mind* (Steve Andreas & Connirae Andreas).
 
@@ -723,8 +750,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 
 * **[Analyse du Pattern]** : Création d'une barrière kinesthésique visuelle absolue (« *thick plexiglass screen... from floor to ceiling* ») doublée d'une suggestion directe de sécurité (« *completely safe, protected* »). Dédoublement de perspective à la 3e personne (« *Watch that Maria... that Maria over there* »). Transfert analogique par juxtaposition temporelle immédiate : la physiologie de référence de la guêpe (« *normally and appropriately* ») est plaquée sans transition sur le déclencheur de l'abeille (« *responds in the same way* »), réalisant l'équivalence neuro-immunologique en état de dissociation totale.
 
-
-## --- Tranche 5 / 24 ---
+## Tranche 5 / 24 : A : Traitement des Allergies Non-Spécifiques (Variante Régression Ressources / Anna)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -876,8 +902,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Présupposition temporelle d'évolution** : *"now I'll be able to do something better next time"* projette le système relationnel vers une amélioration inévitable.
   - **Recentrage métacognitif direct** : La question fermée d'action *"What would you like me to do now..."* force l'interlocuteur à quitter la boucle émotionnelle stérile du reproche pour formuler une demande concrète et opérationnelle dans le présent.
 
-
-## --- Tranche 6 / 24 ---
+## Tranche 6 / 24 : Fin du Protocole de Réponse Constructive aux Critiques (Étapes 6 & 7)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1007,8 +1032,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > "And I don't know how quickly your unconscious mind will thoroughly recode all of your unpleasant past experiences, making them into smaller pictures in which you see yourself at a distance. And you might find that the color goes out of these memories as well, as they seem to be farther away."
 * **[Analyse du Pattern]** : Utilisation du truisme d'inconnaissance éricksonien (`I don't know how quickly...`) qui présuppose de façon indiscutable que l'inconscient *va* recoder l'ensemble des expériences. Enchâssement direct des sous-modalités critiques d'atténuation d'impact : réduction de taille (`smaller pictures`), dissociation spatiale (`see yourself at a distance`), perte de saturation (`color goes out`) et éloignement physique (`farther away`).
 
-
-## --- Tranche 7 / 24 ---
+## Tranche 7 / 24 : A : Recodage Global des Traumatismes et Abus Multiples
 
 Voici l'analyse opératoire de la tranche 7/24 de *Heart of the Mind* (Connirae & Steve Andreas).
 
@@ -1161,8 +1185,7 @@ Voici l'analyse opératoire de la tranche 7/24 de *Heart of the Mind* (Connirae 
   * *Recadrage de la folie apparente en acte d'héroïsme et de loyauté* : élimine la honte et la culpabilité chez le sujet vis-à-vis de ses propres blocages.
   * *Séquençage hypnotique de pacification* : la partie doit d'abord être validée, remerciée et honorée pour son intention *avant* qu'on ne l'informe que le contexte a changé (« the war was over ») et qu'elle peut désormais déposer les armes.
 
-
-## --- Tranche 8 / 24 ---
+## Tranche 8 / 24 : Protocole du Recadrage en Six Pas (Six-Step Reframing) en Auto-Application ou Guidé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1357,8 +1380,7 @@ Voici l'analyse opératoire de la tranche 7/24 de *Heart of the Mind* (Connirae 
   * **Empilement sensoriel progressif (Pacing to Leading)** : Calibration externe rigoureuse de la physiologie (posture, mouvement, souffle, voix) servant de pont d'accès neurologique avant l'injonction d'entrée : *"Now step into your child"*.
   * **Commandes directes au présent continu d'identification totale** : *"You are now moving... breathing... sounding... seeing... having"*. L'accumulation rythmique d'actions en cours d'accomplissement au présent génère une bascule hypnotique immédiate par saturation kinesthésique et visuelle, forçant l'adulte à abandonner son cadre de référence pour incarner sensoriellement l'enfant.
 
-
-## --- Tranche 9 / 24 ---
+## Tranche 9 / 24 : Désamorçage de l'Agression et Réalignement d'Intention chez l'Enfant (Finding the Positive I...
 
 Voici l'analyse opératoire intégrale de la tranche 9/24 de l'ouvrage *Heart of the Mind* de Connirae Andreas et Steve Andreas.
 
@@ -1494,8 +1516,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/24 de l'ouvrage *Heart of
 > "Because if they had only treated you unfairly once, they could make excuses, and say, 'Well, that was because of this.' But with all of this data, what could they say?"
 * **[Analyse du Pattern]** : Utilisation d'une structure conditionnelle contre-factuelle (*« if they had only... »*) opposée à la réalité actuelle (*« But with all of this data... »*). La question rhétorique finale (*« what could they say? »*) crée un vide propositionnel que l'esprit inconscient du client ne peut combler que par une seule conclusion logique : *ils ne peuvent rien dire, ma position est inattaquable*.
 
-
-## --- Tranche 10 / 24 ---
+## Tranche 10 / 24 : A : Solidification d'une Posture Négociatrice Sécurisée (Cas Claire)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (chapitre *Asserting Yourself Respectfully* se terminant sur l'ouverture de *Resolving Grief*).
 
@@ -1637,8 +1658,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Distinction temporelle et catégorielle* : Scinde le prédicat *« what they want »* en deux sous-ensembles : *« demand in the moment »* vs *« what will really make their lives better over time »*.
   - Ce découpage permet d'autoriser le refus de la demande immédiate au nom même de la valeur sacrée de serviabilité du sujet.
 
-
-## --- Tranche 11 / 24 ---
+## Tranche 11 / 24 : de Résolution du Deuil (Grief Resolution Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1777,8 +1797,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * **Double contrainte permissive** : *« each card may turn out a little bit different, but each one will have that warm, white light »* encadre la variation : les formes extérieures peuvent changer à l'infini, la satisfaction de la valeur est garantie constante.
   * **Ancrage visuel cinétique (Future Pacing par dispersion)** : L'action motrice projetée (*« cast them out »*, *« scatter throughout your future »*) et la métaphore finale des étoiles scintillantes (*« twinkling like a small star »*) créent un champ d'attraction dans le futur perceptif, rendant neurologiquement impossible la régression vers la focalisation unidirectionnelle du passé.
 
-
-## --- Tranche 12 / 24 ---
+## Tranche 12 / 24 : La Stratégie du Mangeur Naturellement Mince (The Naturally Slender Eating Strategy)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 12/24 de *Heart of the Mind* (Connirae Andreas & Steve Andreas).
 
@@ -1917,8 +1936,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 12/24 de 
   * **Commande enchâssée temporelle :** *"And now as that part begins to take shape..."* utilise le marqueur temporel hypnotique *"as"* pour lier la transe d'observation à la matérialisation sensorielle immédiate de la partie dans la main.
   * **Double adressage linguistique :** Les mots s'adressent à Joe pour calmer sa terreur morale, tout en envoyant un message direct d'alliance, de respect et de reconnaissance à l'inconscient.
 
-
-## --- Tranche 13 / 24 ---
+## Tranche 13 / 24 : A : Le « Visual Squash » (Intégration de Parties en Conflit / Polarités)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2140,8 +2158,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 12/24 de 
   * *Recadrage de niveau logique (Méta-niveau) :* Déplacement de l'exigence depuis le niveau des comportements spécifiques vers un niveau d'identité et de flexibilité d'apprentissage (« being a person who notices... and adjusts »).
   * *Hiérarchisation axiologique :* La capacité cybernétique d'auto-correction est érigée en valeur suprême, rendant toute erreur passée ou future opérante au lieu d'être infamante.
 
-
-## --- Tranche 14 / 24 ---
+## Tranche 14 / 24 : Résolution de la Honte (Shame Resolution Process)
 
 Voici l'analyse opératoire intégrale de la tranche 14/24 de *Heart of the Mind* (Connirae & Steve Andreas).
 
@@ -2297,8 +2314,7 @@ Voici l'analyse opératoire intégrale de la tranche 14/24 de *Heart of the Mind
   - *Identité de processus vs Identité d'état* (« you are the kind of person who notices... and learns ») : déplace l'identité du résultat statique vers la capacité dynamique d'apprentissage.
   - *Double lien thérapeutique constructif* (« either adjust your behavior... or reexamine and adjust your standards ») : quel que soit le choix, le sujet reste dans un cadre opératoire sain, interdisant le recours à la rumination punitive de la culpabilité.
 
-
-## --- Tranche 15 / 24 ---
+## Tranche 15 / 24 : Installation d'une Stratégie de Motivation Positive (Cas Brian)
 
 Voici l'analyse opératoire intégrale de la tranche 15/24 de *Heart of the Mind* (Connirae Andreas & Steve Andreas).
 
@@ -2516,8 +2532,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/24 de *Heart of the Mind
   - **Ancrage séquentiel direct** : *« Right after that good feeling... have an internal voice ask you... »* définit le déclencheur somatique exact qui doit automatiquement allumer le dialogue interne d'évaluation.
   - **Empilement de polarités et couverture de toutes les possibilités (Covering all possibilities)** : *« many / few »*, *« likely / unlikely »*, *« inconsequential / very important »*. Cette énumération exhaustive paralyse les objections critiques et normalise l'acte de réflexion sans rigidifier la tâche cognitive.
 
-
-## --- Tranche 16 / 24 ---
+## Tranche 16 / 24 : A : Réencodage d'une Stratégie de Créativité / Choix d'Avenir (Cas Ralph)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2644,8 +2659,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/24 de *Heart of the Mind
   - *Suggestion permissive de contournement conscient :* *"You don't need to know what those resources are"* soulage l'esprit conscient du fardeau d'inventer la solution technique.
   - *Ancrage d'analogues comportementaux et somatiques :* L'énumération sensorielle *"expression on her face, the way she moves, breathes, and gestures"* guide l'attention du client vers des marqueurs physiologiques externes observables, déclenchant l'imitation par neurones miroirs.
 
-
-## --- Tranche 17 / 24 ---
+## Tranche 17 / 24 : Le Swish Pattern Appliqué aux Traumatismes et Situations d'Urgence (Cas de Kate)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2800,8 +2814,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/24 de *Heart of the Mind
   - *Délégation du processus à l'inconscient :* *"You know unconsciously... you can let that unconscious knowledge transfer itself..."* Emploie une métaphore de transmission d'information autonome entre deux instances de soi.
   - *Double dissociation protectrice :* *"You don't even need to know exactly how he's able to be safe"*. En libérant le sujet conscient de l'obligation de trouver la solution mécanique, le thérapeute empêche l'apparition d'objections rationnelles et permet l'ancrage direct de la certitude interne.
 
-
-## --- Tranche 18 / 24 ---
+## Tranche 18 / 24 : A : Élicitation et Cartographie de la Ligne du Temps
 
 Voici l'extraction opératoire intégrale de la tranche 18/24 de *Heart of the Mind* (Connirae Andreas & Steve Andreas).
 
@@ -2955,8 +2968,7 @@ Voici l'extraction opératoire intégrale de la tranche 18/24 de *Heart of the M
 > "Good, and you can continue to let it grow unconsciously in an appropriate and useful way."
 - **[Analyse du Pattern]** : Ratification immédiate (*"Good"*) suivie d'un raccordement (*"and"*) qui enchaîne sur une suggestion post-hypnotique ouverte. L'adverbe *"unconsciously"* délègue le travail d'ajustement au traitement automatique du système nerveux, tandis que la double qualification *"appropriate and useful"* agit comme un filtre de sécurité écologique implicite.
 
-
-## --- Tranche 19 / 24 ---
+## Tranche 19 / 24 : Réduction de la préoccupation du passé (Passé envahissant / Rumination)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3085,8 +3097,7 @@ Voici l'extraction opératoire intégrale de la tranche 18/24 de *Heart of the M
 > *"Notice a past mistake, make a movie of what you want to do instead, and move it up your past timeline, through your body, and on into your future, letting it settle in wherever appropriate."*
 - **[Analyse du Pattern]** : Commande spatio-kinesthésique multi-phases. Remarquer la transition d'un cadre d'évitement vers un cadre d'approche (*"what you want to do instead"*). Le guidage spatial (*"up your past timeline, through your body, and on into your future"*) utilise le corps comme filtre de conversion neuro-émotionnel, achevé par une formule de lâcher-prise inconscient (*"letting it settle in wherever appropriate"*), qui délègue le positionnement métrique exact à l'inconscient.
 
-
-## --- Tranche 20 / 24 ---
+## Tranche 20 / 24 : d'Auto-Guérison Automatique (Engaging Your Body's Natural Ability to Heal)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3220,8 +3231,7 @@ Voici l'extraction opératoire intégrale de la tranche 18/24 de *Heart of the M
   * *Analogie distributive isomorphe :* Utilisation du connecteur d'équivalence *"Just as if..."* pour lier une situation complexe perçue comme incurable (multiples sites opératoires sur la colonne et l'estomac) à une expérience élémentaire acceptée sans conteste (plusieurs petites coupures cutanées).
   * *Généralisation neurologique distributive :* *"each one would heal by itself"* décompose l'angoisse d'un dégât massif en une somme d'unités infinitésimales autonomes, activant en parallèle le programme de réparation tissulaire sur chaque zone anatomique.
 
-
-## --- Tranche 21 / 24 ---
+## Tranche 21 / 24 : Le Protocole Complet de Recodage d'Auto-Guérison Naturelle (Étapes 4 à 10)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 21/24.
 
@@ -3429,8 +3439,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Rétrécissement somatotope homéostatique :** Substitution d'une crise systémique invalidante par un micro-signal localisé (*« a little twinge in one small joint »*).
   - **Conditionnement opérant préventif :** Association immédiate entre ce futur signal somatique et l'action comportementale requise (retour réflexif intérieur et satisfaction écologique immédiate de l'objection).
 
-
-## --- Tranche 22 / 24 ---
+## Tranche 22 / 24 : A : Négociation d'Alerte Écologique Post-Guérison (Signal Somatique Réduit)
 
 Voici l'extraction opératoire complète et rigoureuse de la tranche 22/24 de *Heart of the Mind* (Connirae & Steve Andreas).
 
@@ -3570,8 +3579,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 22/24 de *H
   - *Opérateur spatial dissociatif* : L'expression « out in front of me » relègue la représentation visuelle à distance dans l'espace péripersonnel, empêchant l'activation kinesthésique interne associée.
   - *Préservation de la fonction d'apprentissage sans contamination somatique* : « understand my doctor without programming myself » sépare l'analyse sémantique informative du réflexe de programmation neuro-végétative.
 
-
-## --- Tranche 23 / 24 ---
+## Tranche 23 / 24 : d'Élicitation de l'Objectif Essentiel (« The Goal of the Goal »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3673,8 +3681,7 @@ Voici l'extraction opératoire complète et rigoureuse de la tranche 22/24 de *H
   - *Questions d'évocation sensorielle pure :* Chacune de ces phrases est calibrée pour forcer le système nerveux à exécuter un accès transdérivationnel dans un quadrant précis (Vr : mémoire visuelle factuelle ; Vc : construction visuelle contrefactuelle ; Ar : restitution auditive périodique ; Ac : synthèse auditive hybride ; Ad : dialogue interne phonologique ; K : ressenti viscéral ou tactile). 
   - *Absence de distorsion abstraite :* Zéro métaphore ou induction complexe ici ; ce sont des déclencheurs neurologiques directs servant de base étalon pour étalonner la grammaire oculaire du sujet.
 
-
-## --- Tranche 24 / 24 ---
+## Tranche 24 / 24 : Matrice Opératoire de Sélection d'Intervention (Index Synthétique Andreas)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3753,3 +3760,4 @@ Bien que cet extrait constitue la section conclusive (épilogue, bibliographie c
 * **Extrait 3 : Présupposition Temporelle et Clôture Structurale**
   > "...bow people mentally and verbally code their past, present and future and how to use them to rapidly produce profound change. Also includes methods for eliminating compulsions, a strategy for responding to criticism, aligning your values with who you want to be, 'going over threshold' so you never do something again..."
   - **[Analyse du Pattern]** : Empilement de présuppositions d'efficacité (*"rapidly produce profound change"* traite la rapidité et la profondeur du changement comme allant de soi). L'expression idiomatique encadrée *"going over threshold" so you never do something again* agit comme un ancrage de rupture définitive (effet de bascule neurologique irréversible : saturation du système jusqu'à extinction complète du pattern indésirable).
+

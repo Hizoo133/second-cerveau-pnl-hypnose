@@ -79,10 +79,39 @@ Toutes les interventions du cours reposent sur un trépied méthodologique const
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 114-238]** : Induction par Évocation Sensorielle Invariable (Exercice 1 & 2) — *Protocole :* Induction par Évocation Sensorielle Invariable (Exercice 1 & 2) | *Mécanisme :* Levier de Transdérivation Sensorielle Inévitable ("Must Be There") | *Verbatim :* La Négation de Prémisse Hypnotique
+- **Tranche 2 [Lignes 240-423]** : Induction par Pacing Sensoriel Présent et Biofeedback Respiratoire (Exercise 2 & Suite) — *Protocole :* Induction par Pacing Sensoriel Présent et Biofeedback Respiratoire (Exercise 2 & Suite) | *Mécanisme :* Le Biofeedback Inconscient par Appariement Comportemental | *Verbatim :* La Démonstration Vivante de Congruence Prosodique
+- **Tranche 3 [Lignes 425-554]** : Le Rythme 3 Pacing + 1 Leading avec Transition Syntaxique (Exercice 3) — *Protocole :* Le Rythme 3 Pacing + 1 Leading avec Transition Syntaxique (Exercice 3) | *Verbatim :* Recadrage de la Résistance à la Détente par Dérivation Métaphorique
+- **Tranche 4 [Lignes 556-675]** : Pacing & Leading Verbal Gradué (Exercice 5-4-3-2-1) — *Protocole :* Pacing & Leading Verbal Gradué (Exercice 5-4-3-2-1)
+- **Tranche 5 [Lignes 677-823]** : Induction par Chevauchement Sensoriel (Representational System Overlap) — *Protocole :* Induction par Chevauchement Sensoriel (Representational System Overlap) | *Mécanisme :* Le Chevauchement des Systèmes de Représentation (Representational System Overlap) | *Verbatim :* La Passerelle Sensorielle Visuo-Kinesthésique
+- **Tranche 6 [Lignes 825-953]** : Traitement et Incorporation Immédiate des Phénomènes Spontanés Inattendus — *Protocole :* Traitement et Incorporation Immédiate des Phénomènes Spontanés Inattendus | *Verbatim :* Formule de transition : intégration inconsciente et retour autonome
+- **Tranche 7 [Lignes 955-1088]** : Exercice de Marquage Analogique Intégré (Exercise 5) — *Protocole :* Exercice de Marquage Analogique Intégré (Exercise 5)
+- **Tranche 8 [Lignes 1090-1265]** : L'Interruption de la Poignée de Main Classique & Dérivation en Transe — *Protocole :* L'Interruption de la Poignée de Main Classique & Dérivation en Transe | *Mécanisme :* L'Interruption de Pattern (Pattern Interruption) & Suspension de Programme | *Verbatim :* La Poignée de Main et la Redirection Verbale Directe
+- **Tranche 9 [Lignes 1267-1421]** : Structure Standard d'Exploration en Transe (Exercice 6) — *Protocole :* Structure Standard d'Exploration en Transe (Exercice 6) | *Verbatim :* Verbatim 1 : L'Instruction de Transe Stable & Signal Idéomoteur
+- **Tranche 10 [Lignes 1423-1561]** : L'Établissement du Cadre par Illusion de Choix — *Protocole :* L'Établissement du Cadre par Illusion de Choix | *Verbatim :* Double-Lien sur le Mode d'Induction
+- **Tranche 11 [Lignes 1563-1729]** : Induction Générative par Rêve Hypnotique & Catalepsie Liée — *Protocole :* Induction Générative par Rêve Hypnotique & Catalepsie Liée | *Mécanisme :* La boucle de biofeedback humain (Pacing & Leading somato-vocal)
+- **Tranche 12 [Lignes 1731-1866]** : A : Clôture de Transe et Reconnexion en Processus Pur (The Content-Free Cleanup) — *Protocole :* A : Clôture de Transe et Reconnexion en Processus Pur (The Content-Free Cleanup) | *Verbatim :* La Clôture Générative Post-Hypnotique
+- **Tranche 13 [Lignes 1868-1991]** : A : Réancrage Hypnotique de Comportement Aversif Conjugal (Démonstration sur Linda) — *Protocole :* A : Réancrage Hypnotique de Comportement Aversif Conjugal (Démonstration sur Linda) | *Verbatim :* Verbatim 1 : Double lien temporel & dissociation conscient/inconscient
+- **Tranche 14 [Lignes 1993-2146]** : A : Négociation Somatique Directe et Recadrage d'un Symptôme Corporel Chronique (Démonstrati... — *Protocole :* A : Négociation Somatique Directe et Recadrage d'un Symptôme Corporel Chronique (Démonstration des « Pieds Engourdis ») | *Verbatim :* s Verbatim
+- **Tranche 15 [Lignes 2148-2279]** : Recadrage en 6/7 Étapes sous Hypnose (Bandler & Grinder) — *Protocole :* Recadrage en 6/7 Étapes sous Hypnose (Bandler & Grinder) | *Verbatim :* Double-Lien d'Élection et Présupposition d'Amour
+- **Tranche 16 [Lignes 2281-2420]** : Protocole de Résolution Somatique Accélérée (Rhume, Congestion, Troubles Aigus) — *Protocole :* Protocole de Résolution Somatique Accélérée (Rhume, Congestion, Troubles Aigus) | *Mécanisme :* Rupture de Boucle Étiologique par Projection Fonctionnelle d'Avenir | *Verbatim :* Le Recadrage Conversationnel Suicide/Alcool
+- **Tranche 17 [Lignes 2422-2589]** : Protocole : Générateur de Nouveau Comportement (New Behavior Generator) — *Protocole :* Protocole : Générateur de Nouveau Comportement (New Behavior Generator) | *Verbatim :* Recadrage Somatique / Allégorie Immunitaire (Poison Oak)
+- **Tranche 18 [Lignes 2591-2752]** : Deep Trance Identification (DTI) via le Jeu d'Habillage Enfantin — *Protocole :* Deep Trance Identification (DTI) via le Jeu d'Habillage Enfantin | *Mécanisme :* Régression en Âge par Empilement de Contextes Absurdes & Échafaudage Métaphorique | *Verbatim :* La régression par l'objet géant
+- **Tranche 19 [Lignes 2754-2974]** : Récupération d'informations traumatiques sans ré-traumatisation (Double Dissociation) — *Protocole :* Récupération d'informations traumatiques sans ré-traumatisation (Double Dissociation) | *Mécanisme :* Le piège du revécu identique vs Réorganisation de l'histoire personnelle | *Verbatim :* La réfutation de l'abréaction cathartique
+- **Tranche 20 [Lignes 2976-3152]** : Auto-Induction Externe de Betty Erickson & Boucle de Biofeedback Verbal-Sensoriel (Sensory B... — *Protocole :* Auto-Induction Externe de Betty Erickson | *Mécanisme :* Boucle de Biofeedback Verbal-Sensoriel (Sensory Biofeedback Loop) | *Verbatim :* Utilisation Immédiate d'une Réponse de Polarité
+- **Tranche 21 [Lignes 3154-3334]** : Réduction à l'Absurde par Amplification Prescriptive (Paradoxical Symptom Exhaustion) — *Protocole :* Réduction à l'Absurde par Amplification Prescriptive (Paradoxical Symptom Exhaustion)
+- **Tranche 22 [Lignes 3336-3500]** : A : La Technique du « Bras du Rêve » et Recadrage Métaphorique Pédiatrique (Cas Dave) — *Protocole :* A : La Technique du « Bras du Rêve » et Recadrage Métaphorique Pédiatrique (Cas Dave) | *Verbatim :* Double contrainte de sécurité et ancrage somatique
+- **Tranche 23 [Lignes 3502-3632]** : Génération de Postulats Conversationnels (Conversational Postulates) — *Protocole :* Génération de Postulats Conversationnels (Conversational Postulates) | *Mécanisme :* Inaccessibilité Neurologique de la Négation en Expérience Primaire | *Verbatim :* Embedded Questions
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 23 ---
+## Tranche 1 / 23 : Induction par Évocation Sensorielle Invariable (Exercice 1 & 2)
 
 Voici l'analyse opératoire intégrale de la tranche 1/23 (Foreword & Introduction jusqu'à l'Exercise 2) de l'ouvrage *Trance-formations* de Richard Bandler et John Grinder.
 
@@ -208,8 +237,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/23 (Foreword & Introducti
 > *"You can hear the sounds that the water makes"*
 * **[Analyse du Pattern] :** Nominalisation ouverte / Flou artistique (*Artful Vagueness*). En substituant une description spécifique (ex. "the splash") par une catégorie d'expériences ouverte ("the sounds that..."), le langage s'adapte à n'importe quelle configuration interne du sujet (qu'il soit à la surface ou sous l'eau), rendant le pacing infaillible et universel.
 
-
-## --- Tranche 2 / 23 ---
+## Tranche 2 / 23 : Induction par Pacing Sensoriel Présent et Biofeedback Respiratoire (Exercise 2 & Suite)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -394,8 +422,7 @@ flowchart TD
   - **Rupture paroxystique de pattern (*Pattern Interrupt*)** : L'apparition subite et illogique du rhinocéros brise brutalement le vecteur de traitement associatif.
   - **Effet neurologique** : Sidération instantanée de l'hémisphère gauche (analytique), dilation pupillaire, arrêt net du dialogue interne et suspension du jugement critique. Le système se fige dans l'attente d'une réorganisation sémantique.
 
-
-## --- Tranche 3 / 23 ---
+## Tranche 3 / 23 : Le Rythme 3 Pacing + 1 Leading avec Transition Syntaxique (Exercice 3)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -526,8 +553,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Succession de 3 truismes kinesthésiques et auditifs irréfutables (*breathing, sounds, hear people moving*), enchaînés par le connecteur *"and"* avec un leading qui pace et amplifie le doute conscient lui-même (*"and you wonder, really wonder..."*). L'usage de la répétition avec intensificateur amplifie la désorientation, immédiatement résolue et dérivée par une clause de subordination temporelle permissive (*"while you take time..."*) vers une régression kinesthésique ressource (*jogging*).
 
-
-## --- Tranche 4 / 23 ---
+## Tranche 4 / 23 : Pacing & Leading Verbal Gradué (Exercice 5-4-3-2-1)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -648,8 +674,7 @@ flowchart TD
 > **"The lifting of your arm will make you drift off into a pleasant memory."**
 - **[Analyse du Pattern] :** Modélisation causale forte directe (*"X causes Y"* via le verbe transitif d'action causale *"make"*). Le déclencheur moteur idéomoteur (la lévitation du bras) devient la cause neurologique directe et contraignante d'un phénomène de régression ou de transe interne (l'émergence d'un souvenir agréable).
 
-
-## --- Tranche 5 / 23 ---
+## Tranche 5 / 23 : Induction par Chevauchement Sensoriel (Representational System Overlap)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -797,8 +822,7 @@ flowchart TD
   - Suggestion post-hypnotique d'état somatique positif : *"giving you a sense of refreshment and renewal"*.
   - Mise en place d'un signal idéomoteur de sécurité : *"indicate that with a hand movement"*, établissant une ligne de communication inconsciente directe sans forcer la parole consciente.
 
-
-## --- Tranche 6 / 23 ---
+## Tranche 6 / 23 : Traitement et Incorporation Immédiate des Phénomènes Spontanés Inattendus
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -928,8 +952,7 @@ flowchart TD
   - Clivage conscient/inconscient strict et impératif : interdiction explicite d'accès au conscient (*« I don't want your conscious mind to intrude unhelpfully »*).
   - Double contrainte temporelle immédiate (*« Begin speaking now! »*) : la saturation et l'urgence bloquent la censure consciente et forcent l'inconscient à produire directement les marqueurs analogiques du trauma (qui ont fait émerger *« electric... shock... treatment »*).
 
-
-## --- Tranche 7 / 23 ---
+## Tranche 7 / 23 : Exercice de Marquage Analogique Intégré (Exercise 5)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1064,8 +1087,7 @@ flowchart TD
 > **"David? My name is— [...] John Grinder, and I have enjoyed meeting you very much. I don't know how you got the information to come to the seminar, but I am glad that you did."**
 * **[Analyse du Pattern]** : *Encadrement par boucle ouverte et fermeture temporelle (Amnestic Bracket).* La phrase sociale entamée avant l'interruption ("David? My name is—") est laissée en suspens pendant toute la durée de la transe catalepsique, puis complétée mot à mot à la fin ("John Grinder..."). Cette clôture de séquence réactive le programme d'accueil initial là où il s'était arrêté, effaçant l'épisode hypnotique intermédiaire de la continuité narrative consciente.
 
-
-## --- Tranche 8 / 23 ---
+## Tranche 8 / 23 : L'Interruption de la Poignée de Main Classique & Dérivation en Transe
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1242,8 +1264,7 @@ flowchart TD
   - Prévention de l'analyse critique par validation du mystère inconscient (*"the contents of which will not be available until you notice it"*).
   - Réveil progressif orienté ressource et apprentissage inconscient (*"with a sense of refreshment... slowly return... to the level of reality which was most appropriate for him in learning important things"*).
 
-
-## --- Tranche 9 / 23 ---
+## Tranche 9 / 23 : Structure Standard d'Exploration en Transe (Exercice 6)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1399,8 +1420,7 @@ flowchart TD
   - *Couplage neurophysiologique naturel* (*"During sleep and dreaming, natural integrative processes go on..."*) : utilise l'activité biologique de phase REM comme moteur d'apprentissage inconscient.
   - *Génération de comportement automatique post-hypnotique* (*"doing things that you learned here without even knowing about it"*) : installe l'intégration directe dans les boucles de rétroaction du quotidien sans contrôle conscient.
 
-
-## --- Tranche 10 / 23 ---
+## Tranche 10 / 23 : L'Établissement du Cadre par Illusion de Choix
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1540,8 +1560,7 @@ flowchart TD
 > "One of the interesting things about this man . . . is that he was completely drunk . . . and yet . . . each time a fly landed on his hand, he involuntarily twitched . . . and the fly would move off his hand. He repeated this process . . . again . . . and again . . . and again . . . and even though his conscious mind . . . did not know what was going on, his unconscious activity was organized . . . and methodical . . . and protective. . . ."
 * **[Analyse du Pattern]** : Commande idéomotrice analogique déguisée en récit anecdotique. L'évocation répétée du tressaillement de la main face à la mouche sert simultanément de suggestion indirecte de réflexe protecteur et de test de profondeur hypnotique calibré en direct sur la main du sujet.
 
-
-## --- Tranche 11 / 23 ---
+## Tranche 11 / 23 : Induction Générative par Rêve Hypnotique & Catalepsie Liée
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1709,8 +1728,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : Boucle de réintégration métaphorique (Clean-up loop) et scission fonctionnelle. Suggestion post-hypnotique de rassemblement des parties fragmentées et transfert d'énergie vers un traitement inconscient d'arrière-plan, protégeant l'autonomie et la sécurité motrice du conscient pour le quotidien.
 
-
-## --- Tranche 12 / 23 ---
+## Tranche 12 / 23 : A : Clôture de Transe et Reconnexion en Processus Pur (The Content-Free Cleanup)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1847,8 +1865,7 @@ flowchart TD
   - *Submodalités métaphoriques temporelles et visuelles* : « let that unpleasant memory really fade », « move forward », « go back into that pleasant memory ».
   - *Recatégorisation sémantique binaire* : Redéfinit les traces mnésiques en deux catégories tranchées : les « ressources » (à disposition immédiate, « at your beck and call ») et les « fardeaux » obsolètes (« a burden... no longer needed »), facilitant le tri inconscient sans culpabilité.
 
-
-## --- Tranche 13 / 23 ---
+## Tranche 13 / 23 : A : Réancrage Hypnotique de Comportement Aversif Conjugal (Démonstration sur Linda)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1973,8 +1990,7 @@ flowchart TD
   - *Liaison de causalité réversible :* Établit une équivalence complexe et un lien de cause à effet entre posture somatique, perception et compétence (`as you change your abilities... as you change your perceptions`).  
   - *Directive de recadrage total sous forme de souvenir indiscutable :* Le sujet ne peut contester qu'en grandissant la vision du monde change ; l'inconscient traduit cette évidence passée en autorisation présente de transformer radicalement sa perception d'un problème donné.
 
-
-## --- Tranche 14 / 23 ---
+## Tranche 14 / 23 : A : Négociation Somatique Directe et Recadrage d'un Symptôme Corporel Chronique (Démonstrati...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2129,8 +2145,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : **Double présupposition enchâssée et dissociation de l'agentivité.** La phrase ne demande jamais *si* le comportement $X$ a une valeur (c'est présupposé comme une certitude absolue par la formulation « *what it is of value that occurs* »). Elle présuppose également que la partie responsable est une entité autonome distincte capable d'autoriser ou de refuser l'accès à l'information (« *allow her conscious mind to know* »). Que la réponse soit 'oui' ou 'non', l'utilité fonctionnelle de $X$ est gravée dans le système sans possibilité de débat conscient.
 
-
-## --- Tranche 15 / 23 ---
+## Tranche 15 / 23 : Recadrage en 6/7 Étapes sous Hypnose (Bandler & Grinder)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2263,8 +2278,7 @@ flowchart TD
 > She said "Well, I just felt like I was going down the drain." And I said to her "People don't go down the drain. Other things do!"
 - **[Analyse du Pattern] :** Recadrage par défamiliarisation littérale d'une métaphore usée (*idiom literalization*). En refusant l'équivalence symbolique négative appliquée à l'identité de la personne (*« People don't... »*) et en la redirigeant vers les objets matériels destructeurs (*« Other things do! »*), le praticien prescrit indirectement l'action d'assainissement physique (vider les bouteilles d'alcool dans l'évier).
 
-
-## --- Tranche 16 / 23 ---
+## Tranche 16 / 23 : Protocole de Résolution Somatique Accélérée (Rhume, Congestion, Troubles Aigus)
 
 Voici l'extraction chirurgicale et l'analyse modélisatrice de la tranche 16/23 de *Trance-formations* (Bandler & Grinder).
 
@@ -2405,8 +2419,7 @@ Voici l'extraction chirurgicale et l'analyse modélisatrice de la tranche 16/23 
 > "Poison oak rash is a response to a plant to protect you from the danger of it, when the plant isn't dangerous. And then you get all this stuff over your skin, but it is your body responding. And it's just a mistake; and when you make mistakes, the best policy is always to go back and clear them up."
 *   **[Analyse du Pattern] :** Redéfinition cognitive et déculpabilisation biologique. L'urticaire est recadrée en intention positive de protection systémique (*« to protect you »*), immédiatement juxtaposée à une erreur d'évaluation factuelle (*« the plant isn't dangerous »*). Utilisation d'un truisme moral universellement accepté (*« when you make mistakes, the best policy is always to go back and clear them up »*), qui agit comme une métaphore isomorphique ordonnant aux globules blancs et aux médiateurs inflammatoires de résorber la réaction cutanée sur le champ.
 
-
-## --- Tranche 17 / 23 ---
+## Tranche 17 / 23 : Protocole : Générateur de Nouveau Comportement (New Behavior Generator)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 17/23 du séminaire *Trance-formations* de Bandler & Grinder.
 
@@ -2575,8 +2588,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 17/23 du séminaire *
   * **Rétrécissement de l'index épistémique** : *"knowing only what you knew then and nothing more"* est une commande directe d'amnésie rétrograde ciblée, condition sine qua non d'une régression authentique.
   * **Ratification par phénomène idéomoteur involontaire** : La lévitation spontanée de la main (*"hand will begin to float up"*) lie la validation de l'état de régression à une réponse neuromusculaire subconsciente échappant au contrôle volontaire.
 
-
-## --- Tranche 18 / 23 ---
+## Tranche 18 / 23 : Deep Trance Identification (DTI) via le Jeu d'Habillage Enfantin
 
 Voici l'analyse opératoire intégrale de la tranche 18/23 de *Trance-formations* (Bandler & Grinder).
 
@@ -2739,8 +2751,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/23 de *Trance-formations
   * *Suggestion permissive de tri sélectif :* Autorise l'inconscient à filtrer l'accès mémoriel en fonction d'un critère d'utilité (« only those portions... it believes would be useful »).
   * *Présupposition de transformation avec amnésie de source :* « find yourself using new choices... and you don't know where they came from ». Le nouveau comportement est installé comme un automatisme spontané et agréable, tandis que l'amnésie de la séance est recadrée comme la source même du plaisir de l'apprentissage.
 
-
-## --- Tranche 19 / 23 ---
+## Tranche 19 / 23 : Récupération d'informations traumatiques sans ré-traumatisation (Double Dissociation)
 
 Voici l'extraction opératoire intégrale de la tranche 19/23 de *Trance-formations* (Bandler & Grinder).
 
@@ -2962,8 +2973,7 @@ Voici l'extraction opératoire intégrale de la tranche 19/23 de *Trance-formati
   * **Dissociation Conscient / Inconscient avec double lien d'impuissance consciente** : *"it doesn't matter if it allows your conscious mind to appreciate that understanding... a lot... or a little"*. Quelle que soit la réaction de l'esprit conscient (comprendre beaucoup ou peu), l'inconscient opère la transformation en arrière-plan.
   * **Post-hypnotic Pont vers le futur borné dans le temps** : *"within the next forty-eight hours"* ancre une attente active et inconsciente de changement positif dans l'expérience quotidienne immédiate. Predicats adjectivaux ouverts : *"meaningful and surprisingly delightful way"*.
 
-
-## --- Tranche 20 / 23 ---
+## Tranche 20 / 23 : Auto-Induction Externe de Betty Erickson & Boucle de Biofeedback Verbal-Sensoriel (Sensory B...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3141,8 +3151,7 @@ Voici l'extraction opératoire intégrale de la tranche 19/23 de *Trance-formati
   - **Répétition anaphorique des prédicats fondamentaux** (*« I see... I hear... I can feel... »*) : Crée une cadence hypnotique rythmée et prévisible, saturant le système d'attention sélective par balayage séquentiel systématique des trois modalités ($V \to A \to K$).
   - **Gradation vers le somatosensoriel intéroceptif** : Le passage progressif d'indices visuels distants à des contacts tactiles intimes (la plante des pieds, le poids de la veste, la chaleur des doigts entrelacés) focalise inexorablement la conscience vers l'intérieur du corps.
 
-
-## --- Tranche 21 / 23 ---
+## Tranche 21 / 23 : Réduction à l'Absurde par Amplification Prescriptive (Paradoxical Symptom Exhaustion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3324,8 +3333,7 @@ Voici l'extraction opératoire intégrale de la tranche 19/23 de *Trance-formati
 > **"The Wookie's going to be standing there, and you know he's going to be there for you because you'll feel the pressure on your shoulder as he stands next to you with his hand on your shoulder, knowing that if worse comes to worse, he'll sweep you up into his arms and run, because he can outrun the monsters."**
 * **[Analyse du Pattern]** : Ancrage kinesthésique somatosensoriel avec pont vers le futur. La pression physique exercée par la main du praticien sur l'épaule de l'enfant est rattachée à la présence protectrice de l'archétype. La suggestion intègre une issue de secours absolue (« he can outrun the monsters »), neutralisant la panique de mort imminente durant le cauchemar.
 
-
-## --- Tranche 22 / 23 ---
+## Tranche 22 / 23 : A : La Technique du « Bras du Rêve » et Recadrage Métaphorique Pédiatrique (Cas Dave)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3491,8 +3499,7 @@ Voici l'extraction opératoire intégrale de la tranche 19/23 de *Trance-formati
   - **Clause temporelle subordonnée :** *"before you've comfortably continued the process of relaxation"* présuppose que la relaxation est en cours et va se poursuivre confortablement.
   - **Nominalisation de dissociation d'identité :** *"allowed the other you to learn"* installe une scission de l'appareil psychique où une instance distincte intègre de nouvelles ressources sans requérir l'accord de la personnalité de surface.
 
-
-## --- Tranche 23 / 23 ---
+## Tranche 23 / 23 : Génération de Postulats Conversationnels (Conversational Postulates)
 
 Voici l'analyse d'ingénierie opératoire de la tranche finale 23/23 de l'ouvrage *Trance-formations* (Bandler & Grinder), couvrant les motifs d'influence avancée du Milton-Model (Questions Enchâssées, Commandes Négatives, Postulats Conversationnels, Ambiguïtés, Motifs Métaphoriques) ainsi que l'index terminologique de référence.
 
@@ -3623,3 +3630,4 @@ Voici l'analyse d'ingénierie opératoire de la tranche finale 23/23 de l'ouvrag
 #### Pépite 10 : Quotes Pattern
 > *"You can talk to someone about a client of Milton Erickson's who wanted to really learn about hypnosis. He listened to Erickson talk about hypnosis and thought that he understood. Then Erickson turned to him and said emphatically 'You don't really know something until you've practiced every piece of it thoroughly!'"*
 - **[Analyse du Pattern]** : Structure de citations emboîtées à trois niveaux d'attribution (Praticien -> Milton Erickson -> Élève). L'impératif catégorique et confrontationnel final (*"You don't really know something until..."*) s'adresse phonétiquement et kinesthésiquement au sujet présent via le pronom *"You"*, tandis que la barrière critique du conscient est contournée par le cadre de reportage narratif.
+

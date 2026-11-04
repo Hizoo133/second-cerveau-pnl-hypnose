@@ -57,10 +57,33 @@ L'intégralité des interventions repose sur une boucle cybernétique invariable
 
 ---
 
+---
+
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 86-205]** : L'Algorithme de l'Accès Direct (Analogie Structurée du « Coucher de Soleil ») — *Protocole :* L'Algorithme de l'Accès Direct (Analogie Structurée du « Coucher de Soleil ») | *Mécanisme :* Structure Sous-Jacente vs. Couche de Peinture Comportementale | *Verbatim :* La rupture de cadre et le basculement vers l'expérience immédiate
+- **Tranche 2 [Lignes 207-361]** : Découverte et Dissolution de l'« Ego / Je » Initial (Finding the ‘I’ & Dissolving) — *Protocole :* Découverte et Dissolution de l'« Ego / Je » Initial (Finding the ‘I’ & Dissolving) | *Mécanisme :* Spatialisation de la structure cognitive de l'Ego | *Verbatim :* La rupture de cadre ontologique (Trouver le sujet observant)
+- **Tranche 3 [Lignes 363-488]** : Protocole d'Intégration du « Je » par la Conscience Récursive (Phase d'Approfondissement) — *Protocole :* Protocole d'Intégration du « Je » par la Conscience Récursive (Phase d'Approfondissement) | *Mécanisme :* La contraction somato-spatiale de l'ego ("Le Poing Neurologique") | *Verbatim :* La Validation du Gardien Homéostatique
+- **Tranche 4 [Lignes 490-659]** : The Basic Process (Démonstration sur l'exploration d'un problème avec empilement de « Je ») — *Protocole :* The Basic Process (Démonstration sur l'exploration d'un problème avec empilement de « Je ») | *Verbatim :* La régression développementale permissive (Pré-framing d'apprentissage)
+- **Tranche 5 [Lignes 661-814]** : Fondamental : The Wholeness Work Basic Process — *Protocole :* Fondamental : The Wholeness Work Basic Process | *Verbatim :* Décrochage de la conceptualisation vers la réalité somatique
+- **Tranche 6 [Lignes 816-929]** : A : Neutralisation Anticipatoire d'un Scénario Catastrophe — *Protocole :* A : Neutralisation Anticipatoire d'un Scénario Catastrophe | *Mécanisme :* Désactivation de l'Attracteur de Stress et Immunisation Neurologique | *Verbatim :* Verbatim 1 : L'Immunisation Cognitive et Refus d'Invitation
+- **Tranche 7 [Lignes 931-1057]** : Traitement des Chaînes Longues d'« Ego/Je » et Intégration Fractionnée — *Protocole :* Traitement des Chaînes Longues d'« Ego/Je » et Intégration Fractionnée | *Mécanisme :* Dissolution de la focalisation étroite et redistribution systémique de l'intention positive | *Verbatim :* Verbatim 1 : L'analogie du poing et la redistribution de la fonction adaptative
+- **Tranche 8 [Lignes 1059-1177]** : A : Recalibrage de la Signification vers la Qualité Sensorielle (Shift from Meaning to Sensa... — *Protocole :* A : Recalibrage de la Signification vers la Qualité Sensorielle (Shift from Meaning to Sensation Quality) | *Mécanisme :* La Qualité Sensorielle Directe vs la Surcouche de Signification (Meaning / Interpretation Overlays) | *Verbatim :* Verbatim 1 : Neutralisation de la surcouche d'émotion et réorientation sensorielle
+- **Tranche 9 [Lignes 1179-1280]** : Le Format Méditation / Pratique de Vie (Wholeness Meditation Format) — *Protocole :* Le Format Méditation / Pratique de Vie (Wholeness Meditation Format) | *Verbatim :* Induction du Champ & Ratification de l'Inconnu
+- **Tranche 10 [Lignes 1282-1446]** : Format Méditation du Wholeness Work (Session Récursive / Résistance) — *Protocole :* Format Méditation du Wholeness Work (Session Récursive / Résistance) | *Verbatim :* L'Induction du Relâchement Soustractif
+- **Tranche 11 [Lignes 1448-1612]** : Le Format de Méditation Wholeness (Wholeness Meditation Format) — *Protocole :* Le Format de Méditation Wholeness (Wholeness Meditation Format) | *Mécanisme :* Récupération de la contraction énergétique par inclusion de l'observateur | *Verbatim :* Induction permissive de l'espace de Conscience
+- **Tranche 12 [Lignes 1614-1743]** : A : Transposition Somatosensorielle d'un Percept Interne (Image ou Voix) — *Protocole :* A : Transposition Somatosensorielle d'un Percept Interne (Image ou Voix)
+- **Tranche 13 [Lignes 1745-1838]** : d'Intégration d'une Réaction Émergente (Working with Reactions) — *Protocole :* d'Intégration d'une Réaction Émergente (Working with Reactions) | *Mécanisme :* Le Recadrage Ontologique de la « Résistance » en « Réaction Active » | *Verbatim :* Le Pivot Phénoménologique Immédiat (Désamorçage de la Confusion)
+- **Tranche 14 [Lignes 1840-1962]** : Le Protocole de Base du Wholeness Work (The Basic Wholeness Process) — *Protocole :* Le Protocole de Base du Wholeness Work (The Basic Wholeness Process) | *Verbatim :* Le Recadrage Métaphorique de l'OS (Windows 11 & Machine Language)
+- **Tranche 15 [Lignes 1964-2072]** : La Bascule de l'Ego Contracté à la Conscience Vaste (Origine du Processus Fondamental) — *Protocole :* La Bascule de l'Ego Contracté à la Conscience Vaste (Origine du Processus Fondamental) | *Mécanisme :* Ancrage Spatial de l'Ego Contracté vs Abstraction Conceptuelle | *Verbatim :* L'Ancrage Géographique du "Je" Ordinaire
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 15 ---
+## Tranche 1 / 15 : L'Algorithme de l'Accès Direct (Analogie Structurée du « Coucher de Soleil »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -181,8 +204,7 @@ L'intégralité des interventions repose sur une boucle cybernétique invariable
 - **[Analyse du Pattern]** :  
   *Question rhétorique avec présupposition d'évidence, suivie de micro-commandes d'action interne.* La formule *« Why not... »* contourne la résistance rationnelle. La suite propose une séquence kinesthésique d'apaisement par glissement sémantique progressif : passer de l'approche spatiale (*« Go to the core »*) à l'acceptation relationnelle (*« welcome it »*), puis à la commande de relâchement somatique profond (*« invite it to dissolve—to melt away »*), le terme *melt away* activant directement un relâchement neuromusculaire involontaire.
 
-
-## --- Tranche 2 / 15 ---
+## Tranche 2 / 15 : Découverte et Dissolution de l'« Ego / Je » Initial (Finding the ‘I’ & Dissolving)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 2/15.
 
@@ -338,8 +360,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
     *   *Formulation d'invitation non-directive* : *« is invited to open and relax »* : la voix passive (*is invited*) élimine tout opérateur de contrainte volontaire ; il n'y a personne qui force la détente, c'est une invitation offerte à la structure elle-même.
     *   *Ambiguïté prépositionnelle charnière (« in and as »)* : Le glissement de *« in »* (contenant spatial) à *« as »* (identité ontologique) opère la déconstruction de la dualité observateur/observé. La structure contractée du « Je » n'est plus un objet baignant dans la conscience, elle redevient la conscience elle-même.
 
-
-## --- Tranche 3 / 15 ---
+## Tranche 3 / 15 : Protocole d'Intégration du « Je » par la Conscience Récursive (Phase d'Approfondissement)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -466,8 +487,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Recadrage par l'humour méta :* « I don’t even need to know that much, but I asked anyway, being nosy » brise le cadre thérapeutique classique axé sur l'histoire tout en dédramatisant l'enjeu clinique par le rire partagé.
   * *Nominalisation spatialisée :* Passage immédiat de « What you call the response » (label sémantique) à « where is the location » (coordonnée physique), convertissant une émotion conceptuelle en un objet géométrique accessible au protocole de dissolution.
 
-
-## --- Tranche 4 / 15 ---
+## Tranche 4 / 15 : The Basic Process (Démonstration sur l'exploration d'un problème avec empilement de « Je »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -638,8 +658,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
     *   *Isomorphisme somatique et visuel :* L'utilisation du geste (la main gauche enserrant le poing droit fermé) offre une démonstration kinesthésique et visuelle immédiate du blocage fonctionnel. Le concept abstrait de « résistance de l'observateur » devient une réalité physique mécanique évidente pour le praticien et le client.
     *   *Analogie opératoire ordonnée :* La métaphore des poupées gigognes impose une nécessité logique d'intervention séquentielle (impossibilité d'ouvrir la poupée centrale sans avoir retiré les enveloppes externes), justifiant la pertinence d'adopter rigoureusement le parcours d'intégration rétrograde (LIFO).
 
-
-## --- Tranche 5 / 15 ---
+## Tranche 5 / 15 : Fondamental : The Wholeness Work Basic Process
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -794,8 +813,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 - **[Analyse du Pattern]** : Métaphore somatique non-duelle formulée avec un opérateur modal de possibilité adouci (*"It may feel like..."*). Présupposition ontologique majeure : la Conscience était déjà présente au cœur même du nœud de tension, éliminant tout effort d'importation d'une ressource extérieure. Le réflexif *"wakes up to itself"* induit une réorganisation instantanée sans intervention volontaire du sujet.
 
-
-## --- Tranche 6 / 15 ---
+## Tranche 6 / 15 : A : Neutralisation Anticipatoire d'un Scénario Catastrophe
 
 Voici l'analyse opératoire intégrale de la tranche 6/15 selon les règles strictes d'ingénierie modélisatrice.
 
@@ -910,8 +928,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/15 selon les règles stri
 > "However, what the ‘I’ may not realize is that when it opens, relaxes, and integrates, what actually happens is that its purpose for being, whatever it is, spreads systemwide so that our whole being can be fulfilling this purpose! We don’t need to know what that purpose is, but each of these small ‘I’s is trying to do something positive for us."
 * **[Analyse du Pattern]** : Recadrage de sécurité profonde par truismes et commandes enchâssées. Utilisation d'un quantificateur universel (*"spreads systemwide"*, *"our whole being"*) qui rassure la part protectrice sans imposer de décodage analytique conscient (*"We don’t need to know..."*), permettant au système nerveux d'abandonner la contraction locale au profit d'une sécurité holistique globale.
 
-
-## --- Tranche 7 / 15 ---
+## Tranche 7 / 15 : Traitement des Chaînes Longues d'« Ego/Je » et Intégration Fractionnée
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1039,8 +1056,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/15 selon les règles stri
   * *Recadrage radical de la valence négative :* Utilisation délibérée d'un lexique répulsif cru (*« rotting », « moldy », « disgusting »*) pour désensibiliser le sujet face à ses parts les plus honteuses ou violentes (vengeance, rage, terreur).
   * *Liaison causale inévitable :* L'adverbe *« inevitably »* combiné à la loi biologique du compost transforme le déchet psychologique en une nécessité écologique de fertilisation. Le déchet n'est plus à éliminer : il est le carburant obligatoire de la sagesse future.
 
-
-## --- Tranche 8 / 15 ---
+## Tranche 8 / 15 : A : Recalibrage de la Signification vers la Qualité Sensorielle (Shift from Meaning to Sensa...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1160,8 +1176,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/15 selon les règles stri
   - *Agentivité passive non-volontaire :* « is invited to open and relax » élimine toute tentative de contrôle volontaire. Ce n'est pas le sujet qui force la détente, c'est la sensation elle-même qui reçoit une invitation. L'association des verbes « open » (dé-marcation spatiale) et « relax » (chute de tonus) agit comme une transe de lâcher-prise somatosensoriel.
   - *Prépositions non-duelles emboîtées :* L'utilisation conjointe de « in and as » (dans et en tant que) constitue le cœur du levier linguistique non-duel : « in » offre le réceptacle spatial sécurisant (le champ de la Conscience), tandis que « as » supprime la séparation ontologique entre la Conscience et la sensation, opérant la fusion de l'observateur et de l'observé.
 
-
-## --- Tranche 9 / 15 ---
+## Tranche 9 / 15 : Le Format Méditation / Pratique de Vie (Wholeness Meditation Format)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1264,8 +1279,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/15 selon les règles stri
   - *Direction 2 :* Modalité de possibilité (« can flow into ») couplée à une formulation indirecte d'autonomie systémique (« what wants to happen ») qui délègue la volition à l'intelligence organique profonde.
   - *Direction 3 :* Présupposition d'existence immanente (« already present ») et personnification métaphorique du niveau logique supérieur (« wakes up to itself ») qui détruit le clivage sujet/objet sans imposer de dynamique de déplacement spatial.
 
-
-## --- Tranche 10 / 15 ---
+## Tranche 10 / 15 : Format Méditation du Wholeness Work (Session Récursive / Résistance)
 
 Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to Wholeness"** de Connirae Andreas, modélisée selon les règles strictes d'ingénierie comportementale et linguistique.
 
@@ -1431,8 +1445,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to
   - *Spatialisation linguistique instantanée de l'entité psychologique* (*« Where is the one who is impatient? »*) : la nominalisation émotionnelle abstraite (« impatience ») est immédiatement détruite et convertie en une structure spatiale localisable (*« the one who »* + localisation + dimensions tridimensionnelles).
   - *Désidentification radicale* : en demandant la texture de « celui qui est impatient », le sujet est instantanément extrait de la fusion avec l'impatience pour redevenir le champ qui l'observe.
 
-
-## --- Tranche 11 / 15 ---
+## Tranche 11 / 15 : Le Format de Méditation Wholeness (Wholeness Meditation Format)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1598,8 +1611,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to
     *   *Boucle récursive d'interception de l'effort :* Elle met en lumière le mécanisme de rétroaction où le désir d'expérimenter la « Vastitude » redevient une contraction de l'ego (« subtle effort into creating... »).
     *   *Réapplication opératoire immédiate :* « we can find the 'I' that's trying hard to create the sense of vast space » referme le piège conceptuel en appliquant la méthode à la tentative même d'appliquer la méthode, garantissant une absence totale d'angles morts dans la pratique.
 
-
-## --- Tranche 12 / 15 ---
+## Tranche 12 / 15 : A : Transposition Somatosensorielle d'un Percept Interne (Image ou Voix)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1730,8 +1742,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to
 > **"It can be possible to sense the sensation quality in and through a structure by being it as Awareness. So instead of it being as if we could send out a hand to feel into the space, it’s more that we are just experiencing ourselves as the field of Awareness that is already everywhere, including the space of the ‘I.’ We’re definitely not stepping into it in the way we might 'step into someone else’s shoes' in an NLP process. That would be stepping in as an ‘I’... With Wholeness Work, we are experiencing something as Awareness."**
 * **[Analyse du Pattern]** : Différenciation de cadre par contraste méthodologique direct. Connirae Andreas confronte l'association classique en PNL (position 2 / seconde position / *"stepping into"*) avec l'identification à la Présence globale. Elle invalide l'illusion d'un déplacement de perspective personnelle pour ancrer une posture ontologique non-locale où la Conscience préexiste à l'objet perçu (*"already everywhere, including the space of the 'I'"*).
 
-
-## --- Tranche 13 / 15 ---
+## Tranche 13 / 15 : d'Intégration d'une Réaction Émergente (Working with Reactions)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1826,8 +1837,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to
 
 * **[Analyse du Pattern]** : Rupture de pattern et alliance paradoxale. Au lieu de rassurer maladroitement le client (« Mais si, ça va durer »), Connirae valide la prédiction pessimiste (« *it's probably right* »). Elle enchaîne instantanément sur un recadrage de critère : la pérennité n'est plus la mesure du succès. Cela détruit la tension d'anticipation et libère le client du fardeau de maintenir l'état.
 
-
-## --- Tranche 14 / 15 ---
+## Tranche 14 / 15 : Le Protocole de Base du Wholeness Work (The Basic Wholeness Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1951,8 +1961,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/15 du cours **"Coming to
   - **Transe de recherche spatiale (Spatial Search Truisms)** : Formulation d'une évidence phénoménologique irréfutable (*« it's as if we're seeing it or sensing it from someplace »*) qui force le système visuel et proprioceptif interne à se découpler du contenu perçu pour identifier le vecteur perceptif.
   - **Pacing & Leading avec choix illusoire** : Suggestions spatiales dispersées (*« above and behind... to the right, or to the left. Or anywhere »*). L'inclusion du joker *« Or anywhere »* combiné à la permission *« It’s OK to just guess, or to pretend »* supprime tout enjeu de performance, induisant une focalisation immédiate sur l'arrière-plan spatial de la conscience.
 
-
-## --- Tranche 15 / 15 ---
+## Tranche 15 / 15 : La Bascule de l'Ego Contracté à la Conscience Vaste (Origine du Processus Fondamental)
 
 Voici l'analyse d'ingénierie et de modélisation de la tranche 15/15 du cours/ouvrage *Coming to Wholeness* de Connirae Andreas.
 
@@ -2061,3 +2070,4 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 15/15 du cours/o
   * **Commande directe et métaphore somatique spatiale** : L'esprit humain est recadré en « maison d'hôtes » (*guest house*), ce qui crée une dissociation saine entre le contenant (le Soi/l'espace) et le contenu (les émotions/pensées qui ne font que passer).
   * **Rupture d'affect par jonction incongrue** : L'injonction d'associer le rire et la gratitude à des états intérieurs réprouvés (*« the shame, the malice. meet them at the door laughing »*) brise le conditionnement aversif classique (peur, évitement, culpabilité).
   * **Présupposition de téléologie positive** : En posant que chaque perturbation *« has been sent as a guide from beyond »*, la résistance du système nerveux central s'éteint au profit d'une curiosité phénoménologique totale, condition sine qua non de la dissolution dans le Wholeness Work.
+

@@ -103,10 +103,54 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 153-312]** : Test des Bras Élevés et Abaissés (Arm Rising and Falling) — *Protocole :* Test des Bras Élevés et Abaissés (Arm Rising and Falling) | *Mécanisme :* Typologie Opératoire Binaire : Analytique vs Non-Analytique | *Verbatim :* Suggestion de Dissociation Gravitaire Asymétrique (Arm Rising / Falling)
+- **Tranche 2 [Lignes 314-566]** : Doigts Magnétiques Attractifs & Répulsifs (Suggestibility / Waking Hypnosis) — *Protocole :* Doigts Magnétiques Attractifs & Répulsifs (Suggestibility / Waking Hypnosis) | *Mécanisme :* Levier de Surcharge Kinesthésique et Rupture d'Équilibre (Kinesthetic Shock & Vestibular Destabilization) | *Verbatim :* Verrouillage Idéo-Moteur et Défi Autoritaire
+- **Tranche 3 [Lignes 568-695]** : Sitting Instant Induction & Active Muscular Relaxation Induction (Rene A. Bastarache) — *Protocole :* Sitting Instant Induction | *Mécanisme :* Rupture Vestibulaire & Surcharge de Chute Précipitée (Sitting Instant Induction) | *Verbatim :* Induction Instantanée Assise
+- **Tranche 4 [Lignes 697-816]** : "Magic Cloth - Body Scan" (JoAnn Dworman) — *Protocole :* "Magic Cloth - Body Scan" (JoAnn Dworman)
+- **Tranche 5 [Lignes 818-930]** : Approfondisseur par Entonnoir de Cristal et Bille d'Argent (Crystal Funnel) — *Protocole :* Approfondisseur par Entonnoir de Cristal et Bille d'Argent (Crystal Funnel) | *Mécanisme :* Fractionnement dissociatif par dissolution optique / évanescence chiffrée | *Verbatim :* Verbatim 1 : La dissolution des nuages chiffrés
+- **Tranche 6 [Lignes 932-1059]** : L'Escalier du Puits Ancien avec Validation Verbale Idéomotrice (Martha Affeld) — *Protocole :* L'Escalier du Puits Ancien avec Validation Verbale Idéomotrice (Martha Affeld) | *Mécanisme :* Surcharge de la boucle phonologique et dissociation par tâche concurrente complexe | *Verbatim :* Le Choix Forcé Équifinal
+- **Tranche 7 [Lignes 1061-1215]** : Tâche Concurrente de Dissociation Absolue (« Vacation Packing » – Dr. Jane Greer) — *Protocole :* Tâche Concurrente de Dissociation Absolue (« Vacation Packing » – Dr. Jane Greer) | *Verbatim :* Extrait 1 : La Dissociation Opératoire Explicite
+- **Tranche 8 [Lignes 1217-1366]** : Daisy - Depth Test (Test de la Marguerite) & Le Test de Profondeur Opératoire (Depth Testing... — *Protocole :* Daisy - Depth Test (Test de la Marguerite) | *Mécanisme :* Le Test de Profondeur Opératoire (Depth Testing as Feedback Loop) | *Verbatim :* PEPITE 1 : Daisy Test (Étalonnage projectif)
+- **Tranche 9 [Lignes 1368-1502]** : Le Véhicule Alphabétique de Saturation Conscience/Inconscient (Modèle Universel : Île, Pique... — *Protocole :* Le Véhicule Alphabétique de Saturation Conscience/Inconscient (Modèle Universel : Île, Pique-nique, Supermarché, Fleurs) | *Verbatim :* Verbatim 1 : L'Injonction Paradoxale de Dissociation Consciente
+- **Tranche 10 [Lignes 1504-1658]** : A : "The Mall Script" (Induction Spéciale Profil Analytique) — *Protocole :* A : "The Mall Script" (Induction Spéciale Profil Analytique) | *Verbatim :* Le Double-Lien d'Écoute et de Présence ("Mall Script")
+- **Tranche 11 [Lignes 1660-1826]** : "Sticks and Tones" (Induction par surcharge motrice et ancrage auditif) — *Protocole :* "Sticks and Tones" (Induction par surcharge motrice et ancrage auditif) | *Mécanisme :* Surcharge cognitive motrice et perceptuelle (Fractionnement attentionnel) | *Verbatim :* La boucle d'amnésie et de permission consciente
+- **Tranche 12 [Lignes 1828-1982]** : A : Neutralisation de la Bifurcation et Récupération d'Autonomie (Alcool / Choix toxiques) — *Protocole :* A : Neutralisation de la Bifurcation et Récupération d'Autonomie (Alcool / Choix toxiques) | *Verbatim :* Verbatim 1 : La dissolution des messages d'autrui
+- **Tranche 13 [Lignes 1984-2135]** : Désensibilisation et Réduction de la Douleur Chronique (Arthritis / Pain Relief Tunnel) — *Protocole :* Désensibilisation et Réduction de la Douleur Chronique (Arthritis / Pain Relief Tunnel)
+- **Tranche 14 [Lignes 2137-2341]** : Recodage des Limites et Affirmation Écologique (Boundaries) — *Protocole :* Recodage des Limites et Affirmation Écologique (Boundaries) | *Mécanisme :* Injonction d'Auto-Détermination et Clôture Frontalière
+- **Tranche 15 [Lignes 2343-2497]** : A : Restructuration Sensorielle de la Claustrophobie & Nyctophobie — *Protocole :* A : Restructuration Sensorielle de la Claustrophobie & Nyctophobie | *Mécanisme :* Inversion de Valence Somatosensorielle & Recadrage Phobique (Claustrophobie) | *Verbatim :* Pattern 1 : Resémantisation & Chaînage Physiologique de l'Étreinte
+- **Tranche 16 [Lignes 2499-2633]** : Désamorçage de l'Hyper-Contrôle & Libération Relationnelle — *Protocole :* Désamorçage de l'Hyper-Contrôle & Libération Relationnelle | *Verbatim :* Le Détachement de la Responsabilité Cosmique
+- **Tranche 17 [Lignes 2635-2808]** : Fractionnement Respiratoire par Cycles de 12 (Deep Relaxation) — *Protocole :* Fractionnement Respiratoire par Cycles de 12 (Deep Relaxation) | *Mécanisme :* Dé-nominalisation & Éradication Ontologique de la Peur | *Verbatim :* Dissolution de l'illusion des peurs décisionnelles
+- **Tranche 18 [Lignes 2810-2945]** : Recodage Mnésique de Capacité (Traitement Symbolique de la Dyslexie) — *Protocole :* Recodage Mnésique de Capacité (Traitement Symbolique de la Dyslexie) | *Mécanisme :* Le Recadrage Kinesthésique par Utilisation Sensorielle Concurrente | *Verbatim :* Recadrage Vestibulaire & Dissociation Focalisée
+- **Tranche 19 [Lignes 2947-3063]** : Désensibilisation par Objectification Sensorielle (Bastarache Box Technique) — *Protocole :* Désensibilisation par Objectification Sensorielle (Bastarache Box Technique) | *Mécanisme :* Objectification Somatosensorielle et Réification Déconstructive de l'Affect | *Verbatim :* Bastarache Box Submodalities Collapse
+- **Tranche 20 [Lignes 3065-3269]** : Réinitialisation Temporelle & Ancrage Respiratoire Présent (R. A. Bastarache) — *Protocole :* Réinitialisation Temporelle & Ancrage Respiratoire Présent (R. A. Bastarache) | *Mécanisme :* Le Principe de Distribution Décisionnelle 90/10 et Découplage Stimulus-Réponse | *Verbatim :* Verbatim 1 : La Répartition Neuro-Émotionnelle et l'Impermanence Temporelle (R. A. Bastarache)
+- **Tranche 21 [Lignes 3271-3466]** : Récupération Mnésique d'Objets Égarés & Modèle Informatique de Récupération Mnésique (Disque... — *Protocole :* Récupération Mnésique d'Objets Égarés | *Mécanisme :* Modèle Informatique de Récupération Mnésique (Disque Dur Subconscient) | *Verbatim :* Verbatim 1 : L'Ancrage Métaphorique de l'Arc-en-ciel Thérapeutique
+- **Tranche 22 [Lignes 3468-3635]** : A : Restauration Cellulaire & Auto-Guérison par l'Horloger Inconscient (Bastarache) — *Protocole :* A : Restauration Cellulaire & Auto-Guérison par l'Horloger Inconscient (Bastarache) | *Mécanisme :* Le Pattern de Restauration par Plan Matriciel Primitif (The Blueprint Metaphor) | *Verbatim :* Verbatim 1 : L'Accélération Temporelle et le Calembour Somatique
+- **Tranche 23 [Lignes 3637-3781]** : A : Protection Gastrique Viscérale (IBS / Côlon Irritable) — *Protocole :* A : Protection Gastrique Viscérale (IBS / Côlon Irritable)
+- **Tranche 24 [Lignes 3783-3917]** : Décompte Régressif au Tableau Noir avec Sortie de Fatigue (Blackboard Sleep Induction) — *Protocole :* Décompte Régressif au Tableau Noir avec Sortie de Fatigue (Blackboard Sleep Induction)
+- **Tranche 25 [Lignes 3919-4052]** : "Programming Your Computer" – Encodage Spatial de 30 Loci (Rene A. Bastarache) — *Protocole :* "Programming Your Computer" – Encodage Spatial de 30 Loci (Rene A. Bastarache) | *Mécanisme :* Architecturation spatiale de la mémoire sous transe (Méthode des Loci hypnotique) | *Verbatim :* Pattern 1 : Double contrainte permissive et équivalence d'accès (Rene A. Bastarache)
+- **Tranche 26 [Lignes 4054-4176]** : Structuration et Test du Palais de la Mémoire Hypnotique (30 Loci) — *Protocole :* Structuration et Test du Palais de la Mémoire Hypnotique (30 Loci) | *Verbatim :* Décompte de sortie avec maintien de transe partielle
+- **Tranche 27 [Lignes 4178-4303]** : A : Évacuation de la Douleur par Projection Océanique ("The Drift Bottle") — *Protocole :* A : Évacuation de la Douleur par Projection Océanique ("The Drift Bottle") | *Verbatim :* Le Choc de Dés-essentialisation de l'Obsession
+- **Tranche 28 [Lignes 4305-4453]** : Purification Sémantique et Élimination Somato-Spatiale (Positive Thoughts) — *Protocole :* Purification Sémantique et Élimination Somato-Spatiale (Positive Thoughts) | *Verbatim :* Pattern 1 : Ancrage de Densité et Rupture Kinesthésique
+- **Tranche 29 [Lignes 4455-4609]** : Dénouement de la Douleur Somatique / Gastrique (David Barr) — *Protocole :* Dénouement de la Douleur Somatique / Gastrique (David Barr)
+- **Tranche 30 [Lignes 4611-4757]** : Désamorçage de l'Addiction au Shopping (Rene A. Bastarache) — *Protocole :* Désamorçage de l'Addiction au Shopping (Rene A. Bastarache) | *Mécanisme :* La Technique de l'Écran de Cinéma Mental Dissocié & Équivalence Neuro-Subconsciente | *Verbatim :* Désamorçage de l'exigence de profondeur & Permission hypnotique
+- **Tranche 31 [Lignes 4759-4870]** : Sevrage Tabagique Accéléré en 1 Séance (One Session Method) — *Protocole :* Sevrage Tabagique Accéléré en 1 Séance (One Session Method) | *Mécanisme :* Levier du mot-gâchette somato-moteur d'endormissement immédiat | *Verbatim :* Suggestion post-hypnotique d'interruption d'éveil nocturne
+- **Tranche 32 [Lignes 4872-5003]** : Programme de Sevrage Tabagique Dégressif Paliers 30 $\rightarrow$ 5 cigarettes/jour — *Protocole :* Programme de Sevrage Tabagique Dégressif Paliers 30 $\rightarrow$ 5 cigarettes/jour | *Verbatim :* Pattern 1 : Impératif d'annihilation et rupture de thésaurisation
+- **Tranche 33 [Lignes 5005-5143]** : A : Neutralisation de la Compulsion d'Achat & Prédécision Budgétaire — *Protocole :* A : Neutralisation de la Compulsion d'Achat & Prédécision Budgétaire | *Verbatim :* Verbatim 1 : Le ronflement comme signal d'ancrage de sécurité
+- **Tranche 34 [Lignes 5145-5273]** : L'Ancre Digitale Anti-Stress et Anti-Panique (Clive A. Housley) — *Protocole :* L'Ancre Digitale Anti-Stress et Anti-Panique (Clive A. Housley)
+- **Tranche 35 [Lignes 5275-5402]** : Recalibrage Analogique du Tinnitus (Acouphènes) — *Protocole :* Recalibrage Analogique du Tinnitus (Acouphènes) | *Mécanisme :* Le Principe d'Élasticité Cybernétique de l'Image de Soi ("Snapback") | *Verbatim :* Verrouillage du Facteur Critique par Contrat Hypermétaphorique
+- **Tranche 36 [Lignes 5404-5597]** : Pulvérisation Kinesthésique des Soucis (Concrete Sphere Crushing) — *Protocole :* Pulvérisation Kinesthésique des Soucis (Concrete Sphere Crushing)
+- **Tranche 37 [Lignes 5599-5753]** : Construction Opératoire de la "Spirit Room" (Rene A. Bastarache) — *Protocole :* Construction Opératoire de la "Spirit Room" (Rene A. Bastarache) | *Mécanisme :* Architecture du Sanctuaire Intérieur (Spirit Room) | *Verbatim :* Verbatim 1 : Levée de limite financière et imaginaire
+- **Tranche 38 [Lignes 5755-5858]** : Clôture de Vie Antérieure, Récolte de Ressources et Réintégration Temporelle — *Protocole :* Clôture de Vie Antérieure, Récolte de Ressources et Réintégration Temporelle | *Verbatim :* Double Dissociation et Protection Perceptive
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 38 ---
+## Tranche 1 / 38 : Test des Bras Élevés et Abaissés (Arm Rising and Falling)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -267,8 +311,7 @@ flowchart TD
   - *Suggestion d'anesthésie/amnésie corporelle :* L'affirmation *"it’s as if it’s not even part of your body anymore"* induit une dissociation proprioceptive locale, facilitant la catalepsie en déconnectant le membre du schéma corporel volontaire habituel.
   - *Répétition impérative saturante :* L'empilement sans pause *"go ahead and try you cannot bend it, you cannot bend it"* inhibe le temps de réaction cortical et empêche le sujet d'élaborer une stratégie motrice de relâchement avant l'ordre libérateur *"stop trying"*.
 
-
-## --- Tranche 2 / 38 ---
+## Tranche 2 / 38 : Doigts Magnétiques Attractifs & Répulsifs (Suggestibility / Waking Hypnosis)
 
 Voici l'extraction et la modélisation intégrale de la **tranche 2/38** du cours *"Hypnotherapy Scripts Manual"* dispensé par l'American International Association (Rene A. Bastarache & JoAnn Dworman).
 
@@ -522,8 +565,7 @@ Voici l'extraction et la modélisation intégrale de la **tranche 2/38** du cour
   * *Création d'une causalité fictive acceptée :* L'assignation d'un nom technique (« *the hypnotic nerve* ») et d'un emplacement physique précis (l'arête du nez) fournit à l'esprit logique une explication pseudo-scientifique recevable.
   * *Pré-programmation séquentielle mot-à-mot :* Le formateur dicte à l'avance la biomécanique exacte de la réponse (chute des mains, inclinaison de la tête en avant). Au moment du claquement de doigts, le sujet n'a plus qu'à exécuter le scénario convenu, s'auto-convainquant que le « nerf » a fonctionné.
 
-
-## --- Tranche 3 / 38 ---
+## Tranche 3 / 38 : Sitting Instant Induction & Active Muscular Relaxation Induction (Rene A. Bastarache)
 
 Voici l’extraction intégrale et opératoire de la tranche 3/38 du manuel *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -652,8 +694,7 @@ Voici l’extraction intégrale et opératoire de la tranche 3/38 du manuel *Hyp
 > "The outside world ... fades more into the background ... As you begin your journey into your own inner world ... just let go ... more and more relax ... and you may soon find that your mind begins to wander ... and it doesn’t matter where you drift ... where you go ... My voice will travel with you at all times ... So you will continue ... To respond to me on an unconscious level."
 - **[Analyse du Pattern]** : **Permissivité dissociative & Commande de contrôle inconscient.** Normalisation de la perte d'attention (*"it doesn't matter where you drift"*), suivie d'une clause de sécurité et de guidage (*"My voice will travel with you"*). La phrase finale *"So you will continue ... To respond to me on an unconscious level"* est une commande directe enchâssée liant l'égarement mental du sujet au maintien du rapport thérapeutique.
 
-
-## --- Tranche 4 / 38 ---
+## Tranche 4 / 38 : "Magic Cloth - Body Scan" (JoAnn Dworman)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -774,8 +815,7 @@ Voici l’extraction intégrale et opératoire de la tranche 3/38 du manuel *Hyp
 * **"you notice that in between each numbered cloud … as it blows away and as the next one forms … 20 … that you are becoming soooo … soooo … very tired …"**
   * [Analyse du Pattern] : Élongation phonétique et transe vocale par ralentissement rythmique. L'attention est focalisée sur les interstices (*in between*), c'est-à-dire le vide entre deux stimuli mentaux, ce qui génère une micro-rupture de pattern cognitive continue.
 
-
-## --- Tranche 5 / 38 ---
+## Tranche 5 / 38 : Approfondisseur par Entonnoir de Cristal et Bille d'Argent (Crystal Funnel)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 5/38 du manuel *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -889,8 +929,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 5/38 du m
 > « Anytime you hear this sound during the session (snap your fingers - or tap table with a pen etc.) you will immediately relax twice as deep »
 *   **[Analyse du Pattern] :** Commande post-hypnotique contingente directe sous forme de cause à effet absolue (*Anytime X -> immediately Y*). L'utilisation du quantificateur d'amplification (*« twice as deep »*) contourne la quantification logique en créant une sensation subjective d'accélération exponentielle du repos.
 
-
-## --- Tranche 6 / 38 ---
+## Tranche 6 / 38 : L'Escalier du Puits Ancien avec Validation Verbale Idéomotrice (Martha Affeld)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1019,8 +1058,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 5/38 du m
   - **Liaison simultanée (While/As)** : "knowing that as you do so, your subconscious mind is receiving...", le verbe d'action conscient (compter/épeler) est couplé au verbe d'état passif inconscient (recevoir/comprendre).
   - **Élimination de la résistance par déresponsabilisation** : "easy and effortless... although you make no effort", oxymore apparent qui valide le fait que moins le conscient travaille sur le sens des paroles, plus l'efficacité est garantie.
 
-
-## --- Tranche 7 / 38 ---
+## Tranche 7 / 38 : Tâche Concurrente de Dissociation Absolue (« Vacation Packing » – Dr. Jane Greer)
 
 Voici l'extraction et la modélisation intégrale de la tranche 7/38 du *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -1176,8 +1214,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 7/38 du *Hypnoth
   - **Paradoxe proprioceptif fonctionnel :** Le script combine la descente corporelle (« sink », « deeper and deeper ») avec une sensation d'allègement et de lévitation (« lighter and lighter », « arms begin to float… weightless »), induisant une catalepsie douce sans forçage direct.
   - **Métaphore somatosensorielle enveloppante :** « The blue silky blanket embraces you » requalifie l'eau fraîche en une couverture réconfortante et sécurisante, prévenant toute anxiété liée à la profondeur ou à la noyade.
 
-
-## --- Tranche 8 / 38 ---
+## Tranche 8 / 38 : Daisy - Depth Test (Test de la Marguerite) & Le Test de Profondeur Opératoire (Depth Testing...
 
 Voici l’ingénierie opératoire et la modélisation clinique intégrale de la tranche 8/38 du manuel de l'American International Association.
 
@@ -1328,8 +1365,7 @@ Voici l’ingénierie opératoire et la modélisation clinique intégrale de la 
 > *"With each name you choose you are becoming more relaxed, with each name you choose you are going deeper into the hypnotic state, becoming more open to suggestions, more and more relaxed, and receptive. The closer you get to the letter Z, the deeper into relaxation you will go."*
 - **[Analyse du Pattern] :** **Double liaison de rythme séquentiel (*Isomorphisme de tâche*) + Accumulation progressive + Rapprochement spatial métaphorique.** L'effort mental du sujet (trouver des prénoms ou parcourir l'alphabet) est lié de manière inconditionnelle à l'amplification de la réceptivité hypnotique (*« With each name... »*). La phrase finale pose une analogie géométrique d'inévitabilité : l'avancement dans une séquence fermée et inéluctable (l'alphabet jusqu'à Z) entraîne mécaniquement et proportionnellement l'approfondissement de la transe (*« The closer you get to Z, the deeper... »*). Le facteur critique ne peut s'opposer à la progression sans interrompre l'alphabet lui-même.
 
-
-## --- Tranche 9 / 38 ---
+## Tranche 9 / 38 : Le Véhicule Alphabétique de Saturation Conscience/Inconscient (Modèle Universel : Île, Pique...
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 9/38 du manuel *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -1465,8 +1501,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 9/38 du m
   - **Ancrage quantitatif asymétrique** (*"$4,962.21"* / *"$75.43"*) : Injection de chiffres non ronds créant une surcharge computationnelle immédiate dans le cortex pariétal et frontal gauche.
   - **Truisme d'implication tautologique ericksonienne** (*"Your subconscious mind knows, and because your subconscious mind knows, you can relax..."*) : Syntaxe circulaire liant la possession d'un savoir inconscient implicite à l'autorisation somatique de se relâcher.
 
-
-## --- Tranche 10 / 38 ---
+## Tranche 10 / 38 : A : "The Mall Script" (Induction Spéciale Profil Analytique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1622,8 +1657,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 9/38 du m
 * **[Analyse du Pattern]** :
   - **Suggestion indirecte par dérivation d'attention** : Pendant que le conscient est mobilisé par le jeu intellectuel de trouver un prénom commençant par la même lettre qu'une partie anatomique (recherche sémantique exigeante), la suggestion de détente somatique est glissée de façon incidente (*"noticing how relaxed your face becomes as you find a new name for it"*). L'effet physiologique se produit en sous-marin.
 
-
-## --- Tranche 11 / 38 ---
+## Tranche 11 / 38 : "Sticks and Tones" (Induction par surcharge motrice et ancrage auditif)
 
 Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -1791,8 +1825,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
 
 - **[Analyse du Pattern]** : Recadrage de sens pur par présupposition causale (*« the fact that X is evidence of Y »*). Le symptôme douloureux (culpabilité dévorante) est extrait du registre de la faute morale pour être placé sous le modèle de la maladie (*« disease »*), retirant la responsabilité criminelle. Il est ensuite inversé pour devenir la preuve irréfutable de la moralité intrinsèque du sujet (*« you ARE a good person »*), restaurant l'estime de soi indispensable au sevrage.
 
-
-## --- Tranche 12 / 38 ---
+## Tranche 12 / 38 : A : Neutralisation de la Bifurcation et Récupération d'Autonomie (Alcool / Choix toxiques)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1948,8 +1981,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
 
 * **[Analyse du Pattern] :** Programmation neuro-linguistique de commande enchâssée sous forme de dialogue interne guidé (*« say to yourself 'stop' »*). La suggestion post-hypnotique subordonne le stimulus visuel agréable de l'objet désiré à l'évocation automatique et instantanée des obligations financières vitales, réalignant le comportement compulsif sur le principe de réalité.
 
-
-## --- Tranche 13 / 38 ---
+## Tranche 13 / 38 : Désensibilisation et Réduction de la Douleur Chronique (Arthritis / Pain Relief Tunnel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2102,8 +2134,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
 ```
 * **[Analyse du Pattern]** : Double lien de protection (double bind comportemental) : soit la fuite physique assertive (*"simply remove yourself"*), soit la confrontation diplomatique dépolarisée (*"indicate that although you appreciate their opinion, you know yourself best"*). L'utilisation de la formule concessive (*"although..."*) valide superficiellement l'émetteur pour mieux vider son intervention de tout impact sur l'estime de soi.
 
-
-## --- Tranche 14 / 38 ---
+## Tranche 14 / 38 : Recodage des Limites et Affirmation Écologique (Boundaries)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2309,8 +2340,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
 ```
 * **[Analyse du Pattern]** : **Inversion kinesthésique radicale par recadrage d'inhibition réciproque.** Association directe et répétée des déclencheurs de panique (« Small places, tight places, dark places ») avec une réponse physiologique parasympathique (« allow your heart to slow »). Le stimulus terrifiant de l'enfermement est requalifié en chaleur enveloppante d'édredon et en étreinte amoureuse bienfaisante, modifiant instantanément l'affect attaché à la kinesthèse de contention.
 
-
-## --- Tranche 15 / 38 ---
+## Tranche 15 / 38 : A : Restructuration Sensorielle de la Claustrophobie & Nyctophobie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2466,8 +2496,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
 > *"You UNDERSTAND the difference between advice and directives. You only give advice. If someone doesn’t listen to your advice that is okay. You are only giving them the benefit of your knowledge. They are not insulting you by doing something besides what you tell them to do. Someone who doesn’t do what you tell can still be your friend. Making the world go smoothly isn’t your responsibility."*
 - **[Analyse du Pattern]** : Marquage analogique par accentuation typographique (*"UNDERSTAND"*). Fragmentation chirurgicale de la signification : la désobéissance d'autrui est dissociée du rejet affectif personnel (*"They are not insulting you..."* / *"can still be your friend"*). L'intervention se conclut par une levée du fardeau ontologique par négation directe de responsabilité globale (*"Making the world go smoothly isn’t your responsibility"*).
 
-
-## --- Tranche 16 / 38 ---
+## Tranche 16 / 38 : Désamorçage de l'Hyper-Contrôle & Libération Relationnelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2603,8 +2632,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/38 du manuel *Hypnothera
   - *Impératif futur programmatique répétitif* : Répétition rythmée de « *You will...* », instaurant une certitude comportementale inévitable.
   - *Empilement d'affirmations de souveraineté en clôture* : « *you are in control, you have positive cash flow* », saturant le champ mental par une déclaration d'indépendance financière au temps présent.
 
-
-## --- Tranche 17 / 38 ---
+## Tranche 17 / 38 : Fractionnement Respiratoire par Cycles de 12 (Deep Relaxation)
 
 Voici l'analyse opératoire intégrale de la tranche 17/38 du manuel *Hypnotherapy Scripts Manual* (American International Association / Rene Bastarache, Martha Affeld, Larry A. Roth, Barbara Carter, Jamie Tyndel).
 
@@ -2779,8 +2807,7 @@ Voici l'analyse opératoire intégrale de la tranche 17/38 du manuel *Hypnothera
   - **Recadrage d'élévation identitaire :** L'abandon de l'argumentation n'est plus codé comme une défaite ou une soumission, mais comme une marque de supériorité morale et de maturité (*« be a bigger person », « rise above them »*).
   - **Avertissement hypnotique sur l'effet cumulatif :** Mise en garde contre l'empilement inconscient (*« letting enough insignificant things build up »*) pour motiver le lâcher-prise immédiat par prévention d'une saturation future.
 
-
-## --- Tranche 18 / 38 ---
+## Tranche 18 / 38 : Recodage Mnésique de Capacité (Traitement Symbolique de la Dyslexie)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de la **tranche 18/38** du *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -2917,8 +2944,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Élimination systématique des échappatoires causales externes :** Énumération explicite des boucs émissaires classiques (*parents, friends, society*) pour fermer toutes les portes de sortie psychologiques.
   - **Ancrage du locus de contrôle interne absolu :** Association directe entre l'aveu de responsabilité et l'accès au pouvoir personnel (« *I am in control and responsible for my own destiny* »).
 
-
-## --- Tranche 19 / 38 ---
+## Tranche 19 / 38 : Désensibilisation par Objectification Sensorielle (Bastarache Box Technique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3036,8 +3062,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : Utilisation d'un monologue interne à la première personne (« *I am... I realize...* ») facilitant l'identification identitaire directe sans la résistance créée par un « vous » directif. Structure en chiasme temporel (Aujourd'hui = résultat d'hier / Demain = dépendance d'aujourd'hui) créant un étau de cohérence logique inévitable. La déconstruction sérielle des cibles projectives classiques (« *parents, friends, or even society* ») élimine systématiquement toutes les voies d'échappement de l'ego pour forcer l'ancrage d'un locus de contrôle interne absolu.
 
-
-## --- Tranche 20 / 38 ---
+## Tranche 20 / 38 : Réinitialisation Temporelle & Ancrage Respiratoire Présent (R. A. Bastarache)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3243,8 +3268,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Généralisation tridimensionnelle** : « *your mind, your body, your spirit, and your life* » assure une diffusion sans faille de la suggestion à travers tous les niveaux logiques de l'être.
   - **Métaphore dissociative de défocalisation** : « *like fish moving through deep waters* ». Dé-identifie le sujet de ses cognitions parasites : les pensées ne sont plus des urgences ou des douleurs, mais de simples formes biologiques transitoires évoluant dans la profondeur silencieuse de la transe.
 
-
-## --- Tranche 21 / 38 ---
+## Tranche 21 / 38 : Récupération Mnésique d'Objets Égarés & Modèle Informatique de Récupération Mnésique (Disque...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3441,8 +3465,7 @@ Le protocole mobilise le modèle de la cause première : si l'intelligence subco
 > "A watchmaker has to have the idea in his mind first before his watch is to become an object of reality. If the watch was out of order, the watchmaker could fix it. Just as a watchmaker knows how to fix his watch so is the subconscious intelligence which created your body like the watchmaker. It also knows exactly how to heal or restore you to your full, vital functioning according to the perfect pattern within it."
 - **[Analyse du Pattern]** : Analogie aristotélicienne et téléologique classique (l'horloger divin appliqué à la biologie). Induction par homologie structurale : si le créateur connaît l'assemblage complet, la réparation n'est qu'un acte élémentaire de réalignement. Ce pattern élimine chez le sujet le sentiment d'impuissance face à la maladie en restaurant la foi en l'auto-correction systémique interne.
 
-
-## --- Tranche 22 / 38 ---
+## Tranche 22 / 38 : A : Restauration Cellulaire & Auto-Guérison par l'Horloger Inconscient (Bastarache)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scripts de l'American International Association (AIA).
 
@@ -3611,8 +3634,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
   * *Présupposition d'action simultanée :* La conjonction temporelle *"As it does, you will notice..."* lie mécaniquement la visualisation de l'enduit liquide à la production d'une sensation de bien-être physique immédiat.
   * *Généralisation anesthésique protectrice :* La suggestion finale *"Nothing that you eat can bother you"* pose une barrière absolue et universelle, éliminant par anticipation toute anticipation phobique liée à l'alimentation chez le patient souffrant de troubles fonctionnels digestifs.
 
-
-## --- Tranche 23 / 38 ---
+## Tranche 23 / 38 : A : Protection Gastrique Viscérale (IBS / Côlon Irritable)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3758,8 +3780,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
 ```
 * **[Analyse du Pattern]** : Dissociation éricksonienne classique Conscient / Inconscient avec double lien permissif. En enjoignant au conscient de ne plus écouter la voix, le praticien neutralise l'esprit critique tout en maintenant l'écoute réceptive de l'inconscient déclarée omnisciente et permanente (*« always hears, and always pays attention »*).
 
-
-## --- Tranche 24 / 38 ---
+## Tranche 24 / 38 : Décompte Régressif au Tableau Noir avec Sortie de Fatigue (Blackboard Sleep Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3895,8 +3916,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
 > "All information that you have ever seen, heard or felt since the day you were born is stored in your subconscious mind … and it is available to you … at will … if you desire it … All you need to do is to relax … to let go … It has always been there … and will always be … for your easy access."
 - **[Analyse du Pattern]** : Postulat universel d'omniscience mnésique (présupposition que rien n'est jamais perdu). L'effort de rappel est recadré en son exact opposé : la passivité et le relâchement (*"all you need to do is to relax... to let go"*). La structure temporelle absolue (*"has always been there... will always be"*) supprime l'urgence et rétablit une sécurité d'accès permanente.
 
-
-## --- Tranche 25 / 38 ---
+## Tranche 25 / 38 : "Programming Your Computer" – Encodage Spatial de 30 Loci (Rene A. Bastarache)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4031,8 +4051,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
 
 - **[Analyse du Pattern]** : Matérialisation kinesthésique d'un concept abstrait (*"Reach in now and remove any block"*). L'obstacle psychologique devient un objet spatialement manipulable. L'expiration somatique est liée par conjonction temporelle à l'évacuation de l'entrave, clôturée par un empilement d'affirmations d'autorité et de souveraineté identitaire (*"you own it... you control it"*).
 
-
-## --- Tranche 26 / 38 ---
+## Tranche 26 / 38 : Structuration et Test du Palais de la Mémoire Hypnotique (30 Loci)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4156,8 +4175,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
 > "From now on when you hear doors closing and the ice tray being banged on the kitchen counter you will no longer jump. When you hear these sounds from now on… it will be the most pleasant sound that you have ever heard. From now on …I want you to feel the confidence that you have by not letting noises make you nervous."
 * **[Analyse du Pattern]** : Commande directe de recontextualisation paradoxale répétée en boucle d'ancrage (*most pleasant sound*). L'association du stimulus sonore anxiogène à l'émotion de plaisir constitue un choc de recadrage destiné à remplacer l'hyper-réactivité du système nerveux sympathique par un apaisement parasympathique.
 
-
-## --- Tranche 27 / 38 ---
+## Tranche 27 / 38 : A : Évacuation de la Douleur par Projection Océanique ("The Drift Bottle")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4284,8 +4302,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 22/38 du manuel de scrip
 > *"It is important for you to know that while the panic attacks of the past have been an inconvenience … and an annoyance … they are not dangerous to you! … They will not harm you ... Desire yourself at those times to relax ... command yourself to relax … and your subconscious mind will follow your desire."*
 * **[Analyse du Pattern]** : Rétrogradation sémantique drastique : la "terreur panique" est réduite linguistiquement à un simple désagrément (*"inconvenience", "annoyance"*). Deux négations directes d'injonction anxiolytique suivent (*"not dangerous", "will not harm you"*). L'auteur substitue ensuite la passivité de la victime par une relation de commandement hiérarchique : le verbe *"command yourself"* transforme le symptôme subi en une opportunité d'exercice d'autorité neuro-émotionnelle immédiate.
 
-
-## --- Tranche 28 / 38 ---
+## Tranche 28 / 38 : Purification Sémantique et Élimination Somato-Spatiale (Positive Thoughts)
 
 Voici l'analyse opératoire intégrale de la tranche 28/38 du *Hypnotherapy Scripts Manual* édité par l'American International Association.
 
@@ -4435,8 +4452,7 @@ Voici l'analyse opératoire intégrale de la tranche 28/38 du *Hypnotherapy Scri
   - **Ancrage linguistique direct et récursif :** L'association du signifiant *"relax"* à un approfondissement automatique (*"deeper and deeper"*).
   - **Impératifs à polarité d'acceptation :** Le binôme contrasté *"You will not fight it. You will allow it"* bloque l'énergie de rébellion psychologique en la canalisant dans une permission volontaire de passivité.
 
-
-## --- Tranche 29 / 38 ---
+## Tranche 29 / 38 : Dénouement de la Douleur Somatique / Gastrique (David Barr)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4592,8 +4608,7 @@ Voici l'analyse opératoire intégrale de la tranche 28/38 du *Hypnotherapy Scri
 * **[Analyse du Pattern]** :  
   Exploitation d'un phénomène physiologique involontaire (la fatigue du muscle releveur de la paupière et des muscles droits supérieurs) habilement convertie en inducteur de transe. En demandant d'« essayer de ressentir » (présupposition de réussite de l'effort), le sujet concentre son feedback proprioceptif sur une tension qui précipite la bascule en ondes Alpha.
 
-
-## --- Tranche 30 / 38 ---
+## Tranche 30 / 38 : Désamorçage de l'Addiction au Shopping (Rene A. Bastarache)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de la **tranche 30/38** du *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -4741,8 +4756,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 ```
 * **[Analyse du Pattern]** : Ancrage post-hypnotique séquentiel ("Whenever X -> Immediately Y -> Then Z"). L'expression *"as soon as"* verrouille temporellement la commande vocale interne (*RELAX!*) au réflexe somatique d'approfondissement du sommeil (*"fall back asleep deeper and deeper"*), couplé au rythme automatique de la respiration (*"with each breath"*).
 
-
-## --- Tranche 31 / 38 ---
+## Tranche 31 / 38 : Sevrage Tabagique Accéléré en 1 Séance (One Session Method)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 31/38 du manuel de l'American International Association (AIA).
 
@@ -4855,8 +4869,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 31/3
 
 * **[Analyse du Pattern]** : Syntaxe de contrat unilatéral à verrouillage absolu. L'empilement de négations comportementales (« without trying to change... vary... skip ») élimine toute marge de négociation ou d'adaptation consciente. Le verbe modal d'inéluctabilité (« you WILL be ») transfère la responsabilité du résultat sur l'observance mécanique des consignes prescrites.
 
-
-## --- Tranche 32 / 38 ---
+## Tranche 32 / 38 : Programme de Sevrage Tabagique Dégressif Paliers 30 $\rightarrow$ 5 cigarettes/jour
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4989,8 +5002,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 31/3
 > "I am going to present some suggestions to your subconscious mind that will be reasonable, acceptable, and in your best interests... This feeling is giving you the strength to relax and slow down the pace of your speech. This feeling is comfortable to you and feels as if it has always been there. Yet somehow it just was not as noticeable before."
 * **[Analyse du Pattern]** : Pré-cadrage de non-ingérence éthique désarmant la sentinelle critique (*"reasonable, acceptable, and in your best interests"*). Implantation d'un souvenir/ressenti rétroactif pseudo-amnésique (*"feels as if it has always been there... just was not as noticeable before"*), ce qui court-circuite la perception d'un apprentissage laborieux en le normalisant comme la redécouverte d'une capacité naturelle préexistante.
 
-
-## --- Tranche 33 / 38 ---
+## Tranche 33 / 38 : A : Neutralisation de la Compulsion d'Achat & Prédécision Budgétaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5130,8 +5142,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 31/3
   - *Recadrage par redéfinition phonétique et conceptuelle* : Contraste binaire net entre « actor » et « re-actor ».
   - *Scansion hypnotique et ancrage de choix souverain* : Lenteur imposée par les suspensions (« you … and only you … choose »), forçant l'esprit conscient et inconscient à accepter la souveraineté interne absolue face aux stimuli environnementaux.
 
-
-## --- Tranche 34 / 38 ---
+## Tranche 34 / 38 : L'Ancre Digitale Anti-Stress et Anti-Panique (Clive A. Housley)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5261,8 +5272,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 31/3
 ```
 * **[Analyse du Pattern] :** Pseudo-orientation temporelle inverse avec attribution d'autorité interne. En faisant regarder les étapes depuis le sommet de la réussite future, la suggestion valide que toute intuition émergente n'est pas un effort théorique, mais un ordre direct et incontournable du subconscient (*"These are the steps that your subconscious mind is telling you that you must take"*).
 
-
-## --- Tranche 35 / 38 ---
+## Tranche 35 / 38 : Recalibrage Analogique du Tinnitus (Acouphènes)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 35/38 du manuel *Hypnotherapy Scripts Manual* (American International Association).
 
@@ -5391,8 +5401,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 35/3
 > "Using the power of your mind, transform the ball of energy into concrete… These are your worries… They are tangible… You control them… You hold them in the palm of your hand… Your worries are minuscule. Close your hand around the concrete sphere… Now crush it… You have just pulverized your worries… Look at the dust in the palm of your hand… Blow it away… Your worries are gone."
 * **[Analyse du Pattern] :** Translation sous-modalitaire somatisée et commande motrice directe. Passage d'un concept abstrait ("worries") à un objet sub-modalitaire visuel ("ball of energy"), puis kinesthésique lourd ("concrete"), suivi d'une réduction d'échelle ("minuscule"), d'un acte physique d'écrasement ("crush it") et d'un souffle d'éviction ("blow it away"). L'accumulation séquentielle court-circuite le cortex pour fournir une expérience d'annihilation tactile complète à l'amygdale.
 
-
-## --- Tranche 36 / 38 ---
+## Tranche 36 / 38 : Pulvérisation Kinesthésique des Soucis (Concrete Sphere Crushing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5587,8 +5596,7 @@ The first thought or feeling that you have is the right one …"
   - *Présupposition d'équivalence absolue* : Identité ontologique entre cognition et événement (« thought process is reality »).
   - *Bypass du doute métacognitif* : L'axiome de la première pensée (« The first thought... is the right one ») supprime l'inhibition analytique, forçant le conscient à valider instantanément le matériel émergent de l'inconscient sans chercher à le juger, l'altérer ou le censurer.
 
-
-## --- Tranche 37 / 38 ---
+## Tranche 37 / 38 : Construction Opératoire de la "Spirit Room" (Rene A. Bastarache)
 
 Voici l'extraction opératoire intégrale de la **tranche 37/38** du manuel *"Hypnotherapy Scripts Manual"* de l'**American International Association** (textes de Rene A. Bastarache, Bryun Holt, Martha Affield et Judy McGlauflin).
 
@@ -5744,8 +5752,7 @@ Voici l'extraction opératoire intégrale de la **tranche 37/38** du manuel *"Hy
     *   **Négation d'affect :** L'accumulation *« no discomfort, or pain, or anything negative whatsoever »* sature les canaux récepteurs de signaux anxiogènes.
     *   **Commande temporelle directive :** Déplacement direct à l'instant T (*« just a few minutes before »*) rendu émotionnellement neutre par le cadrage préalable de l'écran.
 
-
-## --- Tranche 38 / 38 ---
+## Tranche 38 / 38 : Clôture de Vie Antérieure, Récolte de Ressources et Réintégration Temporelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5849,3 +5856,4 @@ Voici l'extraction opératoire intégrale de la **tranche 37/38** du manuel *"Hy
 #### Clôture Post-Hypnotique Ancrée au Geste
 > "In just a moment I will count to five and that the count of five I will snap my fingers, and when I do you will be fully awake feeling better than before and very energized."
 - **[Analyse du Pattern]** Conditionnement temporel en cascade (`"In just a moment"`, `"at the count of five"`, `"when I do"`). L'association du stimulus auditif kinesthésique (claquement de doigts) au changement d'état physiologique constitue une suggestion post-hypnotique à déclenchement immédiat, verrouillant l'état de pleine vigilance par comparaison temporelle ascendante (`"better than before"`).
+

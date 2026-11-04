@@ -81,10 +81,38 @@ Le fil conducteur unifiant l'ensemble des interventions est la **ré-ingénierie
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 115-259]** : Désamorçage de l'Aspiration Narratif et Raccordement au Modèle (Gestion de la plainte chroni... — *Protocole :* Désamorçage de l'Aspiration Narratif et Raccordement au Modèle (Gestion de la plainte chronique) | *Mécanisme :* La posture de serviteur vs Le complexe de supériorité du praticien | *Verbatim :* Cadrage de choc sur la posture du praticien
+- **Tranche 2 [Lignes 261-396]** : Déconstruction de la Lecture de Pensée et Remontée en Amont (Upstream Expectation Buster) — *Protocole :* Déconstruction de la Lecture de Pensée et Remontée en Amont (Upstream Expectation Buster)
+- **Tranche 3 [Lignes 398-535]** : Ré-ingénierie Stratégique Préventive en Amont (Démonstration Sean) — *Protocole :* Ré-ingénierie Stratégique Préventive en Amont (Démonstration Sean) | *Verbatim :* Verbatim 1 : L'enchaînement temporel inversé et contrefactuel
+- **Tranche 4 [Lignes 537-721]** : La Validation du "Solution Set" et Recadrage de Compétence par Cadre de Contraste — *Protocole :* La Validation du "Solution Set" et Recadrage de Compétence par Cadre de Contraste | *Verbatim :* Déstabilisation d'une Nominalisation par Sortie de Cadre Absurde
+- **Tranche 5 [Lignes 723-841]** : Recalibrage Opératoire d'une Stratégie Relationnelle en Amont — *Protocole :* Recalibrage Opératoire d'une Stratégie Relationnelle en Amont
+- **Tranche 6 [Lignes 843-951]** : Réglage & Instanciation Stratégique par le Méta-Modèle — *Protocole :* Réglage & Instanciation Stratégique par le Méta-Modèle | *Mécanisme :* Rétro-ingénierie du Déclencheur Temporel (Pre-emptive Trigger Calibration) | *Verbatim :* L'Exagération et la Métaphore de l'Abattoir Temporel
+- **Tranche 7 [Lignes 953-1093]** : Désamorçage du Critique Interne et Soumission Opératoire au Praticien — *Protocole :* Désamorçage du Critique Interne et Soumission Opératoire au Praticien | *Mécanisme :* Le Principe de Démonstrabilité et Humilité Épistémique | *Verbatim :* Rupture Frontale du Schéma de Jugement et Double Lien d'Humilité
+- **Tranche 8 [Lignes 1095-1245]** : Rétro-Ingénierie du Diagnostic & Détection de la Causalité Cachée (« The Corporate/Symptom D... — *Protocole :* Rétro-Ingénierie du Diagnostic & Détection de la Causalité Cachée (« The Corporate/Symptom Deconstruction ») | *Mécanisme :* Le Compas Épistémique Bi-Axial (Framing Reference Tool) | *Verbatim :* Verbatim 1 : L'Interruption du Cadre de Plainte
+- **Tranche 9 [Lignes 1247-1364]** : Le Compas de Cadrage Intégral (Framing Tool 4-Axes) — *Protocole :* Le Compas de Cadrage Intégral (Framing Tool 4-Axes) | *Mécanisme :* La Hiérarchie d'Abstraction Verticale (Axe Nord-Sud) & Téléologie Adaptative | *Verbatim :* La désarticulation ontologique du verbe "Être"
+- **Tranche 10 [Lignes 1366-1500]** : A : La Séquence de Persuasion par Modèle de Polya (Truismes -> Présupposition) — *Protocole :* A : La Séquence de Persuasion par Modèle de Polya (Truismes -> Présupposition) | *Verbatim :* La Formulation de Polya (Empilement de Truismes et Présupposition Temporelle)
+- **Tranche 11 [Lignes 1502-1673]** : A : L'Inoculation de « Virus de Pensée » en Groupe ou Réunion — *Protocole :* A : L'Inoculation de « Virus de Pensée » en Groupe ou Réunion | *Mécanisme :* L'Inoculation Cognitive Préventive (Pre-emptive Inoculation) | *Verbatim :* Verbatim 1 : L'Inoculation de Crise en Entreprise
+- **Tranche 12 [Lignes 1675-1803]** : A : Transfert de Compétence Front-End & Désamorçage de l'Illusion de Continuité — *Protocole :* A : Transfert de Compétence Front-End & Désamorçage de l'Illusion de Continuité
+- **Tranche 13 [Lignes 1805-1937]** : Démantèlement d'une affirmation limitante par l'interrogation épistémique globale — *Protocole :* Démantèlement d'une affirmation limitante par l'interrogation épistémique globale | *Mécanisme :* Le Méta-Modèle comme outil de logique épistémique et non de linguistique descriptive | *Verbatim :* Verbatim 1 : L'interrogation épistémique pure
+- **Tranche 14 [Lignes 1939-2083]** : Recodage de la Frontière Réalité/Imagination (Submodality Contrastive Analysis) — *Protocole :* Recodage de la Frontière Réalité/Imagination (Submodality Contrastive Analysis) | *Mécanisme :* Top-Down Interrogation vs. Bottom-Up Micro-Drilling | *Verbatim :* Verbatim 1 : L'impasse du forage de bas niveau vs l'interrogation Top-Down
+- **Tranche 15 [Lignes 2085-2209]** : A : Auto-Préparation à la Calibration Fine et à l'Entrée en Contexte — *Protocole :* A : Auto-Préparation à la Calibration Fine et à l'Entrée en Contexte | *Mécanisme :* Désactivation des équivalences complexes traumatiques par dissociation triple | *Verbatim :* Extrait 1 : Recadrage de l'équivalence complexe phobique
+- **Tranche 16 [Lignes 2211-2341]** : Démantèlement du Récit d'Addiction / Tabac par Recadrage Économique Brut — *Protocole :* Démantèlement du Récit d'Addiction / Tabac par Recadrage Économique Brut | *Mécanisme :* Démantèlement de la Réification Intrapsychique (Le Piège de l'Entité vs Poursuite de Buts) | *Verbatim :* La Destruction de l'Entité Conflictuelle au Profit de l'Action Brute
+- **Tranche 17 [Lignes 2343-2484]** : Recadrage par les Standards et Effondrement de Seuil (Threshold / Standards Shift) — *Protocole :* Recadrage par les Standards et Effondrement de Seuil (Threshold / Standards Shift) | *Verbatim :* Extrait 1 : Externalisation spatiale et rupture du dogme des parties
+- **Tranche 18 [Lignes 2486-2638]** : Le "Couteau Suisse" d'Élicitation des Critères et Valeurs Supérieures (The Swiss Army Knife... — *Protocole :* Le "Couteau Suisse" d'Élicitation des Critères et Valeurs Supérieures (The Swiss Army Knife Approach) | *Mécanisme :* Le Biais Comportemental contre l'Empilement de Nominalisations | *Verbatim :* Le démantèlement pragmatique de la théorie linguistique
+- **Tranche 19 [Lignes 2640-2768]** : A : L'Approche « Couteau Suisse » d'Élicitation des Valeurs et États — *Protocole :* A : L'Approche « Couteau Suisse » d'Élicitation des Valeurs et États | *Verbatim :* La Question « Couteau Suisse » d'Élicitation
+- **Tranche 20 [Lignes 2770-2909]** : L'Interruption Verbale par Fragments de Phrases Inachevés — *Protocole :* L'Interruption Verbale par Fragments de Phrases Inachevés | *Mécanisme :* Le vide d'instruction kinesthésique & l'effet de saisie cognitive (Grasp Effect)
+- **Tranche 21 [Lignes 2911-3004]** : Neutralisation d'une Hallucination Négative Involontaire ("L'Eau par l'Eau") — *Protocole :* Neutralisation d'une Hallucination Négative Involontaire ("L'Eau par l'Eau") | *Mécanisme :* Le Principe de Transmission Temporelle Cumulative (Time-Binding Function) | *Verbatim :* Verbatim 1 : L'Empilement de Suggestions Descriptives Créant l'Instanciation Visuelle
+- **Tranche 22 [Lignes 3006-3154]** : A : Modélisation Sensorielle Téléologique (Tracking de Présentation / Communication Complexe) — *Protocole :* A : Modélisation Sensorielle Téléologique (Tracking de Présentation / Communication Complexe) | *Mécanisme :* Le Piège de la Structure Procrustéenne vs L'Émergence Contextuelle | *Verbatim :* Verbatim 1 : La Claque Épistémologique sur les Niveaux Logiques et l'État
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 22 ---
+## Tranche 1 / 22 : Désamorçage de l'Aspiration Narratif et Raccordement au Modèle (Gestion de la plainte chroni...
 
 Voici l'extraction exhaustive de la substance opératoire de la tranche 1/22 du cours de Michael Breen, structurée selon les règles strictes d'ingénierie demandées.
 
@@ -230,8 +258,7 @@ Voici l'extraction exhaustive de la substance opératoire de la tranche 1/22 du 
   - *Ligne 3 :* Reformulation littérale épurée (*« So they weren't taking on board... »*) servant de levier d'extraction.
   - *Ligne 5 :* Détection immédiate du *Mind Reading* (*« They thought they knew it all »*) couplé à un quantificateur universel (*« all »*). Attaque chirurgicale par la question classique de challenge épistémique : *« How do you know that [X]? »*, suspendant net la croyance pour contraindre le cerveau du sujet à aller chercher les faits sensoriels réels.
 
-
-## --- Tranche 2 / 22 ---
+## Tranche 2 / 22 : Déconstruction de la Lecture de Pensée et Remontée en Amont (Upstream Expectation Buster)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -368,8 +395,7 @@ Voici l'extraction exhaustive de la substance opératoire de la tranche 1/22 du 
 > **"Let's just rewind what we've been talking about. In fact, let's rewind even further. We'll go back, back, back, back, back to when you were planning to go in to talk to these people. And rather than what happened, let's just think for a moment about what would have worked better for you if only you had done then what you're going to be doing in the future."**
 - **[Analyse du Pattern]** : Induction conversationnelle de transe par régression temporelle rythmée et double boucle rétro-générative. La répétition hypnotique (*"back, back, back..."*) installe une dissociation kinesthésique, suivie d'un paradoxe temporel complexe liant le futur au passé (*"if only you had done then what you're going to be doing in the future"*), ce qui court-circuite la logique linéaire pour réencoder la stratégie comportementale.
 
-
-## --- Tranche 3 / 22 ---
+## Tranche 3 / 22 : Ré-ingénierie Stratégique Préventive en Amont (Démonstration Sean)
 
 Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22 du cours *Mastering the Meta Model* de Michael Breen (avec les commentaires analytiques de Tom / NLP Times).
 
@@ -508,8 +534,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22
   2. *Écho linguistique :* Répétition mot pour mot (*« A bit of guidance and a bit of direction »*).
   3. *Pattern interrupt brutal / Satire de la nominalisation :* *« Have you tried prayer? »*. Cette question absurde brise net la posture de passivité du client, désamorce le statut d'autorité/gourou projeté sur Michael, et réintroduit immédiatement du jeu et de la flexibilité cognitive avant de recadrer vers la spécificité (*« Guidance and direction in what? »*).
 
-
-## --- Tranche 4 / 22 ---
+## Tranche 4 / 22 : La Validation du "Solution Set" et Recadrage de Compétence par Cadre de Contraste
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -695,8 +720,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22
   * *Présupposition de maîtrise validée* : *"that actually you're pretty damn good at in other places"* ancre fermement l'excellence du sujet comme fait établi et indiscutable.
   * *Suppression comparative inversée (Negative Search)* : La question *"what is it that's NOT happening"* oblige l'inconscient du sujet à comparer sa configuration actuelle avec ses configurations de réussite passée, isolant instantanément la variable opérationnelle manquante (*"warmth", "friendly working relationship"*) sans jamais remettre son identité en cause.
 
-
-## --- Tranche 5 / 22 ---
+## Tranche 5 / 22 : Recalibrage Opératoire d'une Stratégie Relationnelle en Amont
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -816,8 +840,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22
   > "You see, since you already know how to do it on the front end, I don't think this is something that needs a deep, painful, probing psychoanalysis. Long, painful, and expensive. Have you ever thought about treating each new person who comes in just like you treat clients when you start? It's a new start each time."
   - **[Analyse du Pattern]** : Présupposition d'allocation de ressources et recadrage de simplicité. Présuppose la compétence absolue déjà acquise (« *since you already know how to do it* »), discrédite l'approche psychopathologique (« *painful psychoanalysis* ») et réoriente le comportement par une question ouverte d'équivalence : chaque nouvel arrivant = un nouveau contrat.
 
-
-## --- Tranche 6 / 22 ---
+## Tranche 6 / 22 : Réglage & Instanciation Stratégique par le Méta-Modèle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -927,8 +950,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22
   - **Démystification agressive** (*"it's not an unconscious installation... you're behaving like an idiot"*) : pulvérise la crainte d'hypnose secrète par une franchise brutale (effet de transparence totale).
   - **Double lien contextuel / Contrainte de courtoisie** (*"it would only be a gracious thing to do... don't you think?"*) : question orientée (*tag question*) qui enferme logiquement le sujet : refuser l'aide démontrerait son impolitesse et sa bêtise, tandis qu'accepter l'aide exige d'arrêter son hyper-analyse critique pour tester l'exercice.
 
-
-## --- Tranche 7 / 22 ---
+## Tranche 7 / 22 : Désamorçage du Critique Interne et Soumission Opératoire au Praticien
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1070,8 +1092,7 @@ Voici l’extraction et l’analyse modélisatrice intégrale de la tranche 3/22
     * *Répétition d'ancrage syntaxique* (`I'll say it again. We are interested in...`) : Marque une commande d'attention absolue sur la distinction charnière.
     * *Distinction de rupture de cadre* : Rejette le modèle conventionnel de l'écoute active (créer des représentations internes du récit de l'autre) pour installer un méta-cadre cybernétique : observer la boucle de rétroaction du locuteur sur son propre système nerveux (`state report`).
 
-
-## --- Tranche 8 / 22 ---
+## Tranche 8 / 22 : Rétro-Ingénierie du Diagnostic & Détection de la Causalité Cachée (« The Corporate/Symptom D...
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 8/22 du cours *Mastering the Meta Model* de Michael Breen.
 
@@ -1223,8 +1244,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 8/22 
   - **Contraste de chunk-size (Réduction à l'absurde) :** Mise en balance de la nominalisation vague d'évitement (*« I didn't have time »*) face à la spécification sensorielle minimale et ridicule de la tâche réelle (*« bend over ten times »*, *« stretch five times »*).
   - **Commande directive finale de rupture :** *« Get real »* agit comme une injonction impérative de réveil cognitif pour faire éclater le cadre d'illusion du client.
 
-
-## --- Tranche 9 / 22 ---
+## Tranche 9 / 22 : Le Compas de Cadrage Intégral (Framing Tool 4-Axes)
 
 Voici l'extraction opératoire intégrale de la **tranche 9/22** du cours *Mastering the Meta Model* de Michael Breen, structurée selon les règles strictes d'ingénierie et de modélisation.
 
@@ -1343,8 +1363,7 @@ Voici l'extraction opératoire intégrale de la **tranche 9/22** du cours *Maste
 > *"With all due deference to some of my colleagues, it's not how big your pictures are that makes you feel self-confident. It's becoming confident, literally, faith with, confideo, being able to have faith that you can do what is necessary, that you can move forward. And that comes from small things. That comes from day to day and moment to moment. Picking small projects and accomplishing them. [...] Doing is what will increase your confidence. It's not sitting home thinking about it. It's not staying inside your head. And it certainly isn't going on and on about what everybody else has done to you. Even if you are a victim, it doesn't matter. Being a victim is not the way you stop being a victim."*
 * **[Analyse du Pattern]** : Recadrage étymologique (*confideo* = avec foi) associé à un démantèlement des dogmes sous-modalitaires de la PNL classique (*"it's not how big your pictures are"*). Breen utilise une série d'antithèses syntaxiques percutantes (*"not sitting home / not staying inside your head / not going on and on"* vs *"Doing / small projects / accomplishing them"*). La clôture par le paradoxe de la victimisation (*"Being a victim is not the way you stop being a victim"*) agit comme une coupure de boucle de rumination, confrontant le client à l'exigence inéluctable d'un engagement moteur concret dans la réalité.
 
-
-## --- Tranche 10 / 22 ---
+## Tranche 10 / 22 : A : La Séquence de Persuasion par Modèle de Polya (Truismes -> Présupposition)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1480,8 +1499,7 @@ Voici l'extraction opératoire intégrale de la **tranche 9/22** du cours *Maste
   * **Rupture par la vérité taboue** : Énonciation crue de la rémunération encaissée (*"I've already been paid"*), supprimant tout chantage à l'évaluation.
   * **Double lien de souveraineté** : Choix binaire forcé (*"work enjoyably"* vs *"be miserable"*) avec attribution intégrale du contrôle au groupe (*"It's up to you"*), rendant tout comportement hostile ouvertement stupide et auto-destructeur pour les participants eux-mêmes.
 
-
-## --- Tranche 11 / 22 ---
+## Tranche 11 / 22 : A : L'Inoculation de « Virus de Pensée » en Groupe ou Réunion
 
 Voici l'analyse opératoire intégrale de la tranche 11/22 du séminaire *Mastering the Meta Model* de Michael Breen, respectant scrupuleusement les règles d'ingénierie, l'ontologie émergente et le maintien des verbatims en V.O. avec leur décodage linguistique.
 
@@ -1654,8 +1672,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/22 du séminaire *Master
   * **Ancrage somatique universel :** Évoque l'expérience kinesthésique viscérale de la poignée de main gluante qui n'en finit pas (*"goes on a little too long... trying to get away"*), créant chez le sujet une prise de conscience immédiate de son propre comportement oppressant envers ses nouveaux clients.
   * **Mise en garde sur la "qualité de l'effort" :** Souligne que l'effort conscient excessif d'obtenir de la validation produit l'exact inverse du résultat désiré chez l'interlocuteur.
 
-
-## --- Tranche 12 / 22 ---
+## Tranche 12 / 22 : A : Transfert de Compétence Front-End & Désamorçage de l'Illusion de Continuité
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1785,8 +1802,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/22 du séminaire *Master
 > "The pattern was originally identified in people who would tend to say things like, you know, 'Oh, I know you must be exhausted after your hard day at work.' You're making claims about someone else's state without stating explicitly how you know that. But it's much, much broader than that... The Meta Model primarily is not linguistic in its application. It's based in logic. If someone makes a claim, then they have to have a way of making that claim."
 * **[Analyse du Pattern] :** Recadrage épistémologique fondamental. Breen redéfinit le « Mind Reading » non pas comme un phénomène télépathique d'illusion psychologique, mais comme une *prétention de connaissance dénuée de fondement logique*. En ramenant l'intervention à la question opératoire pure (*How do you know?*), il transforme l'interrogatoire linguistique en une déstabilisation logique élégante.
 
-
-## --- Tranche 13 / 22 ---
+## Tranche 13 / 22 : Démantèlement d'une affirmation limitante par l'interrogation épistémique globale
 
 Voici l'analyse modélisatrice et opératoire de la tranche 13/22 du cours de Michael Breen sur le Méta-Modèle.
 
@@ -1920,8 +1936,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 13/22 du cours de Mi
 > « The statement is, she hit me. She hit me. Now, what kind of questions could we ask in relation to the verb hit? [...] how specifically did she hit you? And if I were asked that question, then it would be, she hit me hard. She hit you hard where? I was stuck and I was having difficulty doing a piece of work and so she hit me in the head with an idea to help me get unstuck. Oh, when I first said she hit me, what were you thinking about? »
 - **[Analyse du Pattern]** : Démonstration didactique par induction d'illusion représentationnelle (*Metaphorical Ambiguity Trap*). Breen utilise une phrase à fort impact kinesthésique/émotionnel (« *She hit me* ») pour susciter automatiquement chez l'auditoire des images de violence corporelle et des lectures de pensée. En révélant tardivement le contexte purement métaphorique (« *hit me in the head with an idea* »), il démontre par l'expérience directe l'inutilité et le danger de perdre du temps à spécifier les verbes au niveau superficiel sans avoir préalablement vérifié le cadre méta-structurel de la communication.
 
-
-## --- Tranche 14 / 22 ---
+## Tranche 14 / 22 : Recodage de la Frontière Réalité/Imagination (Submodality Contrastive Analysis)
 
 Voici l'extraction opératoire intégrale de la tranche 14/22, structurée selon les règles d'ingénierie demandées.
 
@@ -2067,8 +2082,7 @@ Voici l'extraction opératoire intégrale de la tranche 14/22, structurée selon
     - *Équivalence reprogrammée :* [Perception visuelle : jeunes en sweat] = [Signification : vigilance sensorielle détendue en arrière-plan + libération de la charge émotionnelle].
   - **Présupposition de pérennité temporelle :** *« anytime, anywhere, it does not bother me at all »*. Emploi de quantificateurs universels positifs scellant le succès du déconditionnement dans toutes les coordonnées spatio-temporelles futures.
 
-
-## --- Tranche 15 / 22 ---
+## Tranche 15 / 22 : A : Auto-Préparation à la Calibration Fine et à l'Entrée en Contexte
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2194,8 +2208,7 @@ Voici l'extraction opératoire intégrale de la tranche 14/22, structurée selon
 > *"Somebody who smokes 40 or 60 cigarettes a day doesn't just have, that's not a habit, you understand? I have a habit. It's a bad habit. It's not a habit. It's how you're spending most of your time. It's a profession. It's a profession you're not being paid for. If you just look at the time, one chap... ended up he was smoking for a couple of hours every day. That's not a little distraction or a break. That's a major preoccupation. That's a part-time job."*
 *   **[Analyse du Pattern]** : Recadrage par redéfinition catégorielle et distorsion de cadre. Breen arrache l'action au champ sémantique inoffensif de l'"habitude" (*"bad habit"*) pour la relclasser brutalement dans le registre économique et temporel du travail (*"profession"*, *"part-time job"*). Ce glissement lexical modifie la valence émotionnelle : l'acte passe du statut de plaisir/soulagement à celui d'une contrainte aliénante, coûteuse et absurde.
 
-
-## --- Tranche 16 / 22 ---
+## Tranche 16 / 22 : Démantèlement du Récit d'Addiction / Tabac par Recadrage Économique Brut
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2327,8 +2340,7 @@ Voici l'extraction opératoire intégrale de la tranche 14/22, structurée selon
   * **Personnification ironique inversée (Anti-anthropomorphisme pédagogique) :** L'affirmation *« teach my keys a lesson »* caricature la tendance humaine à projeter de l'intentionnalité sur les objets inanimés, pour mieux faire passer la solution purement mécanique et environnementale (le crochet).
   * **Rupture de classification perceptive :** Redéfinition fonctionnelle d'un élément architectural ordinaire (*« I don't see a route... I see vertical filing space »*). Ce recadrage illustre par l'absurde comment la perception détermine l'usage et comment l'organisation spatiale concrète remplace avantageusement les processus d'effort mnésique interne.
 
-
-## --- Tranche 17 / 22 ---
+## Tranche 17 / 22 : Recadrage par les Standards et Effondrement de Seuil (Threshold / Standards Shift)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2471,8 +2483,7 @@ Voici l'extraction opératoire intégrale de la tranche 14/22, structurée selon
 
 * **[Analyse du Pattern]** : **Utilisation stratégique de l'aversion narcissique**. Le pattern opère par **recadrage d'état paradoxal** : au lieu d'apporter une ressource "douce" (calme, confiance), le praticien provoque délibérément une sensation d'absurdité vis-à-vis de la boucle de problème. Le mot *"stupid"* agit comme un **disrupteur de cohérence interne**. Le cerveau ne pouvant pas maintenir une identité valorisée tout en trouvant sa propre réponse ridicule, il enclenche spontanément un réflexe de dissociation submodale explicité par les marqueurs de distance spatiale (*"out there, small, distant, and indifferent"*), vidant instantanément l'empreinte kinésique du problème de toute pertinence vitale.
 
-
-## --- Tranche 18 / 22 ---
+## Tranche 18 / 22 : Le "Couteau Suisse" d'Élicitation des Critères et Valeurs Supérieures (The Swiss Army Knife...
 
 Voici l'analyse opératoire intégrale de la tranche 18/22 de *Mastering the Meta Model* par Michael Breen.
 
@@ -2626,8 +2637,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/22 de *Mastering the Met
   * **Contraste ontologique universel (Prémisse de truisme) :** *"Every person dies, but not every person truly lives"*. La juxtaposition crée un choc de perspective existentielle qui annule les préoccupations secondaires de l'ego.
   * **Présupposition temporelle et qualitative enchâssée :** *"What are you going to do today to have an incredible life?"* La question ne demande pas *si* la journée sera incroyable, mais *quelles actions spécifiques* vont manifester cette vie incroyable dès aujourd'hui. Le cerveau effectue immédiatement une TDS pour trouver des comportements cohérents avec ce présupposé.
 
-
-## --- Tranche 19 / 22 ---
+## Tranche 19 / 22 : A : L'Approche « Couteau Suisse » d'Élicitation des Valeurs et États
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2757,8 +2767,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/22 de *Mastering the Met
 > **« As soon as something becomes clear, as soon as the suggestion is very straightforward and easy to do, the brain just goes, 'oh, for God's sakes, I'll take that.' And they go ahead and do it. »**
 * **[Analyse du Pattern]** : Description anthropomorphique de la réponse neurologique sous rupture de pattern. L'utilisation d'une citation directe informelle et vivante (*"oh, for God's sakes, I'll take that"*) illustre le principe de l'aspiration cognitive : en privant délibérément le système nerveux de ses repères habituels, le praticien crée une tension de vide que le sujet résout immédiatement en acceptant la première commande limpide mise à sa disposition.
 
-
-## --- Tranche 20 / 22 ---
+## Tranche 20 / 22 : L'Interruption Verbale par Fragments de Phrases Inachevés
 
 Voici l'analyse intégrale et chirurgicale de la tranche 20/22 de la formation *Mastering the Meta Model* par Michael Breen.
 
@@ -2899,8 +2908,7 @@ Voici l'analyse intégrale et chirurgicale de la tranche 20/22 de la formation *
 ```
 - **[Analyse du Pattern] :** Métaphore isomorphique de transfert de charge physique appliquée à l'apprentissage. Établit une équivalence complexe entre "compétences de base" et "fondations structurelles", éliminant le stigmate dépréciatif de "débutant" pour lui substituer le concept d'infrastructure permanente indispensable à l'élévation des compétences futures.
 
-
-## --- Tranche 21 / 22 ---
+## Tranche 21 / 22 : Neutralisation d'une Hallucination Négative Involontaire ("L'Eau par l'Eau")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2995,8 +3003,7 @@ Voici l'analyse intégrale et chirurgicale de la tranche 20/22 de la formation *
 
 * **[Analyse du Pattern] :** **Recadrage de croyance par violation de présupposition scolaire et contraste binaire.** Breen brise l'équation mentale classique [Comprendre = Apprendre] par un vocabulaire cru et percutant (*"screwed over"*). Il oppose deux opérateurs fonctionnels : le transfert de données statiques (qui engendre la fermeture cognitive par fausse certitude, *"switch off"*) et le processus exploratoire vivant (où la compréhension n'est que la trace terminale de l'acquisition motrice et somatique). L'effet linguistique vise à désactiver le besoin névrotique de contrôle théorique chez le stagiaire pour restaurer la réceptivité à l'absorption inconsciente.
 
-
-## --- Tranche 22 / 22 ---
+## Tranche 22 / 22 : A : Modélisation Sensorielle Téléologique (Tracking de Présentation / Communication Complexe)
 
 Voici l'analyse opératoire intégrale de la tranche 22/22 du séminaire *Mastering the Meta Model* de Michael Breen, extraite selon les règles d'ingénierie et la structure demandée.
 
@@ -3145,3 +3152,4 @@ Voici l'analyse opératoire intégrale de la tranche 22/22 du séminaire *Master
   - **Dé-nominalisation radicale par substantivation du verbe :** Substitution du nom statique *« values »* par le gérondif d'action *« the process of valuing »*, forçant l'interlocuteur à passer d'une idée abstraite à une série d'opérations cognitives internes observables.
   - **Restauration de l'index de comparaison omis du Métamodèle :** Double questionnement ciblant les suppressions comparatives (*« what is the basis of the comparison and how is that comparison made »*).
   - **Ancrage linguistique du levier de changement (*The Gap*) :** Répétition hypnotique de l'adverbe (*« profoundly, profoundly specific »*) suivie de l'induction répétée du mot pivot (*« Always a gap. Always a gap »*). L'expression physique *« wiggle room »* offre une métaphore spatiale kinesthésique qui donne au praticien l'espace exact pour insérer le tournevis du changement.
+

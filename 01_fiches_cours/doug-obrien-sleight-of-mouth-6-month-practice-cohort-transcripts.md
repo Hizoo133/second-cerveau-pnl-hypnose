@@ -88,10 +88,63 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 147-254]** : L'Exercice du Jeu de l'Accordage ("The Agreement Frame Game") — *Protocole :* L'Exercice du Jeu de l'Accordage ("The Agreement Frame Game") | *Mécanisme :* Le Cadre d'Accordage (The Agreement Frame) : Maintien du Rapport en Divergence Cognitive | *Verbatim :* L'Ancrage du Cadre d'Accordage Standard
+- **Tranche 2 [Lignes 256-385]** : L'Agreement Frame Universel (Pacing d'Opinion) — *Protocole :* L'Agreement Frame Universel (Pacing d'Opinion) | *Mécanisme :* Le Parasitage Cognitif du « But » vs la Conjonction Inclusive « And » | *Verbatim :* La Parabole d'Hotei (Le Recadrage Zen de l'Accord Absolu)
+- **Tranche 3 [Lignes 387-506]** : Désamorçage Spatial et Émotionnel ("The Guide by the Side") — *Protocole :* Désamorçage Spatial et Émotionnel ("The Guide by the Side") | *Mécanisme :* La Dissymétrie Cognitive : Matching vs Mirroring | *Verbatim :* La Manœuvre du "Guide by the Side" & Coalition Perceptive
+- **Tranche 4 [Lignes 508-614]** : Élicitation de la Structure Complète de Croyance (If-Then-Means) — *Protocole :* Élicitation de la Structure Complète de Croyance (If-Then-Means) | *Mécanisme :* Le Trépied Opératoire de la Croyance : Cause -> Effet -> Signification (Triangle - Carré - Cercle) | *Verbatim :* s Verbatim
+- **Tranche 5 [Lignes 616-729]** : d'Élucidation Propre de la Croyance (Clean Belief Elicitation Protocol) — *Protocole :* d'Élucidation Propre de la Croyance (Clean Belief Elicitation Protocol) | *Verbatim :* Le Recadrage de la Maîtrise et la Double Boucle
+- **Tranche 6 [Lignes 731-868]** : Élicitation de la Structure de Croyance en 3 Parties (Triangle / Carré / Cercle) — *Protocole :* Élicitation de la Structure de Croyance en 3 Parties (Triangle / Carré / Cercle) | *Verbatim :* La question reine d'élicitation épistémique
+- **Tranche 7 [Lignes 870-994]** : Élucidation Chirurgicale de la Croyance en Trois Parties (Face au Client « Bavard / Évasif ») — *Protocole :* Élucidation Chirurgicale de la Croyance en Trois Parties (Face au Client « Bavard / Évasif ») | *Verbatim :* Recadrage Identitaire Bienveillant & Réorientation Comportementale
+- **Tranche 8 [Lignes 996-1117]** : A : Élucidation Complète de la Croyance Tripartite (If $\to$ Then $\to$ Means) — *Protocole :* A : Élucidation Complète de la Croyance Tripartite (If $\to$ Then $\to$ Means) | *Verbatim :* Le Recadrage Playful vs Interrogatoire
+- **Tranche 9 [Lignes 1119-1263]** : A : Élicitation de la Structure de Croyance en Trois Parties (Three-Part Belief System) — *Protocole :* A : Élicitation de la Structure de Croyance en Trois Parties (Three-Part Belief System)
+- **Tranche 10 [Lignes 1265-1382]** : Désamorçage d'une Croyance par « Changement de Cause » (Change The Cause Drill) — *Protocole :* Désamorçage d'une Croyance par « Changement de Cause » (Change The Cause Drill) | *Mécanisme :* Le Méta-Cadre d'Accord Continu (Agreement Frame & Improv Pacing) | *Verbatim :* Le Cadre d'Accord Thérapeutique
+- **Tranche 11 [Lignes 1384-1522]** : Recadrage par Hiérarchie de Critères (Hierarchy of Criteria) — *Protocole :* Recadrage par Hiérarchie de Critères (Hierarchy of Criteria) | *Mécanisme :* Glissement de Niveaux Logiques en Autodéfense (Logical Levels Shift as Defense) | *Verbatim :* Le Déplacement d'Identité vers l'Environnement
+- **Tranche 12 [Lignes 1524-1624]** : A : Extraction Pure de la Structure Normalisée de Croyance (NBS Elicitation) — *Protocole :* A : Extraction Pure de la Structure Normalisée de Croyance (NBS Elicitation)
+- **Tranche 13 [Lignes 1626-1771]** : d'Élucidation du Triptyque de Croyance (3-Part Belief Extraction) — *Protocole :* d'Élucidation du Triptyque de Croyance (3-Part Belief Extraction) | *Verbatim :* Démonstration de l'Élucidation Complète du Triptyque (Doug O'Brien & Jason)
+- **Tranche 14 [Lignes 1773-1882]** : Le Déroulé Chirurgical d'Another Outcome (Changement d'Objectif) — *Protocole :* Le Déroulé Chirurgical d'Another Outcome (Changement d'Objectif) | *Verbatim :* Pattern 1 : Consequence Pattern (Application à la Croyance et au Comportement)
+- **Tranche 15 [Lignes 1884-2029]** : Démontage Expérientiel de l'Illusion Sémantique (Exercice du Référent Idiosyncratique) — *Protocole :* Démontage Expérientiel de l'Illusion Sémantique (Exercice du Référent Idiosyncratique) | *Verbatim :* Verbatim 1 : Doug O'Brien (Définition de l'élégance opératoire)
+- **Tranche 16 [Lignes 2031-2135]** : d'Élicitation Propre en 3 Parties (Clean Belief Elicitation) — *Protocole :* d'Élicitation Propre en 3 Parties (Clean Belief Elicitation)
+- **Tranche 17 [Lignes 2137-2266]** : Recodage Tripartite par Définition de Destination (Sortie de Cleveland) — *Protocole :* Recodage Tripartite par Définition de Destination (Sortie de Cleveland) | *Verbatim :* Élicitation et Calibrage Somatique de la Structure Tripartite
+- **Tranche 18 [Lignes 2268-2430]** : Élicitation et Calibrage de la Croyance en Trois Parties (The 3-Part Belief Elicitation) — *Protocole :* Élicitation et Calibrage de la Croyance en Trois Parties (The 3-Part Belief Elicitation) | *Verbatim :* Chunking Down (Découpage vers le bas)
+- **Tranche 19 [Lignes 2432-2570]** : Le Drill Somato-Spatial des 8 Patterns (Spatial Pattern Touch) — *Protocole :* Le Drill Somato-Spatial des 8 Patterns (Spatial Pattern Touch) | *Verbatim :* Spatial Anchoring Directives
+- **Tranche 20 [Lignes 2572-2687]** : La Translation VAK Multi-Systémique — *Protocole :* La Translation VAK Multi-Systémique | *Verbatim :* La physiologie oculaire et le débit du Visuel
+- **Tranche 21 [Lignes 2689-2846]** : Le Découplage Réactif sous Provocation (The "Podcast Bully" Move) — *Protocole :* Le Découplage Réactif sous Provocation (The "Podcast Bully" Move) | *Verbatim :* Utilisation de la Curiosité comme Levier de Redéfinition
+- **Tranche 22 [Lignes 2848-2978]** : Élicitation et Clarification de la Structure Tripartite de Croyance — *Protocole :* Élicitation et Clarification de la Structure Tripartite de Croyance | *Mécanisme :* Le Calibrage VAK et l'Appariement Linguistique de Rapport | *Verbatim :* Le Weaving Sensoriel et l'Impératif Primordial du Rapport
+- **Tranche 23 [Lignes 2980-3141]** : Le "Drill des Mains sur les Icônes" (Spatialisation Motrice de la Grille) — *Protocole :* Le "Drill des Mains sur les Icônes" (Spatialisation Motrice de la Grille) | *Mécanisme :* Ancrage Spatial et Kinesthésique de la Carte Cognitive (Icon Hand Touch) | *Verbatim :* La Puissance et le Piège de la Métaphore
+- **Tranche 24 [Lignes 3143-3301]** : A : Le Jeu du Changement de Polarité sous Patterns Imposés (Sleight of Mouth Wars) — *Protocole :* A : Le Jeu du Changement de Polarité sous Patterns Imposés (Sleight of Mouth Wars) | *Verbatim :* Définition Opératoire de la Posture Sleight of Mouth
+- **Tranche 25 [Lignes 3303-3451]** : A : Drill d'Automatisation Topographique (Gymnastique Spatiale des Patterns) — *Protocole :* A : Drill d'Automatisation Topographique (Gymnastique Spatiale des Patterns) | *Verbatim :* Perle 1 : Redéfinition du versant "Effet / Conséquence" (B)
+- **Tranche 26 [Lignes 3453-3592]** : Le "Wrestling Match" avec Cadre d'Accord Strict — *Protocole :* Le "Wrestling Match" avec Cadre d'Accord Strict | *Mécanisme :* Le Cadre d'Accord Récursif / Systématique (Continuous Agreement Frame) | *Verbatim :* La réplique du tueur à gages (Extrait d'amorce)
+- **Tranche 27 [Lignes 3594-3732]** : Élicitation et Cristallisation du Triangle de Croyance (Cause-Effet / Équivalence Complexe) — *Protocole :* Élicitation et Cristallisation du Triangle de Croyance (Cause-Effet / Équivalence Complexe) | *Verbatim :* Cadrage strict du timing du rapport
+- **Tranche 28 [Lignes 3734-3883]** : Elicitation et Démantèlement Triadique en Sous-Groupes (Changing Frame Size, Counter Example... — *Protocole :* Elicitation et Démantèlement Triadique en Sous-Groupes (Changing Frame Size, Counter Examples, Meta Frame) | *Verbatim :* Apply to Self direct sur le jugement divin / autoritaire
+- **Tranche 29 [Lignes 3885-3998]** : A : La Rupture par Calembour suivie de Réorientation Hiérarchique (Pun Interrupt to Hierarch... — *Protocole :* A : La Rupture par Calembour suivie de Réorientation Hiérarchique (Pun Interrupt to Hierarchy Pivot) | *Verbatim :* Le Double-Jeu de Mots Absurde / Apply to Self
+- **Tranche 30 [Lignes 4000-4156]** : Le Contre-Exemple Socratique Interrogatif & Levier du Questionnement Socratique dans le Cont... — *Protocole :* Le Contre-Exemple Socratique Interrogatif | *Mécanisme :* Levier du Questionnement Socratique dans le Contre-Exemple | *Verbatim :* Le Contre-Exemple Socratique Auto-Généré
+- **Tranche 31 [Lignes 4158-4283]** : Le "Walk-Away" par Rupture de Cadre Triangulée — *Protocole :* Le "Walk-Away" par Rupture de Cadre Triangulée | *Mécanisme :* Le Méta-Cadre comme Coup d'Arrêt ou Pivot Stratégique (Meta Frame Exit / Pivot) | *Verbatim :* Le Méta-Cadre avec Sauvetage de Face et Redirection Spatiale
+- **Tranche 32 [Lignes 4285-4422]** : d'Entraînement : Le Quiz d'Ascertainment des Patterns d'Inférence (Breakout Rooms) — *Protocole :* d'Entraînement : Le Quiz d'Ascertainment des Patterns d'Inférence (Breakout Rooms) | *Mécanisme :* Les Patterns de Polya d'Inférence Plausible comme Matrice Génératrice de Croyances | *Verbatim :* Le Double Dilemme de la Réfutation d'Alternative
+- **Tranche 33 [Lignes 4424-4547]** : Diagnostic & Discrimination d'un Motif de Polya — *Protocole :* Diagnostic & Discrimination d'un Motif de Polya | *Mécanisme :* Les Motifs de Polya comme Architecture Sous-Jacente des Croyances | *Verbatim :* La distinction chirurgicale de la contingence
+- **Tranche 34 [Lignes 4549-4674]** : La Combinaison Déstabilisation / Redirection (Jab -> Knockout) — *Protocole :* La Combinaison Déstabilisation / Redirection (Jab -> Knockout) | *Verbatim :* La Répartie de Rocky Marciano (Double Lien & Sauvegarde de la Face)
+- **Tranche 35 [Lignes 4676-4782]** : Déconstruction en Triangle de Croyance à 3 Niveaux (The 3-Part Belief Structure) — *Protocole :* Déconstruction en Triangle de Croyance à 3 Niveaux (The 3-Part Belief Structure) | *Mécanisme :* Patterns de George Pólya (Inférence Plausible appliquée aux Croyances) | *Verbatim :* s Verbatim 1 : Modélisation de la Vérification d'une Conséquence
+- **Tranche 36 [Lignes 4784-4915]** : Médiation de Conflit & Coopération Systémique par Sleight of Mouth — *Protocole :* Médiation de Conflit & Coopération Systémique par Sleight of Mouth | *Verbatim :* Verbatim 1 : L'inférence déductive toxique inversée
+- **Tranche 37 [Lignes 4917-5049]** : d'Élicitation et de Cartographie des Conditions Multiples (« Multiple IFs Mapping ») — *Protocole :* d'Élicitation et de Cartographie des Conditions Multiples (« Multiple IFs Mapping ») | *Verbatim :* La modélisation de l'élicitation conversationnelle des conditions
+- **Tranche 38 [Lignes 5051-5184]** : A : La Stratégie d'Auto-Coaching Spatialisée pour Sleight of Mouth — *Protocole :* A : La Stratégie d'Auto-Coaching Spatialisée pour Sleight of Mouth | *Verbatim :* Le Pré-cadrage de la Destination Cognitive
+- **Tranche 39 [Lignes 5186-5323]** : d'Ingénierie Argumentative par les 5 Modèles de Polya (Méthode Doug O'Brien) — *Protocole :* d'Ingénierie Argumentative par les 5 Modèles de Polya (Méthode Doug O'Brien) | *Mécanisme :* Inversion de la Charge de la Preuve cognitive (Burden of Proof Flip) | *Verbatim :* Polya 4 - Analogie de Valeur & Recadrage de Dépense
+- **Tranche 40 [Lignes 5325-5482]** : A : Intégration Somato-Spatiale de la Carte SOM (Warm-up kinesthésique) — *Protocole :* A : Intégration Somato-Spatiale de la Carte SOM (Warm-up kinesthésique) | *Mécanisme :* Le paradoxe de la valise de preuves vs la rigidité de la croyance choisie | *Verbatim :* Redefine (Côté A - Comportement)
+- **Tranche 41 [Lignes 5484-5603]** : Le Jeu de Négociation Croisée en 3 Rôles (The Hostage/Cartel S.O.M. Ping-Pong) — *Protocole :* Le Jeu de Négociation Croisée en 3 Rôles (The Hostage/Cartel S.O.M. Ping-Pong) | *Verbatim :* Recadrage de l'échec et multiplicité des équivalences
+- **Tranche 42 [Lignes 5605-5763]** : A : La Transe d'Intégration Somato-Spatiale de la Carte SOM (Séance d'Ancrage Neuro-Moteur) — *Protocole :* A : La Transe d'Intégration Somato-Spatiale de la Carte SOM (Séance d'Ancrage Neuro-Moteur)
+- **Tranche 43 [Lignes 5765-5885]** : Enchâssement d'Ordre Éricksonien au sein d'un Combo Sleight of Mouth (Hierarchy of Criteria... — *Protocole :* Enchâssement d'Ordre Éricksonien au sein d'un Combo Sleight of Mouth (Hierarchy of Criteria -> Consequence) | *Verbatim :* L'Enchâssement Éricksonien Minimal et la Transition Analogique
+- **Tranche 44 [Lignes 5887-5991]** : L'Exécution Précise de la Commande Enchâssée Polyphonique — *Protocole :* L'Exécution Précise de la Commande Enchâssée Polyphonique | *Mécanisme :* Le Marquage Analogique Différentiel Relatif | *Verbatim :* La Négation de Prétérition à Commande Temporelle Enchâssée
+- **Tranche 45 [Lignes 5993-6131]** : L'Échantillon de Déblocage Conversationnel (Free Sample to Client Chain) — *Protocole :* L'Échantillon de Déblocage Conversationnel (Free Sample to Client Chain) | *Verbatim :* La Passerelle d'Expérimentation
+- **Tranche 46 [Lignes 6133-6285]** : A : Extraction Chirurgicale de la Croyance Tripartite (Eliciting the 3-Part Belief) — *Protocole :* A : Extraction Chirurgicale de la Croyance Tripartite (Eliciting the 3-Part Belief)
+- **Tranche 47 [Lignes 6287-6428]** : A : Élicitation et Érosion Rapide de Croyance en Coaching Direct — *Protocole :* A : Élicitation et Érosion Rapide de Croyance en Coaching Direct | *Verbatim :* Découplage de la sensation corporelle et de la certitude externe
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 47 ---
+## Tranche 1 / 47 : L'Exercice du Jeu de l'Accordage ("The Agreement Frame Game")
 
 Voici l'extraction et l'analyse intégrale de la substance opératoire de cette première tranche.
 
@@ -200,8 +253,7 @@ Le cadre d'accordage (*Agreement Frame*) sépare l'évaluation de la personne (v
 > **Doug O'Brien :** "I agree with you. And we should everyone should have guns. In fact, we should probably to keep the world really safe. We should make sure that everyone has a gun, even if they don't want a gun. And we should teach them how to shoot it. So that way we can be safely shooting bad guys that that's going to make the world a better place."
 - **[Analyse du Pattern] :** Utilisation d'un accordage suivi d'un surenchérissement jusqu'à l'absurde (*Reductio ad absurdum* sous couvert de cadre d'accord). En disant *"I agree with you. AND..."* pour ensuite extrapoler la thèse adverse jusqu'à son paroxysme grotesque, l'orateur utilise la dynamique de l'accord pour conduire l'autre à constater lui-même la limite de son propre présupposé sans avoir eu à le contredire explicitement.
 
-
-## --- Tranche 2 / 47 ---
+## Tranche 2 / 47 : L'Agreement Frame Universel (Pacing d'Opinion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -332,8 +384,7 @@ Le cadre d'accordage (*Agreement Frame*) sépare l'évaluation de la personne (v
         2.  *Suggestion projective ouverte* : Le choix laissé à l'inconscient (*« king's, queen's, Superman's »*) garantit l'alignement identitaire sans forcer un archétype unique.
         3.  *Réancrage somatique dans l'espace* : La consigne de réouverture des yeux transfère la sensation de lourdeur/protection sur les épaules directement dans l'action motrice, générant la commande d'appropriation territoriale : *« This is my space now »*.
 
-
-## --- Tranche 3 / 47 ---
+## Tranche 3 / 47 : Désamorçage Spatial et Émotionnel ("The Guide by the Side")
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 3/47 du cours *Sleight of Mouth 6 Month Practice Cohort* dispensé par Doug O'Brien.
 
@@ -454,8 +505,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 3/47 du c
   - **Resserrement sur le Critère Unique** : *"So that is the sole criteria"* élimine toutes les variables parasites pour forcer le sujet à assumer la règle computationnelle nue de son modèle du monde.
   - **Enchaînement direct vers l'Équivalence Complexe** : À la seconde où la condition Cause-Effet est isolée (*"If it's over 150 pounds, then it's a real dog"*), transition abrupte par le connecteur de sens : *"So what does that mean to you?"*, extrayant la valeur sous-jacente logée dans l'étiquette « real dog ».
 
-
-## --- Tranche 4 / 47 ---
+## Tranche 4 / 47 : Élicitation de la Structure Complète de Croyance (If-Then-Means)
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche 4/47 du cours de Doug O'Brien.
 
@@ -563,8 +613,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 4/47 du cours de Doug
 > « All you need to do is break it down like you're doing. Come here once a week, and it's going to be awesome by the time you're done. 80% is just showing up. »
 * **[Analyse du Pattern]** : Présupposition temporelle et effondrement d'effort. *« By the time you're done »* présuppose comme un fait accompli incontestable que l'apprentissage sera mené à son terme. Le truisme populaire *« 80% is just showing up »* décharge l'anxiété de performance liée à l'intellect en déplaçant le critère de réussite sur une simple présence physique.
 
-
-## --- Tranche 5 / 47 ---
+## Tranche 5 / 47 : d'Élucidation Propre de la Croyance (Clean Belief Elicitation Protocol)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/47 du cours *Sleight of Mouth 6 Month Practice Cohort* de Doug O'Brien.
 
@@ -679,8 +728,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/47 du 
   - **Rupture abrupte de pattern d'assistance :** Doug coupe court au flux de conversation au moment précis où le client s'attend à être soulagé (*« So I'm done »*).
   - **Ancrage spatial et temporel du problème sous observation :** En laissant le sujet dans cet état suspendu sans le rassurer, il crée une tension cognitive féconde où la croyance, désormais vue de l'extérieur par le client lui-même, perd son statut de vérité vécue pour devenir un simple objet d'étude prêt à être démonté.
 
-
-## --- Tranche 6 / 47 ---
+## Tranche 6 / 47 : Élicitation de la Structure de Croyance en 3 Parties (Triangle / Carré / Cercle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -819,8 +867,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/47 du 
 > **« All right, so, so go easy on yourself, not bad father, overworked person, doing the best he can person, and how do you become a better father? »**
 * **[Analyse du Pattern]** : Redéfinition conversationnelle immédiate (*Redefining / Sleight of Mouth*). Doug détruit l'équivalence complexe destructrice (« ne pas aller au sport = mauvais père ») en substituant une nominalisation identitaire péjorative (*bad father*) par deux descriptions circonstancielles déculpabilisantes (*overworked person*, *doing the best he can*). Il enchaîne immédiatement avec une présupposition orientée solution (*« How do you become a better father? »*) qui préserve l'intention positive tout en réorientant l'attention vers l'action future.
 
-
-## --- Tranche 7 / 47 ---
+## Tranche 7 / 47 : Élucidation Chirurgicale de la Croyance en Trois Parties (Face au Client « Bavard / Évasif »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -946,8 +993,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/47 du 
 > « For purposes of elicitation, it's just you want to get a clean representation of what they are currently believing. So what street corner are they on in Cleveland? You know, not just we know they're in Cleveland, but where exactly... And where are we going to go from there? Buffalo? Are we going to go to New York? We're going to go to St. Louis? »
 * **[Analyse du Pattern]** : Métaphore spatiale isomorphique distinguant la phase de diagnostic de la phase d'intervention. « L'angle de rue à Cleveland » présuppose une granularité extrême requise pour l'élucidation de la croyance. Les villes de destination représentent les multiples futurs désirés possibles accessibles par le recadrage *Sleight of Mouth*, installant le présupposé que n'importe quelle croyance actuelle n'est qu'un point de départ arbitraire sur une carte routière.
 
-
-## --- Tranche 8 / 47 ---
+## Tranche 8 / 47 : A : Élucidation Complète de la Croyance Tripartite (If $\to$ Then $\to$ Means)
 
 Voici l'analyse opératoire intégrale de la tranche 8/47 de la transcription du cours de Doug O'Brien (*Sleight of Mouth 6 Month Practice Cohort*).
 
@@ -1070,8 +1116,7 @@ Voici l'analyse opératoire intégrale de la tranche 8/47 de la transcription du
 > "Isn't it more important to make any change even if it may be minor rather than to reinforce the old pattern of behavior that is creating the painful situation in the first place?"
 - **[Analyse du Pattern]** : Double lien linguistique asymétrique enchâssé dans une question rhétorique. La formulation met en balance une alternative éthique et pratique écrasante : accepter « un changement même mineur » (cadre valorisant et réaliste) face à « renforcer le comportement qui génère la douleur » (cadre repoussoir auto-punitif). Le choix opposé au recadrage devient intenable pour la cognition du client.
 
-
-## --- Tranche 9 / 47 ---
+## Tranche 9 / 47 : A : Élicitation de la Structure de Croyance en Trois Parties (Three-Part Belief System)
 
 Voici l'analyse opératoire intégrale de la tranche 9/47 du cours de Doug O'Brien sur *Sleight of Mouth*.
 
@@ -1217,8 +1262,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/47 du cours de Doug O'Bri
   - *Structure syntaxique* : Synthèse d'élicitation tripartite canonique [If X $\rightarrow$ Then Y $\rightarrow$ Means Z] formulée en boucle de feed-forward de vérification.
   - *Effet* : Sert de sonde de résonance somatique. Si le calibrage renvoie un *full-body nod*, le modèle interne du sujet est verrouillé et prêt pour le travail opératoire.
 
-
-## --- Tranche 10 / 47 ---
+## Tranche 10 / 47 : Désamorçage d'une Croyance par « Changement de Cause » (Change The Cause Drill)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 10/47 du cours de Doug O'Brien sur le *Sleight of Mouth*.
 
@@ -1337,8 +1381,7 @@ Doug O'Brien synthétise le système de Robert Dilts en 4 grands leviers directe
   - *Destruction de nominalisation :* Le terme « ADHD » (une étiquette statique, réifiée, perçue comme une entité intrinsèque et immuable) est neutralisé.
   - *Rétrogradation au niveau Comportemental dynamique :* Remplacement par « some behaviors that are challenging », ce qui transforme un statut ontologique déficitaire permanent en un ensemble de processus d'action spécifiques, ponctuels et susceptibles d'apprentissage ou de modification technique.
 
-
-## --- Tranche 11 / 47 ---
+## Tranche 11 / 47 : Recadrage par Hiérarchie de Critères (Hierarchy of Criteria)
 
 Voici l'analyse opératoire intégrale de la tranche 11/47 du cours de Doug O'Brien sur le *Sleight of Mouth* et le *Modèle de Précision*.
 
@@ -1478,8 +1521,7 @@ Voici l'analyse opératoire intégrale de la tranche 11/47 du cours de Doug O'Br
 
 * **[Analyse du Pattern]** : Contre-exemple par tonalité interrogative en miroir. La répétition isolée du quantificateur universel avec une inflexion montante et un regard appuyé crée une rupture immédiate de transe. Le sujet est contraint par sa propre boucle auditive interne d'aller chercher le contre-exemple dans son expérience pour réponde à l'absurdité de l'absolu.
 
-
-## --- Tranche 12 / 47 ---
+## Tranche 12 / 47 : A : Extraction Pure de la Structure Normalisée de Croyance (NBS Elicitation)
 
 Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Brien.
 
@@ -1581,8 +1623,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
   > "So would it be fair to say that if you, if you get to wake up and see those things. And then that means that you're in a little piece of your heaven and that's why you love living upstate?"
   - **[Analyse du Pattern] :** Syntaxe de bouclage par présupposition de concordance (*"Would it be fair to say that..."*). Cette question rhétorique structure formellement les trois tiroirs (IF: se réveiller et voir la nature -> THEN: être dans son coin de paradis -> MEANS: aimer vivre là-bas). L'acceptation kinesthésique et verbale du sujet scelle l'extraction de la croyance comme complète et irrévocable.
 
-
-## --- Tranche 13 / 47 ---
+## Tranche 13 / 47 : d'Élucidation du Triptyque de Croyance (3-Part Belief Extraction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1729,8 +1770,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
 > **Leon :** "Then you're not going to put in the effort and achieve what you could have achieved."
 - **[Analyse du Pattern]** : Enchaînement de cause à effet direct projeté dans le futur (*"is going to train you to..."*, *"you're setting yourself up for..."*, *"then you're not going to..."*). La syntaxe associe le maintien de la croyance actuelle à une conséquence émotionnellement ou fonctionnellement insupportable, mobilisant le levier de fuite de la douleur (*away from motivation*) pour désamorcer l'attachement à la croyance.
 
-
-## --- Tranche 14 / 47 ---
+## Tranche 14 / 47 : Le Déroulé Chirurgical d'Another Outcome (Changement d'Objectif)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1841,8 +1881,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
 > "I'm not angry. I'm just peeved."
 * **[Analyse du Pattern]** : Vocabulaire transformationnel direct (emprunté à Tony Robbins). Réduction drastique de l'intensité kinesthésique par substitution d'un terme à charge émotionnelle aiguë (*angry*) par un prédicat d'irritation mineure (*peeved*).
 
-
-## --- Tranche 15 / 47 ---
+## Tranche 15 / 47 : Démontage Expérientiel de l'Illusion Sémantique (Exercice du Référent Idiosyncratique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1989,8 +2028,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
 > « Isn't it more important to have a surplus of excitement than worry about how you'll feel afterward? »
 - **[Analyse du Pattern]** : Écrasement de critère par substitution lexicale. *« Overstimulated »* est transformé en ressource surabondante positive (*« surplus of excitement »*), tandis que la conséquence redoutée (*« exhausted »*) est recadrée en simple processus cognitif anxiogène optionnel (*« worry about how you'll feel afterward »*). L'emploi du terme *« afterward »* projette la conscience dans un futur où l'interaction est déjà un succès.
 
-
-## --- Tranche 16 / 47 ---
+## Tranche 16 / 47 : d'Élicitation Propre en 3 Parties (Clean Belief Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2096,8 +2134,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
   > Karen: Yeah. [Whole body nod] »
   * **[Analyse du Pattern]** : Intensification délibérée du contraste émotionnel et ancrage visuel amplifié (*« write it in red / big letters »*). Doug ne cherche pas à adoucir l'impact somatique ; il l'accompagne et le stabilise pour obtenir la boucle de rétroaction kinesthésique complète (*stomach go stinky* + *whole body nod*), s'assurant que la racine identitaire du problème est enfin pleinement activée et prête pour l'intervention.
 
-
-## --- Tranche 17 / 47 ---
+## Tranche 17 / 47 : Recodage Tripartite par Définition de Destination (Sortie de Cleveland)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2228,8 +2265,7 @@ Voici l'analyse opératoire intégrale de la tranche 12/47 du cours de Doug O'Br
 
 - **[Analyse du Pattern]** : Pattern d'**Exagération / Blowing Up**. Remarquez l'asymétrie chirurgicale : la cause est minimisée à l'extrême par des adoucisseurs contextuels (« slips up », « happens to be irritable in their communication »), tandis que l'équivalence complexe est catapultée dans un absolutisme tragique et métaphysique (« doomed to be evil for all of eternity »). La disproportion force l'inconscient et le conscient à rejeter immédiatement la validité du lien logique.
 
-
-## --- Tranche 18 / 47 ---
+## Tranche 18 / 47 : Élicitation et Calibrage de la Croyance en Trois Parties (The 3-Part Belief Elicitation)
 
 Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Brien sur le *Sleight of Mouth*.
 
@@ -2393,8 +2429,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Br
   3. *Conséquence catastrophique future* : « Because after all, if you don't, then there's going to be consequences down the road and it'll never work. »
   Cet empilement sature la mémoire de travail et ne laisse aucune issue logique à la partie défensive du client, rendant l'immobilisme intenable.
 
-
-## --- Tranche 19 / 47 ---
+## Tranche 19 / 47 : Le Drill Somato-Spatial des 8 Patterns (Spatial Pattern Touch)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2534,8 +2569,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Br
 > "We went down to, you know, to really have something satisfying I really wanted to have a meal that made me feel settled in and sort of satisfied I wanted this feeling of satisfaction that when I filled myself up I was going to... talking about kinesthetic things and how things will feel, but I'm using words like, you know, kinesthetic words I'm looking down to the right quite often. And I'm also speaking from a feeling base, you know, I'm searching for the right word to get my hands on it you know I'm trying to find that right way of expressing it. Sometimes people who are more kinesthetic in nature don't have access to the vocabulary as quickly they don't see where they're going with pictures as much, you know, so they have to sort of, you know, search around for things, you know, see how it feels."
 - **[Analyse du Pattern]** : Isomorphisme somato-linguistique complet. Doug O'Brien ralentit sa prosodie, utilise des prédicats viscéraux et proprioceptifs (« *satisfying* », « *feel settled in* », « *feeling of satisfaction* », « *filled myself up* », « *get my hands on it* ») tout en mimant physiquement la latence cognitive du canal kinesthésique. La commande enchâssée « *see how it feels* » combine subtilement l'accès sensoriel à la recherche interne de validation viscérale.
 
-
-## --- Tranche 20 / 47 ---
+## Tranche 20 / 47 : La Translation VAK Multi-Systémique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2652,8 +2686,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Br
   - **Bifurcation attentionnelle brutale (Another Outcome) :** Déplacement complet du foyer cognitif d'un dilemme moral abstrait (« méchant/gentil ») vers un impératif biologique immédiat et trivial (« what's for lunch tomorrow »).
   - **Effet d'extinction de la charge affective :** En refusant de valider le terrain de débat de la croyance, le praticien prive le problème de toute substance énergétique.
 
-
-## --- Tranche 21 / 47 ---
+## Tranche 21 / 47 : Le Découplage Réactif sous Provocation (The "Podcast Bully" Move)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2812,8 +2845,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Br
   - **Démonstration contrastée de prédicats purs** : Passage chirurgical du visuel (*look*) à l'auditif (*listen to the wind*) et au kinesthésique (*feel the connection, get a grasp, hard*).
   - **Métaphores somatosensorielles (*hard task, grasp*)** : Révélation de la façon dont le langage kinesthésique convertit une idée abstraite en une résistance physique tangible (sensation d'effort musculaire ou de préhension manuelle).
 
-
-## --- Tranche 22 / 47 ---
+## Tranche 22 / 47 : Élicitation et Clarification de la Structure Tripartite de Croyance
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2945,8 +2977,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/47 du cours de Doug O'Br
 > *"Just be here now, guys. Just be here now. Don't think about the past or the future. Just step into the present. That's a gift. That's why they call it a present."*
 * **[Analyse du Pattern] :** Induction hypnotique directe par empilement de répétitions impératives douces (*« be here now »*), suivie d'une commande d'inhibition des repères spatio-temporels (*« Don't think about... »*). L'intervention culmine sur un jeu de mot / ambiguïté polysémique (*« present »* = instant actuel / cadeau) créant un ancrage sémantique instantané de réceptivité et de valorisation de l'expérience immédiate.
 
-
-## --- Tranche 23 / 47 ---
+## Tranche 23 / 47 : Le "Drill des Mains sur les Icônes" (Spatialisation Motrice de la Grille)
 
 Voici l'analyse opératoire intégrale de la tranche 23/47 du cours *Sleight of Mouth 6 Month Practice Cohort* dispensé par Doug O'Brien.
 
@@ -3109,8 +3140,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/47 du cours *Sleight of 
   - **Redéfinition par minimisation lexicale :** Le sujet tente d'évacuer le terme criminalisant (*plagiarizing*) au profit d'un terme purement gestuel et mécanique (*copying and pasting*).
   - **Faille logique exploitable immédiatement par le praticien :** L'action technique concrète du plagiat moderne étant littéralement le "copier-coller", le sujet fournit lui-même l'équivalence comportementale exacte qui valide la sanction : l'illusion de s'être défendu scelle la culpabilité opératoire.
 
-
-## --- Tranche 24 / 47 ---
+## Tranche 24 / 47 : A : Le Jeu du Changement de Polarité sous Patterns Imposés (Sleight of Mouth Wars)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3270,8 +3300,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/47 du cours *Sleight of 
   - **Démystification de l'objet "Croyance" par désensibilisation sémantique :** En substituant un enjeu existentiel par un sandwich, Doug O'Brien prive la croyance de toute charge défensive, rendant sa mécanique d'assemblage purement transparente.
   - **Rétro-ingénierie de la Stratégie de Réalité (*Reality Strategy*) :** Élicitation ordonnée : Visualisation interne $\rightarrow$ Vérification de la disponibilité matérielle externe $\rightarrow$ Validation de l'intention/désir $\rightarrow$ Absence d'obstacles bloquants $\rightarrow$ Clôture sur l'équivalence complexe (*"means that you can have it"*).
 
-
-## --- Tranche 25 / 47 ---
+## Tranche 25 / 47 : A : Drill d'Automatisation Topographique (Gymnastique Spatiale des Patterns)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3421,8 +3450,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/47 du cours *Sleight of 
 > **"Why should I trust you? You kill people for a living. — It's not important how many people I've killed in my life. What's important is all the people that I know that are still alive."**
 * **[Analyse du Pattern]** : *Hierarchy of Criteria* couplé à un *Redefine / Counter-Frame*. Déplacement cynique mais chirurgical de la jauge morale : le critère n'est plus le nombre de victimes (cadre accusatoire), mais l'ensemble préservé des survivants de son entourage (cadre de bienveillance sélective).
 
-
-## --- Tranche 26 / 47 ---
+## Tranche 26 / 47 : Le "Wrestling Match" avec Cadre d'Accord Strict
 
 Voici l'extraction et l'analyse opératoire intégrale de la tranche 26/47 du cours *Sleight of Mouth 6 Month Practice Cohort* de Doug O'Brien.
 
@@ -3563,8 +3591,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 26/47 du co
 * **[Analyse du Pattern] :**
   - **Attribution d'intention / Invalidation des sentiments :** L'usage du marqueur *"You're just feeling that way because..."* rétrograde le ressenti émotionnel légitime de l'autre au rang de simple symptôme d'un mécanisme névrotique de projection et de déception auto-infligée.
 
-
-## --- Tranche 27 / 47 ---
+## Tranche 27 / 47 : Élicitation et Cristallisation du Triangle de Croyance (Cause-Effet / Équivalence Complexe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3704,8 +3731,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 26/47 du co
   - *Modélisation d'un anti-pattern (Le mode avocat)* : Doug formalise le piège de la fixation sur le pattern unique du contre-exemple factuel.
   - *Métaphore disqualifiante* (« overcome them with my volume of reason and evidence » / « This is how lawyers argue ») : Révèle que l'avalanche de preuves relève de l'agression frontale et échoue dès lors que l'enjeu touche à l'identité, validant la nécessité d'une flexibilité multidirectionnelle offerte par l'arsenal de *Sleight of Mouth*.
 
-
-## --- Tranche 28 / 47 ---
+## Tranche 28 / 47 : Elicitation et Démantèlement Triadique en Sous-Groupes (Changing Frame Size, Counter Example...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3856,8 +3882,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 26/47 du co
 > « How many people have you shared this belief with? Or is that is you've got a lot of beliefs about this or how many beliefs do you have about women you know you get these all these different beliefs that you seem to be so in love with. »
 - **[Analyse du Pattern]** : Extension métaphorique du trait structurel incriminé (être polyamoureux = multiplier et partager les relations affectives) appliquée au répertoire cognitif du locuteur. En interrogeant le nombre de personnes avec qui la croyance est partagée ou en affirmant qu'il est "amoureux de multiples croyances", le praticien force le sujet à incarner précisément le comportement relationnel qu'il condamnait chez autrui.
 
-
-## --- Tranche 29 / 47 ---
+## Tranche 29 / 47 : A : La Rupture par Calembour suivie de Réorientation Hiérarchique (Pun Interrupt to Hierarch...
 
 Voici l'analyse opératoire intégrale de la tranche 29/47 du cours de Doug O'Brien (*Sleight of Mouth 6 Month Practice Cohort*).
 
@@ -3972,8 +3997,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/47 du cours de Doug O'Br
 > "I'm not late, I was delayed. I was delayed by outside factors, not me, but by the behaviors and the environment level stuff."
 * **[Analyse du Pattern] :** *Redefine* opérant une translation descendante de niveau logique. L'orateur casse le prédicat d'identité implicite (*"I'm not late"*) pour le transférer au niveau passif/circonstanciel de l'environnement (*"I was delayed by outside factors"*), neutralisant la portée morale de l'accusation.
 
-
-## --- Tranche 30 / 47 ---
+## Tranche 30 / 47 : Le Contre-Exemple Socratique Interrogatif & Levier du Questionnement Socratique dans le Cont...
 
 Voici l'extraction opératoire intégrale de la tranche 30/47 du séminaire *Sleight of Mouth 6 Month Practice Cohort* de Doug O'Brien.
 
@@ -4131,8 +4155,7 @@ Voici l'extraction opératoire intégrale de la tranche 30/47 du séminaire *Sle
 
 * **[Analyse du Pattern]** : Formule pivot canonique du métacadre (*« You're only saying that because... »*) attribuant un déficit de cadre à l'interlocuteur. Suivi immédiat d'une clause de dédouanement (*pacing / save face*) pour éviter la rébellion de l'ego (*« which makes sense... »*), puis transition fluide (*leading*) vers le point sur lequel le praticien veut focaliser l'attention du client.
 
-
-## --- Tranche 31 / 47 ---
+## Tranche 31 / 47 : Le "Walk-Away" par Rupture de Cadre Triangulée
 
 Voici l'analyse modélisatrice complète et opératoire de la tranche 31/47 de la formation *Sleight of Mouth* de Doug O'Brien.
 
@@ -4259,8 +4282,7 @@ Doug O'Brien transpose le cadre mathématique de George Pólya (*Mathematics and
 > « If we have a belief that there are energy meridians in the body, and it implies something like if I have a headache and I put needles in an acupressure, acupuncture-specific place that causes an energy meridian change in my body, and my headache goes away... but if we try and we put the needles in the foot and the headache goes away, we go like, 'Holy gosh, there must be, in fact, energy meridians in the body. That proves it.' »
 - **[Analyse du Pattern]** : Structure $B \implies C$ où la disparition de la douleur somatique ($C$) sert de validation rétroactive absolue à l'existence ontologique d'un objet invisible et indémontrable ($B$, les méridiens). Le praticien illustre comment l'esprit confond soulagement empirique et validation théorique.
 
-
-## --- Tranche 32 / 47 ---
+## Tranche 32 / 47 : d'Entraînement : Le Quiz d'Ascertainment des Patterns d'Inférence (Breakout Rooms)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4399,8 +4421,7 @@ Doug O'Brien transpose le cadre mathématique de George Pólya (*Mathematics and
   - **Double contrainte / Boucle de rétroaction hypnotique** (*The more you understand the nature of beliefs, the more it's going to be useful to be fluid and flexible*) : Utilisation délibérée du Méta-pattern de Probabilité (#1) appliqué à l'apprentissage même des participants.
   - **Délivrance de permission déguisée** (*You don't need this per se... but...*) : Paradoxe classique qui réduit la résistance de l'apprenant en lui retirant l'obligation de mémorisation scolaire pour mieux ancrer la flexibilité inconsciente.
 
-
-## --- Tranche 33 / 47 ---
+## Tranche 33 / 47 : Diagnostic & Discrimination d'un Motif de Polya
 
 Voici l’extraction intégrale et l’analyse opératoire de la tranche 33/47 du cours de Doug O'Brien.
 
@@ -4525,8 +4546,7 @@ Voici l’extraction intégrale et l’analyse opératoire de la tranche 33/47 d
 
 * **[Analyse du Pattern]** : Recadrage de cadre métacognitif / Double lien inversé (*Double-bind reversal*). En refusant de répondre au premier degré, l'orateur théâtralise les implications subjectives de chaque option (arrogance vs mensonge), créant une impasse élégante qui présuppose indiscutablement sa supériorité martiale sans jamais avoir eu à l'affirmer directement.
 
-
-## --- Tranche 34 / 47 ---
+## Tranche 34 / 47 : La Combinaison Déstabilisation / Redirection (Jab -> Knockout)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4653,8 +4673,7 @@ Voici l’extraction intégrale et l’analyse opératoire de la tranche 33/47 d
 > « So it's not even about sleeping today. It's about the quality of your life, like where are you going to be five years from now, or on your deathbed, if you never learned to speak up for yourself and you go to bed every day feeling resentful and sad about things that you didn't say? »
 * **[Analyse du Pattern] :** *Change Frame Size* temporel poussé au seuil existentiel ultime (*"on your deathbed"*). La négation initiale (*"not even about sleeping today"*) dévalue le symptôme immédiat pour brancher le système nerveux sur le coût émotionnel cumulé à vie (douleur projetée du regret), créant un puissant levier d'action thérapeutique.
 
-
-## --- Tranche 35 / 47 ---
+## Tranche 35 / 47 : Déconstruction en Triangle de Croyance à 3 Niveaux (The 3-Part Belief Structure)
 
 Voici l’extraction chirurgicale et opératoire de la tranche 35/47 du séminaire *Sleight of Mouth 6 Month Practice Cohort* de Doug O'Brien.
 
@@ -4762,8 +4781,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 35/47 du séminai
 > **Doug O'Brien :** "If praying works, then I don't have to do any science. I'll just pray. If it didn't work, I'll pray harder. That's it. Maybe I need to sacrifice a chicken."
 * **[Analyse du Pattern] :** Reductio ad absurdum / Démasquage de la boucle circulaire tautologique. Le formateur illustre la façon dont l'esprit humain protège une croyance inopérante : en cas de succès, le protocole est validé sans preuve ; en cas d'échec, ce n'est pas le modèle qui est faux, mais l'intensité du sujet qui est insuffisante (*« pray harder »*), poussant la régression jusqu'à la pensée magique archaïque (*« sacrifice a chicken »*).
 
-
-## --- Tranche 36 / 47 ---
+## Tranche 36 / 47 : Médiation de Conflit & Coopération Systémique par Sleight of Mouth
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4896,8 +4914,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 35/47 du séminai
   * **Calibrage des conjonctions booléennes :** L'interlocuteur empile les conditions par le marqueur syntaxique *"and"* (*"and I always..."*, *"and I'm this"*).
   * **Boucle de rétroaction en miroir (Pacing structural) :** Reformulation récapitulative stricte sous forme algorithmique (*"if this, this, and this, and this, then that means..."*), confrontant le sujet à l'accumulation de ses propres exigences internes sans y ajouter la moindre distorsion.
 
-
-## --- Tranche 37 / 47 ---
+## Tranche 37 / 47 : d'Élicitation et de Cartographie des Conditions Multiples (« Multiple IFs Mapping »)
 
 Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 37/47.
 
@@ -5031,8 +5048,7 @@ Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 37
 * **[Analyse du Pattern]** :
   Suggestion d'identité imbriquée (*Identity-Level Truism & Pacing*). En reliant la simple prise de conscience d'une croyance limitante à une « preuve d'intelligence supérieure », Doug court-circuite la culpabilité ou le découragement du sujet face à ses propres blocages. Il utilise un saupoudrage d'approbation qui ancre la réflexivité comme un état de ressource privilégié pour l'étape suivante : l'auto-application du Sleight of Mouth.
 
-
-## --- Tranche 38 / 47 ---
+## Tranche 38 / 47 : A : La Stratégie d'Auto-Coaching Spatialisée pour Sleight of Mouth
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5167,8 +5183,7 @@ Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 37
   - **Redéfinition de critère et contraste binaire :** Scission de la catégorie "vieille maison" en "artisanat noble durable" vs "maisons d'usine bon marché jetables" (*IKEA house / particle board*).
   - **Structure logique de tiers exclu :** Prouver la déficience structurelle du choix alternatif moderne afin de faire de la maison ancienne la seule option rationnelle et protectrice possible.
 
-
-## --- Tranche 39 / 47 ---
+## Tranche 39 / 47 : d'Ingénierie Argumentative par les 5 Modèles de Polya (Méthode Doug O'Brien)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 39/47 du cours de Doug O'Brien.
 
@@ -5307,8 +5322,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 39/47 du cours de Do
   - **Métaphore Isomorphique Spatiale :** Découplage de la conviction subjective d'avec le contenu factuel objectif. 
   - **Questionnement d'élucidation épistémique :** Le praticien pose les questions de dépaquetage (« *How do you know that?* ») qui forcent le sujet à inspecter la base de données interne de ses certitudes.
 
-
-## --- Tranche 40 / 47 ---
+## Tranche 40 / 47 : A : Intégration Somato-Spatiale de la Carte SOM (Warm-up kinesthésique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5467,8 +5481,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 39/47 du cours de Do
 > "You're being late means you don't care about this relationship." / "What relationship?"
 * **[Analyse du Pattern]** : Rupture radicale de présupposition (*Deframing* ou *D-Frame*). Au lieu de négocier l'équivalence à l'intérieur du cadre posé, l'énoncé dynamite la prémisse même sur laquelle repose la phrase (l'existence de la relation), provoquant un arrêt immédiat du traitement cognitif par sidération.
 
-
-## --- Tranche 41 / 47 ---
+## Tranche 41 / 47 : Le Jeu de Négociation Croisée en 3 Rôles (The Hostage/Cartel S.O.M. Ping-Pong)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5589,8 +5602,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 39/47 du cours de Do
 
 * **[Analyse du Pattern]** : *Chunk Down* avec présupposition de corrélation stricte entre le prix et la sécurité du service. En demandant au prospect de désigner précisément quelle tâche ou protection il est prêt à supprimer pour faire baisser le tarif (*« What specific services you would rather want me to leave out... »*), le praticien force le client à contempler la perte concrète de valeur et le risque juridique/commercial qu'il encourt, provoquant un arrêt immédiat de la négociation à la baisse.
 
-
-## --- Tranche 42 / 47 ---
+## Tranche 42 / 47 : A : La Transe d'Intégration Somato-Spatiale de la Carte SOM (Séance d'Ancrage Neuro-Moteur)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5750,8 +5762,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 39/47 du cours de Do
   > "You realize that sleight of mouth is a way of respecting another person's beliefs and standing with them there and then leading them to another perspective on the other side of that circle. Everyone is right from their own perspective, their own viewpoint. And so we pace and then we lead."
   * **[Analyse du Pattern]** : Meta-Frame Philosophique Intégrateur (Pacing & Leading Éricksonien). Recadre l'usage de tous les patterns linguistiques : ils quittent le statut d'outils de manipulation ou d'argumentation rhétorique pour devenir un acte thérapeutique d'accueil inconditionnel et d'élargissement de la conscience humaine.
 
-
-## --- Tranche 43 / 47 ---
+## Tranche 43 / 47 : Enchâssement d'Ordre Éricksonien au sein d'un Combo Sleight of Mouth (Hierarchy of Criteria...
 
 Voici l'extraction opératoire intégrale et structurée de la tranche 43/47 du cours de Doug O'Brien.
 
@@ -5873,8 +5884,7 @@ Voici l'extraction opératoire intégrale et structurée de la tranche 43/47 du 
     *   *Tag Question de Renfort* (*« Don't you, Greg? »*) : Force une boucle de validation inconsciente par hochement de tête.
     *   *Pression de Cohérence (Double Lien Identitaire)* : Si Greg n'utilise pas ces outils, il sous-entend qu'il n'est pas le bon communicateur reconnu publiquement ; pour maintenir son identité d'excellent prédicateur, il est contraint d'avouer qu'il applique le pattern. Enrobage brutal par rupture de registre lexical à la fin (*« sermons and shit »*) provoquant un choc de pattern et désamorçant toute défense protocolaire.
 
-
-## --- Tranche 44 / 47 ---
+## Tranche 44 / 47 : L'Exécution Précise de la Commande Enchâssée Polyphonique
 
 Voici l'extraction opératoire intégrale de la **tranche 44/47** du cours de Doug O'Brien (*Sleight of Mouth 6 Month Practice Cohort*).
 
@@ -5980,8 +5990,7 @@ Voici l'extraction opératoire intégrale de la **tranche 44/47** du cours de Do
 > "A belief like that can keep you back. Are you aware? Don't you think it would be better for you to investigate this and learn something about this?"
 * **[Analyse du Pattern]** : Redéfinition instantanée de la position de l'interlocuteur : son scepticisme (*"I don't believe in that"*) est recadré en un obstacle auto-handicapant (*"keep you back"*). Doug injecte ensuite un prédicat de prise de conscience réflexive (*"Are you aware?"*) qui brise la certitude, suivi d'une question à présupposition de bénéfice futur (*"Don't you think it would be better..."*) qui déplace le focus d'un débat binaire vrai/faux vers une curiosité pragmatique d'apprentissage (*"investigate and learn"*).
 
-
-## --- Tranche 45 / 47 ---
+## Tranche 45 / 47 : L'Échantillon de Déblocage Conversationnel (Free Sample to Client Chain)
 
 Voici l'analyse opératoire intégrale de la tranche 45/47 de la cohorte pratique *Sleight of Mouth* de Doug O'Brien.
 
@@ -6121,8 +6130,7 @@ Voici l'analyse opératoire intégrale de la tranche 45/47 de la cohorte pratiqu
   - **Hiérarchie de Critères (*Hierarchy of Criteria*) :** Oppose la nourriture corporelle à l'élévation intellectuelle/artistique via une question rhétorique négative présupposant l'accord.
   - **Liaison causale (*Because*) couplée à une Métaphore / Recadrage par Conséquence :** L'association *"massage the brain"* crée une image kinesthésique et somatique positive en contraste radical avec le stigmate *"get fat"*.
 
-
-## --- Tranche 46 / 47 ---
+## Tranche 46 / 47 : A : Extraction Chirurgicale de la Croyance Tripartite (Eliciting the 3-Part Belief)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6276,8 +6284,7 @@ Voici l'analyse opératoire intégrale de la tranche 45/47 de la cohorte pratiqu
   2. *Validation somatique* (*« It feels disrespectful to you »*).
   3. *Distinction par répétition et contraste rythmique* (*« feels disrespectful to you »* opposé à *« he IS being disrespectful »*). Cette dissociation linguistique fracture la certitude de l'hallucination de sens chez le sujet sans invalider sa souffrance somatique.
 
-
-## --- Tranche 47 / 47 ---
+## Tranche 47 / 47 : A : Élicitation et Érosion Rapide de Croyance en Coaching Direct
 
 Voici l'extraction intégrale et opératoire de la tranche 47/47.
 
@@ -6419,3 +6426,4 @@ Voici l'extraction intégrale et opératoire de la tranche 47/47.
   - **Positive Intention vs Reality Split** : Mise en contraste de l'intention positive déclarée (*« motivate yourself to move forward »*) avec l'effet kinesthésique réel inhibiteur (*« making yourself just feel bad... stuck »*).
   - **Consequence / Loop Amplification** : Projection de la conséquence non désirée sous forme de boucle vicieuse fermée (*« stuck in this loop »*).
   - **Change Criteria / Values Pivot (Hiérarchie de critères)** : Bascule par question comparative orientée (*« Isn't it more important to focus on something that you can actually change... than it is to just criticize yourself in general...? »*). La question présuppose l'évidence de la réponse et réoriente l'énergie cognitive de l'auto-flagellation vers l'action micro-ciblée.
+

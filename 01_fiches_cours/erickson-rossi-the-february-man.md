@@ -93,10 +93,30 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 119-240]** : Déstabilisation Motrice et Cognitive Pré-Transe (Écriture Miroir & Bilatérale) — *Protocole :* Déstabilisation Motrice et Cognitive Pré-Transe (Écriture Miroir & Bilatérale) | *Mécanisme :* Réassociation et Resynthèse Expérientielle vs Simple Reprogrammation Mécaniste
+- **Tranche 2 [Lignes 242-386]** : Induction par Énigmes Associatives et Amnésie Structurée (The Enigma & Associative Mind Game) — *Protocole :* Induction par Énigmes Associatives et Amnésie Structurée (The Enigma & Associative Mind Game) | *Verbatim :* La rupture de cadre et surcharge d'association
+- **Tranche 3 [Lignes 388-530]** : Induction du « Doing Mental Set » par Tâche Moteur Inhabituelle — *Protocole :* Induction du « Doing Mental Set » par Tâche Moteur Inhabituelle
+- **Tranche 4 [Lignes 532-631]** : A : La Transe Fractionnée Multi-Visites (Condensation Temporelle de l'Homme de Février) — *Protocole :* A : La Transe Fractionnée Multi-Visites (Condensation Temporelle de l'Homme de Février)
+- **Tranche 5 [Lignes 633-755]** : Recadrage de la perception post-traumatique par dissociation « Pensée vs Émotion » — *Protocole :* Recadrage de la perception post-traumatique par dissociation « Pensée vs Émotion » | *Verbatim :* Le double lien temporel de maturation
+- **Tranche 6 [Lignes 757-910]** : A : La Sortie d'Excuse par Épuisement et Engagement Polarisié — *Protocole :* A : La Sortie d'Excuse par Épuisement et Engagement Polarisié | *Mécanisme :* Rapprochement et Recadrage Linguistique Générationnel (evolutionlinguistiqueemancipatrice slangasawareness) | *Verbatim :* Verbatim 1 : L'extraction et la polarisation du consentement
+- **Tranche 7 [Lignes 912-1029]** : A : L'Écriture Bimanuelle Inversée (Activation du Set d'Apprentissage) — *Protocole :* A : L'Écriture Bimanuelle Inversée (Activation du Set d'Apprentissage)
+- **Tranche 8 [Lignes 1031-1162]** : Induction par Émiettement Temporel Rétrograde & Amnésie Graduelle — *Protocole :* Induction par Émiettement Temporel Rétrograde & Amnésie Graduelle | *Verbatim :* La régression rétrograde par enchaînement déstructurant
+- **Tranche 9 [Lignes 1164-1302]** : Décharge et intégration du souvenir traumatique par "Time Bind" & "Fast-Talking Set" — *Protocole :* Décharge et intégration du souvenir traumatique par "Time Bind" & "Fast-Talking Set"
+- **Tranche 10 [Lignes 1304-1421]** : Le Pont d'Intégration Conscient/Inconscient (Éveil dirigé avec évocation obligatoire) — *Protocole :* Le Pont d'Intégration Conscient/Inconscient (Éveil dirigé avec évocation obligatoire) | *Verbatim :* Injonction d'Intégration Conscient/Inconscient
+- **Tranche 11 [Lignes 1423-1552]** : 1 Protocole de Prescription du Symptôme & Enchâssement d'Évolution Latente — *Protocole :* 1 Protocole de Prescription du Symptôme & Enchâssement d'Évolution Latente | *Mécanisme :* 1 La Prescription du Symptôme comme Déplacement d'Inhibition et Set d'Acceptation | *Verbatim :* 1 La Prescription du Symptôme par Dissolution de la Salience
+- **Tranche 12 [Lignes 1554-1669]** : A : Installation d'une Pseudomnésie Thérapeutique par Forçage Temporel — *Protocole :* A : Installation d'une Pseudomnésie Thérapeutique par Forçage Temporel | *Verbatim :* La bascule de la chaleur vers la fraîcheur par polarité
+- **Tranche 13 [Lignes 1671-1790]** : Induction par Évocation d'Incertitude & Dépotentiation Conversationnelle — *Protocole :* Induction par Évocation d'Incertitude & Dépotentiation Conversationnelle
+- **Tranche 14 [Lignes 1792-1889]** : A : La Rétro-Ingénierie Phobique par Pseudo-Orientation Temporelle et Apposition des Opposés — *Protocole :* A : La Rétro-Ingénierie Phobique par Pseudo-Orientation Temporelle et Apposition des Opposés | *Mécanisme :* Apposition des Opposés & Synthèse Neuro-Cognitive
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 14 ---
+## Tranche 1 / 14 : Déstabilisation Motrice et Cognitive Pré-Transe (Écriture Miroir & Bilatérale)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -219,8 +239,7 @@ flowchart TD
     - **Clivage binaire direct et confrontation du méta-programme :** Met à nu le mécanisme de défense intellectuel en l'opposant terme à terme à l'expérience vivante (« understand » vs « experience »).
     - **Transe de rupture :** Cette remarque brève suspend instantanément la stratégie d'évitement de l'interlocuteur en la nommant avec précision chirurgicale, créant le vide nécessaire pour amorcer une induction expérientielle (l'ascension de la montagne).
 
-
-## --- Tranche 2 / 14 ---
+## Tranche 2 / 14 : Induction par Énigmes Associatives et Amnésie Structurée (The Enigma & Associative Mind Game)
 
 Voici l'extraction opératoire intégrale de la **tranche 2/14** de *The February Man* (Erickson & Rossi).
 
@@ -366,8 +385,7 @@ Voici l'extraction opératoire intégrale de la **tranche 2/14** de *The Februar
 > **Erickson :** *"And you will, will you not? Just keep on sleeping deeply, soundly. And when you feel you are really sound asleep, your right hand will lift up to let me know. And your hand is lifting, is it not?"*
 - **[Analyse du Pattern]** : **Tag question inversée privative (*"will you not?"*) couplée à une liaison contingente idéomotrice**. En insérant *"will you not?"*, l'opérateur s'approprie la négation avant que le sujet ne puisse la formuler intérieurement. La seconde phrase lie temporellement une certitude subjective interne (*"when you feel you are really sound asleep"*) à une réponse physiologique observable (*"your right hand will lift up"*), validée au présent progressif (*"is lifting, is it not?"*).
 
-
-## --- Tranche 3 / 14 ---
+## Tranche 3 / 14 : Induction du « Doing Mental Set » par Tâche Moteur Inhabituelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -511,8 +529,7 @@ Voici l'extraction opératoire intégrale de la **tranche 2/14** de *The Februar
   > « Because birds understand things for themselves. Now how does a little baby understand why to swallow?... And when you get thirsty you don't have anybody explain to you that you should drink, do you? That is the way you grow. And when something comes toward your eyes you shut them, don't you? You just learn that. Your hair knows how to grow just on top of your head. It knows just how to grow. »
   * **[Analyse du Pattern]** : Empilement de truismes somatiques irréfutables (*pacing biologique*). Erickson associe les interrogations existentielles insolubles de l'enfant à des processus corporels réflexes et autonomes. La suggestion implicite installe l'idée que l'adaptation, la guérison et la croissance psychologique ne dépendent pas du contrôle intellectuel, mais d'une intelligence vivante involontaire qui opère déjà parfaitement d'elle-même.
 
-
-## --- Tranche 4 / 14 ---
+## Tranche 4 / 14 : A : La Transe Fractionnée Multi-Visites (Condensation Temporelle de l'Homme de Février)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -613,8 +630,7 @@ Voici l'extraction opératoire intégrale de la **tranche 2/14** de *The Februar
 > **« People that are wise are the people that try to do the things that help them to have the happiness they would get from having the things they would like. »**
 * **[Analyse du Pattern]** : Définition tautologique régulatrice. Utilisation d'un langage flou et universel (*Folk Language*) pour installer un modèle de compensation psychologique mature face aux manques inévitables de la vie.
 
-
-## --- Tranche 5 / 14 ---
+## Tranche 5 / 14 : Recadrage de la perception post-traumatique par dissociation « Pensée vs Émotion »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -738,8 +754,7 @@ Voici l'extraction opératoire intégrale de la **tranche 2/14** de *The Februar
 
 * **[Analyse du Pattern]** : Recadrage immédiat de la polarité négative en avantage stratégique. Erickson prend le prédicat d'infériorité (« être la plus jeune ») et le retourne en supériorité temporelle par une exagération métaphorique provocatrice (« *old maids* »). Cela instille le doute sur la validité de la plainte et force le sujet à mobiliser son propre vocabulaire moderne d'adolescente émancipée (« *bachelor girls* »).
 
-
-## --- Tranche 6 / 14 ---
+## Tranche 6 / 14 : A : La Sortie d'Excuse par Épuisement et Engagement Polarisié
 
 Voici l'extraction opératoire intégrale de la **Tranche 6/14** du cours *"The February Man"* (Milton H. Erickson & Ernest L. Rossi).
 
@@ -894,8 +909,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 6/14** du cours *"The 
   * *Question ouverte sous transe (Open trance question)* : « *I want to wonder what you will do with your fear of water* » n'exige pas de réponse consciente immédiate, mais lance l'inconscient dans une recherche active de réallocation de cette énergie.  
   * *Glissement associatif subliminal (Covert bonding)* : Erickson associe sans rupture syntaxique la gestion de cette intensité somatique à deux motivations supérieures : « *out of a sense of love, out of an appreciation of one's self* », désactivant la terreur traumatique d'origine (liée à la quasi-noyade de la sœur) pour la reprogrammer sur l'amour protecteur et l'estime de soi.
 
-
-## --- Tranche 7 / 14 ---
+## Tranche 7 / 14 : A : L'Écriture Bimanuelle Inversée (Activation du Set d'Apprentissage)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1014,8 +1028,7 @@ Voici l'extraction opératoire intégrale de la **Tranche 6/14** du cours *"The 
 > **"And I can talk to myself or anybody else without it meaning anything to you, can I not?"**
 - **[Analyse du Pattern]** : Suggestion de dissociation auditive et fonctionnelle avec question tag (« *can I not?* »). Ce pattern autorise l'hypnotiseur à débriefer avec un tiers (le Dr Fink) en présence du sujet sans que ce dernier ne vienne polluer son traitement hypnotique par une écoute analytique consciente, tout en maintenant l'écoute passive de « l'observateur caché ».
 
-
-## --- Tranche 8 / 14 ---
+## Tranche 8 / 14 : Induction par Émiettement Temporel Rétrograde & Amnésie Graduelle
 
 Voici l'analyse d'ingénierie et de modélisation de cette tranche 8/14 de *The February Man* (Erickson & Rossi).
 
@@ -1148,8 +1161,7 @@ Voici l'analyse d'ingénierie et de modélisation de cette tranche 8/14 de *The 
   * *Répétition rythmée en boucle* : L'alternance entre « sleep deeply » et « hand to come to rest in your lap » ancre une association synesthésique entre la détente musculaire localisée et la transe globale.
   * *Tag question présuppositionnelle* : « will you not? » clôt la séquence par une validation inévitable qui empêche toute formulation d'objection interne.
 
-
-## --- Tranche 9 / 14 ---
+## Tranche 9 / 14 : Décharge et intégration du souvenir traumatique par "Time Bind" & "Fast-Talking Set"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1289,8 +1301,7 @@ Voici l'analyse d'ingénierie et de modélisation de cette tranche 8/14 de *The 
 > **"And when you are ready you can put your right hand down. Do you think you will have enough courage to do that or shall I help you?"**
 * **[Analyse du Pattern]** : Double lien avec présupposition de préparation intérieure (*« when you are ready »*). L'alternative proposée (*« avoir assez de courage »* VS *« recevoir mon aide »*) est une illusion de choix : dans les deux cas de figure, la main descendra et la confrontation au trauma aura lieu, tout en fournissant une alliance thérapeutique de secours (*« or shall I help you »*) qui sécurise l'égo.
 
-
-## --- Tranche 10 / 14 ---
+## Tranche 10 / 14 : Le Pont d'Intégration Conscient/Inconscient (Éveil dirigé avec évocation obligatoire)
 
 Voici l'analyse opératoire intégrale de la tranche 10/14 de l'ouvrage *The February Man* (Milton H. Erickson & Ernest L. Rossi).
 
@@ -1409,8 +1420,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/14 de l'ouvrage *The Feb
   - **Validation de l'injustice historique :** Erickson ne console pas bêtement ; il confirme la réalité brute ressentie par l'enfant (*« miserable return on your good deed »*).
   - **Paradoxe intégrateur (Recadrage dialectique) :** L'énoncé *« They constitute a part of successful living »* redéfinit l'échec non comme l'opposé du succès, mais comme un sous-composant structurel et obligatoire de la réussite, désamorçant instantanément le perfectionnisme phobique d'évitement.
 
-
-## --- Tranche 11 / 14 ---
+## Tranche 11 / 14 : 1 Protocole de Prescription du Symptôme & Enchâssement d'Évolution Latente
 
 Voici l'analyse modélisatrice opératoire complète de la tranche 11/14 de *The February Man* (Erickson & Rossi).
 
@@ -1541,8 +1551,7 @@ Voici l'analyse modélisatrice opératoire complète de la tranche 11/14 de *The
   * *Recadrage identitaire du rôle professionnel :* « A psychiatrist is somebody you can get mad at and who won't take it personally ». Définit le cadre thérapeutique comme un conteneur émotionnel inviolable et sécure.
   * *Fractionnement ultra-court :* Enchaînement immédiat « Go to sleep now and wake up », provoquant un court-circuit attentionnel qui permet d'intégrer la suggestion de réveil tonique (« refreshed and zestful ») sans analyse résiduelle de la phase d'induction précédente.
 
-
-## --- Tranche 12 / 14 ---
+## Tranche 12 / 14 : A : Installation d'une Pseudomnésie Thérapeutique par Forçage Temporel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1659,8 +1668,7 @@ Voici l'analyse modélisatrice opératoire complète de la tranche 11/14 de *The
 
 * **[Analyse du Pattern]** : Suggestion post-hypnotique de non-savoir et rupture abrupte de pattern. Erickson autorise explicitement le doute et le questionnement vigile (*« wondering what the purpose of this visit was »*), mais le recadre immédiatement comme la preuve que l'inconscient détient un « secret » inviolable. Aussitôt le réveil prononcé, il brise instantanément l'état en embrayant sur une tâche terre-à-terre sans aucun lien (*« Now what would be a good inscription for this book? »*), scellant définitivement l'amnésie par diversion d'attention immédiate.
 
-
-## --- Tranche 13 / 14 ---
+## Tranche 13 / 14 : Induction par Évocation d'Incertitude & Dépotentiation Conversationnelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1781,8 +1789,7 @@ Voici l'analyse modélisatrice opératoire complète de la tranche 11/14 de *The
 ```
 * **[Analyse du Pattern]** : Recadrage de réciprocité asynchrone dissolvant le transfert. L'utilisation du terme *"privilege"* élève le statut de la patiente au rang d'égale ou de collaboratrice potentielle. La formule impersonnelle *"One never knows when a situation might arise..."* projette une contingence floue dans le futur, libérant la patiente de la position de débitrice de soins.
 
-
-## --- Tranche 14 / 14 ---
+## Tranche 14 / 14 : A : La Rétro-Ingénierie Phobique par Pseudo-Orientation Temporelle et Apposition des Opposés
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1880,3 +1887,4 @@ Voici l'analyse modélisatrice opératoire complète de la tranche 11/14 de *The
         *   *Ambiguïté phonétique majeure (Homophonie Buoy / Boy)* : l'hémisphère gauche traite le mot comme la « bouée » de sauvetage physique, tandis que l'hémisphère droit et l'inconscient entendent le « petit garçon » traumatisé lors de l'incident initial.
         *   *Double lien thérapeutique* : « S'accrocher à la bouée » (sécurité immédiate) vs « Laisser partir le petit garçon pour qu'il apprenne à flotter » (émancipation et autonomie développementale).
         *   *Commande cachée d'apprentissage involontaire* (« learn how easy it is to float ») injectant une modalité kinesthésique de confort et de passivité corporelle sécurisante.
+

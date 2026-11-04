@@ -45,10 +45,18 @@ $$\text{Standardisation Physiologique (Elman)} \longrightarrow \text{Extraction 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 59-158]** : Les 4 Balles Magiques (Dave Elman Flash) — *Protocole :* Les 4 Balles Magiques (Dave Elman Flash) | *Verbatim :* Double Contrainte Temporelle & Relâchement Corporel (Balle 2)
+- **Tranche 2 [Lignes 160-269]** : Les Piliers de Puissance (Pillars of Power) appliqués à la Distorsion Temporelle — *Protocole :* Les Piliers de Puissance (Pillars of Power) appliqués à la Distorsion Temporelle | *Verbatim :* La Réémergence Amplificatrice (Clôture de Démonstration)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 2 ---
+## Tranche 1 / 2 : Les 4 Balles Magiques (Dave Elman Flash)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -149,9 +157,7 @@ Tags : `#induction` `#approfondissement` `#calibration` `#fractionnement` `#amne
 
 * **[Analyse du Pattern]** : Ancrage contextuel conditionnel (« Anytime... ») couplé à un triplet d'adverbes d'automaticité (« instantly, effortlessly, and automatically ») qui élimine tout effort volontaire. Le basculement entre la transe kinesthésique (« rush of maroon energy ») et la normalisation (« time off / normal pace ») garantit une intégration saine tout en rendant le phénomène déclenchable sur commande extérieure.
 
-
-
-## --- Tranche 2 / 2 ---
+## Tranche 2 / 2 : Les Piliers de Puissance (Pillars of Power) appliqués à la Distorsion Temporelle
 
 ### 1. Mécanismes & Principes Actifs
 

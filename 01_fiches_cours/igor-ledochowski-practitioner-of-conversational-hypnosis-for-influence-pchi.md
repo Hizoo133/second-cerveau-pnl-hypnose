@@ -77,10 +77,47 @@ Le fil conducteur unifiant l'ensemble des interventions est **la suppression du 
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 120-253]** : A : Étalonnage Collectif et Induction de Conformité Interactive — *Protocole :* A : Étalonnage Collectif et Induction de Conformité Interactive | *Mécanisme :* Levier 1 : La Bulle de Réalité Hypnotique / Le « Phare » d'Influence | *Verbatim :* La Directive Décisionnelle Associée à l'État Somatique
+- **Tranche 2 [Lignes 255-445]** : L'Hypnotiseur en 10 Secondes (The 10-Second Hypnotist) — *Protocole :* L'Hypnotiseur en 10 Secondes (The 10-Second Hypnotist) | *Mécanisme :* Le Principe de la Pression Hydraulique de la Suggestion (Hose & Water Pressure Model) | *Verbatim :* PÉPITE 1 : La Métaphore Erickosienne de la Focalisation Interne & Dissociation
+- **Tranche 3 [Lignes 447-652]** : L'INDUCTION PAR CONTRASTE NÉGATIF (Doute & Regard Erratique) — *Protocole :* L'INDUCTION PAR CONTRASTE NÉGATIF (Doute & Regard Erratique) | *Mécanisme :* Le Regard Traversant vs Le Regard Focalisé (Looking Through the Eye) | *Verbatim :* PÉPITE 1 : L'Induction Inversée (Tonalité Interrogative & Rupture de Statut)
+- **Tranche 4 [Lignes 654-761]** : L'Unconscious Hello (Le Bonjour Inconscient) — *Protocole :* L'Unconscious Hello (Le Bonjour Inconscient) | *Verbatim :* Le Cadenceur Hypnotique en Couplets Rimes (Poetic Induction Meter)
+- **Tranche 5 [Lignes 763-861]** : Le Calibrage Contrasté T&E (Tension & Énergie) en Aveugle — *Protocole :* Le Calibrage Contrasté T&E (Tension & Énergie) en Aveugle | *Mécanisme :* La Matrice T&E (Tension & Énergie) comme code de décodage somatique | *Verbatim :* Cadrage Opératoire de la Résistance Somatique
+- **Tranche 6 [Lignes 863-995]** : Le Jeu de Détection Binaire par Étalonnage Somatique et Vocal (Like / Dislike) — *Protocole :* Le Jeu de Détection Binaire par Étalonnage Somatique et Vocal (Like / Dislike) | *Mécanisme :* Le Point d'Ancrage Comparatif : "Face as Home Plate" | *Verbatim :* La Directive d'Étalonnage Découplé (Face as Home Plate)
+- **Tranche 7 [Lignes 997-1123]** : La Lecture de Pensée Présuppositionnelle (Kentron Knepper Adapted / DMI Linguistique) — *Protocole :* La Lecture de Pensée Présuppositionnelle (Kentron Knepper Adapted / DMI Linguistique) | *Verbatim :* L'Induction par Rupture et Verrouillage d'Attention
+- **Tranche 8 [Lignes 1125-1257]** : L'Exercice de Projection & Lecture avec Nominalisation Positive — *Protocole :* L'Exercice de Projection & Lecture avec Nominalisation Positive | *Mécanisme :* La Primauté du Non-Verbal : Projection vs Suggestion | *Verbatim :* Pattern 1 : L'Incongruence Délibérée (Projection vs Suggestion)
+- **Tranche 9 [Lignes 1259-1401]** : L'Induction Narrative par Procuration ("My Friend Gaetan / Liebeault Story") — *Protocole :* L'Induction Narrative par Procuration ("My Friend Gaetan / Liebeault Story") | *Verbatim :* La Démonstration de l'Induction Narrative (Igor s'adressant à Elia)
+- **Tranche 10 [Lignes 1403-1550]** : Construction Progressive de la Phrase Hypnotique (4 Niveaux) — *Protocole :* Construction Progressive de la Phrase Hypnotique (4 Niveaux) | *Verbatim :* Le Noyau Minimal (Mots de Transe + "And")
+- **Tranche 11 [Lignes 1552-1729]** : Le Cycle Combiné des 4 Familles Linguistiques — *Protocole :* Le Cycle Combiné des 4 Familles Linguistiques | *Verbatim :* Le Double Enchâssement avec Rupture Temporelle (Until)
+- **Tranche 12 [Lignes 1731-1835]** : Construction d'un Pattern Hypnotique Complet en 4 Étapes — *Protocole :* Construction d'un Pattern Hypnotique Complet en 4 Étapes
+- **Tranche 13 [Lignes 1837-1966]** : La Technique "My Friend John" (Induction Sensorielle par Procuration) — *Protocole :* La Technique "My Friend John" (Induction Sensorielle par Procuration) | *Verbatim :* Le Contraste du Pattern "Nu" vs Camouflé
+- **Tranche 14 [Lignes 1968-2129]** : Désamorçage de Matériel Négatif par Retrait Proxémique (The Somatic Lean-Back Protocol) — *Protocole :* Désamorçage de Matériel Négatif par Retrait Proxémique (The Somatic Lean-Back Protocol) | *Mécanisme :* L'alignement somatique de vérité et la rupture de confiance | *Verbatim :* La Négation Positive et l'Injonction Paradoxale Rythmée
+- **Tranche 15 [Lignes 2131-2234]** : Automatisation de l'Ancrage Spatial Binaire (« Good Thing / Bad Thing ») — *Protocole :* Automatisation de l'Ancrage Spatial Binaire (« Good Thing / Bad Thing »)
+- **Tranche 16 [Lignes 2236-2385]** : Protocole : Lecture de Pensée de l'Intention (Intentional Mind Read) — *Protocole :* Protocole : Lecture de Pensée de l'Intention (Intentional Mind Read) | *Verbatim :* Mind Reading d'Intention & Takeaways
+- **Tranche 17 [Lignes 2387-2538]** : Formule de Création d'un Pattern Hypnotique Conversationnel à la Volée — *Protocole :* Formule de Création d'un Pattern Hypnotique Conversationnel à la Volée | *Mécanisme :* Architecture d'empilement hypnotique : Du micro-atome au véhicule covert | *Verbatim :* Transe de clôture et incubation nocturne (Session Integration Induction)
+- **Tranche 18 [Lignes 2540-2681]** : Construction Spontanée d'un Hypnotic Pattern via une Expérience Universelle (Universal Exper... — *Protocole :* Construction Spontanée d'un Hypnotic Pattern via une Expérience Universelle (Universal Experience Pattern) | *Verbatim :* La Dérivation de la Commande Directe vers l'Acceptation Naturelle
+- **Tranche 19 [Lignes 2683-2816]** : Construction et Délivrance d'une "Observation Philosophique" — *Protocole :* Construction et Délivrance d'une "Observation Philosophique" | *Mécanisme :* La Triade des Véhicules Hypnotiques de Réalité : Personnel, Universel, Philosophique | *Verbatim :* The Philosophical Observation Blitz
+- **Tranche 20 [Lignes 2818-2976]** : L'Analogie Hypnotique Pure (Sans Explication Logique) — *Protocole :* L'Analogie Hypnotique Pure (Sans Explication Logique) | *Mécanisme :* Le Principe de Non-Explication de l'Analogie (Zero Conscious Decoding) | *Verbatim :* L'Analogie Pure de l'Explorateur et de la Boussole
+- **Tranche 21 [Lignes 2978-3128]** : A : Le Véhicule Hypnotique de la « Conférence / Rapport » (Hypnotic Lecture / Hypnotic Report) — *Protocole :* A : Le Véhicule Hypnotique de la « Conférence / Rapport » (Hypnotic Lecture / Hypnotic Report) | *Verbatim :* Le Modèle de la Conférence Évolutive (Positive Psychology Vehicle)
+- **Tranche 22 [Lignes 3130-3287]** : Recadrage du Pushback sur une Suggestion de Bien-Être (Démonstration Alexander) — *Protocole :* Recadrage du Pushback sur une Suggestion de Bien-Être (Démonstration Alexander) | *Verbatim :* Le Recadrage du Pushback sur le Bien-Être (Réfutation et Recâblage)
+- **Tranche 23 [Lignes 3289-3516]** : L'Accueil Inconscient (The Unconscious Hello) — *Protocole :* L'Accueil Inconscient (The Unconscious Hello) | *Verbatim :* La confirmation de transe conversationnelle par l'amnésie
+- **Tranche 24 [Lignes 3518-3679]** : L'Injection de Minilog Hypnotique (Le Pivot Conversationnel Fluide) — *Protocole :* L'Injection de Minilog Hypnotique (Le Pivot Conversationnel Fluide) | *Mécanisme :* Le « Locking Attention » et la Fenêtre de Tir Hypnotique (Minilog vs Monologue) | *Verbatim :* Le Minilog de Connexion par les Valeurs
+- **Tranche 25 [Lignes 3681-3800]** : L'Escalade Thématique par Arbre de Décision (The 6-Step Conversational Pivot) — *Protocole :* L'Escalade Thématique par Arbre de Décision (The 6-Step Conversational Pivot) | *Mécanisme :* La Hiérarchie des 5 Sujets de Conversation (The Ladder of Influence) | *Verbatim :* Le Recadrage de la Plainte vers l'Intention Positive
+- **Tranche 26 [Lignes 3802-3922]** : L'Échelle de Chunking d'Influence (Du Sujet Toxique au Sujet d'Influence) — *Protocole :* L'Échelle de Chunking d'Influence (Du Sujet Toxique au Sujet d'Influence) | *Mécanisme :* Le Pivot Dimensionnel de Chunking : Spécificité, Abstraction et Latéralisation | *Verbatim :* La Manœuvre de Zigzag Syntaxique vers l'Abstraction
+- **Tranche 27 [Lignes 3924-4059]** : Auto-Démantèlement des Croyances Limitantes par Présuppositions Récursives — *Protocole :* Auto-Démantèlement des Croyances Limitantes par Présuppositions Récursives | *Mécanisme :* Levier : Déconstruction Récursive des Présuppositions Internes | *Verbatim :* Verbatim 1 : Analyse de l'expression d'autorité et de présupposition
+- **Tranche 28 [Lignes 4061-4192]** : Désamorçage de Sujet Sombre via Extended Mind Read — *Protocole :* Désamorçage de Sujet Sombre via Extended Mind Read | *Verbatim :* L'Extended Mind Read classique (Transition par le profilage)
+- **Tranche 29 [Lignes 4194-4314]** : A : La Révélation et Réintégration de l'Ombre (The Monster Embrace) — *Protocole :* A : La Révélation et Réintégration de l'Ombre (The Monster Embrace) | *Mécanisme :* Le "Switch" Identitaire à Allumage Lent (Slow Burn Switch) | *Verbatim :* La Descente dans le Silence Kinesthésique
+- **Tranche 30 [Lignes 4316-4408]** : A : La Métaphore Thérapeutique du Grenier d'Erickson (Tri Émotionnel & Déménagement Intérieur) — *Protocole :* A : La Métaphore Thérapeutique du Grenier d'Erickson (Tri Émotionnel & Déménagement Intérieur)
+- **Tranche 31 [Lignes 4410-4531]** : d’Adieu Opératoire & Nettoyage d’Attachement (« The Erickson Farm Protocol ») — *Protocole :* d’Adieu Opératoire & Nettoyage d’Attachement (« The Erickson Farm Protocol ») | *Verbatim :* Le Découplage de Sauvegarde Mémorielle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 31 ---
+## Tranche 1 / 31 : A : Étalonnage Collectif et Induction de Conformité Interactive
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/31 du séminaire *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -215,8 +252,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/31
   - *Structure antithétique et scission de l'identité* : Contraste tranché entre la faiblesse physique inerte et la vigueur psychique souveraine, invitant l'auditeur à découpler sa propre fatigue ou ses doutes corporels de sa puissance mentale inconsciente.
   - *Tris rythmique et incantation fermée* : La répétition en gradation temporelle (« Not like this. Not tonight. Not ever. ») agit comme une clôture hypnotique qui scelle la décision au niveau sous-cortical, excluant toute possibilité de recul ou de reddition.
 
-
-## --- Tranche 2 / 31 ---
+## Tranche 2 / 31 : L'Hypnotiseur en 10 Secondes (The 10-Second Hypnotist)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -408,8 +444,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 1/31
   - **Commande directe d'endormissement** : *"Sleep in tight"*, immédiatement liée à l'apprentissage inconscient facile (*with great ease and great enjoyment*).
   - **Ponctuation de ratification constante** : L'insertion de *"That's right"* à trois reprises valide la progression somatique sans marquer de rupture.
 
-
-## --- Tranche 3 / 31 ---
+## Tranche 3 / 31 : L'INDUCTION PAR CONTRASTE NÉGATIF (Doute & Regard Erratique)
 
 Voici l’extraction et la modélisation intégrale de la substance opératoire de cette tranche, structurées selon les règles d'ingénierie demandées.
 
@@ -616,8 +651,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
   * **Métaphore isomorphe de la nature** : *« just like the wind that stirs the leaves »*. Image organique qui installe l'idée que le changement et l'abandon des vieilles habitudes (*« let the old things go »*) sont des processus aussi fluides, naturels et sans effort qu'un souffle de vent d'automne.
   * **Ré-attribution finale du pouvoir (*Empowerment*)** : *« it's you who makes the good things grow »*. Déplace le locus de contrôle vers le sujet, ancrant la conviction que l'état de transe et les ressources qui en découlent lui appartiennent intégralement.
 
-
-## --- Tranche 4 / 31 ---
+## Tranche 4 / 31 : L'Unconscious Hello (Le Bonjour Inconscient)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -726,8 +760,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
   - *Empilement de micro-récits anodins (My-Friend-John miniature) :* *"I was sitting in the park with my friends and I think to myself..."* installe un cadre narratif qui capte l'inconscient tout en maintenant une façade sociale parfaitement banale et inoffensive.
   - *Transition rythmée vers la sollicitation :* Le praticien conserve la structure métrique sans la lourdeur de la transe somnambulique, permettant d'extraire de l'information et d'établir un rapport instantané sans éveil de défiance.
 
-
-## --- Tranche 5 / 31 ---
+## Tranche 5 / 31 : Le Calibrage Contrasté T&E (Tension & Énergie) en Aveugle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -827,8 +860,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
 > **« The face is the social organ. It's very expressive, but we also have been taught to school our expression, so we don't get in trouble. [...] As soon as that happens, repression always intensifies emotions. The limbic system activates more. And that energy has to go somewhere. »**
 * **[Analyse du Pattern]** : Empilement de truismes socio-biologiques et logique de causalité implacable (*truism stack & cause-effect chain*). Ledochowski établit une base d'évidence développementale (la répression infantile des affects pour éviter le conflit social) pour justifier la règle mécanique : l'effort de contention n'éteint pas la charge nerveuse, il l'amplifie et la contraint physiquement à déborder sous forme de micro-motricité périphérique.
 
-
-## --- Tranche 6 / 31 ---
+## Tranche 6 / 31 : Le Jeu de Détection Binaire par Étalonnage Somatique et Vocal (Like / Dislike)
 
 Voici l'analyse exhaustive, structurée et opératoire de la tranche 6/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -962,8 +994,7 @@ Voici l'analyse exhaustive, structurée et opératoire de la tranche 6/31 du cou
 
 * **[Analyse du Pattern]** : Rupture de pattern par collage de contextes incompatibles (*bizarre frame layering*). Igor contraint le sujet à maintenir une représentation aversive forte tout en lui imposant une imagerie kinesthésique incongrue (lui tenir la main dans un parc), pour ensuite dériver brutalement sur une évocation gustative de plaisir pur (*"favorite ice cream"*). Cette surcharge cognitive court-circuite toute capacité de contrôle conscient et force le système nerveux à révéler instantanément quelle représentation prend le dessus dans la voix (le rejet du superviseur vs le plaisir de la glace).
 
-
-## --- Tranche 7 / 31 ---
+## Tranche 7 / 31 : La Lecture de Pensée Présuppositionnelle (Kentron Knepper Adapted / DMI Linguistique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1091,8 +1122,7 @@ Voici l'analyse exhaustive, structurée et opératoire de la tranche 6/31 du cou
 
 - **[Analyse du Pattern]** : **Double contrainte d'inhibition volontaire (Bateson/Erickson)**. En interdisant au sujet de décider, d'interférer ou d'envoyer activement un signal (*"Don't decide... Don't try to interfere... Don't try and send me something"*), l'opérateur neutralise toute stratégie consciente de contrôle ou de résistance. La passivité exigée met le sujet en position d'attente réceptive totale. L'injection brutale du mot-clé (*"Family"*) est perçue par le sujet comme une lecture réelle de son état de repos.
 
-
-## --- Tranche 8 / 31 ---
+## Tranche 8 / 31 : L'Exercice de Projection & Lecture avec Nominalisation Positive
 
 Voici l'analyse modélisée et opératoire de la tranche 8/31 du cursus *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -1226,8 +1256,7 @@ Voici l'analyse modélisée et opératoire de la tranche 8/31 du cursus *Practit
   4. *Présupposition comparative temporelle :* Il y a toujours eu un coût historique, mais le coût présent est le pic absolu jamais atteint (*"more than ever"*).
   Le système critique accepte la réalité de la défaillance et du désastre financier/social sans qu'aucune preuve factuelle n'ait été articulée.
 
-
-## --- Tranche 9 / 31 ---
+## Tranche 9 / 31 : L'Induction Narrative par Procuration ("My Friend Gaetan / Liebeault Story")
 
 Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -1371,8 +1400,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 
   * *Question à rupture de pattern ontologique* : *"Who are you when you're not who you were?"* crée une vacuité conceptuelle instantanée (état de transe par confusion/vide identitaire).  
   * *Réponse présuppositionnelle totale* : En injectant immédiatement la réponse *"Everything"*, le formateur élimine les limites imposées par l'historique personnel et installe une présupposition d'omnipotence et de liberté d'auto-création (*"freedom to become anything"*).
 
-
-## --- Tranche 10 / 31 ---
+## Tranche 10 / 31 : Construction Progressive de la Phrase Hypnotique (4 Niveaux)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1521,8 +1549,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 
 
 * **[Analyse du Pattern]** : Injonction impérative brute non formulée vocalement, utilisée comme vecteur de transduction psychomotrice. La phrase sert d'ancrage somatique interne pour le praticien, alignant son tonus musculaire, la dilatation de ses pupilles et sa fréquence respiratoire afin que le non-verbal impose la transe avant même le décodage sémantique des mots par le sujet.
 
-
-## --- Tranche 11 / 31 ---
+## Tranche 11 / 31 : Le Cycle Combiné des 4 Familles Linguistiques
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1701,8 +1728,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 
   * **Extension téléologique greffée** : L'ajout de *« to help him »* crée un prétexte logique inattaquable.
   * **Commande impérative enchâssée** : *« feel more at ease »* est prononcé avec une micro-inflexion descendante, délivrant à l'interlocuteur l'ordre biologique d'expérimenter immédiatement un état d'aisance et de détente somatique.
 
-
-## --- Tranche 12 / 31 ---
+## Tranche 12 / 31 : Construction d'un Pattern Hypnotique Complet en 4 Étapes
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1808,8 +1834,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 
 ```
 * **[Analyse du Pattern]** : Utilisation magistrale de citations enchâssées (*My Friend John / Patient Quote*). En attribuant les mots *calm down*, *there's so much comfort here* et *relax* à un patient tiers sous forme de dialogue rapporté ("doctor it's okay..."), l'opérateur prononce des suggestions directes à la première personne sans en assumer la paternité sociale. Le système critique de l'interlocuteur ne peut pas refuser ou bloquer une phrase qui a été historiquement prononcée par quelqu'un d'autre dans un lit d'hôpital, mais son système nerveux enregistre l'injonction : *I can just relax*.
 
-
-## --- Tranche 13 / 31 ---
+## Tranche 13 / 31 : La Technique "My Friend John" (Induction Sensorielle par Procuration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1940,8 +1965,7 @@ Voici l'extraction intégrale et opératoire de la substance de la tranche 9/31 
   - *Sujétion motrice (Catalepsie suggérée)* ("my body is very still. It doesn't want to move") : Induction non autoritaire d'immobilité physique par description d'une inertie agréable.
   - *Glissement pronominal subreptice (Shift "I" -> "You")* ("as my mind just becomes free to explore any experience you wish") : Rupture syntaxique majeure. Le récit passe instantanément de la première personne ("my mind") à la seconde personne ("you wish"), transférant le contrôle de l'hallucination hypnotique directement au sujet écoutant.
 
-
-## --- Tranche 14 / 31 ---
+## Tranche 14 / 31 : Désamorçage de Matériel Négatif par Retrait Proxémique (The Somatic Lean-Back Protocol)
 
 Voici l'analyse modélisée de la tranche 14/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -2104,8 +2128,7 @@ Voici l'analyse modélisée de la tranche 14/31 du cours *Practitioner of Conver
   * *Empilement d'évidences expérientielles (Pacing brut)* : Utilisation d'un langage viscéral non édulcoré pour refléter fidèlement la réalité perçue du sujet.
   * *Ratification de l'état interne* : La structure crée un état d'identification totale (*"he gets me"*). L'adhésion du sujet à ce diagnostic sans concession ouvre le canal d'influence pour initier la phase de *leading* vers la sortie de crise.
 
-
-## --- Tranche 15 / 31 ---
+## Tranche 15 / 31 : Automatisation de l'Ancrage Spatial Binaire (« Good Thing / Bad Thing »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2210,8 +2233,7 @@ Voici l'analyse modélisée de la tranche 14/31 du cours *Practitioner of Conver
 > **« It felt so good, but then this was happening, that was happening, that was happening, so I told myself, you really don't have to do this now, right? »**
 - [Analyse du Pattern] : **Verrouillage oculaire synchronisé avec citation d'autorité interne (Embedded Command via Quotes)**. L'opérateur raconte une histoire les yeux vagues, puis braque son regard sur le sujet au moment précis de prononcer *« you really don't have to do this now »*, délivrant une suggestion permissive paradoxale à fort impact.
 
-
-## --- Tranche 16 / 31 ---
+## Tranche 16 / 31 : Protocole : Lecture de Pensée de l'Intention (Intentional Mind Read)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2362,8 +2384,7 @@ Voici l'analyse modélisée de la tranche 14/31 du cours *Practitioner of Conver
 > *"As you breathe, as you sit here now, your unconscious is automatically reviewing and sorting and storing all that matters and there's nothing you can do to prevent it. Because later tonight you will sleep deeply. And I hope that you will also sleep comfortably as you continue to integrate all the experiences."*
 *   **[Analyse du Pattern]** : Utilisation de phénomènes physiologiques constants comme ancres de transe (*"As you breathe, as you sit here now"* = truismes sensoriels incontestables). Suggestion de fatalité thérapeutique bienveillante (*"and there's nothing you can do to prevent it"* = double lien inversé). Pont vers le futur post-hypnotique couplé au cycle ultradien/circadien naturel (*"Because later tonight you will sleep deeply... as you continue to integrate"*).
 
-
-## --- Tranche 17 / 31 ---
+## Tranche 17 / 31 : Formule de Création d'un Pattern Hypnotique Conversationnel à la Volée
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/31 du séminaire *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -2516,8 +2537,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/31 du 
   - Commande cachée marquée somatiquement par double pause et inflexion descendante : `[pause] really relax [pause]`.
   - Shift temporel présent/progressif (*"as you're walking... you start to..."*) forçant le système nerveux à vivre l'expérience en temps réel dans l'espace conversationnel.
 
-
-## --- Tranche 18 / 31 ---
+## Tranche 18 / 31 : Construction Spontanée d'un Hypnotic Pattern via une Expérience Universelle (Universal Exper...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2660,8 +2680,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/31 du 
   - **Embrayeur universel (*"You know what it's like when you..."*) :** Bascule instantanée du *"I"* au *"You"*, forçant l'interlocuteur à remplacer l'expérience du narrateur par sa propre banque de souvenirs kinesthésiques de réticence et d'obligation.
   - **Enchâssement direct :** La commande émotionnelle est délivrée à la deuxième personne, transformant une anecdote descriptive en induction active d'état.
 
-
-## --- Tranche 19 / 31 ---
+## Tranche 19 / 31 : Construction et Délivrance d'une "Observation Philosophique"
 
 Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* par Igor Ledochowski.
 
@@ -2796,8 +2815,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitione
   - *Isomorphisme structurel du problème* : L'explorateur *"surrounded by the unknown"* reflète fidèlement la peur du sujet face à ses zones d'ombre intérieures.
   - *Installation métaphorique de ressource* : La boussole devient l'ancre analogique de l'intuition ou des compétences inconscientes. Les commandes verbales injectées (`"take a powerful tool"`, `"shows you where to go"`) s'adressent directement à la capacité d'auto-guidage du sujet sans jamais nommer explicitement la psychologie ou la thérapie.
 
-
-## --- Tranche 20 / 31 ---
+## Tranche 20 / 31 : L'Analogie Hypnotique Pure (Sans Explication Logique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2957,8 +2975,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitione
     *   *Commandes d'expansion cognitive et d'ouverture de possibilités* : *"envision a future"*, *"unlock hidden patterns"*, *"explore the unknown"*, *"see beyond the present"*, *"map out the future"*.
     *   *Déplacement métaphorique* : Le concept de "Psychohistoire" opère comme une métaphore directe de l'hypnose et des capacités génératives de l'inconscient à anticiper et reconfigurer la trajectoire de vie du sujet, sans jamais nommer explicitement le problème ou la thérapie.
 
-
-## --- Tranche 21 / 31 ---
+## Tranche 21 / 31 : A : Le Véhicule Hypnotique de la « Conférence / Rapport » (Hypnotic Lecture / Hypnotic Report)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3110,8 +3127,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitione
   - **Suggestions somatiques et d'état sous couvert d'impossibilité d'autrui** : En décrivant ce que les misérables « ne savent pas faire », il délivre des commandes puissantes au sujet : *totally feel joy and comfort and everything good*, *activate good feelings*, *feel good when you want to*. L'inconscient du sujet doit obligatoirement traiter et activer la représentation interne pour comprendre ce dont les autres sont privés.
   - **Présupposition de supériorité d'adaptation** : Rejet de la prémisse du sujet (*I don't think I accept your premise*) qui place le praticien en position d'autorité bienveillante tout en flattant et validant la capacité du sujet à entrer dans l'état désiré.
 
-
-## --- Tranche 22 / 31 ---
+## Tranche 22 / 31 : Recadrage du Pushback sur une Suggestion de Bien-Être (Démonstration Alexander)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3270,8 +3286,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitione
     6. Truisme de clarification (*Notice how clear this becomes*).
     7. Exécution et clôture temporelle positive (*Make the right decision, Find yourself pleased with the result* - projection dans le futur par présupposition d'accomplissement).
 
-
-## --- Tranche 23 / 31 ---
+## Tranche 23 / 31 : L'Accueil Inconscient (The Unconscious Hello)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3500,8 +3515,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/31 du cours *Practitione
     - *"How has your experience in this shaped you?"* : Présupposition de transformation identitaire (*shaped you*). La question force le sujet à réorganiser sa perception de soi à travers le prisme de l'apprentissage et de la résilience.
   * **Recherche transdérivationnelle :** Chaque question oblige le cortex à quitter la réalité externe immédiate pour s'immerger dans la reconstruction interne d'états ressources ou initiatiques.
 
-
-## --- Tranche 24 / 31 ---
+## Tranche 24 / 31 : L'Injection de Minilog Hypnotique (Le Pivot Conversationnel Fluide)
 
 Voici l’analyse modélisatrice complète et opératoire de la tranche 24/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -3664,8 +3678,7 @@ Voici l’analyse modélisatrice complète et opératoire de la tranche 24/31 du
   - *Double lien désarmant & Autodérision stratégique :* « Am I completely full of S, or is any of that even vaguely close? » crée un contraste saisissant : soit le praticien a complètement tort (ce qui est sans danger), soit il est « vaguement proche » (ce que le sujet validera presque toujours par courtoisie ou fascination).
   - *Court-circuit du Small Talk :* Pulvérise la phase de convenance pour installer instantanément une intimité psychologique profonde.
 
-
-## --- Tranche 25 / 31 ---
+## Tranche 25 / 31 : L'Escalade Thématique par Arbre de Décision (The 6-Step Conversational Pivot)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 25/31 du cours *Practitioner of Conversational Hypnosis for Influence* d'Igor Ledochowski.
 
@@ -3786,8 +3799,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Rapport par accord géographique (Pacing local) :** *« is that the market on the town square...? »* valide l'écoute et synchronise le cadre spatial.
   - **Bifurcation temporelle émotionnelle :** L'introduction de *« Christmas market »* injecte une valence positive associée à l'esprit des fêtes, à la chaleur et aux souvenirs d'enfance, élevant immédiatement la conversation d'un niveau *Normal/Factuel* vers un niveau *Positive*.
 
-
-## --- Tranche 26 / 31 ---
+## Tranche 26 / 31 : L'Échelle de Chunking d'Influence (Du Sujet Toxique au Sujet d'Influence)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3909,8 +3921,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Présupposition pragmatique d'asymétrie** : Met en lumière la présupposition implicite que l'auditeur est dans la confusion et que le locuteur détient le monopole de la vérité ordonnée.
   - **Distinction opératoire entre inférence logique et inférence plausible** : Démasque comment les figures d'autorité exploitent le biais de plausibilité pour faire accepter une injonction sans argumentation factuelle.
 
-
-## --- Tranche 27 / 31 ---
+## Tranche 27 / 31 : Auto-Démantèlement des Croyances Limitantes par Présuppositions Récursives
 
 Voici l'analyse opératoire intégrale de la tranche 27/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* par Igor Ledochowski.
 
@@ -4047,8 +4058,7 @@ Voici l'analyse opératoire intégrale de la tranche 27/31 du cours *Practitione
   4. *Balayage somatosensoriel analytique :* *"dive deep", "separate it", "pull it apart", "works together"*.
   5. *Tag Question de verrouillage :* *"...right?"* forçant l'alignement kinesthésique et l'accord total du sujet.
 
-
-## --- Tranche 28 / 31 ---
+## Tranche 28 / 31 : Désamorçage de Sujet Sombre via Extended Mind Read
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4181,8 +4191,7 @@ Voici l'analyse opératoire intégrale de la tranche 27/31 du cours *Practitione
   - *Double confirmation réflexive :* « *When was the moment when you knew you could do that?* » active la conviction de compétence passée.
   - *Truisme hypnotique sur la perception :* « *what was unclear becomes clear* » utilise un contraste sensoriel et cognitif intemporel, préparant l'esprit à intégrer de nouveaux apprentissages dans l'instant présent.
 
-
-## --- Tranche 29 / 31 ---
+## Tranche 29 / 31 : A : La Révélation et Réintégration de l'Ombre (The Monster Embrace)
 
 Voici l'analyse opératoire intégrale de la tranche 29/31 du cours *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski. Cet extrait capture un exercice en binôme (Round 1 avec Dustin guidant son partenaire sur l'intégration et le switch identitaire, puis passage au Round 2 avec inversion des rôles et exploration des drivers profonds / valeurs).
 
@@ -4304,8 +4313,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/31 du cours *Practitione
   - **Rupture d'équivalence de critère** : Le sujet avait fusionné le concept de « survie/sécurité » avec le véhicule « argent ». La formulation valide d'abord la valeur noble (« *safety and security for a family* »), puis dissocie le véhicule du but.
   - **Question ouverte à présupposition de multiplicité** : « *I wonder what other ways you can achieve...* » présuppose formellement qu'il existe déjà une infinité d'autres solutions accessibles immédiatement, provoquant une désorientation temporaire salutaire (le sujet tombe à genoux en larmes).
 
-
-## --- Tranche 30 / 31 ---
+## Tranche 30 / 31 : A : La Métaphore Thérapeutique du Grenier d'Erickson (Tri Émotionnel & Déménagement Intérieur)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4399,8 +4407,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/31 du cours *Practitione
 > **"Say goodbye to the flower sifter and all those mornings we baked. Just keep the memories and say goodbye."**
 * **[Analyse du Pattern]** : Double lien de scission sensorielle (dissociation objet vs mémoire). L'injonction sépare l'attachement matériel ou spatial de l'empreinte neuronale positive (« *Just keep the memories* »), tout en prescrivant un acte somatosensoriel de clôture définitive (« *say goodbye* »).
 
-
-## --- Tranche 31 / 31 ---
+## Tranche 31 / 31 : d’Adieu Opératoire & Nettoyage d’Attachement (« The Erickson Farm Protocol »)
 
 Voici l’analyse modélisatrice complète, opératoire et chirurgicale de la **tranche 31/31** du séminaire *Practitioner of Conversational Hypnosis for Influence (PCHI)* d'Igor Ledochowski.
 
@@ -4522,3 +4529,4 @@ Voici l’analyse modélisatrice complète, opératoire et chirurgicale de la **
   - **Analogie de transfert d'état (Linkage analogique)** : La conjonction *« just like... our time is up »* transfère instantanément la clôture vécue dans la narration à la réalité concrète de la salle de formation.  
   - **Commande directe de réorientation enchâssée sous forme de truisme temporel** (*« Time to wake up and say our goodbyes »*) : ordonne au système nerveux la sortie de transe sans briser l'ambiance hypnotique.  
   - **Suggestion permissive modale** (*« And perhaps you'll agree that it might be a good idea that we keep the memories and say goodbye »*) : verrouillage élégant de fin de formation garantissant l'intégration à long terme des apprentissages (*« keep the memories »*) et la séparation saine du groupe (*« say goodbye »*).
+

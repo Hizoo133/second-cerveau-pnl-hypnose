@@ -78,10 +78,33 @@ Voici la synthèse architecturale ultra-dense et structurée du cours de David G
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 107-219]** : Le Recadrage d'Action par Découpage Non-Linéaire (Pattern « Field Division ») — *Protocole :* Le Recadrage d'Action par Découpage Non-Linéaire (Pattern « Field Division ») | *Mécanisme :* Rejet de la projection théorique & Respect du modèle du monde | *Verbatim :* La rupture du prisme théorique et le recadrage perceptif
+- **Tranche 2 [Lignes 221-363]** : La Redirection Comportementale Environnementale (Modèle "African Violet Queen") — *Protocole :* La Redirection Comportementale Environnementale (Modèle "African Violet Queen") | *Mécanisme :* Le Piège de Pygmalion Thérapeutique & la Projection Isomorphique | *Verbatim :* La Métaphore de l'Avalanche et de la Montagne
+- **Tranche 3 [Lignes 365-502]** : L'Auto-Résolution Inconsciente par Épuisement Dialectique (Le Manuscrit des Pour et Contre) — *Protocole :* L'Auto-Résolution Inconsciente par Épuisement Dialectique (Le Manuscrit des Pour et Contre) | *Mécanisme :* Autonomie Thérapeutique Générative vs Dépendance Remédiante | *Verbatim :* Verbatim 1 : L'Ancrage Post-Hypnotique Implicite
+- **Tranche 4 [Lignes 504-641]** : Utilisation de la Réponse de Polarité (Opposition Défensive) — *Protocole :* Utilisation de la Réponse de Polarité (Opposition Défensive) | *Verbatim :* La Leçon du Restaurant (Rencontre au Niveau de l'Autre)
+- **Tranche 5 [Lignes 643-766]** : Utilisation Isomorphique de la "Salade de Mots" / Comportements Chaotiques — *Protocole :* Utilisation Isomorphique de la "Salade de Mots" / Comportements Chaotiques | *Verbatim :* Le Recadrage Alchimique de l'Insomnie
+- **Tranche 6 [Lignes 768-885]** : « Re-Sorting d'une Tare en Ressource » (The Cradle Reframe Protocol) — *Protocole :* « Re-Sorting d'une Tare en Ressource » (The Cradle Reframe Protocol) | *Mécanisme :* Neutralité intrinsèque du stimulus sensoriel (Indifference of Experiential Input) | *Verbatim :* Le Pacing Brutal et l'Élicitation de l'Erreur d'Évaluation
+- **Tranche 7 [Lignes 887-1050]** : L'Algorithme de Recadrage de Perspective (Sorting for Assets Algorithm) — *Protocole :* L'Algorithme de Recadrage de Perspective (Sorting for Assets Algorithm) | *Mécanisme :* Le Levier de Polarisation et Contre-Intention (Polarity Defense Induction) | *Verbatim :* La Confrontation sur le Respect Divin (Affaire de la flatulence)
+- **Tranche 8 [Lignes 1052-1208]** : Le Recadrage par Incompatibilité de Critère Majeur (Sorting for BIG Liabilities) — *Protocole :* Le Recadrage par Incompatibilité de Critère Majeur (Sorting for BIG Liabilities) | *Verbatim :* Le Pacing Écologique et le Double Lien Temporel face à Billy
+- **Tranche 9 [Lignes 1210-1393]** : L'Intervention par Tâche Métaphorique Croisée (Couples / Blocages Relationnels) — *Protocole :* L'Intervention par Tâche Métaphorique Croisée (Couples / Blocages Relationnels) | *Mécanisme :* Exploitation de la Présupposition Contextuelle Globale | *Verbatim :* La Double Assignation Métaphorique Croisée
+- **Tranche 10 [Lignes 1395-1538]** : Extraction et Validation de Pattern Comportemental par Contraste — *Protocole :* Extraction et Validation de Pattern Comportemental par Contraste | *Verbatim :* Le Double Sens Phonétique et la Révélation de l'Affaire
+- **Tranche 11 [Lignes 1540-1657]** : Extraction et Étalonnage d'un Pattern Comportemental Récurrent — *Protocole :* Extraction et Étalonnage d'un Pattern Comportemental Récurrent | *Mécanisme :* Démonstration Comportementale Isomorphe en Cabinet ("Doing what they talk about") | *Verbatim :* La rémanence contextuelle du pattern
+- **Tranche 12 [Lignes 1659-1777]** : La Séquence Computationnelle Rétrograde d'Intervention Comportementale (The Snowball Computa... — *Protocole :* La Séquence Computationnelle Rétrograde d'Intervention Comportementale (The Snowball Computation) | *Mécanisme :* Boucle Rétroactive Comportement-Croyance (Cybernetic Bidirectionality) | *Verbatim :* Le Pacing Fataliste et l'Injonction Paradoxale
+- **Tranche 13 [Lignes 1779-1915]** : A : La Tâche Adjointe Menottée (Ordalie Ericksonienne pour Comportements Compulsifs) — *Protocole :* A : La Tâche Adjointe Menottée (Ordalie Ericksonienne pour Comportements Compulsifs) | *Mécanisme :* Déplacement des Critères Décisionnels par Éléphant Blanc Comportemental | *Verbatim :* Verbatim 1 : L'Alternative Illusoire sur la Ligne de Serviettes
+- **Tranche 14 [Lignes 1917-2103]** : Recadrage de la Nourriture en Châtiment d'une Faute Morale — *Protocole :* Recadrage de la Nourriture en Châtiment d'une Faute Morale | *Mécanisme :* Le Pattern comme Syntaxe Comportementale Inconsciente vs Technologie Appliquée | *Verbatim :* La Disqualification de l'Efficacité Médicale Classique
+- **Tranche 15 [Lignes 2105-2257]** : Le Double Lien du Poids et la Clôture Systémique de l'Anorexie — *Protocole :* Le Double Lien du Poids et la Clôture Systémique de l'Anorexie | *Mécanisme :* Tri sur Gros Passifs / Injonction Systémique à Risque Majeur (Sorting for BIG liabilities) | *Verbatim :* Le double lien du poids et l'illusion de choix
+- **Tranche 16 [Lignes 2259-2408]** : Démonstration de l'Hallucination Négative et des Limites du Cadre de Référence — *Protocole :* Démonstration de l'Hallucination Négative et des Limites du Cadre de Référence | *Mécanisme :* La Projection Projective du Sens (L'Inévitabilité Associative) | *Verbatim :* La Projection Transdérivationnelle Inévitable
+- **Tranche 17 [Lignes 2410-2531]** : A : L'Ordalie Nocturne d'Ancrage de Responsabilité — *Protocole :* A : L'Ordalie Nocturne d'Ancrage de Responsabilité | *Verbatim :* La Présupposition Temporelle de Signifiance Rétroactive
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 17 ---
+## Tranche 1 / 17 : Le Recadrage d'Action par Découpage Non-Linéaire (Pattern « Field Division »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -195,8 +218,7 @@ Voici la synthèse architecturale ultra-dense et structurée du cours de David G
   - **Démonstration de recadrage kinesthésique et visuel par le geste** : Les marqueurs déictiques et spatiaux (*« from here to here, and hoe a diagonal line here and across and down the middle »*) forcent le système nerveux à réorganiser la représentation visuo-spatiale du labeur.
   - **Recadrage sémantique de conclusion** : La conversion explicite de catégorie (*« They transferred hard work into play »*) nominalise le processus de transmutation de l'effort par altération de la forme géométrique.
 
-
-## --- Tranche 2 / 17 ---
+## Tranche 2 / 17 : La Redirection Comportementale Environnementale (Modèle "African Violet Queen")
 
 Voici l'extraction opératoire complète et rigoureuse de la **Tranche 2/17** du séminaire / ouvrage *Phoenix - Therapeutic Patterns of Milton H. Erickson* par David Gordon & Maribeth Meyers-Anderson.
 
@@ -340,8 +362,7 @@ Voici l'extraction opératoire complète et rigoureuse de la **Tranche 2/17** du
   * *Déclencheur conversationnel anodin à haute charge dissociative :* « There is something you ought to know » est délivré sur le ton du « chit chat » (bavardage informel), créant un contraste saisissant entre la légèreté prosodique et la charge explosive du réveil émotionnel.
   * *Amnésie par choc somatique et expulsion :* La réaction violente de rejet (« get out of here!! GET OUT!! ») sert de sas d'amnésie parfait : la patiente expulse le témoin de sa transe pour sceller le secret de son travail inconscient jusqu'à ce que la décision (épouser Jim) soit concrétisée et intégrée dans la réalité.
 
-
-## --- Tranche 3 / 17 ---
+## Tranche 3 / 17 : L'Auto-Résolution Inconsciente par Épuisement Dialectique (Le Manuscrit des Pour et Contre)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/17 selon vos règles d'ingénierie opératoire.
 
@@ -480,8 +501,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/17 sel
     *   *Piège d'engagement logique préalable* : Erickson/le rabbin fait valider une règle universelle et indiscutable sur le plan matériel (*"Do you take it? - I sure don't!"*).
     *   *Substitution conceptuelle et renvoi réflexif direct* : Une fois la prémisse validée par l'interlocuteur, elle est appliquée rétroactivement à l'agression : l'insulte reste la propriété matérielle de l'offenseur, annulant instantanément tout impact kinesthésique interne chez le récepteur.
 
-
-## --- Tranche 4 / 17 ---
+## Tranche 4 / 17 : Utilisation de la Réponse de Polarité (Opposition Défensive)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -620,8 +640,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/17 sel
 > "And finally I realized I couldn't do anything for him except settle down with him and EXPLAIN to him, 'Now apparently it is your destiny to go into orbit. Now the astronauts go into orbit, and there is always an end to the orbit . . . they come back to earth again. And as long as you are going to go into orbit why not get it OVER with?'"
 * **[Analyse du Pattern] :** Recadrage de destin inévitable, analogie stabilisatrice et commande d'anticipation ordalique. Au lieu de nier l'obsession paranoïaque d'aller en orbite, Erickson utilise le modal d'évidence fataliste (« apparently it is your destiny »), rejoignant l'illusion de certitude du sujet. Il introduit immédiatement une analogie de réassurance physiologique et mécanique incontestable : les astronautes montent, mais l'orbite a une fin inhérente et ramène toujours sur Terre (ancrage d'un retour garanti). Enfin, la question interrogative rhétorique finale (« why not get it OVER with? ») agit comme une commande déguisée poussant le sujet à forcer l'événement redouté par une action épuisante, transformant l'angoisse d'attente passive en une quête active qui finira par s'autodétruire par saturation somatique.
 
-
-## --- Tranche 5 / 17 ---
+## Tranche 5 / 17 : Utilisation Isomorphique de la "Salade de Mots" / Comportements Chaotiques
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -746,8 +765,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 3/17 sel
   - **Suggestions négatives couplées (Pacing sensoriel futur) :** *"If you're cold, and I don't think it will be cold..."* / *"If it rains, and I don't think it is going to rain..."*. L'anticipation des inconforts assortie d'un doute minimisant programme la résilience physique du sujet et bloque toute victimisation logistique.
   - **Double lien inversé d'immobilisation :** *"If you want me to confiscate your boots you'll have to beg me to"*. Dans le code carcéral, retirer les bottes empêche le détenu de s'évader. En refusant de les confisquer à moins d'une supplication (inacceptable pour l'orgueil d'un bouncer ex-détenu), Erickson utilise les bottes restées aux pieds comme le cadenas psychologique de son engagement moral à rester.
 
-
-## --- Tranche 6 / 17 ---
+## Tranche 6 / 17 : « Re-Sorting d'une Tare en Ressource » (The Cradle Reframe Protocol)
 
 Voici l’extraction intégrale et opératoire de la substance de cette tranche (6/17) de l'ouvrage *Phoenix - Therapeutic Patterns of Milton H. Erickson* par David Gordon & Maribeth Meyers-Anderson.
 
@@ -866,8 +884,7 @@ Voici l’extraction intégrale et opératoire de la substance de cette tranche 
   * **Double lien temporel & Dégagement de responsabilité :** *"let your hiccups disappear around 10:30 tonight, 11 o'clock"* offre une illusion de choix temporel (10h30 ou 11h00), tout en présupposant la disparition totale et inéluctable.
   * **Alliance subversive contre le système hospitalier :** *"...that way nobody will say a psychiatrist cured you, that my interview was an utter failure"* scelle un pacte secret avec le patient contre le monde médical extérieur, lui offrant la victoire morale tout en obtenant la rémission clinique complète.
 
-
-## --- Tranche 7 / 17 ---
+## Tranche 7 / 17 : L'Algorithme de Recadrage de Perspective (Sorting for Assets Algorithm)
 
 Voici l'analyse modélisée et opératoire de la tranche 7/17 du cours *Phoenix - Therapeutic Patterns of Milton H. Erickson* par David Gordon & Maribeth Meyers-Anderson.
 
@@ -1032,8 +1049,7 @@ flowchart TD
   * *Négation du statut identitaire revendiqué* : Erickson associe le fait de refuser les épinards au manque d'âge et de force (*« You're not old enough, not strong enough, not big enough! »*). Or, le critère cardinal de Bert à cet instant précis est son sentiment d'importance virile et d'autonomie.
   * *Double contrainte triangulaire (Triangulation systémique)* : La fausse protestation de la mère (*« He is TOO old... »*) place l'enfant face à un dilemme : continuer de refuser les épinards valide le jugement d'infériorité d'Erickson ; manger les épinards prouve sa virilité et donne raison à sa mère. L'action désirée (manger les épinards) devient le seul moyen d'affirmer son identité d'adulte fort.
 
-
-## --- Tranche 8 / 17 ---
+## Tranche 8 / 17 : Le Recadrage par Incompatibilité de Critère Majeur (Sorting for BIG Liabilities)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1191,8 +1207,7 @@ flowchart TD
   * *Rupture du pattern d'intellectualisation* : Après 13 ans et 6 ans de psychanalyse trois fois par semaine sans résolution, Erickson extrait le couple de la parole spéculative en exploitant la nouveauté géographique de l'Arizona (*« the landscape is a lot different »*) pour justifier des tâches hors-cadre.
   * *Protocole de tri pour la pertinence (*Sorting for Relevance*)* : En envoyant chacun vivre une expérience sensorielle opposée (l'aridité ardue de la montagne vs la contemplation passive et organisée des plantes), puis en inversant strictement les rôles le lendemain, Erickson confronte leurs filtres perceptifs subjectifs. Le mari trouve de la transcendance et de la richesse partout où il va ; l'épouse réplique de l'ennui et de la rancœur quel que soit l'environnement. Cette assignation croisée prépare le terrain pour que chacun prenne conscience que leur souffrance ne provient pas du contenu de leur passé, mais de la structure de leurs processus attentionnels internes.
 
-
-## --- Tranche 9 / 17 ---
+## Tranche 9 / 17 : L'Intervention par Tâche Métaphorique Croisée (Couples / Blocages Relationnels)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1377,8 +1392,7 @@ flowchart TD
   - **Parallélisme temporel d'ancrage** : Lier la reconnaissance des souvenirs heureux passés à la génération inéluctable de souvenirs heureux futurs (*"a place for many FUTURE happy memories"*). Cela annule directement la commande de suicide (qui présuppose l'absence d'avenir).
   - **Élargissement spatial infini (Deep Trance Fractionation)** : La métaphore de la vastitude et des mystères de l'océan substitue à l'enfermement mortifère du patient le sentiment d'émerveillement face à l'inconnu non encore advenu.
 
-
-## --- Tranche 10 / 17 ---
+## Tranche 10 / 17 : Extraction et Validation de Pattern Comportemental par Contraste
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1523,8 +1537,7 @@ flowchart TD
   - *Pragmatisme opératoire dédramatisant :* « There's no law against... » pulvérise le tabou de la mutilation cancéreuse par une solution matérielle triviale (la prothèse amovible / "falsie") couplée à un apprentissage neuromusculaire correctif (« learn to elevate your left shoulder »).
   - *Amnésie opératoire et validation somatique à long terme :* « Your shoulders are level. I don't know » scelle la symétrie corporelle et l'effacement définitif du traumatisme au profit de l'équilibre postural présent.
 
-
-## --- Tranche 11 / 17 ---
+## Tranche 11 / 17 : Extraction et Étalonnage d'un Pattern Comportemental Récurrent
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1643,8 +1656,7 @@ flowchart TD
   - Utilisation du futur indicatif directif (*"you're going to work... you'll inquire... you'll plant it"*), éliminant toute modalité de conditionnel ou de choix délibéré.
   - Double lien de subordination et redevabilité externe (*"report for duty every day as if you were reporting to me"*), exploitant la dynamique de transfert médical pour astreindre le sujet à une discipline motrice quotidienne incompatible avec la dépression du fauteuil à bascule.
 
-
-## --- Tranche 12 / 17 ---
+## Tranche 12 / 17 : La Séquence Computationnelle Rétrograde d'Intervention Comportementale (The Snowball Computa...
 
 Voici l'analyse d'ingénierie modélisatrice de la tranche 12/17 du cours *Phoenix - Therapeutic Patterns of Milton H. Erickson* par David Gordon & Maribeth Meyers-Anderson.
 
@@ -1764,8 +1776,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 12/17 du cours *Phoen
   * **Prescription du symptôme avec surcharge d'incongruités visuelles** : L'énumération de détails sensoriels spécifiques (« *red, green, blue, purple, flowered* ») ancre le sujet dans une tâche procédurale obsessionnelle qui draine l'énergie anxieuse.
   * **Double lien de décision illusoire (Illusion of Choice)** : « *do you want to FAINT on that one, or would you prefer to faint on the second one?* ». Le postulat d'évanouissement est accepté, mais il est soumis à un arbitrage séquentiel qui le suspend à chaque pas, rendant paradoxalement l'acte de jouer inévitable une fois le tabouret atteint.
 
-
-## --- Tranche 13 / 17 ---
+## Tranche 13 / 17 : A : La Tâche Adjointe Menottée (Ordalie Ericksonienne pour Comportements Compulsifs)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1903,8 +1914,7 @@ Voici l'analyse d'ingénierie modélisatrice de la tranche 12/17 du cours *Phoen
   * **Truisme de Congruence Inébranlable :** Clôture linguistique absolue ne laissant place à aucune contestation ou méta-commentaire. 
   * **Transmission de Certitude Inconsciente :** L'affirmation *"Because they know I mean it"* encapsule le fondement non-verbal de l'hypnose ericksonienne : l'absence totale de dissonance interne chez le praticien, qui sature le système perceptif du patient et garantit l'observance thérapeutique de l'injonction comportementale.
 
-
-## --- Tranche 14 / 17 ---
+## Tranche 14 / 17 : Recadrage de la Nourriture en Châtiment d'une Faute Morale
 
 Voici l'extraction opératoire intégrale de la **tranche 14/17** de *Phoenix - Therapeutic Patterns of Milton H. Erickson* (David Gordon & Maribeth Meyers-Anderson).
 
@@ -2092,8 +2102,7 @@ Voici l'extraction opératoire intégrale de la **tranche 14/17** de *Phoenix - 
 > "I think you should be thinking about how much you should weigh in order to go home. Now I might want you to weigh 85 pounds. You might prefer to weigh 75 pounds. We might compromise on 80 pounds. [...] Now you choose your weight. And when you reach those weights you can go home."
 * **[Analyse du Pattern]** : Présupposition d'action inéluctable (« *when you reach those weights* ») et illusion de choix dans un intervalle fermé (85, 75 ou 80 livres). La structure grammaticale ne laisse aucune place à la question : « Allez-vous prendre du poids ? », mais uniquement à : « Quel chiffre choisissez-vous d'atteindre pour obtenir votre libération ? ». Le contrôle anorexique est réorienté vers l'atteinte d'un palier physiologique de sortie.
 
-
-## --- Tranche 15 / 17 ---
+## Tranche 15 / 17 : Le Double Lien du Poids et la Clôture Systémique de l'Anorexie
 
 Voici l’extraction intégrale, opératoire et modélisée de la tranche 15/17 du séminaire *Phoenix - Therapeutic Patterns of Milton H. Erickson* par David Gordon & Maribeth Meyers-Anderson.
 
@@ -2247,8 +2256,7 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 15/17 
   - *Éradication des métamodèles théoriques rigides :* Répétition rythmée réfutant l'utilité des approches scolaires longues au profit d'un ancrage motivationnel direct.  
   - *Postulat d'auto-organisation :* Affirmation que la transformation est un travail strictement endogène (« has to occur within the patient ») qui requiert uniquement la présence d'un levier motivationnel authentique et congru.
 
-
-## --- Tranche 16 / 17 ---
+## Tranche 16 / 17 : Démonstration de l'Hallucination Négative et des Limites du Cadre de Référence
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2399,8 +2407,7 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 15/17 
   * *Empilement d'affirmations de confiance dans le traitement inconscient* (*« I knew my unconscious mind was intelligent... rely upon it to say the right thing, do the right thing at the right moment »*) : installe la présupposition que l'inconscient possède une puissance computationnelle et stratégique infiniment supérieure au calcul conscient.
   * *Injonction opératoire pour les thérapeutes* (*« instead of waiting to see what the stimulus they receive is and then letting their unconscious mind respond »*) : prescription de la posture fondamentale ericksonienne : suspension de l'intention consciente, réceptivité totale au stimulus externe, et confiance absolue dans la réponse émergente.
 
-
-## --- Tranche 17 / 17 ---
+## Tranche 17 / 17 : A : L'Ordalie Nocturne d'Ancrage de Responsabilité
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2522,3 +2529,4 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 15/17 
   - **Double contrainte cognitive (« I have proof! ») :** Cette phrase bloque toute contestation logique immédiate et force le sujet à une recherche transdérivationnelle interne intense (« De quoi parle-t-il ? »).
   - **Empilement de niveaux épistémiques :** « *I knew she knew, but SHE didn't know she knew* ». Ce jeu sur les métaniveaux de connaissance dissocie la conscience aveugle de la clairvoyance inconsciente.
   - **Suggestion d'alignement identitaire :** « *Your unconscious knows and so do you.* » La conjonction « *and* » fusionne l'inconscient et le conscient dans une autorité partagée, expulsant définitivement l'élève hors du nid thérapeutique vers sa propre autonomie d'action.
+

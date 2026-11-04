@@ -104,10 +104,36 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 136-256]** : La Triade d'Extraction d'Information et de Construction de Levier (The 3-Step Information Ga... — *Protocole :* La Triade d'Extraction d'Information et de Construction de Levier (The 3-Step Information Gathering Process) | *Verbatim :* Le Recadrage de Pont (Élimination du Doute Technique)
+- **Tranche 2 [Lignes 258-421]** : Le Cadre du « Tremplin de Ressources » (Structure de Contrôle du Contexte) — *Protocole :* Le Cadre du « Tremplin de Ressources » (Structure de Contrôle du Contexte) | *Mécanisme :* L'Effet Pygmalion Projectif & Boucle d'Attente Complice | *Verbatim :* La Salve d'Ouverture Temporelle et de Présupposition de Succès
+- **Tranche 3 [Lignes 423-542]** : Le "Drive-By Task Assignment" (Délégation sous Contrainte Extrême) — *Protocole :* Le "Drive-By Task Assignment" (Délégation sous Contrainte Extrême)
+- **Tranche 4 [Lignes 544-671]** : Le Double-Lien d'Injonction Autoritaire/Permissive (Boundary-Set Collapse) — *Protocole :* Le Double-Lien d'Injonction Autoritaire/Permissive (Boundary-Set Collapse)
+- **Tranche 5 [Lignes 673-796]** : Construction de la Prémisse Excitatoire et Cadrage "Forme Complète" (Whole Form Framing) — *Protocole :* Construction de la Prémisse Excitatoire et Cadrage "Forme Complète" (Whole Form Framing)
+- **Tranche 6 [Lignes 798-918]** : L'Ancrage Rétro-Temporel de Complétion (Démonstration sur Kenrick à 90 ans) — *Protocole :* L'Ancrage Rétro-Temporel de Complétion (Démonstration sur Kenrick à 90 ans) | *Mécanisme :* Le Levier Temporel Rétro-Actif : "Standing in Space-Time & Destined Completion" | *Verbatim :* La Clôture Temporelle Inévitable
+- **Tranche 7 [Lignes 920-1043]** : Le Cadrage Diagnostique du "Sniper" (Prise de Statut Immédiate en Vente/Coaching) — *Protocole :* Le Cadrage Diagnostique du "Sniper" (Prise de Statut Immédiate en Vente/Coaching) | *Verbatim :* Le Déploiement du Cadre Chirurgical (Chirurgien / Cadre d'Inévitabilité)
+- **Tranche 8 [Lignes 1045-1183]** : Le Cadrage Initial d'Autorité & Accord Contextuel (Entrée en matière) — *Protocole :* Le Cadrage Initial d'Autorité & Accord Contextuel (Entrée en matière) | *Mécanisme :* Le Biais d'Excitation & Récupération de Ressources Positives | *Verbatim :* Verbatim 1 : Présupposition d'action & passing comment
+- **Tranche 9 [Lignes 1185-1360]** : Le Cadre de Début d'Interaction à Deux Étapes (Orientation Positive & Projection Futur) — *Protocole :* Le Cadre de Début d'Interaction à Deux Étapes (Orientation Positive & Projection Futur) | *Verbatim :* La rupture de pattern d'esquive polie
+- **Tranche 10 [Lignes 1362-1479]** : d'Amorçage Temporel & Construction de l'Espérance (Linking Strategy) — *Protocole :* d'Amorçage Temporel & Construction de l'Espérance (Linking Strategy)
+- **Tranche 11 [Lignes 1481-1619]** : A : L'Installation Conversationnelle Invisible (Structure Module 2) — *Protocole :* A : L'Installation Conversationnelle Invisible (Structure Module 2) | *Verbatim :* Le Modèle de Backtracking & Entraînement Logique
+- **Tranche 12 [Lignes 1621-1734]** : Installation de la "Future Memory" par Time Sliding Conversationnel — *Protocole :* Installation de la "Future Memory" par Time Sliding Conversationnel
+- **Tranche 13 [Lignes 1736-1860]** : Construction de la "Future Memory" via le Time Slide Hexagonal — *Protocole :* Construction de la "Future Memory" via le Time Slide Hexagonal | *Mécanisme :* La Boucle Temporelle Récursive / Time Slide Multi-Directionnel | *Verbatim :* La Bascule Passé $\rightarrow$ Futur sur Biais Excitateur
+- **Tranche 14 [Lignes 1862-2015]** : La Chaîne Logique de Bifurcation Conversationnelle (The 5-Question Funnel) — *Protocole :* La Chaîne Logique de Bifurcation Conversationnelle (The 5-Question Funnel) | *Mécanisme :* La Bifurcation continue (Réduction exponentielle des degrés de liberté cognitifs) | *Verbatim :* Le Cadrage Initial de Partenariat & Présupposition de Valeur
+- **Tranche 15 [Lignes 2017-2175]** : L'Entonnoir de Bifurcation Conversationnelle (The 7-Step Conversational Bifurcation Funnel) — *Protocole :* L'Entonnoir de Bifurcation Conversationnelle (The 7-Step Conversational Bifurcation Funnel) | *Mécanisme :* Le Contexte Présomptif Structurel (Structural Presumptive Context) | *Verbatim :* Le Cadre Présomptif Structurel
+- **Tranche 16 [Lignes 2177-2274]** : L'Échelle de Logique Propositionnelle (The Propositional Ladder) — *Protocole :* L'Échelle de Logique Propositionnelle (The Propositional Ladder) | *Mécanisme :* Logique Propositionnelle & Calcul Rétroactif du Sens | *Verbatim :* Glissement Rétroactif de Prémisse
+- **Tranche 17 [Lignes 2276-2379]** : La Chaîne Propositionnelle à Double Vitesse (Du Cadre d'Entente à la Décision Réduite) — *Protocole :* La Chaîne Propositionnelle à Double Vitesse (Du Cadre d'Entente à la Décision Réduite) | *Mécanisme :* La Logique Propositionnelle & Chaînage Logique (Quasi-Logic Chaining) | *Verbatim :* La Démonstration du Chaînage Logique et de l'Assomption Arbitraire
+- **Tranche 18 [Lignes 2381-2512]** : Le Double Choix Implicite Anti-Pression (Prise de RDV) — *Protocole :* Le Double Choix Implicite Anti-Pression (Prise de RDV)
+- **Tranche 19 [Lignes 2514-2626]** : Le Verrouillage par Dérivation sur Point Mineur (Minor Point Misdirection Close) — *Protocole :* Le Verrouillage par Dérivation sur Point Mineur (Minor Point Misdirection Close) | *Mécanisme :* Inertie Cognitive & Dérivation d'Attention (Cognitive Inertia & Attention Siphoning) | *Verbatim :* La Fermeture Immédiate de Manœuvre Opportuniste
+- **Tranche 20 [Lignes 2628-2746]** : Le "Logical Chaining" du Rendez-vous / de la Décision — *Protocole :* Le "Logical Chaining" du Rendez-vous / de la Décision | *Mécanisme :* Le Choix Binaire Illusionniste (Binary Choice Decision Making / Illusion of Choice) | *Verbatim :* Verbatim 1 : Le Choix Binaire Implicite et l'Inertie d'Agenda
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 20 ---
+## Tranche 1 / 20 : La Triade d'Extraction d'Information et de Construction de Levier (The 3-Step Information Ga...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -229,8 +255,7 @@ flowchart TD
   - **Projection dans le futur avec critères de calibration :** *« What would let you know... », « How would you know... »* force le sujet à générer ses propres représentations sensorielles spécifiques (V-A-K) de réussite.
   - **Recadrage d'attente à la hausse :** *« than you ever expected to get when you first started »* crée une réévaluation rétroactive : le sujet conclut que l'interaction présente a d'ores et déjà dépassé ses espérances initiales, verrouillant une gratitude et une compliance totale envers le formateur/praticien.
 
-
-## --- Tranche 2 / 20 ---
+## Tranche 2 / 20 : Le Cadre du « Tremplin de Ressources » (Structure de Contrôle du Contexte)
 
 Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 2/20 du cours *Advanced Weaponized Communication* dispensé par Kenrick Cleveland et Joseph Riggio.
 
@@ -395,8 +420,7 @@ Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 2/
   * *Commandes d'action enchâssées sous forme de libération (« Figure out... Put that aside... »)* : L'injonction n'ordonne pas de travailler plus, mais d'éliminer le secondaire (« *Put that aside* »), transformant une exigence managériale lourde en une autorisation de simplification acceptée avec soulagement.
   * *Verrouillage de subordination hiérarchique bienveillante (« And it's okay that we back up the other stuff a bit »)* : Lève la responsabilité de la faute pour retard sur les autres dossiers, canalisant l'intégralité de l'énergie disponible vers l'unique livrable critique.
 
-
-## --- Tranche 3 / 20 ---
+## Tranche 3 / 20 : Le "Drive-By Task Assignment" (Délégation sous Contrainte Extrême)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -517,8 +541,7 @@ Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 2/
 ```
 * **[Analyse du Pattern] :** Métaphore isomorphique de décharge somatique et contraste spatial seuil (*"in the door"* vs *"out the door"*). La suggestion de libération identitaire opère par dissociation kinesthésique lourdeur/légèreté (*"carrying a lot of the world"* vs *"lighter and freer"*), installant le programme non comme un apprentissage de plus, mais comme un dépouillement libérateur de conditionnements aliénants.
 
-
-## --- Tranche 4 / 20 ---
+## Tranche 4 / 20 : Le Double-Lien d'Injonction Autoritaire/Permissive (Boundary-Set Collapse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -647,8 +670,7 @@ Voici l'extraction opératoire et l'analyse clinique intégrale de la tranche 2/
 > *"So if we begin here, and here is where you found out where they want to go, and then you say, and we do it like this, and here you lay out the steps, you arrive at where you and they want to go."*  
 > * **[Analyse du Pattern]** : **Ancrage spatial linguistique (*Spatial Indexing & Timeline Pacing*)**. L'opérateur matérialise des coordonnées psychologiques (« *here* », « *where you found out* », « *do it like this* », « *you arrive* »). Cette vectorisation spatio-temporelle simplifie la charge cognitive et lie mécaniquement le respect des étapes de l'opérateur à l'atteinte inévitable du résultat souhaité par le client.
 
-
-## --- Tranche 5 / 20 ---
+## Tranche 5 / 20 : Construction de la Prémisse Excitatoire et Cadrage "Forme Complète" (Whole Form Framing)
 
 Voici l'analyse opératoire intégrale de la tranche 5/20 du cours *Advanced Weaponized Communication* dispensé par Kenrick Cleveland et Joseph.
 
@@ -773,8 +795,7 @@ Voici l'analyse opératoire intégrale de la tranche 5/20 du cours *Advanced Wea
 > **"And looking back on your earlier self when you were just a pup of 61. And noticing the distinctions that you now know at 90, how does it show up? What's changed over those intervening 29 years? [...] How did that old hypnosis, conversational implicit persuasion program influence the development of the smoothness you now have?"**
 - **[Analyse du Pattern]** : *Rétro-ancrage temporel avec infantilisation bienveillante et lien de cause à effet forcé.* Qualifier le moi présent de "jeune chiot de 61 ans" depuis le point d'observation de 90 ans génère une dissociation temporelle majeure. La question finale ("How did that old [...] program influence...") utilise une présupposition de causalité directe : elle interdit au sujet de douter de la création ou de la réussite du programme, ne lui laissant que l'espace mental pour décrire comment ce programme a forgé sa légende.
 
-
-## --- Tranche 6 / 20 ---
+## Tranche 6 / 20 : L'Ancrage Rétro-Temporel de Complétion (Démonstration sur Kenrick à 90 ans)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 6/20 de la formation *Advanced Weaponized Communication* (Kenrick Cleveland & Joseph Riggio).
 
@@ -896,8 +917,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 6/20 de la formation *Ad
   - **Empilement de critères universels incontestables :** Confort maximal (*"as comfortable as possible"*), guérison rapide (*"as quickly as possible"*) et complète (*"as fully as possible"*). Il est impossible pour le patient de refuser ces prémisses.
   - **Accord forcé (Tag Question d'Assomption) :** *"I'm assuming that that's what you want as well"*. Verrouille le consentement du sujet, qui confie ainsi les métacritères de son choix entre les mains du praticien. Dès lors, le praticien n'aura plus qu'à démontrer que son option est la seule qui remplit ces trois critères pour remporter l'adhésion totale.
 
-
-## --- Tranche 7 / 20 ---
+## Tranche 7 / 20 : Le Cadrage Diagnostique du "Sniper" (Prise de Statut Immédiate en Vente/Coaching)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1022,8 +1042,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 6/20 de la formation *Ad
 > "Because the room is mirrored, you see that picture inside of another picture, inside of another picture, and getting smaller and smaller off into infinity. And the interesting thing is, as you focus on one, the others are input directly, such that you have hundreds and hundreds of examples to draw from, that have been embedded deeply into your neurology... You see and hear a person bringing up a positive element from the past. You immediately see the effect of the excitatory bias that's present."
 * **[Analyse du Pattern]** : Utilisation de la structure récursive en fractale pour saturer les processus de tri conscient. La suggestion de double traitement (« *as you focus on one, the others are input directly* ») dissocie l'attention focale (occupée par une image) et la réception périphérique inconsciente (qui absorbe l'infinité des reflets). L'introduction du concept d'*excitatory bias* sert d'instruction post-hypnotique pour conditionner le système nerveux à réagir de façon automatisée et positive lors des futures ouvertures conversationnelles.
 
-
-## --- Tranche 8 / 20 ---
+## Tranche 8 / 20 : Le Cadrage Initial d'Autorité & Accord Contextuel (Entrée en matière)
 
 Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advanced Weaponized Communication* par Kenrick Cleveland et Joseph.
 
@@ -1163,8 +1182,7 @@ Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advan
   * Suggestion sensorielle multi-canal (VAKOG immersif) : *"swimming, sitting by the fire at night and just having fun"*. 
   * Question rhétorique négative inversée : *"Wouldn't it be great...?"*. Force l'accord collectif ; répondre non reviendrait à rejeter le plaisir et l'amitié du groupe. La personne prend le leadership informel par simple maîtrise de la valence émotionnelle du cadre.
 
-
-## --- Tranche 9 / 20 ---
+## Tranche 9 / 20 : Le Cadre de Début d'Interaction à Deux Étapes (Orientation Positive & Projection Futur)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1341,8 +1359,7 @@ Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advan
   - *Rupture tonale "So what?" enchâssée :* L'expression familière et directe brise le pathos entourant la souffrance extérieure.
   - *Recadrage d'invalidation contextuelle :* L'utilisation du connecteur de dépassement *"Even though there's all this hardship in the world"* subordonne la réalité du monde extérieur à la souveraineté de l'objectif désiré, forçant l'esprit à regarder par-dessus l'obstacle.
 
-
-## --- Tranche 10 / 20 ---
+## Tranche 10 / 20 : d'Amorçage Temporel & Construction de l'Espérance (Linking Strategy)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1461,8 +1478,7 @@ Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advan
 ```
 * **[Analyse du Pattern]** : **Cadre de curiosité non menaçant (*Curiosity Frame*) et boucle d'amorçage rétro-active**. L'utilisation répétée de *« I'm curious »* neutralise la posture défensive. Le praticien implante une croyance opératoire spécifique (*« less is more delivers on the promise »*) en invitant le sujet à scanner son propre passé lointain pour y trouver la preuve matérielle de cette thèse, contraignant le sujet à s'auto-persuader de la valeur de la simplicité.
 
-
-## --- Tranche 11 / 20 ---
+## Tranche 11 / 20 : A : L'Installation Conversationnelle Invisible (Structure Module 2)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1602,8 +1618,7 @@ Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advan
   - La position d'observation en recul (`"looking back through time"`) transforme la projection imaginative (future/incertaine) en une mémoire épisodique rétrospective (stable et encodée comme accomplie).
   - L'amplification par induction de boucle d'impact (`"ripple effect"`) vient saturer l'identité du sujet de sensations de grandeur et d'accomplissement de mission.
 
-
-## --- Tranche 12 / 20 ---
+## Tranche 12 / 20 : Installation de la "Future Memory" par Time Sliding Conversationnel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1718,8 +1733,7 @@ Voici l'extraction opératoire intégrale de la **tranche 8/20** du cours *Advan
 > **"Once everything kind of figures out what it might be like, that kind and that level of smoothness and that elegance, why not just lay that all in right here, right now, into what we're currently doing?"**
 - **[Analyse du Pattern]** : *Future Resource Collapse into Present*. Après avoir extrait la clarté et la fluidité depuis la projection future, l'opérateur utilise une suggestion négative ouverte (*"why not just..."*) pour effondrer toutes les ressources du futur directement dans l'action immédiate (*"right here, right now"*), achevant la fermeture de la boucle d'influence.
 
-
-## --- Tranche 13 / 20 ---
+## Tranche 13 / 20 : Construction de la "Future Memory" via le Time Slide Hexagonal
 
 Voici l’extraction intégrale et opératoire de la tranche 13/20 du cours *Advanced Weaponized Communication* par Kenrick Cleveland et Joseph Riggio.
 
@@ -1845,8 +1859,7 @@ Voici l’extraction intégrale et opératoire de la tranche 13/20 du cours *Adv
   * *Présupposition d'accord préexistant :* *"the stuff that you and I both agree doesn't benefit people"* crée une coalition d'élites entre l'influenceur et le sujet, reléguant les approches concurrentes ou basiques au statut de méthodes inefficaces.
   * *Engagement par exclusion (Negative Pacing) :* En mettant formellement de côté le niveau débutant (*"We can put aside the basic 101 stuff"*), il oblige le sujet à habiter pleinement la posture du client haut de gamme prêt pour le travail avancé.
 
-
-## --- Tranche 14 / 20 ---
+## Tranche 14 / 20 : La Chaîne Logique de Bifurcation Conversationnelle (The 5-Question Funnel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2001,8 +2014,7 @@ Voici l’extraction intégrale et opératoire de la tranche 13/20 du cours *Adv
   * *Attribution d'identité valorisante (Ego-Baiting / Identity Pacing)* : L'attribution explicite du critère d'*"integrity"* et de statut d'élite (*"not just anybody"*). Réfuter l'accord commercial reviendrait pour le sujet à renier sa propre intégrité et son statut d'expert haut de gamme.
   * *Question négative d'élimination de friction (Barrier Clearance)* : *"Is there anything else that we need to talk about to get moving...?"* Présuppose que la seule chose restante entre l'instant présent et l'action concrète est un micro-détail organisationnel.
 
-
-## --- Tranche 15 / 20 ---
+## Tranche 15 / 20 : L'Entonnoir de Bifurcation Conversationnelle (The 7-Step Conversational Bifurcation Funnel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2162,8 +2174,7 @@ Voici l’extraction intégrale et opératoire de la tranche 13/20 du cours *Adv
   - **Emboîtement métaphorique (Nested Loop / Personnage relais) :** Les propos techniques tenus en veille par le formateur sont ici répétés mot pour mot par la figure archétypale du *« beloved professor »* à l'intérieur de la transe profonde.
   - **Neuro-imprinting direct :** Le pattern linguistique rationnel de vente est ré-encodé au niveau inconscient sous forme de vérité procédurale automatique. Le sujet n'apprend plus la technique : il devient la technique.
 
-
-## --- Tranche 16 / 20 ---
+## Tranche 16 / 20 : L'Échelle de Logique Propositionnelle (The Propositional Ladder)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire extraite de la tranche 16/20 du cours *Advanced Weaponized Communication* de Kenrick Cleveland (avec Joseph Riggio).
 
@@ -2262,8 +2273,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire extraite de la tra
 > « You could suggest to them that you'd be happy to go with them in that direction if that's really where they might be served the best. And it's possible that where they can get even more value from their interaction with you would be to do something else you suggest or to do the something else after you get some of the issues handled that they bring up. If they agree, then whether they do it now or in just a bit, they're still agreeing to move with you. »
 * **[Analyse du Pattern] :** Présupposition d'accord par alternative temporelle inclusive (*« whether they do it now or in just a bit »*). Le focus conscient du sujet est déplacé sur la question accessoire du *moment* où l'accord sera exécuté, présupposant comme un fait acquis que la direction commune est acceptée. Utilisation du conditionnel adoucisseur (*« it's possible that »*, *« might be served »*) pour réduire toute friction d'ego.
 
-
-## --- Tranche 17 / 20 ---
+## Tranche 17 / 20 : La Chaîne Propositionnelle à Double Vitesse (Du Cadre d'Entente à la Décision Réduite)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/20 du cours *Advanced Weaponized Communication* par Kenrick Cleveland.
 
@@ -2368,8 +2378,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/2
   - **Rappel d'inventaire en truisme :** Kenrick récapitule des faits observables qui viennent de se dérouler sous les yeux du sujet, créant un alignement interne complet.
   - **Question fermée à amplification présupposée :** La structure `"Would you say that we've done a lot of, if not all of that and more?"` rend impossible toute réponse négative sans mauvaise foi flagrante. L'inertie cognitive est ici bouclée sur elle-même pour sceller l'apprentissage et la session.
 
-
-## --- Tranche 18 / 20 ---
+## Tranche 18 / 20 : Le Double Choix Implicite Anti-Pression (Prise de RDV)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2502,8 +2511,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 17/2
 > *"Okay, I appreciate that and I want to make more money. So if you want to negotiate, let's negotiate in the other direction because I'm happy to do that. Let's pay a little bit more."*
 - **[Analyse du Pattern]** : Rupture de pattern radicale par mise en miroir absolue et absurde. En répondant au désir unilatéral du client (« je veux payer moins ») par son exact pendant (« je veux gagner plus »), Cleveland brise le cadre social de soumission commerciale et propose une escalade inversée qui désamorce instantanément la tentative de chantage au prix.
 
-
-## --- Tranche 19 / 20 ---
+## Tranche 19 / 20 : Le Verrouillage par Dérivation sur Point Mineur (Minor Point Misdirection Close)
 
 Voici l'analyse opératoire intégrale de la tranche 19/20 du programme *Advanced Weaponized Communication* par Kenrick Cleveland et le Dr Joseph Riggio.
 
@@ -2617,8 +2625,7 @@ Voici l'analyse opératoire intégrale de la tranche 19/20 du programme *Advance
 > « You remember back when you were much younger. You saw people create results by talking to others and you couldn't quite figure it out. And now, a big smile spreads across your face because you're so much further along than even those people that you used to look up to. You remember a quote from who knows how long ago and as you do, you smile even bigger. It says, it's good to be king. »
 *   **[Analyse du Pattern] :** Recadrage temporel comparatif valorisant l'état présent par rapport aux figures d'autorité de l'enfance. Boucle de rétroaction somatique positive (le sourire induit qui renforce la prise de conscience). Ancrage archétypal d'autorité absolue et de souveraineté interne condensé dans une commande d'identification inconsciente : *« it's good to be king »*.
 
-
-## --- Tranche 20 / 20 ---
+## Tranche 20 / 20 : Le "Logical Chaining" du Rendez-vous / de la Décision
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 20/20 du cours *"Advanced Weaponized Communication"* de Kenrick Cleveland.
 
@@ -2737,3 +2744,4 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   * **Suggestion post-hypnotique directe ericksonienne :** *« My voice will go with you »* (présence continue de l'opérateur dans le dialogue interne du sujet).
   * **Truisme progressif avec double comparatif :** *« over and over tightens... more and more »*. Crée un lien direct entre un comportement mécanique simple (réécouter) et le perfectionnement inconscient de la compétence.
   * **Fractionnement temporel de validation :** *« At first it might seem subtle, and then it keeps getting more and more profound »*. Prémunit contre le doute initial : si le résultat semble imperceptible au début, cela ne fait que valider la prophétie de la suggestion.
+

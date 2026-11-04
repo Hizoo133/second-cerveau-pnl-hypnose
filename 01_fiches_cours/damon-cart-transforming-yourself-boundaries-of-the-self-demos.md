@@ -68,10 +68,20 @@ Voici la **Synthèse Architecturale** ultra-dense et structurée du cours *« Tr
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 84-224]** : Cartographie et Modulation des Frontières Externes — *Protocole :* Cartographie et Modulation des Frontières Externes | *Mécanisme :* La frontière spatiale comme délimiteur analogique de l'identité | *Verbatim :* Le Cadre du "Comme Si" et le contournement de l'objection rationnelle
+- **Tranche 2 [Lignes 226-384]** : Recodage Expérimental de Frontière Relationnelle (Désamorçage & Inclusion) — *Protocole :* Recodage Expérimental de Frontière Relationnelle (Désamorçage & Inclusion) | *Mécanisme :* Le Gradient Sensoriel Détection/Défense (Latence temporelle et spatialité) | *Verbatim :* Verbatim : Induction d'Étalonnage Spatial et Transposition Relationnelle
+- **Tranche 3 [Lignes 386-559]** : Ré-unification Esprit-Cœur-Corps (Heart-Mind-Body Expansion) — *Protocole :* Ré-unification Esprit-Cœur-Corps (Heart-Mind-Body Expansion) | *Mécanisme :* La Dissolution de la Séparation Artificielle Esprit-Corps (Mind-Body Re-unification) | *Verbatim :* Induction de la fusion Corps-Esprit (Mind-Body Reunification)
+- **Tranche 4 [Lignes 561-701]** : Translation Submodalitaire de Déconnexion vers Connexion Sécurisée (avec Résolution d'Inclus... — *Protocole :* Translation Submodalitaire de Déconnexion vers Connexion Sécurisée (avec Résolution d'Inclusion Émotive) | *Mécanisme :* Dissociation Opératoire du Bundle Sémantique « Connexion = Confiance/Vulnérabilité » | *Verbatim :* Le Découplage Sémantique et la Protection Stratégique
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Cartographie et Modulation des Frontières Externes
 
 Voici l'analyse opératoire intégrale de la tranche 1/4 du cours **"Transforming Yourself - Boundaries Of The Self Demos"** par Damon Cart.
 
@@ -213,8 +223,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/4 du cours **"Transformin
 > **"What happens when you turn off that inner monologue and you start watching a person's eye movements, you start watching their chest go up and down, their shoulders go up and down for breathing or you start noticing their vocal tone or when their vocal tone makes shifts, the person doesn't know why. They feel your attention on them and unconsciously, that feels good. They don't even know why. They just go, wow, this person's really listening to me."**
 - **[Analyse du Pattern]** : Enchaînement de truismes sensoriels en boucle (pacing sensoriel descriptif : mouvements oculaires, mouvements de cage thoracique, ton vocal) créant une induction de focalisation externe. Présupposition répétée d'ignorance consciente chez la cible (*"the person doesn't know why... unconsciously that feels good... they don't even know why"*), contrastée avec une réponse somatique positive inévitable, formulée sous forme de citation intériorisée (*"wow, this person's really listening to me"*).
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : Recodage Expérimental de Frontière Relationnelle (Désamorçage & Inclusion)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 2/4 du séminaire de Damon Cart (*Transforming Yourself - Boundaries Of The Self Demos*), structurée selon les directives strictes.
 
@@ -374,8 +383,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 2/4 
   - *Redéfinition sémantique :* Remplacement de "combattre" par "intercepter" et "danser", ce qui modifie la physiologie musculaire et l'état interne du praticien.
   - *Présupposition d'unité systémique :* L'adversaire est requalifié comme faisant partie du même système cybernétique global ("They're not two parts. They're one whole"). La défaite ou l'impact ne résulte pas d'une attaque ennemie, mais de la rupture de l'état d'unité spatiale.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : Ré-unification Esprit-Cœur-Corps (Heart-Mind-Body Expansion)
 
 Voici l'ingénierie opératoire complète de la tranche 3/4 du cours **"Transforming Yourself - Boundaries Of The Self Demos"** de **Damon Cart**.
 
@@ -550,8 +558,7 @@ Voici l'ingénierie opératoire complète de la tranche 3/4 du cours **"Transfor
   * Damon Cart isole et préserve la fonction positive de sécurité (argent, confiance, intimité) tout en redéfinissant la connexion non pas comme une capitulation émotionnelle, mais comme un positionnement tactique dominant (*"put ourselves in a much better position to deal with those people"*).
   * Commande d'autonomie et de libre arbitre (*"you can choose and decide"*) qui redonne le locus de contrôle au sujet avant d'initier le glissement submodal.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : Translation Submodalitaire de Déconnexion vers Connexion Sécurisée (avec Résolution d'Inclus...
 
 Voici l'analyse opératoire intégrale de la tranche 4/4 du cours **« Transforming Yourself - Boundaries Of The Self Demos »** dispensé par **Damon Cart**, selon vos exigences strictes d'ingénierie et de modélisation.
 
@@ -692,3 +699,4 @@ Voici l'analyse opératoire intégrale de la tranche 4/4 du cours **« Transform
 > **Damon Cart :** *"In other words, if your internal experience was a home, the home that you go to to feel safe, to feel comfortable, what kind of experiences would you furnish in that home? Imagine what it would be like to put photos and paintings of unpleasant events all over the walls of your home in office. A lot of us are doing this. [...] Why not furnish your mind with powerful experiences? [...] How about building in yourself a personal quality of being determined to live in a mind filled with beauty, truth and pleasure and begin now to collect experiences that nourish you and assemble them just as you do for any other quality inside yourself."*
 
 * **[Analyse du Pattern] :** **Métaphore Spatiale Étendue couplée à une Induction Identitaire**. Cart utilise une analogie domestique frappante (*furnishing the home with photos of horrors*) qui matérialise l'absurdité du focus négatif quotidien. Il enchaîne sur une question de possibilité ouverte (*"Why not furnish..." / "How about building..."*) qui agit comme une suggestion permissive profonde. L'inclusion finale du pattern de Steve Andreas (*collect experiences and assemble them as a quality*) boucle la boucle de l'auto-concept : la gestion de ses frontières et de son contenu mental devient un trait identitaire de pleine souveraineté.
+

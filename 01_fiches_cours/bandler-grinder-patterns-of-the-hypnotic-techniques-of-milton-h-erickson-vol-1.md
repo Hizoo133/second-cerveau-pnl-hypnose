@@ -91,10 +91,34 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 121-258]** : Le Pacing Verbal d'Expériences Observables (Bio-Feedback Induction) — *Protocole :* Le Pacing Verbal d'Expériences Observables (Bio-Feedback Induction) | *Mécanisme :* La dérivation linguistique comme recherche transdérivationnelle inconsciente
+- **Tranche 2 [Lignes 260-424]** : Levitation de la Main par Ratification Respiratoire Inévitable — *Protocole :* Levitation de la Main par Ratification Respiratoire Inévitable | *Mécanisme :* La Boucle de Biofeedback Somato-Sensoriel (Pacing Physiologique Global) | *Verbatim :* La Ratification Somato-Respiratoire
+- **Tranche 3 [Lignes 426-588]** : A : La Technique de l'Interspersal Métaphorique pour la Douleur Intratable (Cas "Joe") — *Protocole :* A : La Technique de l'Interspersal Métaphorique pour la Douleur Intratable (Cas "Joe") | *Mécanisme :* du semis / Disjonction attentionnelle par interspersal (Interspersal Technique) | *Verbatim :* La dissolution des seuils temporels et l'activation du capital passé
+- **Tranche 4 [Lignes 590-756]** : A : La Technique de Saupoudrage Camouflée (The Clinical Interspersal via Dictation) — *Protocole :* A : La Technique de Saupoudrage Camouflée (The Clinical Interspersal via Dictation)
+- **Tranche 5 [Lignes 758-881]** : A : Ré-entrée Rapide en Transe par Reviviscence Kinesthésique et Spatiale — *Protocole :* A : Ré-entrée Rapide en Transe par Reviviscence Kinesthésique et Spatiale
+- **Tranche 6 [Lignes 883-974]** : Meta-Tactic III — Recouvrement Inter-Modalités (Overlap System) — *Protocole :* Meta-Tactic III — Recouvrement Inter-Modalités (Overlap System)
+- **Tranche 7 [Lignes 976-1151]** : Calibration de la Profondeur Somnambulique par la Littéralité Pure — *Protocole :* Calibration de la Profondeur Somnambulique par la Littéralité Pure | *Mécanisme :* Bascule Hémisphérique et Accès Visuel Non-Dominant | *Verbatim :* s Verbatim & Analyse
+- **Tranche 8 [Lignes 1153-1294]** : Induction par Confusion Sémantique et Vacuité Référentielle (Cas Huxley) — *Protocole :* Induction par Confusion Sémantique et Vacuité Référentielle (Cas Huxley)
+- **Tranche 9 [Lignes 1296-1376]** : Vérification et Levée / Rétablissement Expérimental de l'Amnésie Post-Hypnotique — *Protocole :* Vérification et Levée / Rétablissement Expérimental de l'Amnésie Post-Hypnotique | *Verbatim :* L'amorce lexicale hors-contexte
+- **Tranche 10 [Lignes 1378-1509]** : A : L'Induction Kinesthésique par Ambiguïté Tactile et Poignée de Main (Handshake Induction) — *Protocole :* A : L'Induction Kinesthésique par Ambiguïté Tactile et Poignée de Main (Handshake Induction)
+- **Tranche 11 [Lignes 1511-1708]** : Utilisation Paradoxale de l'Auto-Dépréciation (Anti-Hooking Protocol) — *Protocole :* Utilisation Paradoxale de l'Auto-Dépréciation (Anti-Hooking Protocol) | *Verbatim :* Verbatim 1 : L'Inversion Paradoxale Directe
+- **Tranche 12 [Lignes 1710-1861]** : L'Indice Référentiel Généralisé avec Injection Nominale (Suggested Noun Phrase) — *Protocole :* L'Indice Référentiel Généralisé avec Injection Nominale (Suggested Noun Phrase) | *Mécanisme :* Recherche Transdérivationnelle (Transderivational Search - TDS) | *Verbatim :* Verbatim 1 : L'Universalité Projetée sur Soi
+- **Tranche 13 [Lignes 1863-2063]** : Séquençage par Ambiguïté de Ponctuation à Pivot Bivalent — *Protocole :* Séquençage par Ambiguïté de Ponctuation à Pivot Bivalent | *Mécanisme :* Ambiguïté de portée couplée à un prédicat factif (Scope Ambiguity with Factive Predicates) | *Verbatim :* Ambiguïté de portée avec prédicat factif et conjonction
+- **Tranche 14 [Lignes 2065-2202]** : Le "Body Tuning" pour déblocage de visualisation (Bandler & Grinder) — *Protocole :* Le "Body Tuning" pour déblocage de visualisation (Bandler & Grinder) | *Verbatim :* Le métronome imaginaire vs le métronome physique (Rapport de sujet cité par Erickson)
+- **Tranche 15 [Lignes 2204-2361]** : Marquage Analogique de Commandes Incluses et de Clés Mnésiques (Modèle Erickson/Huxley) — *Protocole :* Marquage Analogique de Commandes Incluses et de Clés Mnésiques (Modèle Erickson/Huxley) | *Mécanisme :* Le Marquage Analogique des Séquences Incluses (Double Induction Monologique) | *Verbatim :* Le double marquage phonétique et sémantique
+- **Tranche 16 [Lignes 2363-2510]** : Activation de la Recherche Transdérivationnelle par Indice Référentiel Généralisé — *Protocole :* Activation de la Recherche Transdérivationnelle par Indice Référentiel Généralisé
+- **Tranche 17 [Lignes 2512-2747]** : Construction d'une Ambiguïté de Ponctuation (Overlap Deletion) — *Protocole :* Construction d'une Ambiguïté de Ponctuation (Overlap Deletion) | *Mécanisme :* Ambiguïté Syntaxique & Transdérivation Structurelle | *Verbatim :* Verbatim 1 : L'Ambiguïté de Portée / Régression en Âge
+- **Tranche 18 [Lignes 2749-2877]** : d'Intervention Dissociée et de Réintégration Tempérée — *Protocole :* d'Intervention Dissociée et de Réintégration Tempérée | *Verbatim :* Passage 1 : La Métaphore Chirurgicale de l'Intégration Manquée
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 18 ---
+## Tranche 1 / 18 : Le Pacing Verbal d'Expériences Observables (Bio-Feedback Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -233,8 +257,7 @@ flowchart TD
   > "Every patient has the right to refuse permission for a rectal and hernial examination, and many patients do. But when I have reached that part of the physical examination I tell my patients, sympathetically, that I know they are tired of having me peer into their eyes, and peak into their ears and up their noses, and poking and thumping here and there, but that, as soon as I complete the rectal and hernial examinations, they can say good-bye to me."
   * **[Analyse du Pattern] :** Double lien contextuel (Double Bind) et présupposition temporelle enchâssée (*as soon as I complete...*). La proposition lie la libération finale souhaitée par le sujet ("dire au revoir") à l'exécution préalable de la procédure intrusive, supprimant l'alternative du refus sans confrontation autoritaire directe.
 
-
-## --- Tranche 2 / 18 ---
+## Tranche 2 / 18 : Levitation de la Main par Ratification Respiratoire Inévitable
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -400,8 +423,7 @@ flowchart TD
   * *Réactivation de souvenirs ressources ratifiés* : évoquer des contextes réels où les toilettes étaient occupées pour réactiver l'ancrage somatique de rétention réussie (*"you made it... you can again"*).
   * *Élargissement de la catégorie temporelle* : saut analogique audacieux qui transforme 30 minutes en 1 heure par le postulat *"anybody that can wait half an hour can wait an hour"*, étendu jusqu'à 50 ans d'expertise biologique intégrée (*"half a century... of practice"*).
 
-
-## --- Tranche 3 / 18 ---
+## Tranche 3 / 18 : A : La Technique de l'Interspersal Métaphorique pour la Douleur Intratable (Cas "Joe")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -565,8 +587,7 @@ flowchart TD
     *   *Glissement temporel anaphorique (Then -> Right now)* : Utilise la formule modale *"it almost seems as if I could be..."* pour effacer le mois écoulé et reconnecter instantanément le système nerveux de Joe à la configuration neurophysiologique exacte (analgésie, calme, réceptivité) ancrée lors de la séance précédente.
     *   *Généralisation hédonique* : Conclut par un truisme d'agrément (*"It is so enjoyable to talk about a seed..."*) validant et consolidant le retour dans l'expérience de transe sans aucune friction défensive.
 
-
-## --- Tranche 4 / 18 ---
+## Tranche 4 / 18 : A : La Technique de Saupoudrage Camouflée (The Clinical Interspersal via Dictation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -734,8 +755,7 @@ flowchart TD
 > **"Then perhaps you might have the experience ... Of not knowing which one of your hands is going to lift first"**
 * **[Analyse du Pattern]** : Adoucisseurs modaux en cascade (*"perhaps"*, *"might"*), dissimulant une structure incluse mineure impérative sous forme de nominalisation (*"have the experience"*). Double lien classique et présupposition d'inévitabilité : l'utilisation du sélectif ordinal (*"which one... first"*) présuppose de façon absolue que les deux mains vont obligatoirement se soulever, déplaçant l'attention consciente sur le faux choix de l'ordre d'exécution motrice, tout en amorçant la lévitation cataleptique involontaire (*"not knowing"*).
 
-
-## --- Tranche 5 / 18 ---
+## Tranche 5 / 18 : A : Ré-entrée Rapide en Transe par Reviviscence Kinesthésique et Spatiale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -860,8 +880,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : Nominalisation vague et indéfinie (*« something »*, *« timeless, spaceless void »*). La consigne ouverte d'Erickson génère une structure de référence vide d'attentes concrètes, ce qui suspend l'orientation spatio-temporelle consciente du sujet tout en maintenant une réceptivité somatique périphérique prête à s'exécuter à la réception du signal convenu.
 
-
-## --- Tranche 6 / 18 ---
+## Tranche 6 / 18 : Meta-Tactic III — Recouvrement Inter-Modalités (Overlap System)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -954,8 +973,7 @@ flowchart TD
 > Specifically, if John is speaking into the ear which transmits information to the languge hemisphere, he will speak in a style of syntax which is complex, using ambiguity, for example, as a key technique, while Richard speaks to the mute hemisphere in a style of syntax which is maximally simple - a style of syntax which is not well-formed adult English but is well-formed baby English.
 - **[Analyse du Pattern]** : **Structure de Double Induction Dichotique Neuro-Linguistique**. Surcharge unilatérale de l'oreille droite (hémisphère gauche) par de la complexité syntaxique et des ambiguïtés pour saturer le filtre critique grammatical, couplée à un adressage direct à l'oreille gauche (hémisphère droit) par du discours primaire, analogique et impératif régressif (*baby syntax*), provoquant un effondrement immédiat de l'attention vigile.
 
-
-## --- Tranche 7 / 18 ---
+## Tranche 7 / 18 : Calibration de la Profondeur Somnambulique par la Littéralité Pure
 
 Voici l'analyse modélisatrice complète, opératoire et sans déperdition de la tranche 7/18 de *Patterns of the Hypnotic Techniques of Milton H. Erickson Vol. 1* (Bandler & Grinder).
 
@@ -1132,8 +1150,7 @@ Voici l'analyse modélisatrice complète, opératoire et sans déperdition de la
   - **Réorientation spatio-temporelle rétroactive :** La commande n'utilise pas le mot « réveil », mais ordonne un réajustement kinesthésique calé sur un marqueur temporel précis du passé (`adjust himself in his chair to resume the exact physical and mental state...`).  
   - En reconnectant le corps et l'esprit à l'état antérieur exact, la suggestion installe une amnésie post-hypnotique spontanée et parfaite de tout le travail en transe profonde effectué dans l'intervalle, par simple scission des états de conscience dépendants de l'état (*state-dependent memory*).
 
-
-## --- Tranche 8 / 18 ---
+## Tranche 8 / 18 : Induction par Confusion Sémantique et Vacuité Référentielle (Cas Huxley)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1276,8 +1293,7 @@ Voici l'analyse modélisatrice complète, opératoire et sans déperdition de la
   - *Oxymore de dissociation cognitive* (*knowing but not knowing*) : suspension de la barrière critique par validation simultanée de la rétention inconsciente et de l'oubli conscient.
   - *Présupposition de banalisation post-transe* (*what little there is*) : minimisation verbale radicale qui décourage le conscient d'enquêter sur les phénomènes monumentaux vécus pendant la transe.
 
-
-## --- Tranche 9 / 18 ---
+## Tranche 9 / 18 : Vérification et Levée / Rétablissement Expérimental de l'Amnésie Post-Hypnotique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1359,8 +1375,7 @@ Voici l'analyse modélisatrice complète, opératoire et sans déperdition de la
 
 - **[Analyse du Pattern]** : Truisme ouvrant avec modalité d'évidence (*"Of course"*), suivi d'une commande d'amnésie métaphorique (*"left behind"*), combinée immédiatement à l'ancrage de réactivation (*"become AVAILABLE"*) assujetti à une présupposition temporelle indéfinie (*"at some later time"*). Cette structure referme le voile amnésique tout en laissant la porte de sortie opérationnelle pour le praticien.
 
-
-## --- Tranche 10 / 18 ---
+## Tranche 10 / 18 : A : L'Induction Kinesthésique par Ambiguïté Tactile et Poignée de Main (Handshake Induction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1493,8 +1508,7 @@ Jane: (interrupting) "I'm not that bad; come on, (beginning to laugh) I know wha
 ```
 * **[Analyse du Pattern]** : **Prescription paradoxale extrême et rupture d'enfermement de rôle.** Utilisation de quantificateurs universels négatifs (*"anyone"*, *"anything"*, *"no one in the whole wide world"*) alignés sur la plainte du sujet. En supprimant tout espace de confrontation, le thérapeute force le sujet à sortir de son état de victime passive pour réaffirmer son agentivité et sa rationalité par l'interruption et le rire.
 
-
-## --- Tranche 11 / 18 ---
+## Tranche 11 / 18 : Utilisation Paradoxale de l'Auto-Dépréciation (Anti-Hooking Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1693,8 +1707,7 @@ For the next two hours, you will sit quietly here thinking of nothing, doing not
   - *Scission Conscient/Inconscient :* Dépossession de la responsabilité consciente (« thinking of nothing, doing nothing ») au profit d'une entité autonome (« your unconscious is going to tell »).
   - *Prescription de délai temporel et Frustration stratégique :* « neither you nor I will understand until the right time comes » préserve le mystère, neutralise l'impatience analytique du patient et verrouille la transe par un double lien temporel qui conditionne la guérison future (« Then you will be all right »).
 
-
-## --- Tranche 12 / 18 ---
+## Tranche 12 / 18 : L'Indice Référentiel Généralisé avec Injection Nominale (Suggested Noun Phrase)
 
 Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 12/18 de *Patterns of the Hypnotic Techniques of Milton H. Erickson Vol 1* (Bandler & Grinder).
 
@@ -1847,8 +1860,7 @@ Voici l'extraction exhaustive, chirurgicale et opératoire de la tranche 12/18 d
   - **Ambiguïté de portée (Scope Ambiguity) :** La coordination *"and"* rend incertain le rattachement de la proposition *"you are going into a deep trance..."* : est-elle subordonnée au verbe *"realize"* (auquel cas la transe est un fait avéré déjà présupposé vrai) ou est-ce une proposition indépendante ? Le traitement inconscient absorbe la transe comme un fait déjà acquis.
   - **Double lien intégrateur :** *"only as quickly as your unconscious mind wants"* offre une fausse liberté tout en présupposant que l'esprit inconscient a déjà initié le processus.
 
-
-## --- Tranche 13 / 18 ---
+## Tranche 13 / 18 : Séquençage par Ambiguïté de Ponctuation à Pivot Bivalent
 
 Voici l'extraction chirurgicale et opératoire de la tranche 13/18 du cours *"Patterns of the Hypnotic Techniques of Milton H. Erickson Vol 1"* par Bandler & Grinder.
 
@@ -2050,8 +2062,7 @@ Voici l'extraction chirurgicale et opératoire de la tranche 13/18 du cours *"Pa
   - **Postulat conversationnel dérivé (*Conversational Postulate*)** : La Structure de Surface est une simple question d'aptitude oui/non (*"Can you...?"*) ou une constatation modale d'inutilité/possibilité (*"There is no need...", "It is possible..."*).
   - **Pragmatique de commande** : Au niveau de la réponse motrice, le système du patient décode ces formulations comme des ordres exécutifs stricts (*"Lève la main"*, *"Ne bouge pas"*, *"Ouvre les yeux"*, *"Approfondis ta transe"*), tout en éliminant toute tonalité autoritaire qui risquerait de déclencher une résistance psychologique.
 
-
-## --- Tranche 14 / 18 ---
+## Tranche 14 / 18 : Le "Body Tuning" pour déblocage de visualisation (Bandler & Grinder)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2190,8 +2201,7 @@ really knows. . . . nose) [scratch ... nose]"
   * *Homophonie et marquage phonético-analogique :* Erickson isole et marque analogiquement (changement de tonalité, micro-pause, accentuation rythmique) le mot *"scratch"* et le syntagme *"knows"*, phonétiquement identique à *"nose"*.  
   * *Extraction inconsciente de commande impérative :* L'inconscient du sujet extrait la séquence marquée hors de sa syntaxe d'origine : **[Scratch Nose]** ("Gratte-toi le nez"). L'action est exécutée de manière somatique et involontaire sans que le conscient n'ait accès à la commande réelle reçue.
 
-
-## --- Tranche 15 / 18 ---
+## Tranche 15 / 18 : Marquage Analogique de Commandes Incluses et de Clés Mnésiques (Modèle Erickson/Huxley)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2350,8 +2360,7 @@ really knows. . . . nose) [scratch ... nose]"
     - Le verbe d'aspect *continue* présuppose temporellement que la satisfaction était déjà active avant l'énonciation de la phrase, déplaçant le focus attentionnel du *si* vers le *quand*.
     - L'utilisation de prédicats universels d'induction (*wondering*) garantit un pacing infaillible de l'activité cérébrale en cours.
 
-
-## --- Tranche 16 / 18 ---
+## Tranche 16 / 18 : Activation de la Recherche Transdérivationnelle par Indice Référentiel Généralisé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2500,8 +2509,7 @@ really knows. . . . nose) [scratch ... nose]"
   > "I want you to notice your hand me the glass"
   - **[Analyse du Pattern] :** **Ambiguïté de Ponctuation (Punctuation Ambiguity)**. Recouvrement de deux Structures de Surface distinctes : *« I want you to notice your hand »* (focalisation sensorielle) et *« Hand me the glass »* (injonction motrice impérative). Le mot pivot *hand* opère une bascule instantanée entre nom commun et verbe d'action, désarmant l'analyse syntaxique et forçant le passage à l'acte inconscient.
 
-
-## --- Tranche 17 / 18 ---
+## Tranche 17 / 18 : Construction d'une Ambiguïté de Ponctuation (Overlap Deletion)
 
 Voici l’extraction intégrale, opératoire et modélisée de la tranche 17/18 de *Patterns of the Hypnotic Techniques of Milton H. Erickson, Vol. 1* (Bandler & Grinder).
 
@@ -2738,8 +2746,7 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 17/18 
   5. *Leading vers la transe et le repli intérieur* (*comfort of withdrawal*, *monotony of the filing cabinet*, *need to take a rest*, *comfort of closing one's eyes*).
   6. *Installation de l'apprentissage passif inconscient* (*delight of learning passively*, *intellectual learning by the unconscious*). La surcharge de descriptions nominales non connectées désagrège le discours intérieur et suspend l'activité analytique de l'hémisphère dominant.
 
-
-## --- Tranche 18 / 18 ---
+## Tranche 18 / 18 : d'Intervention Dissociée et de Réintégration Tempérée
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2868,3 +2875,4 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 17/18 
 #### Passage 14 : Négation Spurieuse (Spurious Not)
 > « I wonder if you're not being a little unfair. »
 - **[Analyse du Pattern]** : Emploi de la négation apparente de politesse ou d'atténuation. Malgré la tournure interrogative adoucie par *I wonder*, la structure syntaxique installe directement et assertivement l'affirmation profonde : « Je pense que tu es injuste ».
+

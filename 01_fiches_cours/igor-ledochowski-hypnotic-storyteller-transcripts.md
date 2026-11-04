@@ -95,10 +95,33 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 124-256]** : Brise-Glace par l'Anecdote Outrancière (« The Outrageous Story Introduction ») — *Protocole :* Brise-Glace par l'Anecdote Outrancière (« The Outrageous Story Introduction ») | *Mécanisme :* Compression d'Identité & Véhicule Relationnel par l'Histoire | *Verbatim :* La Réduction Structurelle au Triptyque Primitif
+- **Tranche 2 [Lignes 258-427]** : Utilisation Stratégique du Manteau du Récit (The Cloak of Story) — *Protocole :* Utilisation Stratégique du Manteau du Récit (The Cloak of Story) | *Verbatim :* La Libération par le Manteau du Récit
+- **Tranche 3 [Lignes 429-582]** : A : "Strange New Worlds" (Déstabilisation Vestibulaire & Voisinage Sensoriel) — *Protocole :* A : "Strange New Worlds" (Déstabilisation Vestibulaire & Voisinage Sensoriel) | *Mécanisme :* Dérèglement Vestibulaire & Rupture Somatique de Fixation | *Verbatim :* PÉPITE 1 : L'Amorçage Somato-Psychique de Déstabilisation
+- **Tranche 4 [Lignes 584-715]** : L'Installation du Palais Mnésique Narratif (Story Loci Engine) — *Protocole :* L'Installation du Palais Mnésique Narratif (Story Loci Engine) | *Verbatim :* Induction d'accès à la reviviscence émotionnelle
+- **Tranche 5 [Lignes 717-863]** : A : Archivage Spatial des Histoires (Mental Story Vault / Loci Method) — *Protocole :* A : Archivage Spatial des Histoires (Mental Story Vault / Loci Method) | *Verbatim :* La Stratégie du Perdant Exemplaire (Anti-Preaching Feedback)
+- **Tranche 6 [Lignes 865-980]** : La narration des "Values in Action" (Preuve d'intégrité incarnée) — *Protocole :* La narration des "Values in Action" (Preuve d'intégrité incarnée) | *Mécanisme :* Désamorçage du soupçon d'agenda caché par l'alignement win-win | *Verbatim :* Le désamorçage de la méfiance par l'intérêt mutuel transparent
+- **Tranche 7 [Lignes 982-1142]** : Rattle-Through Drill (Fluidification et Accès Rapide aux Boucles d'Histoires) — *Protocole :* Rattle-Through Drill (Fluidification et Accès Rapide aux Boucles d'Histoires) | *Mécanisme :* La Transe de Clôture Intégrative (The 7th Story / Seed-Planting Induction) | *Verbatim :* La Transition Hypnotique Imperceptible (Sleight of Trance)
+- **Tranche 8 [Lignes 1144-1268]** : Construction d'une Histoire Transformationnelle (Modèle Tripartite) — *Protocole :* Construction d'une Histoire Transformationnelle (Modèle Tripartite) | *Mécanisme :* Le Pattern de Boucle Imbriquée (Nested Loops) & Rupture Inachevée | *Verbatim :* Verbatim : Induction d'Impuissance Apprise Inversée & Rupture Narrative
+- **Tranche 9 [Lignes 1270-1441]** : Le Foreur de Squelette Narratif (30-Second Scale Down Drill) — *Protocole :* Le Foreur de Squelette Narratif (30-Second Scale Down Drill) | *Mécanisme :* Le « Through Line » Narratif vs. L'Habillage Sensoriel (Scale Compression / Expansion) | *Verbatim :* Le Modèle Haïku / 30-Second Scale Down
+- **Tranche 10 [Lignes 1443-1544]** : Glissement Sensoriel Continu (Synesthesia Switch Drill) — *Protocole :* Glissement Sensoriel Continu (Synesthesia Switch Drill) | *Verbatim :* Le Recadrage Identitaire par Inclusion Logique
+- **Tranche 11 [Lignes 1546-1676]** : Les Boucles Imbriquées Triples avec Rupture au Pic d'Intérêt (3-Nested Loops Exercise) — *Protocole :* Les Boucles Imbriquées Triples avec Rupture au Pic d'Intérêt (3-Nested Loops Exercise) | *Verbatim :* La Bascule d'Autorité par Voix Tiers & Pronom Référentiel
+- **Tranche 12 [Lignes 1678-1796]** : A : L'Architecture des Boucles Imbriquées avec Récit Central Transformateur (Nested Loops +... — *Protocole :* A : L'Architecture des Boucles Imbriquées avec Récit Central Transformateur (Nested Loops + Core Transformation) | *Mécanisme :* L'Effet Beignet (The Donut Technique) & Amnésie Rétrograde Structurelle | *Verbatim :* Le Glissement d'Index Référentiel en Plein Climax
+- **Tranche 13 [Lignes 1798-1924]** : L'amplification picaresque & l'ancrage de pointe (Exercice des 5 minutes) — *Protocole :* L'amplification picaresque & l'ancrage de pointe (Exercice des 5 minutes) | *Mécanisme :* Désactivation de la « tyrannie de la chute » (Pointless Story & Picaresque Expansion) | *Verbatim :* Le Pré-cadre Transitionnel
+- **Tranche 14 [Lignes 1926-2062]** : Extraction du Paysage Métaphorique Global (Clean-Style Metaphor Elicitation) — *Protocole :* Extraction du Paysage Métaphorique Global (Clean-Style Metaphor Elicitation) | *Verbatim :* Recadrage isomorphique guerrier pour l'arrêt du tabac
+- **Tranche 15 [Lignes 2064-2212]** : L'Extraction Symbolique Pure (« What is That Like? ») — *Protocole :* L'Extraction Symbolique Pure (« What is That Like? »)
+- **Tranche 16 [Lignes 2214-2346]** : Cartographie et Co-optage du Modèle du Monde par Inversion de Rôle (Extraction de la Weltans... — *Protocole :* Cartographie et Co-optage du Modèle du Monde par Inversion de Rôle (Extraction de la Weltanschauung) | *Mécanisme :* Le Co-optage du Paysage Symbolique (Symbolic Environment Co-optation) | *Verbatim :* La Transmutation de la Fosse
+- **Tranche 17 [Lignes 2348-2495]** : Le Détournement de Métaphore Spontanée (Symbolic Hijack Protocol) — *Protocole :* Le Détournement de Métaphore Spontanée (Symbolic Hijack Protocol) | *Mécanisme :* Le Détournement Symbolique (Symbolic Hijacking / Metaphor Hijacking) | *Verbatim :* Le Détournement de la Route Déjà Parcourue
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 17 ---
+## Tranche 1 / 17 : Brise-Glace par l'Anecdote Outrancière (« The Outrageous Story Introduction »)
 
 Voici l'extraction opératoire complète et structurée de la tranche 1/17 du séminaire *Hypnotic Storyteller* par Igor Ledochowski et Robin Manuel.
 
@@ -232,8 +255,7 @@ Voici l'extraction opératoire complète et structurée de la tranche 1/17 du s�
   - Nominalisations universelles (« the changing », « recalling events », « sensations ») forçant une recherche transdérivationnelle interne.
   - Commande enchâssée directe : « as you begin to attend... to only good feelings... that will assist you now ». Le système nerveux de l'auditeur est orienté sélectivement vers des marqueurs somatiques agréables tout en associant cette recherche interne à la réussite de son apprentissage présent.
 
-
-## --- Tranche 2 / 17 ---
+## Tranche 2 / 17 : Utilisation Stratégique du Manteau du Récit (The Cloak of Story)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -404,8 +426,7 @@ Voici l'extraction opératoire complète et structurée de la tranche 1/17 du s�
   - *Pacing & Ratification absolue* (« There is that cornfield », « Yes, I see it too ») : Le formateur ne traite jamais la réponse comme une fiction, mais comme une réalité partagée, consolidant l'état de transe et de co-création.
   - *Empilement de truismes et questions de direction d'attention* : « So there's a sun and there's a cornfield. What else do you see? » -> Valider les acquis sensoriels passés pour relancer l'exploration plus profondément dans le paysage inconscient.
 
-
-## --- Tranche 3 / 17 ---
+## Tranche 3 / 17 : A : "Strange New Worlds" (Déstabilisation Vestibulaire & Voisinage Sensoriel)
 
 Voici l'analyse opératoire intégrale de la tranche 3/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski (avec son co-animateur Robin).
 
@@ -560,8 +581,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/17 du cours *Hypnotic Sto
   * **Structure d'équivalence complexe** : Transforme un comportement perçu comme rébarbatif (*"je suis comptable dans une ville de musiciens"*) en une mission noble, excitante et valorisante (*"préparateur de succès pour futures rock stars"*).
   * **Validation par feed-forward** : Réoriente le focus du sujet de l'aspect technique et ennuyeux (les chiffres, les déclarations fiscales) vers l'identité projective aspirationnelle de ses clients et la fierté de son rôle de mentor discret.
 
-
-## --- Tranche 4 / 17 ---
+## Tranche 4 / 17 : L'Installation du Palais Mnésique Narratif (Story Loci Engine)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 4/17.
 
@@ -694,8 +714,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Rupture de cadre et changement de perspective perceptuelle* : Le déplacement soudain du focus d'attention de James Bond vers le sous-fifre anonyme ("henchman") crée une désorientation cognitive immédiate.
   - *Recadrage humaniste profond* : L'évocation inattendue de "the henchman's family" injecte de la complexité émotionnelle là où il n'y avait qu'un cliché binaire, installant le postulat sous-jacent universel ("Everyone is the hero of their own stories") qui permet au praticien de modéliser n'importe quel comportement humain sans jugement moral.
 
-
-## --- Tranche 5 / 17 ---
+## Tranche 5 / 17 : A : Archivage Spatial des Histoires (Mental Story Vault / Loci Method)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -843,8 +862,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Double interrogation rhétorique à présupposition négative :** *« how can they possibly trust you? »* installe l'impossibilité neurologique de faire confiance sans clarté des intentions.
   - **Recadrage de la suspicion en prévisibilité :** La confiance n'est pas définie comme de la gentillesse, mais comme la capacité cognitive à prédire les réactions de l'autre (*« predict how you'll respond »*). Cela justifie l'utilité thérapeutique ou commerciale absolue d'exposer son ego de façon saine.
 
-
-## --- Tranche 6 / 17 ---
+## Tranche 6 / 17 : La narration des "Values in Action" (Preuve d'intégrité incarnée)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche, structurées selon les règles d'ingénierie demandées.
 
@@ -961,8 +979,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > "All you do is you'll review your little memory route and go, no, that one, for some reason that one appeals. Start telling it. Even if you don't quite know why it fits, just notice what comes out."
 - **[Analyse du Pattern]** : Délégation du contrôle à l'inconscient (*Unconscious competence mobilization*). Présupposition que l'attrait instinctif (*"for some reason that one appeals"*) est supérieur à l'analyse analytique. Utilisation de verbes d'attention flottante (*"just notice what comes out"*) pour court-circuiter l'anxiété de performance et libérer la créativité conversationnelle.
 
-
-## --- Tranche 7 / 17 ---
+## Tranche 7 / 17 : Rattle-Through Drill (Fluidification et Accès Rapide aux Boucles d'Histoires)
 
 Voici l'extraction opératoire intégrale de la tranche 7/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski.
 
@@ -1124,8 +1141,7 @@ Voici l'extraction opératoire intégrale de la tranche 7/17 du cours *Hypnotic 
   - *Rupture de pattern brutale (Pattern Interrupt)* : En pleine identification à la terreur et au soulagement du protagoniste, Ledochowski brise le cadre : *"That's funny, that reminds me of something."*
   - *Empilement de boucles imbriquées (Nested Loop Transition)* : Il saute immédiatement à un autre souvenir apparemment banal et anodin (une histoire de chat dans son jardin). Le cerveau reste bloqué sur le mystère du monastère, générant un état d'hypersuggestibilité et d'écoute captive.
 
-
-## --- Tranche 8 / 17 ---
+## Tranche 8 / 17 : Construction d'une Histoire Transformationnelle (Modèle Tripartite)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de la tranche 8/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski.
 
@@ -1251,8 +1267,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Double séparation de responsabilité (Double Bind inversé)** : trace une frontière nette et infranchissable entre l'acte d'émettre et l'acte de recevoir.
   - **Suggestion d'autonomie radicale** : retire toute pression de performance ou de sauvetage au praticien, tout en plaçant 100 % de la responsabilité du changement et de l'intégration dans les mains de l'auditeur.
 
-
-## --- Tranche 9 / 17 ---
+## Tranche 9 / 17 : Le Foreur de Squelette Narratif (30-Second Scale Down Drill)
 
 Voici l'extraction opératoire intégrale de la tranche 9/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski.
 
@@ -1425,8 +1440,7 @@ Voici l'extraction opératoire intégrale de la tranche 9/17 du cours *Hypnotic 
   - **Décrochage d'intensité & Aspiration hypnotique :** L'introduction de pauses et d'un passage en chuchotement (*« And sometimes it's just one of these. And you can draw people in closer »*) contraint le sujet à se pencher physiquement et psychologiquement vers l'orateur.
   - **Ancrage spatial et postural de l'autorité :** L'usage instantané de la *« Deep voice »* sollicite les harmoniques basses associées à la transe profonde ericksonienne, avant de revenir à un méta-cadrage déculpabilisant sur le jeu et l'exagération grotesque comme outil d'élargissement des choix neurologiques.
 
-
-## --- Tranche 10 / 17 ---
+## Tranche 10 / 17 : Glissement Sensoriel Continu (Synesthesia Switch Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1529,8 +1543,7 @@ Voici l'extraction opératoire intégrale de la tranche 9/17 du cours *Hypnotic 
 > « And only what you enjoyed and liked about what they did. Because we're watering plants, and where attention goes, energy flows, let's only water the plants we actually want to come up. Because otherwise you get choked by weeds, and that's not very useful. »
 * **[Analyse du Pattern]** : Métaphore isomorphe agricole adossée à une maxime mnémotechnique (« where attention goes, energy flows »). La phrase structure un double lien comportemental : arroser ce qu'on aime vs être étouffé par les mauvaises herbes. L'injonction directe masquée (« let's only water... ») programme le cadre de feedback du groupe en neutralisant la critique négative déstructurante au profit d'un conditionnement opérant exclusivement positif.
 
-
-## --- Tranche 11 / 17 ---
+## Tranche 11 / 17 : Les Boucles Imbriquées Triples avec Rupture au Pic d'Intérêt (3-Nested Loops Exercise)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1662,8 +1675,7 @@ Voici l'extraction opératoire intégrale de la tranche 9/17 du cours *Hypnotic 
 * **[Analyse du Pattern]** :
   - *Rupture de pattern avec recadrage de valeur* : Utiliser la phrase *« that's not the most important part »* au moment précis où le sujet croyait atteindre le dénouement invalide brutalement la conclusion attendue. Cela décuple la valeur perçue de l'information suivante tout en maintenant la boucle précédente grande ouverte sous haute tension.
 
-
-## --- Tranche 12 / 17 ---
+## Tranche 12 / 17 : A : L'Architecture des Boucles Imbriquées avec Récit Central Transformateur (Nested Loops +...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1783,8 +1795,7 @@ Voici l'extraction opératoire intégrale de la tranche 9/17 du cours *Hypnotic 
   - **Question d'amorce d'effet Zeigarnik maximal :** *« Do you know what he saw? »* force le cerveau à projeter des images internes à haute intensité.
   - **Rupture brutale de pattern & Boucle ouverte permanente :** *« I can't tell you. I'm not a monk »* frustre l'esprit analytique, provoquant une surcharge cognitive instantanée qui laisse l'auditeur sans défense critique face à la transition pédagogique qui suit immédiatement.
 
-
-## --- Tranche 13 / 17 ---
+## Tranche 13 / 17 : L'amplification picaresque & l'ancrage de pointe (Exercice des 5 minutes)
 
 Voici l’extraction chirurgicale et opératoire de la tranche 13/17 du cours *Hypnotic Storyteller* dispensé par Igor Ledochowski (avec son co-animateur Robin).
 
@@ -1912,8 +1923,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 13/17 du cours *H
   - *Focalisation sur l'inconnu (Ericksonian Mystery Seed)* : Répétition lancinante du mot *"secret"*, agissant comme un marqueur de valeur absolue.
   - *Boucle imbriquée non résolue (Nested Loop)* : Reconnexion avec la *shaggy dog story* du monastère racontée plus tôt (*"inside that door in the monastery"*), fusionnant l'attente du cours du lendemain avec le mystère irrésolu de l'histoire précédente.
 
-
-## --- Tranche 14 / 17 ---
+## Tranche 14 / 17 : Extraction du Paysage Métaphorique Global (Clean-Style Metaphor Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2051,8 +2061,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 13/17 du cours *H
 - **[Analyse du Pattern]** : 
   *Auto-suggestion conversationnelle avec présupposition de nécessité*. En posant une question faussement anodine suivie d'une rupture (*« how does it go? »*), il normalise l'entrée en transe comme le seul moyen neurologique d'accéder aux souvenirs profonds (*« I'll have to go into trance to find out »*). L'opérateur modal de nécessité (*« have to »*) modèle instantanément pour le groupe l'utilité pratique, fluide et immédiate de l'état modifié de conscience en contexte conversationnel.
 
-
-## --- Tranche 15 / 17 ---
+## Tranche 15 / 17 : L'Extraction Symbolique Pure (« What is That Like? »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2202,8 +2211,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 13/17 du cours *H
 > **« When you find these key metaphors that people are using about where they are, I’m stuck... And they might not be able to move forward, but perhaps they can take the right path to a solution. When you begin to understand somebody’s symbolic environment in that way, you can begin to co-opt their experience. »**
 * **[Analyse du Pattern]** : Commande cachée par présupposition d'orientation (*« take the right path to a solution »*) s'appuyant sur l'ambiguïté spatiale/morale (*« right path »*). L'ancrage de la notion de « co-optation » consacre l'art de résoudre le problème non pas en l'analysant, mais en manipulant les variables géographiques du symbole lui-même.
 
-
-## --- Tranche 16 / 17 ---
+## Tranche 16 / 17 : Cartographie et Co-optage du Modèle du Monde par Inversion de Rôle (Extraction de la Weltans...
 
 Voici l'analyse opératoire intégrale de la tranche 16/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski.
 
@@ -2337,8 +2345,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/17 du cours *Hypnotic St
 > "I found the metaphor of Smoker going into hypnosis like being prodded by the world to go into a dark forest. Right. And this dark forest has the reputation of creating zombies. Right. And my coach was kind enough to point out that zombies are not so good because it's like dying, but sometimes there are parts of you that just need to die, like cancer."
 - **[Analyse du Pattern]** : **Recadrage d'utilité radicale et analogie somatique extrême.** La peur morbide de la perte de contrôle (« devenir un zombie / mourir sous hypnose ») est validée puis immédiatement réorientée vers un besoin biologique salvateur : l'élimination des cellules toxiques. En associant la pulsion tabagique à une tumeur qui *doit* mourir, la résistance à l'hypnose se transmute en adhésion totale au processus de survie de l'organisme.
 
-
-## --- Tranche 17 / 17 ---
+## Tranche 17 / 17 : Le Détournement de Métaphore Spontanée (Symbolic Hijack Protocol)
 
 Voici l'extraction et la modélisation intégrale de la tranche 17/17 du cours *Hypnotic Storyteller* d'Igor Ledochowski.
 
@@ -2486,3 +2493,4 @@ Voici l'extraction et la modélisation intégrale de la tranche 17/17 du cours *
   - **Pont vers le futur par présuppositions circonstancielles (*Future Pacing*)** : L'utilisation de contextes réels spécifiques (*airport, cafe, work, home*) ancre le nouveau comportement dans des environnements quotidiens inévitables.
   - **Présupposition de compétence inconsciente spontanée** : *« how will you know what story needs to be told next? »* et *« You'll know that you have just the story to share »* présupposent que l'habileté est déjà acquise, disponible et prête à se déclencher sans effort délibéré.
   - **Attribution d'identité archétypale (*Identity Level Reframe*)** : *« make sure you're the hero in your own story »* déplace le travail du niveau des simples techniques narratives vers le niveau de l'identité et de l'agentivité existentielle.
+

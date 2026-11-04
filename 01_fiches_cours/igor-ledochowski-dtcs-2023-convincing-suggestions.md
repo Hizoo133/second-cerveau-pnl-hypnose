@@ -73,10 +73,17 @@ Chaque intervention piège le conscient dans une tâche passive ou d'observation
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 86-324]** : Revivification & Absorption par UTE (Universal Trance Experience) & Pacing/Leading — *Protocole :* Revivification & Absorption par UTE (Universal Trance Experience) & Pacing/Leading | *Verbatim :* Pacing du micromouvement respiratoire
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 1 ---
+## Tranche 1 / 1 : Revivification & Absorption par UTE (Universal Trance Experience) & Pacing/Leading
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -315,3 +322,4 @@ Chaque intervention piège le conscient dans une tâche passive ou d'observation
 #### Écologie comportementale et contrat onirique
 > *"If it likes them, keep them... If it doesn’t like them then alter them in a dream"*
 - **[Analyse du Pattern]** : **Choix illusoire à double issue positive (Double Bind d'intégration)**. Les deux options valident que l'inconscient a pris le contrôle de l'intégration du comportement. Qu'il adopte le comportement tel quel ou qu'il le retravaille durant le sommeil paradoxal (*"in a dream"*), le processus de recodage neurologique est garanti et sécurisé sans intervention conflictuelle du conscient.
+

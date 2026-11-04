@@ -86,10 +86,28 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 110-220]** : d'Élicitation Ascendante des Critères (The 3-Tier Laddering Process) — *Protocole :* d'Élicitation Ascendante des Critères (The 3-Tier Laddering Process)
+- **Tranche 2 [Lignes 222-364]** : L'Élicitation Ascendante des Critères en Zigzag (The Laddering & Zigzag Process) — *Protocole :* L'Élicitation Ascendante des Critères en Zigzag (The Laddering & Zigzag Process) | *Verbatim :* La boucle d'élicitation conversationnelle avec accusé de réception
+- **Tranche 3 [Lignes 366-497]** : Le Diagnostic Invisible et Tri Spatial en Groupe (Audience Calibration & Spatial Sorting) — *Protocole :* Le Diagnostic Invisible et Tri Spatial en Groupe (Audience Calibration & Spatial Sorting) | *Mécanisme :* La Transe du Quotidien et la Posture d'Adulte dans la Pièce | *Verbatim :* Le Semis Hypnotique du Critère en Groupe
+- **Tranche 4 [Lignes 499-601]** : L'Entraînement au Muscle de l'Intention & de la Congruence Inconsciente — *Protocole :* L'Entraînement au Muscle de l'Intention & de la Congruence Inconsciente | *Mécanisme :* Le Principe d'Impeccabilité de la Parole / Congruence Inconsciente Interne | *Verbatim :* Le Recadrage de la Boîte (Frame Redefinition)
+- **Tranche 5 [Lignes 603-743]** : Le Calibrateur Progressif Statique (Gross-to-Subtle Calibration) — *Protocole :* Le Calibrateur Progressif Statique (Gross-to-Subtle Calibration) | *Mécanisme :* Le « Triage Somatique de Pertinence » (Relevance Tell / Disguise Shift) | *Verbatim :* PÉPITE 1 : L'Hypothèse Inoffensive à Effet Loupe
+- **Tranche 6 [Lignes 745-875]** : Le Bonjour Inconscient (The Unconscious Hello) — *Protocole :* Le Bonjour Inconscient (The Unconscious Hello)
+- **Tranche 7 [Lignes 877-1027]** : Calibration Pure « Hello to Yes/No » en 30 Secondes — *Protocole :* Calibration Pure « Hello to Yes/No » en 30 Secondes | *Verbatim :* La Sonde d'Engagement en Douceur
+- **Tranche 8 [Lignes 1029-1163]** : Traitement Écologique d'une Incongruence Somatique — *Protocole :* Traitement Écologique d'une Incongruence Somatique | *Mécanisme :* Traitement de l'Incongruence comme Signal d'Arrêt Délibéré | *Verbatim :* La Permission d'Exploration des Voies Alternatives
+- **Tranche 9 [Lignes 1165-1335]** : Élicitation Couverte des Critères en Public & Empilement de Preuves — *Protocole :* Élicitation Couverte des Critères en Public & Empilement de Preuves | *Mécanisme :* Élicitation Couverte des Critères de Groupe par Narration Furtive (Stealth Group Criteria Elicitation) | *Verbatim :* Verbatim 1 : La Furtivité du Diagnostic Clinique / Élicitation
+- **Tranche 10 [Lignes 1337-1478]** : Construction et Délivrance d'une Métaphore Isomorphique Persuasive — *Protocole :* Construction et Délivrance d'une Métaphore Isomorphique Persuasive | *Mécanisme :* Isomorphisme Métaphorique et Respect de l'Interprétation Inconsciente | *Verbatim :* L'erreur fatale d'explicitation du sens
+- **Tranche 11 [Lignes 1480-1703]** : Fondamental : Architecture C3P4 (Complet) — *Protocole :* Fondamental : Architecture C3P4 (Complet) | *Verbatim :* Pattern 1 : The Magic Wand Bypass (L'Induction du Cadre Magique)
+- **Tranche 12 [Lignes 1705-1854]** : L'Unconscious Hello & le Verrouillage Oculaire (Instant Rapport) — *Protocole :* L'Unconscious Hello & le Verrouillage Oculaire (Instant Rapport) | *Mécanisme :* Le "Pad Framing" & l'Obligation Opératoire Système | *Verbatim :* Le Double Pont Temporel d'Incarnation de Critère
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 12 ---
+## Tranche 1 / 12 : d'Élicitation Ascendante des Critères (The 3-Tier Laddering Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -201,8 +219,7 @@ flowchart TD
   *Structure syntaxique d'élicitation récursive et de montée en abstraction nominalisée (Chunking Up).*  
   La question neutre « What's important about... » force l'inconscient à sélectionner le critère de valeur sans injecter le moindre contenu sémantique extérieur. La question terminale (« And ultimately, what will that do for you? ») utilise la présupposition temporelle et téléologique (*ultimately*, *will*) pour court-circuiter l'utilité fonctionnelle du produit et extraire l'état d'être final recherché (le gain d'identité ou le soulagement émotionnel ultime).
 
-
-## --- Tranche 2 / 12 ---
+## Tranche 2 / 12 : L'Élicitation Ascendante des Critères en Zigzag (The Laddering & Zigzag Process)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche.
 
@@ -346,8 +363,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Défi présuppositionnel par fausse résignation :** *"I guess [negative criterion] isn't important to you"* inverse l'autorité. En feignant d'attribuer au sujet l'indifférence envers sa propre hantise, le praticien force l'ego et l'inconscient du sujet à se rebeller immédiatement pour affirmer l'exact contraire.
   - **Pression somato-cognitive :** Le formateur compare ce pattern à *"planter un poignard dans le dos"*. La syntaxe minimaliste crée un vide que le système nerveux du sujet est obligé de combler par une justification émotionnelle véhémente, rompant toute apathie.
 
-
-## --- Tranche 3 / 12 ---
+## Tranche 3 / 12 : Le Diagnostic Invisible et Tri Spatial en Groupe (Audience Calibration & Spatial Sorting)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (3/12).
 
@@ -480,8 +496,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Témoignage enchâssé temporel rétroactif :* Met dans la bouche d'un tiers une question terrifiante : *"If I hadn't have done what I did with you when I did it, how much worse would I have been...?"* Le prospect actuel traite cette phrase comme sa propre projection dans le futur s'il refuse l'offre aujourd'hui.
   - *Double contrainte de conscience finale :* *"I understood he got it. Do you understand?"* Force le sujet à valider l'analogie sous peine de s'avouer inconsciemment inférieur ou incapable de comprendre l'évidence.
 
-
-## --- Tranche 4 / 12 ---
+## Tranche 4 / 12 : L'Entraînement au Muscle de l'Intention & de la Congruence Inconsciente
 
 Voici l’extraction intégrale et opératoire de la tranche 4/12 de *Unconscious Persuasion* par Kenrick Cleveland.
 
@@ -585,8 +600,7 @@ Voici l’extraction intégrale et opératoire de la tranche 4/12 de *Unconsciou
 
 * **[Analyse du Pattern]** : **Présupposition de télépathie et rupture de pattern par jeu de mots phonétique/sémantique**. Erickson révèle qu'il a calibré l'intégralité du test silencieux des élèves (« *that thing you were wondering whether I'd notice* ») tout en détruisant leur attente d'un commentaire théorique sérieux par une métaphore familière en double sens (« *give a hoot* » référant directement au cri de la chouette/hibou *owl* déplacée par l'élève).
 
-
-## --- Tranche 5 / 12 ---
+## Tranche 5 / 12 : Le Calibrateur Progressif Statique (Gross-to-Subtle Calibration)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -728,8 +742,7 @@ Voici l’extraction intégrale et opératoire de la tranche 4/12 de *Unconsciou
 
 * **[Analyse du Pattern]** : Rupture de pattern agressive par question de confrontation d'identité (*« do you feel good about yourself in the morning... »*), provoquant un gel transitoire du traitement critique chez la cible (état de confusion / rupture de trame). Immédiatement avant la réaction défensive ou hostile, injection du renvoi miroir exact de son salut inconscient (*« played back his hello »*), suivi du recadrage de banalisation verbale (*« oh, just kidding »*). L'inconscient reçoit simultanément le code d'accès tribal de non-agression (*friendly*), neutralisant instantanément la portée de l'affront.
 
-
-## --- Tranche 6 / 12 ---
+## Tranche 6 / 12 : Le Bonjour Inconscient (The Unconscious Hello)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -861,8 +874,7 @@ Voici l’extraction intégrale et opératoire de la tranche 4/12 de *Unconsciou
     > *"I'm wondering if, now that you've heard what I've said so far, if you're ready to buy the car today... or if there's some other things that we need to talk about first."*
     *   **[Analyse du Pattern] :** Structure en double lien asymétrique. La clause temporelle préliminaire (*« now that you've heard what I've said so far »*) présuppose l'intégration complète des arguments. L'alternative introduite par *« or if there's some other things that we need to talk about first »* recadre le refus potentiel : l'achat futur reste la prémisse inévitable (*« first »* présuppose que l'achat viendra juste après la discussion des points restants), neutralisant ainsi le blocage définitif.
 
-
-## --- Tranche 7 / 12 ---
+## Tranche 7 / 12 : Calibration Pure « Hello to Yes/No » en 30 Secondes
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1014,8 +1026,7 @@ Voici l’extraction intégrale et opératoire de la tranche 4/12 de *Unconsciou
 > "I began to wonder whether there were other ways that you could get that attention without being forced to be uncomfortable and suffer discomfort all the time."
 * **[Analyse du Pattern]** : Induction ericksonienne par verbe de réflexion différée (*« I began to wonder »*), supprimant toute directivité autoritaire. Recadrage d'intention positive dissociant le symptôme (la douleur) du gain relationnel inconscient (*« get that attention »*). Présupposition d'alternative libératrice (*« whether there were other ways »*) couplée à un recadrage de victimisation interne (*« without being forced to be uncomfortable »*), rendant obsolète la fonction somatique de la douleur.
 
-
-## --- Tranche 8 / 12 ---
+## Tranche 8 / 12 : Traitement Écologique d'une Incongruence Somatique
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 8/12 du cours *Unconscious Persuasion* de Kenrick Cleveland et Harlan Kilstein.
 
@@ -1151,8 +1162,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - Cadrage d'identité normatif (*« any good hypnotist would... »*) qui lie la compétence professionnelle au respect absolu des limites posées par l'inconscient du sujet.
   - Métaphore spatiale de permission d'entrée (*« not go where you're not invited in »*), instaurant l'influence non comme une effraction, mais comme une hospitalité négociée.
 
-
-## --- Tranche 9 / 12 ---
+## Tranche 9 / 12 : Élicitation Couverte des Critères en Public & Empilement de Preuves
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1324,8 +1334,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Fractionnement et hiérarchisation des critères (*Fractionation of Quality*)** : Montée en gamme systématique opposant le rejet viscéral de la paresse (*"instant coffee gives me the willies"*) à l'exigence de l'excellence qui demande du travail et du soin.
   - **Rupture délibérée avant la moralisation** : La phrase finale (*"There's no comparison between the two"*) pose un truisme indiscutable et stoppe net le récit. Elle force l'inconscient du couple ou du client en négociation à transposer immédiatement la règle : investir dans sa relation/son projet exige d'abandonner les solutions faciles de supermarché pour adopter l'artisanat patient des grands crus.
 
-
-## --- Tranche 10 / 12 ---
+## Tranche 10 / 12 : Construction et Délivrance d'une Métaphore Isomorphique Persuasive
 
 Voici l'analyse opératoire intégrale de la tranche 10/12 de la formation *Unconscious Persuasion* par Kenrick Cleveland et Harlan Kilstein.
 
@@ -1468,8 +1477,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/12 de la formation *Unco
 * **[Analyse du Pattern] :**  
   Reframing conversationnel d'autorité. Face à une injonction de réponse binaire et réductionniste du système conscient/institutionnel, l'opérateur maintient fermement le cadre métaphorique en redéfinissant le récit narratif comme étant *"the straightest answer"* (la réponse la plus directe et pure possible). Cela déstabilise le cadre d'accusation tout en forçant l'audience à chercher le sens en profondeur.
 
-
-## --- Tranche 11 / 12 ---
+## Tranche 11 / 12 : Fondamental : Architecture C3P4 (Complet)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1694,8 +1702,7 @@ Voici l'analyse opératoire intégrale de la tranche 10/12 de la formation *Unco
   - **Double lien d'alternative (Double Bind)** : Présuppose que l'achat est d'ores et déjà acté au niveau inconscient. Le choix conscient offert à l'esprit critique est réduit à une modalité purement logistique (chèque ou carte / date de début), contournant complètement l'interrogation binaire « j'achète ou je n'achète pas ».
   - **Synchronisation d'ancrage** : Cette formulation est synchronisée avec l'activation de l'ancre visuelle périphérique au-dessus de l'oreille (`#over_the_ear_anchor`), déclenchant la cascade de conformité conditionnée.
 
-
-## --- Tranche 12 / 12 ---
+## Tranche 12 / 12 : L'Unconscious Hello & le Verrouillage Oculaire (Instant Rapport)
 
 Voici l'extraction intégrale, opératoire et sans filtre de la tranche 12/12 de la transcription brute du cours *Unconscious Persuasion* de Kenrick Cleveland (avec Harlan Kilstein).
 
@@ -1845,3 +1852,4 @@ Voici l'extraction intégrale, opératoire et sans filtre de la tranche 12/12 de
 * **[Analyse du Pattern] :**
   - **Rupture de pattern de confrontation :** Refuse d'entrer dans la polarité réponse/justification face à une objection.
   - **Interrogation trans-dérivationnelle réflexive :** Force le système nerveux du prospect à stopper sa recherche de failles externes et à sonder sa propre base de données interne. Comme le terrain a été balisé en amont par la douleur et les critères, l'inconscient du sujet génère lui-même l'argument qui neutralise sa propre objection (*self-closing*).
+

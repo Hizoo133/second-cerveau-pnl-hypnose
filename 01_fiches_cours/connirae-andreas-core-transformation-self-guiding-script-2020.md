@@ -54,10 +54,17 @@
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 67-279]** : Core Transformation Complet (Script d'Auto-Guidage 2020) — *Protocole :* Core Transformation Complet (Script d'Auto-Guidage 2020) | *Verbatim :* La Dissociation Déculpabilisante d'Origine
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 1 ---
+## Tranche 1 / 1 : Core Transformation Complet (Script d'Auto-Guidage 2020)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -270,3 +277,4 @@
   - **Permission permissive permissive (*you can allow... in whatever way it naturally does*)** : Évite toute résistance en laissant la physiologie inconsciente choisir sa propre voie d'accès.
   - **Métaphore biologique profonde (*emotional coding through your DNA*)** : Ancre l'apprentissage au niveau de l'identité biologique la plus stable et la plus intime, suggérant une pérennité cellulaire du changement.
   - **Expansion spatiale progressive (*entire body -> every cell -> beyond your skin -> all of consciousness*)** : Utilise une gradation kinesthésique centrifuge qui dissout les frontières de l'ego et induit spontanément une transe profonde non-duelle.
+

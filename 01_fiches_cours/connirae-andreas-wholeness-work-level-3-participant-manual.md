@@ -70,10 +70,19 @@ L'ensemble des interventions du Niveau 3 repose sur une même mécanique matrici
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 85-288]** : Intégration des Réactions & Méta-Réponses & Délégation Spécifique par Modalités Neurologique... — *Protocole :* Intégration des Réactions & Méta-Réponses | *Mécanisme :* Délégation Spécifique par Modalités Neurologiques (« Where am I Actually Present » VAKOG) | *Verbatim :* La Formulation Multiple de l'Origine Perceptive Visuelle
+- **Tranche 2 [Lignes 290-568]** : Polarités – Formule Générale & Qualités de Sensation — *Protocole :* Polarités – Formule Générale & Qualités de Sensation | *Mécanisme :* Le principe de Dépolarisation Spatiale et Somatosensorielle | *Verbatim :* Court-circuit de l'analyse logique et permission de deviner
+- **Tranche 3 [Lignes 570-763]** : Désactivation des Identités de Métaprogrammes (Information Sorts) — *Protocole :* Désactivation des Identités de Métaprogrammes (Information Sorts) | *Verbatim :* La dissolution de l'identité du « Connaisseur »
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : Intégration des Réactions & Méta-Réponses & Délégation Spécifique par Modalités Neurologique...
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche du manuel *Wholeness Work Level III*.
 
@@ -278,8 +287,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **« Sensing in and through this area, ask on the inside, ‘Where is the opposite or polarity of this?’ This isn’t anything you can figure out, and it may not be logically the opposite. We’re just inviting our system to notice, ‘Where is the opposite of this?’ Just notice what you notice. If you’re not sure, just ‘guess.’ »**
 * **[Analyse du Pattern] :** Injonction paradoxale anti-intellectuelle (« This isn't anything you can figure out »). L'opérateur disqualifie d'emblée les tentatives d'analyse logique pour basculer sur un mode heuristique intuitif. La consigne permissive « just guess » (devine simplement) court-circuite le perfectionnisme cognitif et abaisse le seuil de réponse critique, permettant à la cartographie spatiale inconsciente de projeter spontanément les coordonnées de la polarité refoulée.
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : Polarités – Formule Générale & Qualités de Sensation
 
 Voici l’analyse chirurgicale et opératoire de la tranche 2/3 du manuel participant *Wholeness Work Level 3* de Connirae Andreas.
 
@@ -559,8 +567,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 2/3 du manuel partic
   * **Nominalisation démasquée :** Transformer le verbe « savoir » ou le besoin d'« analyser » en une sous-personnalité spatiale (*The Knower* / *The one who wants to understand*).
   * **Rapprochement somatique de la pulsion épistémique :** En la ramenant à une *« sensation »* ou une simple *« vitalité »* (*aliveness*), l'illusion de l'ego intellectuel s'effondre pour redevenir une énergie neutre absorbable par le champ global de Conscience.
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : Désactivation des Identités de Métaprogrammes (Information Sorts)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -754,3 +761,4 @@ Voici l’analyse chirurgicale et opératoire de la tranche 2/3 du manuel partic
 > « And then there can be an invitation to the cells themselves… the cells and the airspace within… the Awareness already present in and through the cells is invited to wake up to itself. And without needing to understand the meaning of that, there can just be an allowing for whatever happens or doesn’t happen. »
 
 * **[Analyse du Pattern]** : Utilisation de la voix passive et de tournures impersonnelles (*« there can be an invitation »*, *« there can just be an allowing »*) qui éliminent tout ego ou volonté dirigée. Débrayage explicite de l'analyse intellectuelle par dissociation hypnotique (*« And without needing to understand the meaning of that »*), autorisant les niveaux neuro-végétatifs profonds à répondre sans interférence du cortex préfrontal. Présupposition que la Conscience est déjà intrinsèquement logée dans la biologie (*« already present in and through »*), ne demandant aucun apport externe mais une simple reconnaissance réflexive.
+

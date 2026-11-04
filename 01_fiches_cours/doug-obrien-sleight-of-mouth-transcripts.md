@@ -68,10 +68,25 @@ Toutes les interventions du cours reposent sur une séquence invariante en trois
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 89-195]** : The Agreement Frame Conditioning Drill — *Protocole :* The Agreement Frame Conditioning Drill | *Verbatim :* La structure fondamentale de l'Agreement Frame
+- **Tranche 2 [Lignes 197-382]** : Le Cadre d'Accord Intégratif (Agreement Frame) en 3 Échelons — *Protocole :* Le Cadre d'Accord Intégratif (Agreement Frame) en 3 Échelons | *Mécanisme :* L'Effacement Oppositionnel du « Mais » vs L'Addition Intégrative du « Et » | *Verbatim :* La Parabole de Hotei (Le Multi-Cadrage d'Accord Simultané)
+- **Tranche 3 [Lignes 384-501]** : Le Cadre d'Accordage vs La Conjonction Adversative (Agreement Frame vs "Yes, But") — *Protocole :* Le Cadre d'Accordage vs La Conjonction Adversative (Agreement Frame vs "Yes, But") | *Mécanisme :* Le Levier de l'Image Miroir vs Isomorphisme Latéral (Mirroring vs Matching) | *Verbatim :* Le Contournement Conscient du Rapport
+- **Tranche 4 [Lignes 503-621]** : Extraction & Cartographie de la Croyance Normative (If-Then-Means) — *Protocole :* Extraction & Cartographie de la Croyance Normative (If-Then-Means)
+- **Tranche 5 [Lignes 623-750]** : d'Élicitation Pure de la Croyance Tripartite (Clean NBS Elicitation) — *Protocole :* d'Élicitation Pure de la Croyance Tripartite (Clean NBS Elicitation) | *Verbatim :* La distinction structurelle entre l'étiquette et la valise
+- **Tranche 6 [Lignes 752-883]** : Élicitation Chirurgicale de la Croyance en 3 Parties (Triade Cause - Effet - Signification) — *Protocole :* Élicitation Chirurgicale de la Croyance en 3 Parties (Triade Cause - Effet - Signification) | *Verbatim :* La question universelle de rupture et d'élicitation
+- **Tranche 7 [Lignes 885-1002]** : Extraction d'une Croyance en 3 Parties (Three-Part Belief Elicitation) — *Protocole :* Extraction d'une Croyance en 3 Parties (Three-Part Belief Elicitation)
+- **Tranche 8 [Lignes 1004-1114]** : Élicitation et Calibrage de la Croyance Tripartite — *Protocole :* Élicitation et Calibrage de la Croyance Tripartite | *Verbatim :* Verbatim 1 : Doug O'Brien (Recadrage de la posture d'interrogation)
+- **Tranche 9 [Lignes 1116-1221]** : d'Application du Sleight of Mouth : Hierarchy of Criteria — *Protocole :* d'Application du Sleight of Mouth : Hierarchy of Criteria | *Mécanisme :* Le Levier de Hiérarchie des Critères (Hierarchy of Criteria) | *Verbatim :* La Hiérarchie sur la Durée vs l'Efficacité
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 9 ---
+## Tranche 1 / 9 : The Agreement Frame Conditioning Drill
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -179,8 +194,7 @@ Toutes les interventions du cours reposent sur une séquence invariante en trois
     *   **Accord par extension extrême / Dépassement de cadre** : Doug utilise l'Agreement Frame (*« I agree with you. And... »*) non pas pour s'aligner tièdement, mais pour projeter la logique de l'argument adverse dans une amplification outrancière (*« even if they don't want a gun »* / *« safely shooting bad guys »*). 
     *   **Recadrage par l'absurde (Pattern SOM : Consequence / Chunking Down)** : L'ironie n'est pas introduite par une négation, mais par une accumulation additive de présuppositions logiques poussées jusqu'à leur propre rupture de bon sens, maintenant formellement l'Agreement Frame intact.
 
-
-## --- Tranche 2 / 9 ---
+## Tranche 2 / 9 : Le Cadre d'Accord Intégratif (Agreement Frame) en 3 Échelons
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 2/9 du cours *Sleight of Mouth* de Doug O'Brien.
 
@@ -367,8 +381,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 2/9 du cour
   * *Recadrage par Changement de Cadre Temporel / Historique et Dé-moralisation*. Interrogé sur l'impossibilité de trouver un argument pour l'esclavage, Doug sépare immédiatement la validité morale (*« I'm not saying it's good, I'm not saying that's right »*) de l'observation historique et fonctionnelle descriptive.
   * L'effet syntaxique repose sur une **distinction entre explication et justification** : il élargit le cadre spatial et temporel (Norvégiens, Amérindiens, construction d'empires) pour démontrer que toute position humaine a possédé sa cohérence interne dans un contexte donné, sans que le praticien n'ait besoin d'y adhérer personnellement.
 
-
-## --- Tranche 3 / 9 ---
+## Tranche 3 / 9 : Le Cadre d'Accordage vs La Conjonction Adversative (Agreement Frame vs "Yes, But")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -487,8 +500,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 2/9 du cour
 > **Doug O'Brien** : *"So if it's over 150 pounds, then it's a real dog. That means it's a real dog... So what does it mean to be a real dog? I mean, what, so what is a real dog? You shouldn't have anything other than a real dog. You should just get rid of other breeds. You should have a mass annihilation of other dogs. What do you mean that that's, I mean, who cares? The point here. So if it's 150 pounds, then it's a real dog. Yeah. Okay. So what does that mean to you?"*
 * **[Analyse du Pattern]** : Poussée aux extrêmes par *Reductio ad absurdum* (*"mass annihilation of other dogs"*) pour déstabiliser la rigidité du critère, suivie d'un retour calme à la question centrale d'élicitation du sens (*"So what does that mean to you?"*). Doug teste la solidité de l'équivalence complexe en forçant le sujet à distinguer entre le fait objectif (le poids) et la valorisation subjective (ce qui définit la "réalité" ou la "qualité" du chien).
 
-
-## --- Tranche 4 / 9 ---
+## Tranche 4 / 9 : Extraction & Cartographie de la Croyance Normative (If-Then-Means)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -608,8 +620,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 2/9 du cour
   > « Just so you know, dog training is a hell of a lot harder than meta model and working with people with mental illnesses is a hell of a lot more complex and more difficult than the meta model. So if you've learned those things, you can clearly learn this. »
   * [Analyse du Pattern] : **Recadrage par comparaison dimensionnelle et présupposition modale.** Doug prend deux éléments factuels de compétence de la cliente et les place sur une échelle de difficulté bien supérieure à celle de la compétence cible. Le lien logique d'inférence directe (*"So if you've learned [X, Y], you can clearly learn [Z]"*) rend logiquement intenable la croyance *"I can't learn"*, avec l'adverbe présuppositionnel *"clearly"* qui force l'adhésion.
 
-
-## --- Tranche 5 / 9 ---
+## Tranche 5 / 9 : d'Élicitation Pure de la Croyance Tripartite (Clean NBS Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -738,8 +749,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 2/9 du cour
   - **Rupture Brutale d'Attente Psychologique (Pattern Interrupt)** : Le sujet s'attend à être secouru ou recadré après avoir exposé sa honte ou sa limitation. Doug pose une coupure chirurgicale nette (*"I'm done"* / *"I'm going to leave you"*).
   - **Effet Catalyseur Inconscient** : En refusant de refermer la boucle par un soulagement prématuré, Doug laisse la structure déconstruite en suspens dans le système nerveux de Greg, forçant son propre inconscient à traiter le non-sens de l'équation durant tout le temps d'incubation.
 
-
-## --- Tranche 6 / 9 ---
+## Tranche 6 / 9 : Élicitation Chirurgicale de la Croyance en 3 Parties (Triade Cause - Effet - Signification)
 
 Voici l'extraction opératoire intégrale de la tranche 6/9 du cours *Sleight of Mouth* de Doug O'Brien.
 
@@ -872,8 +882,7 @@ Voici l'extraction opératoire intégrale de la tranche 6/9 du cours *Sleight of
 > « So if your teenage son gets very frustrated and says to you go away, then you pull away. And that means there's no relationship? »
 * **[Analyse du Pattern] :** Boucle de rétroaction en syntaxe d'isomorphisme strict. Restitution mot pour mot de la séquence : condition environnementale sensorielle (*"gets frustrated / says go away"*), réponse comportementale de retrait (*"you pull away"*), et attribution de signification nominalisée (*"there's no relationship"*). Le ton interrogatif calibré force le système nerveux du sujet à tester la validité écologique de sa propre formule mathématique interne.
 
-
-## --- Tranche 7 / 9 ---
+## Tranche 7 / 9 : Extraction d'une Croyance en 3 Parties (Three-Part Belief Elicitation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -992,8 +1001,7 @@ Voici l'extraction opératoire intégrale de la tranche 6/9 du cours *Sleight of
 > **« Oh, wow, yeah, I agree with that. That's really a good point. And I'm just curious, how do you know that? I mean, I know how I feel about it, but how do you know that that's true? That's amazing. »**
 * **[Analyse du Pattern]** : Empilement de cadres d'accord et de truismes d'approbation couplé à une feinte naïveté conversationnelle (*Columbo technique*). Doug désamorce l'hostilité potentielle d'une question du méta-modèle (*"how do you know that?"*) en la saturant d'admiration et de validation (*"I agree"*, *"good point"*, *"That's amazing"*), rendant la contestation de la croyance totalement indolore pour l'ego du client.
 
-
-## --- Tranche 8 / 9 ---
+## Tranche 8 / 9 : Élicitation et Calibrage de la Croyance Tripartite
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1105,8 +1113,7 @@ Voici l'extraction opératoire intégrale de la tranche 6/9 du cours *Sleight of
 
 * **[Analyse du Pattern]** : Double lien asymétrique et recadrage axiologique d'urgence. O'Brien oppose un pôle progressiste minimal (*« any change even if it may be minor »*) à un pôle régressif toxique explicité (*« reinforce the old pattern... creating the painful situation »*). L'objection de départ (*« ça ne vaut pas la peine d'être fait car ça ne durera pas »*) est recadrée comme une complicité active avec la souffrance d'origine, rendant l'immobilisme insoutenable sur le plan de la cohérence interne.
 
-
-## --- Tranche 9 / 9 ---
+## Tranche 9 / 9 : d'Application du Sleight of Mouth : Hierarchy of Criteria
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1212,3 +1219,4 @@ Utilisé lorsqu'un sujet présente une structure de croyance rigide en 3 parties
 > **« Isn't it more important to be able to be nice and to behave well and go on play dates than to be naughty and alone? »**
 
 * **[Analyse du Pattern]** : Polarisation binaire stratégique. L'énoncé associe d'un côté la conformité comportementale à un gain relationnel hautement attractif (*« be nice and behave well and go on play dates »*), et de l'autre le comportement indésirable à une conséquence d'isolement social dramatique (*« naughty and alone »*). Ce couplage syntaxique force le système nerveux à fuir l'état d'isolement en réévaluant le comportement souhaité comme la condition d'accès à son besoin grégaire fondamental.
+

@@ -61,10 +61,55 @@ $$\text{Provocation / Bypass} \longrightarrow \text{Absorption Focale (Modal Spe
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 112-232]** : Le Méta-Algorithme CPI (Critical Path of Influence) — *Protocole :* Le Méta-Algorithme CPI (Critical Path of Influence) | *Mécanisme :* Le Filtre Éthico-Opératoire : Élimination du Jugement Moral | *Verbatim :* Recadrage de la Neutralité Opératoire
+- **Tranche 2 [Lignes 234-353]** : Le Verbatim Écho (L'Anti-Déformation Neurologique) — *Protocole :* Le Verbatim Écho (L'Anti-Déformation Neurologique)
+- **Tranche 3 [Lignes 355-481]** : Réécriture et Tracé de Route Cartographique (Mapping Missing Resources) — *Protocole :* Réécriture et Tracé de Route Cartographique (Mapping Missing Resources) | *Verbatim :* La Bande-Son de l'Expérience
+- **Tranche 4 [Lignes 483-598]** : Calibration Pure des Accès Oculaires (Exercice en Binôme) — *Protocole :* Calibration Pure des Accès Oculaires (Exercice en Binôme) | *Mécanisme :* Ordre d'Allumage Neurologique (Firing Order & Syntaxe Mentale) | *Verbatim :* Le Déverrouillage d'Auto-Référencement Massif (Violation Stratégique du Méta-Modèle)
+- **Tranche 5 [Lignes 600-752]** : Le Swish Holographique avec Pontage Somatique et Autonomiseur (Démonstration sur Rick) — *Protocole :* Le Swish Holographique avec Pontage Somatique et Autonomiseur (Démonstration sur Rick) | *Mécanisme :* Le Bureau Holographique et le Double Codage Neurologique | *Verbatim :* La Formule de l'Autonomiseur (Désamorçage de Réactance & Extraction de Critères)
+- **Tranche 6 [Lignes 754-887]** : Le Pare-feu Multi-Niveaux de Dissociation (Buffer Protocol) — *Protocole :* Le Pare-feu Multi-Niveaux de Dissociation (Buffer Protocol) | *Verbatim :* La Fausse Induction de Bandler (Confusion, Double Lien & Rupture de Cadre)
+- **Tranche 7 [Lignes 889-1001]** : Changement de Croyance par Cartographie Sous-Modalitaire Somato-Centrée (Submodality Belief... — *Protocole :* Changement de Croyance par Cartographie Sous-Modalitaire Somato-Centrée (Submodality Belief Map-Across) | *Mécanisme :* Le Pont Somatique et le Nexus Corporel ("The Meat") | *Verbatim :* s Verbatim 1 : Distinction Hypnose vs PNL sur l'Ancrage
+- **Tranche 8 [Lignes 1003-1147]** : Réalignement Hiérarchique des Valeurs par Cartographie des Sous-Modalités — *Protocole :* Réalignement Hiérarchique des Valeurs par Cartographie des Sous-Modalités | *Mécanisme :* Le Biais de Complétion et Surcharge des Boucles Imbriquées (Nested Loops / Open Loops) | *Verbatim :* Cadrage Épistémologique du Réalisme Neurologique
+- **Tranche 9 [Lignes 1149-1291]** : Désamorçage Kinesthésique Éclair par Sous-Modalités Visuo-Spatiales — *Protocole :* Désamorçage Kinesthésique Éclair par Sous-Modalités Visuo-Spatiales | *Mécanisme :* Le Levier Somato-Spatial : Ancrage Kinesthésique et Projection Spatiale | *Verbatim :* Le Recadrage Somato-Spatial Direct
+- **Tranche 10 [Lignes 1293-1431]** : A : Exploration Expérimentale & Changement de Configuration Temporelle — *Protocole :* A : Exploration Expérimentale & Changement de Configuration Temporelle | *Mécanisme :* Le Filtre Temporel comme Construction Neurologique Subordonnée au Ressenti | *Verbatim :* Induction par Double Lien Temporel et Fractionnement de Paupières
+- **Tranche 11 [Lignes 1433-1539]** : Encodage et Installation d'un Souvenir Futur (Future Memory Plug-in) — *Protocole :* Encodage et Installation d'un Souvenir Futur (Future Memory Plug-in) | *Verbatim :* La Loi de Conformité Neurologique
+- **Tranche 12 [Lignes 1541-1674]** : Le « Word Salad Drill » (Désinhibition & Riffing de Prédicats) — *Protocole :* Le « Word Salad Drill » (Désinhibition & Riffing de Prédicats) | *Verbatim :* Le Riffing d'Intégration Visuelle en Chaîne (Démonstration de Snyder)
+- **Tranche 13 [Lignes 1676-1802]** : d'Élicitation de Stratégie (Motivation / Décision) & Réactivation Couverte — *Protocole :* d'Élicitation de Stratégie (Motivation / Décision) & Réactivation Couverte | *Verbatim :* Extrait 1 : Double Entente & Amorçage Reptilien
+- **Tranche 14 [Lignes 1804-1913]** : Démantèlement d'un Comportement Inapproprié par Déconstruction de Stratégie — *Protocole :* Démantèlement d'un Comportement Inapproprié par Déconstruction de Stratégie | *Verbatim :* La Dé-nominalisation Opératoire du Symptôme
+- **Tranche 15 [Lignes 1915-2091]** : Protocole : Ancrage de Base & "Drug of Choice" — *Protocole :* Protocole : Ancrage de Base & "Drug of Choice" | *Verbatim :* Élicitation et spatialisation de l'état ressource (Drug of Choice)
+- **Tranche 16 [Lignes 2093-2226]** : L'Écrasement d'Ancrages (Collapsing Anchors) — *Protocole :* L'Écrasement d'Ancrages (Collapsing Anchors) | *Verbatim :* Le Déroulé Chirurgical du Collapsing d'Ancrages
+- **Tranche 17 [Lignes 2228-2366]** : Le Pré-Framing Physiologique d'Identité (Pre-Framing State Control) — *Protocole :* Le Pré-Framing Physiologique d'Identité (Pre-Framing State Control) | *Verbatim :* Verbatim 1 : Override somato-relationnel
+- **Tranche 18 [Lignes 2368-2502]** : Le Recadrage de Sens par Dé-potentialisation et Écho (Meaning Reframe Sequence) — *Protocole :* Le Recadrage de Sens par Dé-potentialisation et Écho (Meaning Reframe Sequence) | *Mécanisme :* La Primauté de l'État Interne sur la Syntaxe (State Dominance & Frame Ownership) | *Verbatim :* Méta-recadrage et Refus de Justification
+- **Tranche 19 [Lignes 2504-2662]** : L'Écrasement d'Ancres avec Amplification Visuo-Spatiale (Démonstration Consuela) — *Protocole :* L'Écrasement d'Ancres avec Amplification Visuo-Spatiale (Démonstration Consuela) | *Mécanisme :* L'Écrasement d'Ancres Asymétrique (Asymmetric Collapsing Anchors) | *Verbatim :* Défi Hypnotique d'Inhibition & Présupposition de Permanence
+- **Tranche 20 [Lignes 2664-2853]** : Ligne du Temps Thérapeutique & Réencodage de la Causalité (Timeline Regression & Resource Sw... — *Protocole :* Ligne du Temps Thérapeutique & Réencodage de la Causalité (Timeline Regression & Resource Sweeping) | *Verbatim :* Découplage de l'Histoire et Extraction Somato-Spatiale Immédiate
+- **Tranche 21 [Lignes 2855-2982]** : Démonstration d'Entraînement Neurologique Physique (Le Balancement Spontané) — *Protocole :* Démonstration d'Entraînement Neurologique Physique (Le Balancement Spontané) | *Verbatim :* s Verbatim
+- **Tranche 22 [Lignes 2984-3126]** : Le Modèle Opératoire CPI (Core Persuasion Formula) — *Protocole :* Le Modèle Opératoire CPI (Core Persuasion Formula) | *Verbatim :* La Stratégie d'Accord Instantané et d'Avancée Physique
+- **Tranche 23 [Lignes 3128-3262]** : Les Guerres de Rapport (Rapport Wars) – Phase A (Désaccord sous Synchronisation) — *Protocole :* Les Guerres de Rapport (Rapport Wars) – Phase A (Désaccord sous Synchronisation) | *Verbatim :* La métaphore chirurgicale du Méta-Modèle sans rapport
+- **Tranche 24 [Lignes 3264-3404]** : Détection & Réfutation Soft du « Mind Reading » (Lecture de Pensée) — *Protocole :* Détection & Réfutation Soft du « Mind Reading » (Lecture de Pensée) | *Verbatim :* La Double Entente Phonétique et Contextuelle
+- **Tranche 25 [Lignes 3406-3522]** : La Triade Méta-Modèle Sécurisée (Echo + Pre-frame + Challenge) — *Protocole :* La Triade Méta-Modèle Sécurisée (Echo + Pre-frame + Challenge)
+- **Tranche 26 [Lignes 3524-3617]** : A : Pulvérisation des Quantificateurs Universels (Universal Quantifiers) — *Protocole :* A : Pulvérisation des Quantificateurs Universels (Universal Quantifiers)
+- **Tranche 27 [Lignes 3619-3769]** : A : Réalignement Neuromoteur du Regard & Déblocage Visuel — *Protocole :* A : Réalignement Neuromoteur du Regard & Déblocage Visuel
+- **Tranche 28 [Lignes 3771-3927]** : Intégration Neurologique Accélérée dans la Control Room (Démonstration de Transe d'Installat... — *Protocole :* Intégration Neurologique Accélérée dans la Control Room (Démonstration de Transe d'Installation)
+- **Tranche 29 [Lignes 3929-4042]** : d'audit et de calibration d'un Objectif Bien Formé (Goal Engineering) — *Protocole :* d'audit et de calibration d'un Objectif Bien Formé (Goal Engineering) | *Mécanisme :* Le principe de Pharsing (Négation neurologique & amorçage obligatoire) | *Verbatim :* Pattern 1 : Démonstration de l'impossibilité neurologique de la négation
+- **Tranche 30 [Lignes 4044-4171]** : Désamorçage du Cadre de Blâme & Extraction de l'Objectif Bien Formé — *Protocole :* Désamorçage du Cadre de Blâme & Extraction de l'Objectif Bien Formé
+- **Tranche 31 [Lignes 4173-4306]** : Calibrage d'un Objectif Bien Formé (Well-Formed Outcome VAKOG) — *Protocole :* Calibrage d'un Objectif Bien Formé (Well-Formed Outcome VAKOG) | *Verbatim :* s & Patterns
+- **Tranche 32 [Lignes 4308-4450]** : La Matrice Formulaire d'Installation Directe ($X \xrightarrow{\text{Lien}} Y$) — *Protocole :* La Matrice Formulaire d'Installation Directe ($X \xrightarrow{\text{Lien}} Y$) | *Mécanisme :* La Pseudo-Logique Causal/Équivalence (Neurological Drive Writing) | *Verbatim :* L'Empilement de Paces et l'Installation Déguisée
+- **Tranche 33 [Lignes 4452-4598]** : Le "Pattern Interrupt" Éclair (Stop - Start - Now) — *Protocole :* Le "Pattern Interrupt" Éclair (Stop - Start - Now) | *Verbatim :* L'Empilement Causal de Persuasion Irrésistible
+- **Tranche 34 [Lignes 4600-4704]** : Le « Frank Kern Pattern » (Présupposition d'Action Conditionnelle Inversée) — *Protocole :* Le « Frank Kern Pattern » (Présupposition d'Action Conditionnelle Inversée)
+- **Tranche 35 [Lignes 4706-4851]** : Protocole d'Installation par Dérivation Métaphorique (Violation des Restrictions Sélectionne... — *Protocole :* Protocole d'Installation par Dérivation Métaphorique (Violation des Restrictions Sélectionnelles) | *Verbatim :* Empilement de Présuppositions & Focalisation Progressive (Business Stacking)
+- **Tranche 36 [Lignes 4853-5028]** : La Structure en Sandwich de la Commande Enchâssée ("Command-Wich") — *Protocole :* La Structure en Sandwich de la Commande Enchâssée ("Command-Wich") | *Mécanisme :* Le Postulat Conversationnel (Conversational Postulate) | *Verbatim :* Postulat conversationnel d'adoucissement & prise de contrôle du cadre
+- **Tranche 37 [Lignes 5030-5194]** : L'Ancrage Kinesthésique Complet (Stacking, Sliding, Transfer) — *Protocole :* L'Ancrage Kinesthésique Complet (Stacking, Sliding, Transfer) | *Mécanisme :* Le Downward Inflection & Tag Question Buffer | *Verbatim :* PÉPITE 1 : L'Inflexion Descendante Tamponnée (Buffer Tag)
+- **Tranche 38 [Lignes 5196-5298]** : Clôture Identitaire & Ancrage Postural de Sortie ("The Real World Oath") — *Protocole :* Clôture Identitaire & Ancrage Postural de Sortie ("The Real World Oath") | *Mécanisme :* La Primauté Opératoire de l'Hypnose sur la PNL ("Hypnosis Cooks the Rice") | *Verbatim :* La Prophétie Hypnotique de Révélation et Dérivation Sensorielle
+- **Tranche 39 [Lignes 5300-5384]** : Clôture Transactionnelle et Directionnalité d'Accompagnement (The Consultative Enrollment Cl... — *Protocole :* Clôture Transactionnelle et Directionnalité d'Accompagnement (The Consultative Enrollment Close) | *Verbatim :* Extrait 1 : Désensibilisation et Rapport en Contexte Extrême
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 39 ---
+## Tranche 1 / 39 : Le Méta-Algorithme CPI (Critical Path of Influence)
 
 Voici l'analyse opératoire intégrale de la tranche 1/39 du cours *Real World NLP* de David Snyder.
 
@@ -186,8 +231,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/39 du cours *Real World N
   - **Double comparatif proportionnel** (*« the more X, the slower Y »*), créant une corrélation directe et incontournable entre intellectualisation verbale et inefficacité thérapeutique.
   - **Présupposition temporelle** (*« You'll find out »*) qui force le système du sujet à anticiper une confirmation par sa propre expérience future.
 
-
-## --- Tranche 2 / 39 ---
+## Tranche 2 / 39 : Le Verbatim Écho (L'Anti-Déformation Neurologique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -308,8 +352,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/39 du cours *Real World N
 > **"If I show you a movie clip of a meadow, right? And maybe it's color, maybe it's just a neutral picture of a meadow... But if I change the soundtrack, if I start playing the Jaws soundtrack, as you're looking at that meadow, what happens to your feeling about the meadow? Huh? It gets more ominous, doesn't it?... The picture hasn't changed, but the structure has."**
 * **[Analyse du Pattern]** : Démonstration kinesthésique analogique par métaphore cinématographique directe. Force le système nerveux de l'auditeur à faire une recherche trans-dérivationnelle instantanée (combiner visuel bucolique + bande-son angoissante) prouvant organiquement que le ressenti affectif est un sous-produit immédiat du couplage structurel des sous-modalités.
 
-
-## --- Tranche 3 / 39 ---
+## Tranche 3 / 39 : Réécriture et Tracé de Route Cartographique (Mapping Missing Resources)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -437,8 +480,7 @@ Voici l'analyse opératoire intégrale de la tranche 1/39 du cours *Real World N
 > **"The eye movements indicate which cortex of the brain at any given moment the person is accessing, which is in response to a strategy that they have. Okay, we'll get into that more in depth, but again, putting that out there, opening a loop so you can go into deep trance, right?"**
 * **[Analyse du Pattern]** : Commande cachée déclarée explicitement (*meta-hypnotic frame*). Snyder annonce consciemment qu'il ouvre une boucle incomplète (*open loop*), mais utilise la formule syntaxique directe *"so you can go into deep trance, right?"*. L'association causale (*"so"*) lie l'incomplétude technique de l'information à l'approfondissement inévitable de l'état de transe chez l'auditeur.
 
-
-## --- Tranche 4 / 39 ---
+## Tranche 4 / 39 : Calibration Pure des Accès Oculaires (Exercice en Binôme)
 
 Voici l'analyse opératoire intégrale de la tranche 4/39 du séminaire *Real World NLP* de David Snyder.
 
@@ -555,8 +597,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/39 du séminaire *Real Wo
   - **Métaphore somatique viscérale :** *"knee deep in feelings"* ancre le diagnostic dans une réalité physique tangible.
   - **Liaison biomécanique déterministe :** Snyder relie l'angle des vertèbres cervicales et la position des globes oculaires à l'impossibilité physiologique d'alimenter la kinesthésie lourde, transformant un concept psychiatrique abstrait (dépression) en un simple problème d'axe optique et d'orientation posturale.
 
-
-## --- Tranche 5 / 39 ---
+## Tranche 5 / 39 : Le Swish Holographique avec Pontage Somatique et Autonomiseur (Démonstration sur Rick)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -710,8 +751,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/39 du séminaire *Real Wo
   * *Focalisation directive sur le remplacement* : *« Notice what happens instead »* ne demande pas *si* quelque chose a changé, mais force l'attention à calibrer ce qui a pris la place de l'ancien comportement. Le praticien gagne dans les deux cas : si le client n'y arrive pas, le pattern a fonctionné ; s'il observe un phénomène différent, le pattern a fonctionné.
   * *Ratification somatique immédiate* : *« Notice how good you feel »* lie la réouverture des yeux à une transe de satisfaction et valide le succès du reconditionnement sans laisser d'espace au doute critique.
 
-
-## --- Tranche 6 / 39 ---
+## Tranche 6 / 39 : Le Pare-feu Multi-Niveaux de Dissociation (Buffer Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -846,8 +886,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/39 du séminaire *Real Wo
   - **Boucle de rétroaction en double dissociation** : Formulation emboîtée (*« watching yourself, watching yourself, watching you »*) qui force le cerveau à créer deux observateurs méta successifs, effondrant la charge kinesthésique en quelques secondes.
   - **Submodalité enveloppante et verrouillage relationnel** : La commande *« wrap it around you »* crée une immersion totale à 360°, immédiatement enchaînée avec une suggestion de liaison hétéro-hypnotique directe (*« everywhere you look, you'll see me anyway »*), captant l'intégralité du champ perceptif du sujet vers la figure d'autorité du formateur.
 
-
-## --- Tranche 7 / 39 ---
+## Tranche 7 / 39 : Changement de Croyance par Cartographie Sous-Modalitaire Somato-Centrée (Submodality Belief...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -961,8 +1000,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/39 du séminaire *Real Wo
 > **« If you've accepted a belief as absolutely true, in other words, it's become an identity problem with you, you will fight to keep that belief. You will fight to keep it, because an attack on the belief is an attack on you. The neurology doesn't care. So the first thing you have to do is you have to drop that belief to its proper place on those levels of abstraction. It's not something you are. It's something you're doing. And you can always change what you're doing. »**
 * **[Analyse du Pattern]** : Recadrage par redéfinition et glissement de niveau logique (de l'Identité au Comportement). Snyder utilise une antithèse linguistique binaire majeure (*« It's not something you are. It's something you're doing »*). Le passage du verbe d'état (*are*) au verbe d'action (*doing*) transforme instantanément une structure rigide et défendue biologiquement en une opération plastique modifiable à volonté (*« you can always change what you're doing »*).
 
-
-## --- Tranche 8 / 39 ---
+## Tranche 8 / 39 : Réalignement Hiérarchique des Valeurs par Cartographie des Sous-Modalités
 
 Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 8/39 du cours *Real World NLP* de David Snyder.
 
@@ -1108,8 +1146,7 @@ Voici l'analyse modélisatrice intégrale et purement opératoire de la tranche 
   - *Rupture kinesthésique par déplacement vectoriel aveugle* : *"put it behind you"*, éliminant instantanément l'image du champ visuel attentionnel et provoquant la dissolution somatique immédiate.
   - *Aphorisme de clôture prescriptif* : *"If you can point to it, you can change it."*
 
-
-## --- Tranche 9 / 39 ---
+## Tranche 9 / 39 : Désamorçage Kinesthésique Éclair par Sous-Modalités Visuo-Spatiales
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche, structurées selon les règles d'ingénierie demandées.
 
@@ -1253,8 +1290,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Effondrement de réalité (Reality Deconstruction) :** La déduction *« by definition, time... does not exist »* détruit la fixité historique des souvenirs du sujet.
   - **Redéfinition instrumentaliste :** Réduire le temps à un simple filtre VAKOG spatialisé permet d'autoriser implicitement sa réorganisation chirurgicale par de simples gestes de la main.
 
-
-## --- Tranche 10 / 39 ---
+## Tranche 10 / 39 : A : Exploration Expérimentale & Changement de Configuration Temporelle
 
 Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire *Real World NLP* de David Snyder.
 
@@ -1394,8 +1430,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
     *   Affirmation d'une loi péremptoire posée comme présupposition universelle : *« the job of the neurology is to make your reality conform to your memories »*.
     *   Désamorçage de la distinction passée/future par réductionnisme fonctionnel (*« it's just a sorting mechanism »*) : en retirant la charge de réalité au concept de temps, le formateur libère le sujet de toute impossibilité perçue à « créer » le futur avec la même certitude viscérale qu'un souvenir validé.
 
-
-## --- Tranche 11 / 39 ---
+## Tranche 11 / 39 : Encodage et Installation d'un Souvenir Futur (Future Memory Plug-in)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1503,8 +1538,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
   * *Rupture de pattern et langage brut* : L'emploi de termes crus et viscéraux (« bore the fuck out of me », « the meat ») crée un choc stylistique qui brise l'académisme abstrait de la PNL traditionnelle.  
   * *Contraste binaire exclusif* : Opposition radicale entre « cognition » (dissociée, inerte) et « meat » (organique, réactive, totale), conditionnant l'intervenant à chercher des réponses autonomes du système nerveux autonome plutôt que des validations intellectuelles.
 
-
-## --- Tranche 12 / 39 ---
+## Tranche 12 / 39 : Le « Word Salad Drill » (Désinhibition & Riffing de Prédicats)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1639,8 +1673,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
   * **Ambiguïté de portée contextuelle (*Scope Ambiguity*)** : La question fait mine d'être un exercice technique innocent sur le modèle TOTE (*« When is it time to begin the process of... »*), mais introduit le thème de l'attirance sexuelle et viscérale (*« becoming incredibly attracted to somebody »*).
   * **Amorçage limbique / Activation des neurones miroirs** : L'interlocutrice est obligée d'accéder à son propre programme intérieur d'excitation et d'attraction pour répondre à la question syntaxique. La confusion volontaire sur l'intention du locuteur (*« Which one did I actually mean? »*) force le cerveau inconscient à ouvrir et activer simultanément tous les registres de sens possibles.
 
-
-## --- Tranche 13 / 39 ---
+## Tranche 13 / 39 : d'Élicitation de Stratégie (Motivation / Décision) & Réactivation Couverte
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1768,8 +1801,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
 
 - **[Analyse du Pattern]** : Empilement de truismes sensoriels suivi d'une commande d'association directe. En décrivant en boucle fermée ce que le sujet vit intérieurement tout en pointant physiquement dans l'espace avant de ramener le geste vers son propre corps, Snyder effectue un transfert d'autorité et de valeur. Le sujet valide verbalement son propre attachement (*"I like you more"*), résultat direct d'un ancrage spatial couplé à l'action motrice.
 
-
-## --- Tranche 14 / 39 ---
+## Tranche 14 / 39 : Démantèlement d'un Comportement Inapproprié par Déconstruction de Stratégie
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1880,8 +1912,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
 > "See, I don't even like this language. It's so cumbersome. In other words, it ain't you. It's your behavior that's fucked up. You're a good person no matter what you're doing, no matter how you're doing it. It's just, is your behavior appropriate to the situation or circumstance that you're in?"
 * **[Analyse du Pattern]** : Recadrage de niveau logique diltsien instantané par vulgarisation chirurgicale. Dissociation absolue entre le niveau de l'Identité (sacralisée comme positive et immuable : *"You're a good person no matter what"*) et le niveau du Comportement/Environnement (*"your behavior that's fucked up"*). L'usage d'un registre familier percutant désamorce la culpabilité névrotique tout en responsabilisant l'individu sur la pertinence adaptative de ses stratégies comportementales.
 
-
-## --- Tranche 15 / 39 ---
+## Tranche 15 / 39 : Protocole : Ancrage de Base & "Drug of Choice"
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2059,8 +2090,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
   - *Pont kinesthésique-visuel* : L'instruction d'action physique (« Point to where you feel it ») lie l'attention somatique au pilotage des sous-modalités visuelles (« make that picture bigger, stronger, turn the colors faster »).
   - *Commande par enthousiasme émotionnel de l'opérateur* : « Bring it right on back, baby » injecte une énergie haute qui calibre le système miroir du sujet sur l'intensité requise, interdisant le doute réflexif.
 
-
-## --- Tranche 16 / 39 ---
+## Tranche 16 / 39 : L'Écrasement d'Ancrages (Collapsing Anchors)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2195,8 +2225,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
 > **"Cause and effect, when we look at the structure of cause and effect language, what we're talking about is X causes Y. To use CPI speak, to use NLP speak, X is always what we call a pace. Your Y is always a lead... When we talk about pacing, what really we're talking about is calling or directing our attention to something that is sensorily, cognitively true. AKA, we can verify it... When experience happens, my representation is created as a result. Cause-effect. Follow me?"**
 * **[Analyse du Pattern]** : Utilisation de la formule de truisme vérifiable pour forcer l'acceptation d'une direction suggestive. En liant invariablement un stimulus sensoriel externe incontestable ($X$) à une réponse interne dirigée ($Y$), la syntaxe reproduit le fonctionnement réflexe du système nerveux. L'insertion récurrente du marqueur conversationnel de validation sous hypnose (*"Follow me?"*) vérifie le rapport et scelle la boucle de synchronisation/guidage.
 
-
-## --- Tranche 17 / 39 ---
+## Tranche 17 / 39 : Le Pré-Framing Physiologique d'Identité (Pre-Framing State Control)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2336,8 +2365,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 10/39 du séminaire 
 > "Well, in my experience, and you know what? If you're married, you've got a boyfriend, that's cool, I get that. But in my experience, I've found that there's no such thing as a married woman. There's only a woman who got married. And if your relationship 100% satisfies you, that's cool, I'm good with that."
 - **[Analyse du Pattern]** : Pacing conversationnel permissif (*"that's cool, I get that"*). Recadrage ontologique transformant une identité statique/nominalisée permanente (*"married woman"*) en un simple événement temporel passé révolu (*"a woman who got married"*). La suggestion conditionnelle finale (*"if your relationship 100% satisfies you"*) agit comme un coin présuppositionnel : l'exigence d'une perfection absolue (100 %) ouvre instantanément l'accès aux contre-exemples d'insatisfaction dans l'inconscient du sujet.
 
-
-## --- Tranche 18 / 39 ---
+## Tranche 18 / 39 : Le Recadrage de Sens par Dé-potentialisation et Écho (Meaning Reframe Sequence)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 18/39 du cours *Real World NLP* de David Snyder.
 
@@ -2473,8 +2501,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > **« The trouble is I keep beating myself up on body image. Beating yourself up on body image? Yes. And what would you like to do instead? To be kind to myself and loving to myself. Be kind to yourself and loving to yourself. Have you ever done that? Sometimes. Okay. Can you remember a time when you did? Apparently not. Wow. »**
 * **[Analyse du Pattern]** : Écho verbatim strict et calibrage d'accès mémoriel. Snyder utilise la répétition mot à mot (*"Beating yourself up on body image?"*, *"Be kind to yourself and loving to yourself"*) pour verrouiller la calibration sans déformation. Dès qu'il interroge l'accès à la ressource d'auto-compassion (*"Can you remember a time when you did?"*), la réponse somatique et verbale du sujet (*"Apparently not"*) révèle une coupure totale d'accès aux circuits neuronaux ressources. L'exclamation finale (*"Wow"*) marque la calibration immédiate d'un état d'amnésie de ressource nécessitant une intervention d'ancrage structurelle.
 
-
-## --- Tranche 19 / 39 ---
+## Tranche 19 / 39 : L'Écrasement d'Ancres avec Amplification Visuo-Spatiale (Démonstration Consuela)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 19/39 du cours *Real World NLP* de David Snyder.
 
@@ -2634,8 +2661,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 
 * **[Analyse du Pattern]** : Ratification instantanée d'un changement linguistique inconscient chez le sujet. Snyder capture le passage du temps présent au prétérit (*"I had that fear"*), l'érige en preuve irréfutable pour l'esprit conscient du sujet que le problème appartient désormais au passé, puis enchaîne immédiatement sur l'orientation vers le résultat désiré (*"What would you like instead?"*) pour ancrer le nouvel état d'ouverture et de sourire.
 
-
-## --- Tranche 20 / 39 ---
+## Tranche 20 / 39 : Ligne du Temps Thérapeutique & Réencodage de la Causalité (Timeline Regression & Resource Sw...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2826,8 +2852,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - *Changement de pronom et recadrage d'universalité* : La phrase passe de « *myself* » à « *yourself* », convertissant une prise de conscience personnelle en règle générale de fonctionnement.
   - *Enchaînement immédiat sur le balayage temporel* : Pas de pause réflexive ; propulsion directe vers la prochaine scène pour tester la généralisation de la croyance.
 
-
-## --- Tranche 21 / 39 ---
+## Tranche 21 / 39 : Démonstration d'Entraînement Neurologique Physique (Le Balancement Spontané)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2956,8 +2981,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 - **[Analyse du Pattern]** :  
   *Structure syntaxique :* Équivalence complexe articulée autour d'un comparatif proportionnel double (*« The more X, the more Y »*). Ce pattern lie directement une variable comportementale bienveillante (*générer du rapport*) à un résultat coercitif involontaire (*saper la capacité de résistance*), validé ensuite par un truisme d'autorité historique/policière (l'interrogatoire par empathie).
 
-
-## --- Tranche 22 / 39 ---
+## Tranche 22 / 39 : Le Modèle Opératoire CPI (Core Persuasion Formula)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3101,8 +3125,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Redéfinition Opératoire Belliqueuse** : Utilisation répétée du verbe « attack » pour détruire l'illusion théorique que la précision linguistique est neutre ou inoffensive.
   - **Présupposition de Nécessité Absolue** : Encadre le rapport non pas comme une option de confort, mais comme l'anesthésiant indispensable sans lequel toute intervention analytique est un échec destructeur.
 
-
-## --- Tranche 23 / 39 ---
+## Tranche 23 / 39 : Les Guerres de Rapport (Rapport Wars) – Phase A (Désaccord sous Synchronisation)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3238,8 +3261,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > « What usually happens when you get injected with an experience that doesn't fit neatly into the model you've been embracing is you go through this period of extreme discomfort and almost anxiety and sometimes confusion. Because what's happening now is your map has to reorganize itself to accommodate and allow for that. [...] If the experience you've been presented is too challenging to your current model, you'll delete the experience and go back to being stupid. »
 * **[Analyse du Pattern]** : Normalisation de la confusion et de l'anxiété comme indicateurs physiologiques nécessaires à la mise à jour cognitive. Snyder pose une polarité radicale : soit tolérer l'inconfort pour progresser (*"reorganize the map"*), soit activer une délétion défensive régressive qualifiée crûment de *"go back to being stupid"*, contraignant l'ego des étudiants à accepter l'ambiguïté pour préserver leur estime d'eux-mêmes.
 
-
-## --- Tranche 24 / 39 ---
+## Tranche 24 / 39 : Détection & Réfutation Soft du « Mind Reading » (Lecture de Pensée)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3381,8 +3403,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   - **Équivalence complexe et lien causal déguisé** : Établit une fausse égalité absolue entre ressentir l'émotion d'amour (*If you loved me*) et posséder des capacités de télépathie comportementale (*you'd know what to do*).
   - **Omission totale d'indice sensoriel** : Le terme *« what to do »* omet l'intégralité des actions concrètes attendues, plongeant l'interlocuteur dans un état d'impuissance et de culpabilité, typique de la transe pathologique relationnelle.
 
-
-## --- Tranche 25 / 39 ---
+## Tranche 25 / 39 : La Triade Méta-Modèle Sécurisée (Echo + Pre-frame + Challenge)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3500,8 +3521,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > "Try to resist and notice what happens instead. And as you do, notice the futility of it."
 - **[Analyse du Pattern]** : Double lien hypnotique et commande d'inhibition paradoxale (Double Bind / Ericksonien). Le mot *"Try"* présuppose l'échec de la tentative de résistance. Le focus est dérivé vers l'observation passive (*"notice what happens instead"*), suivi d'une suggestion liée dans le temps (*"And as you do"*) qui sature la perception de la sensation d'inutilité de la lutte (*"notice the futility of it"*), provoquant un abandon immédiat à la transe.
 
-
-## --- Tranche 26 / 39 ---
+## Tranche 26 / 39 : A : Pulvérisation des Quantificateurs Universels (Universal Quantifiers)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3596,8 +3616,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
 > *"Obviously, right now you can't see yourself doing it, but what would happen if you could?"*
 - **[Analyse du Pattern]** : Validation stratégique de l'état présent limitant (*pacing* : *« Obviously right now… »*) suivie d'un pivot linguistique de recadrage projectif (*leading* : *« but what would happen if you could? »*). La syntaxe désamorce la contradiction immédiate tout en orientant l'attention vers la création visuelle souhaitée.
 
-
-## --- Tranche 27 / 39 ---
+## Tranche 27 / 39 : A : Réalignement Neuromoteur du Regard & Déblocage Visuel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3749,8 +3768,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   3. Association somatosensorielle totale ("Wrap it around you").
   4. Commande enchâssée temporelle présupposant le plaisir ("Notice how good that feels"). Transition fulgurante de l'analyse méta-modèle à l'installation hypnotique en 4 secondes.
 
-
-## --- Tranche 28 / 39 ---
+## Tranche 28 / 39 : Intégration Neurologique Accélérée dans la Control Room (Démonstration de Transe d'Installat...
 
 Voici l'extraction et la modélisation intégrale de la tranche 28/39 selon les règles d'ingénierie demandées.
 
@@ -3908,8 +3926,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 28/39 selon les 
 ```
 * **[Analyse du Pattern]** : Recadrage sub-modal humoristique par rupture d'isomorphisme affectif. Le formateur désactive la charge dramatique d'une voix interne destructive en lui substituant une tonalité grotesque, prouvant que la réaction émotionnelle est purement subordonnée au vecteur auditif et non au sens des mots.
 
-
-## --- Tranche 29 / 39 ---
+## Tranche 29 / 39 : d'audit et de calibration d'un Objectif Bien Formé (Goal Engineering)
 
 Voici l'analyse opératoire intégrale de la tranche 29/39 selon la structure demandée :
 
@@ -4024,8 +4041,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/39 selon la structure de
 > "Your brain must seek to answer any question you put to it, no matter how stupid or badly formed the question is. I will test that. Why, in fact, is the moon made of green cheese? Now, first you have, what the fuck did he just say? And then you start to generate a rationale."
 * **[Analyse du Pattern]** : Provocation d'une transe de surcharge cognitive par présupposition absurde (*green cheese*). La question force le système sémantique de l'auditeur à suspendre son jugement critique pour chercher des liens métaphoriques ou logiques, validant expérimentalement la nature compulsive de la recherche de sens chez l'humain.
 
-
-## --- Tranche 30 / 39 ---
+## Tranche 30 / 39 : Désamorçage du Cadre de Blâme & Extraction de l'Objectif Bien Formé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4154,8 +4170,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/39 selon la structure de
 > **"Is this something that is completely within your control, Wendy, or is it contingent on somebody else's good graces, somebody needs to let you go, or the mountain won't stop you from going there?"**
 * **[Analyse du Pattern]** : Double lien thérapeutique et contraste polarisé forçant l'autonomie. L'alternative oppose une maîtrise absolue (*"completely within your control"*) à une dépendance infantilisante et caricaturale (*"somebody else's good graces... the mountain won't stop you"*), amenant le sujet à revendiquer pleinement l'agentivité de son changement.
 
-
-## --- Tranche 31 / 39 ---
+## Tranche 31 / 39 : Calibrage d'un Objectif Bien Formé (Well-Formed Outcome VAKOG)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4290,8 +4305,7 @@ Voici l'analyse opératoire intégrale de la tranche 29/39 selon la structure de
 > **"How does your understanding these language patterns cause you to do anything? You don't need to know. That's called a rationalization. There's no causal relationship there at all. There's no logical relationship. You'll generate a plausible rationale for it. Doesn't mean it's not true, but there's no logical causal effect there, but your brain creates one. Because you create it, you don't resist it."**
 * **[Analyse du Pattern]** : Explicitation métacognitive du fonctionnement de la suggestion. Snyder démontre que l'inconscient, contraint de combler un lien de pseudo-logique, devient le co-auteur de la suggestion. Dès lors que le sujet fabrique lui-même la justification de son changement, toute résistance psychologique s'éteint (*Because you create it, you don't resist it*).
 
-
-## --- Tranche 32 / 39 ---
+## Tranche 32 / 39 : La Matrice Formulaire d'Installation Directe ($X \xrightarrow{\text{Lien}} Y$)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 32/39 du cours *Real World NLP* de David Snyder.
 
@@ -4435,8 +4449,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 32/39 du cours *Real Wor
   - *Truisme d'identité inviolable* : « Because you want what's best for you » (impossible à contredire par l'ego).  
   - *Prescription d'état terminal sans alternative* : « Now there's nothing left to do but just feel good about it ».
 
-
-## --- Tranche 33 / 39 ---
+## Tranche 33 / 39 : Le "Pattern Interrupt" Éclair (Stop - Start - Now)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4584,8 +4597,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 32/39 du cours *Real Wor
 >   - *Métaphore de perte de contrôle irréversible :* *"It's down the river and you can't catch it"*, anéantissant toute velléité d'analyse rétroactive par le conscient.
 >   - *Double lien de capitulation agréable :* *"You might as well just enjoy it and succumb to it. Nothing left to do now but feel good about it."* L'inconscient reçoit l'instruction de cesser toute résistance critique et de savourer l'installation.
 
-
-## --- Tranche 34 / 39 ---
+## Tranche 34 / 39 : Le « Frank Kern Pattern » (Présupposition d'Action Conditionnelle Inversée)
 
 Voici l'extraction opératoire et l'analyse intégrale de la tranche 34/39.
 
@@ -4691,8 +4703,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 34/39.
 > "The first thing you'll notice after you've worked with us for a couple of months, is how easy your life has become, how much higher your bottom line is, and how much money you're actually saving. As you look back on that, realizing what a great decision it was, don't you feel great going forward?"
 - **[Analyse du Pattern] :** Pseudo-orientation temporelle et temporal-ordinal présupposé (*the first thing you'll notice after...*). La collaboration commerciale sur plusieurs mois est traitée comme un fait révolu. Le sujet est positionné rétrospectivement dans le futur (*look back on that*) pour ressentir au présent l'émotion de soulagement et de satisfaction liée à l'accord.
 
-
-## --- Tranche 35 / 39 ---
+## Tranche 35 / 39 : Protocole d'Installation par Dérivation Métaphorique (Violation des Restrictions Sélectionne...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4839,8 +4850,7 @@ Voici l'extraction opératoire et l'analyse intégrale de la tranche 34/39.
   - **Superlatif présupposé :** *« only the most powerful one will arise »* garantit qu'une idée forte va émerger.
   - **Défi paradoxal ericksonien (*Bind on Resistance*) :** *« when you try to resist it, well, test it and see what happens instead »* utilise l'énergie même de la résistance potentielle comme déclencheur du phénomène hypnotique suivant.
 
-
-## --- Tranche 36 / 39 ---
+## Tranche 36 / 39 : La Structure en Sandwich de la Commande Enchâssée ("Command-Wich")
 
 Voici l'analyse modélisatrice intégrale, opératoire et chirurgicale de la tranche 36/39 de la transcription brute du cours de David Snyder.
 
@@ -5017,8 +5027,7 @@ Voici l'analyse modélisatrice intégrale, opératoire et chirurgicale de la tra
 > **« And there's nothing left to do but feel good about it. And buy the next 12 trainings. That was too far. I know... So you'll feel much better only buying four. »**
 * **[Analyse du Pattern] :** Technique de persuasion par contraste extrême (Door-in-the-Face) exécutée sous hypnose conversationnelle. Snyder pose d'abord un double lien (« *there's nothing left to do but feel good* »), pousse la commande à un niveau délibérément excessif et inacceptable (« *buy the next 12 trainings* »), valide la rupture de cadre en s'amusant, puis replie le sujet sur l'objectif réel d'achat (« *feel much better only buying four* »). L'alternative réduite à quatre formations apparaît dès lors comme un immense soulagement émotionnel.
 
-
-## --- Tranche 37 / 39 ---
+## Tranche 37 / 39 : L'Ancrage Kinesthésique Complet (Stacking, Sliding, Transfer)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 37/39 du cours *Real World NLP* de David Snyder.
 
@@ -5184,8 +5193,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 > **« Try to go back to the way it was and tell me what happens instead. »**
 * **[Analyse du Pattern] :** Commande de vérification post-interventionnelle conçue pour prouver la rupture de pattern. Le verbe présuppositionnel « *try* » induit l'échec de la reconnexion à l'ancien problème. L'expression « *what happens instead* » force la cognition à observer la divergence kinesthésique, validant instantanément l'efficacité de l'intervention dans la mémoire sensorielle du client.
 
-
-## --- Tranche 38 / 39 ---
+## Tranche 38 / 39 : Clôture Identitaire & Ancrage Postural de Sortie ("The Real World Oath")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5289,8 +5297,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   - **Commande enchâssée d'issue inévitable :** *"that I will be victorious"* opère comme une suggestion post-hypnotique directe de succès systématique.
   - **Rupture de pattern de polarité et contre-exemple d'identification :** L'inclusion abrupte et familière de *"And not become a dickhead like so many others before me"* crée un choc de registre de langage qui réveille l'attention, installe un garde-fou éthique par aversion et sépare nettement la lignée du praticien "terrain" de l'arrogance stérile des théoriciens classiques.
 
-
-## --- Tranche 39 / 39 ---
+## Tranche 39 / 39 : Clôture Transactionnelle et Directionnalité d'Accompagnement (The Consultative Enrollment Cl...
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 39/39 (clôture de séminaire / pitch d'intégration et clôture pédagogique).
 
@@ -5375,3 +5382,4 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 - **[Analyse du Pattern] :**
   - **Double contrainte humoristique et inversion de causalité :** L'équation posée est : *Faible estime = prix bas (avantage client)* ; *Haute estime = hausse immédiate de prix (perte client)*.
   - **Commande implicite de non-ingérence :** En demandant *"do you realize the ramifications..."*, il impose au groupe d'accepter le deal immédiatement sans chercher à contester la logique, tout en transformant la transaction commerciale en un moment de complicité ludique.
+

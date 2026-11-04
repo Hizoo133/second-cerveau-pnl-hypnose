@@ -95,10 +95,25 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 116-309]** : Le Réveil Hypnotique / Dé-hypnotisation (Protocoles 3, 5, 10 temps & Ericksonien) — *Protocole :* Le Réveil Hypnotique / Dé-hypnotisation (Protocoles 3, 5, 10 temps & Ericksonien) | *Mécanisme :* Fractionnement somatosensoriel en trois stades (Autogène / Schultz dérivé) | *Verbatim :* Dé-hypnotisation & Clôture
+- **Tranche 2 [Lignes 311-451]** : Relaxation Progressive Somatique Descendante & Contraste Musculaire — *Protocole :* Relaxation Progressive Somatique Descendante & Contraste Musculaire | *Verbatim :* Verbatim 1 : Clôture du truisme d'alourdissement
+- **Tranche 3 [Lignes 453-672]** : Les Grains de Maïs ("Kernels of Corn") — *Protocole :* Les Grains de Maïs ("Kernels of Corn") | *Verbatim :* s Verbatim
+- **Tranche 4 [Lignes 674-800]** : Ancrage du Lieu Spécial (Safe Place Induction & Anchor) — *Protocole :* Ancrage du Lieu Spécial (Safe Place Induction & Anchor) | *Mécanisme :* Conditionnement Réflexe d'Ancrage Kinesthésique-Somatique (Lieu Sûr / Special Place)
+- **Tranche 5 [Lignes 802-1039]** : A : Résolution de Conflit Émotionnel du Passé, Pardon & Réécriture du Scénario (Pages 56-59) — *Protocole :* A : Résolution de Conflit Émotionnel du Passé, Pardon & Réécriture du Scénario (Pages 56-59) | *Mécanisme :* Somatisation inversée et extériorisation objectale de l'affect (affectobjectification somaticextraction symbolicdestruction) | *Verbatim :* La régression graduée avec boucle de confort
+- **Tranche 6 [Lignes 1041-1315]** : L'Ancrage de Relaxation Universelle à l'Eau & Hyper-Généralisation et Conditionnement Multi-... — *Protocole :* L'Ancrage de Relaxation Universelle à l'Eau | *Mécanisme :* Hyper-Généralisation et Conditionnement Multi-Modal Omniprésent | *Verbatim :* Verbatim 1 : L'Ancrage Pavlovien Universel de l'Eau
+- **Tranche 7 [Lignes 1317-1473]** : Le Temple des Vies Antérieures (Régression & Exploration Transpersonnelle) — *Protocole :* Le Temple des Vies Antérieures (Régression & Exploration Transpersonnelle) | *Verbatim :* Le Sas de Clôture & Immunisation Mnésique (p. 83 & 87)
+- **Tranche 8 [Lignes 1475-1612]** : Rêve Hypnotique Résolutif d'Incubation (60 secondes) — *Protocole :* Rêve Hypnotique Résolutif d'Incubation (60 secondes)
+- **Tranche 9 [Lignes 1614-1794]** : Le Bouclier de Lumière Rose (Protection Émotionnelle pour Enfants) — *Protocole :* Le Bouclier de Lumière Rose (Protection Émotionnelle pour Enfants) | *Verbatim :* Le Bouclier de Lumière Rose & L'Immunité Émotionnelle
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 9 ---
+## Tranche 1 / 9 : Le Réveil Hypnotique / Dé-hypnotisation (Protocoles 3, 5, 10 temps & Ericksonien)
 
 Voici l'analyse opératoire intégrale de la **tranche 1/9** du cours et manuel de scripts d'Anne King.
 
@@ -293,8 +308,7 @@ Voici l'analyse opératoire intégrale de la **tranche 1/9** du cours et manuel 
 ```
 * **[Analyse du Pattern]** : Suggestion d'effet physique inhabituel (*causing your hair to feel loose*). En reliant la relaxation musculaire du cuir chevelu à une sensation kinesthésique surprenante (les cheveux qui se détendent), l'attention consciente décroche momentanément par rupture de schéma logique, créant une micro-fenêtre d'acceptation accrue de la suggestion.
 
-
-## --- Tranche 2 / 9 ---
+## Tranche 2 / 9 : Relaxation Progressive Somatique Descendante & Contraste Musculaire
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 2/9 du cours *Hypnosis Scripts* d'Anne King.
 
@@ -436,8 +450,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 2/9 
 > "The third time they'll lock and you won't be able to open them ... WANT that to happen and WATCH it happen ... and they're locked and you'll find they just won't work, no matter how hard you try. The harder you try, the less they'll work. Test them, and you'll find they won't work at all. That's right."
 * **[Analyse du Pattern]** : *Inversion de l'effort volontaire (Loi de l'effet inverse)*. "The harder you try, the less they'll work" piège l'énergie du sujet contre lui-même : l'effort conscient pour ouvrir les paupières active directement les muscles antagonistes de fermeture. "That's right" ratifie immédiatement l'impuissance motrice comme une victoire de l'inconscient.
 
-
-## --- Tranche 3 / 9 ---
+## Tranche 3 / 9 : Les Grains de Maïs ("Kernels of Corn")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -658,8 +671,7 @@ SLEEP! (Lean forward and draw subject forward to you) »
   2. Ceux qu'il n'est pas nécessaire de comprendre : ils se dissolvent d'eux-mêmes (« dissolve away »).
   Cette structure élimine toute anxiété liée à l'abréaction ou à la confrontation traumatique. L'inclusion verbatim de la formule d'Émile Coué (« better and better every day in every way ») capitalise sur un rythme mnémotechnique universel d'auto-suggestion positive.
 
-
-## --- Tranche 4 / 9 ---
+## Tranche 4 / 9 : Ancrage du Lieu Spécial (Safe Place Induction & Anchor)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -787,8 +799,7 @@ SLEEP! (Lean forward and draw subject forward to you) »
 > "And as you feel the power of those feelings, physically release those feelings by imagining yourself removing them from your body .... removing all past painful feelings ..... Create your own image of what these old feelings look like and imagine yourself vigorously removing them from your body ..... imagine putting them into some kind of container ...."
 * **[Analyse du Pattern]** : Glissement transmodal et commande enchâssée d'expulsion somatique (*"physically release... by imagining"*). L'adverbe *"vigorously"* introduit une rupture avec la léthargie de la transe pour engager une action motrice subconsciente forte. Métaphorisation spatiale de l'inconfort qui le transmute en matière inerte déplaçable et confinée (*container*).
 
-
-## --- Tranche 5 / 9 ---
+## Tranche 5 / 9 : A : Résolution de Conflit Émotionnel du Passé, Pardon & Réécriture du Scénario (Pages 56-59)
 
 Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/9 du cours *Hypnosis Scripts* d'Anne King.
 
@@ -1027,8 +1038,7 @@ Voici l'analyse opératoire et la modélisation intégrale de la tranche 5/9 du 
   * Verrouillage temporel indéfini (*remains in effect for the rest of your life*).
   * Multiplication des contextes d'ancrage jusqu'au truisme comique/inévitable dans la suite du script (de la pluie aux tuyaux de plomberie, jusqu'au bruit des toilettes qui se vident), garantissant des dizaines de renforcements par jour sans effort délibéré.
 
-
-## --- Tranche 6 / 9 ---
+## Tranche 6 / 9 : L'Ancrage de Relaxation Universelle à l'Eau & Hyper-Généralisation et Conditionnement Multi-...
 
 Voici l'analyse opératoire intégrale de la tranche 6/9 du cours *Hypnosis Scripts* d'Anne King.
 
@@ -1304,8 +1314,7 @@ L'énergie de la couleur agit comme un solvant métaphorique qui sépare l'émot
   * Utilisation d'un verbe d'impossibilité totale attribué au subconscient (« *is unable to affect you negatively* »).
   * Recadrage de niveau méta sur le sens de la vie (« *life is a series of experiences… all of which benefit you* »), dissolvant préventivement toute charge traumatique liée à des mémoires régressives perturbantes.
 
-
-## --- Tranche 7 / 9 ---
+## Tranche 7 / 9 : Le Temple des Vies Antérieures (Régression & Exploration Transpersonnelle)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1463,8 +1472,7 @@ L'énergie de la couleur agit comme un solvant métaphorique qui sépare l'émot
   - *Distorsion temporelle encadrée* : La définition explicite « *about a minute* » couplée à l'équivalence complexe « *a real dream, just like the kind you have when you are asleep at night* » force l'inconscient à condenser l'activité neuro-onirique d'une nuit entière en 60 secondes chrono.
   - *Rupture de charge sémantique* : La gradation régressive « *relevant to your problem... work through this problem... so that it becomes far less of a problem* » dégrade la charge anxiogène du mot « problème » à mesure qu'il est répété, le vidant de son inertie psychologique.
 
-
-## --- Tranche 8 / 9 ---
+## Tranche 8 / 9 : Rêve Hypnotique Résolutif d'Incubation (60 secondes)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1603,8 +1611,7 @@ L'énergie de la couleur agit comme un solvant métaphorique qui sépare l'émot
 ```
 * **[Analyse du Pattern]** : Ancrage de ressource archétypale combiné à une suggestion post-hypnotique d'autonomie. L'association de la couleur rose (amour/sécurité maternelle) au concept de bouclier de guerrier unit la douceur réparatrice à la force protectrice active. Le déclencheur est auto-initié (*« just close your eyes »*), redonnant à l'enfant le plein pouvoir de régulation de ses frontières psychiques.
 
-
-## --- Tranche 9 / 9 ---
+## Tranche 9 / 9 : Le Bouclier de Lumière Rose (Protection Émotionnelle pour Enfants)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1785,3 +1792,4 @@ L'énergie de la couleur agit comme un solvant métaphorique qui sépare l'émot
   - *Enchaînement d'instructions en chaîne linéaire rigide (Chaining) :* Succession implacable de verbes d'action au présent de l'indicatif liés par l'adverbe *« automatically »* (*wake up $\rightarrow$ get out $\rightarrow$ walk $\rightarrow$ turn on $\rightarrow$ use $\rightarrow$ flush $\rightarrow$ turn off $\rightarrow$ go back*).
   - *Répétition hypnotique de l'ancrage nominal :* Le syntagme *« nice, dry bed »* est martelé quatre fois dans ce court paragraphe pour imprimer profondément la cible kinesthésique et thermique.
   - *Emphase modale terminale (Verbal Marker) :* L'utilisation de l'auxiliaire d'insistance appuyé *« and you DO wake up »* verrouille la commande motrice au niveau sous-cortical, empêchant le déni de réveil lors des phases de sommeil paradoxal ou léger.
+

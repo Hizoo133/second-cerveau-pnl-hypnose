@@ -65,10 +65,41 @@ Dans l'ensemble du modèle de Bruce, la sortie astrale est formalisée comme **u
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 102-238]** : Désamorçage et Traversée du Sas d'Expulsion Lourde (Exit Weathering) — *Protocole :* Désamorçage et Traversée du Sas d'Expulsion Lourde (Exit Weathering) | *Mécanisme :* Le Conflit Végétatif Cardiaque & Illusions d'Accélération Focale | *Verbatim :* La Normalisation Préventive de l'Expérience Limite
+- **Tranche 2 [Lignes 240-415]** : Locomotion Kinesthésique par Échafaudage Métaphorique (Rollerblade / Automobile Drive) — *Protocole :* Locomotion Kinesthésique par Échafaudage Métaphorique (Rollerblade / Automobile Drive) | *Mécanisme :* Relativité Visuelle de la Vitesse (Sight-Distance Speed Scaling) | *Verbatim :* Présupposition d'Échec Moteur & Échafaudage Kinesthésique
+- **Tranche 3 [Lignes 417-526]** : Navigation par Vecteur d'Intention Ciblée (Higher Self Steering) — *Protocole :* Navigation par Vecteur d'Intention Ciblée (Higher Self Steering) | *Mécanisme :* Le « Mind Split Effect » (Dédoublement Fonctionnel Simultané de la Conscience) | *Verbatim :* La Commande Impérative de Déplacement
+- **Tranche 4 [Lignes 528-662]** : A : Capture Immédiate au Point de Réintégration (Reentry Download Protocol) — *Protocole :* A : Capture Immédiate au Point de Réintégration (Reentry Download Protocol) | *Mécanisme :* Émulation Somato-Mentale de l'Endormissement | *Verbatim :* Verbatim : Ancrage de la commande de recherche mémorielle
+- **Tranche 5 [Lignes 664-814]** : Reprogrammation Directe par Décret Vocal Résonant (Voice-Vibration Command) — *Protocole :* Reprogrammation Directe par Décret Vocal Résonant (Voice-Vibration Command) | *Mécanisme :* Le Filtrage Homéostatique du Soi Supérieur (Higher Self Default Filters) | *Verbatim :* Le Décret du Présent Actif et de la Spécificité
+- **Tranche 6 [Lignes 816-936]** : Le Sas de Discernement Face aux Urgences Illusoires de Seuil — *Protocole :* Le Sas de Discernement Face aux Urgences Illusoires de Seuil | *Mécanisme :* Le Gardien du Seuil Algorithmique et les Illusions de Rupture du Pré-Exit | *Verbatim :* La redéfinition ericksonienne du courage
+- **Tranche 7 [Lignes 938-1065]** : Induction de Connexion Énergétique par Imagerie Tactile (NEW - Mains) — *Protocole :* Induction de Connexion Énergétique par Imagerie Tactile (NEW - Mains) | *Verbatim :* La Déclaration d'Universalité Opératoire du Système
+- **Tranche 8 [Lignes 1067-1251]** : La Sortie Éclair de 10 Secondes & Ancrage de Réintégration (The 10-Second Recall Dive) — *Protocole :* La Sortie Éclair de 10 Secondes & Ancrage de Réintégration (The 10-Second Recall Dive)
+- **Tranche 9 [Lignes 1253-1397]** : Le Test d'Équilibre sur le Fil du Rasoir (Razor’s Edge Arm-Drop) — *Protocole :* Le Test d'Équilibre sur le Fil du Rasoir (Razor’s Edge Arm-Drop) | *Mécanisme :* Découplage Somato-Cognitif (« Mind Awake / Body Asleep » sur le fil du rasoir) | *Verbatim :* La Transposition de la Rupture Hypnique
+- **Tranche 10 [Lignes 1399-1542]** : Le Rêve Lucide Induit à l'État de Veille (WILD) par l'Archétype du Marché — *Protocole :* Le Rêve Lucide Induit à l'État de Veille (WILD) par l'Archétype du Marché | *Verbatim :* Le Double-Lien d'Affirmation Présente
+- **Tranche 11 [Lignes 1544-1699]** : Nettoyage & Reprise de Contrôle de l'Espace Mental Visuel (The Mind's Eye Command & Banishin... — *Protocole :* Nettoyage & Reprise de Contrôle de l'Espace Mental Visuel (The Mind's Eye Command & Banishing Protocol)
+- **Tranche 12 [Lignes 1701-1865]** : A : Relâchement Isométrique & Auto-Massage Somato-Spatial (Fin de séance de relaxation physi... — *Protocole :* A : Relâchement Isométrique & Auto-Massage Somato-Spatial (Fin de séance de relaxation physique) | *Verbatim :* Commande somato-linguistique directe et ancrage de décharge
+- **Tranche 13 [Lignes 1867-2038]** : Le Balayage Spinal et Canal Central (Spinal & Central Channel Bounce) — *Protocole :* Le Balayage Spinal et Canal Central (Spinal & Central Channel Bounce) | *Verbatim :* L'autorisation motrice pour décharger l'anxiété de posture
+- **Tranche 14 [Lignes 2040-2268]** : L'Enveloppement Corporel Complet (Whole Body Wrap) — *Protocole :* L'Enveloppement Corporel Complet (Whole Body Wrap) | *Mécanisme :* Stimulation globale par balayage centrifuge et enveloppement tactile | *Verbatim :* Commande métaphorique de propulsion par force centrifuge
+- **Tranche 15 [Lignes 2270-2453]** : Le Conteneur de Pensées Parasites & Affirmation Sélective (Pré-Exit) — *Protocole :* Le Conteneur de Pensées Parasites & Affirmation Sélective (Pré-Exit) | *Mécanisme :* Amorçage et Ancres Mnémoniques Dégressives (Leading Statements & Keywords Triggering) | *Verbatim :* La Commande d'Autorité et de Clivage d'Attention
+- **Tranche 16 [Lignes 2455-2620]** : Propulsion Vectorielle Continue vers les Astres en Temps Réel (Real-Time Space Travel) — *Protocole :* Propulsion Vectorielle Continue vers les Astres en Temps Réel (Real-Time Space Travel) | *Mécanisme :* Déviation par Simulation Mémorielle vs Vectorisation Somato-Visuelle | *Verbatim :* Verbatim 1 : La Vectorisation Gravitaire vers la Lune
+- **Tranche 17 [Lignes 2622-2709]** : A : Immersion dans une Scène Historique ou Future via l'Interface Symbolique — *Protocole :* A : Immersion dans une Scène Historique ou Future via l'Interface Symbolique
+- **Tranche 18 [Lignes 2711-2826]** : Le Vaisseau de Lumière Merkabah par Kinesthésie des Deux Tubes (The Two Tubes Light Ship Exit) — *Protocole :* Le Vaisseau de Lumière Merkabah par Kinesthésie des Deux Tubes (The Two Tubes Light Ship Exit) | *Verbatim :* Le Piège de la distraction fulgurante
+- **Tranche 19 [Lignes 2828-2888]** : La Régression Mnésique Associative (Robert Bruce) — *Protocole :* La Régression Mnésique Associative (Robert Bruce) | *Mécanisme :* La régression associative en cascade (regressionassociative chainemnemonique)
+- **Tranche 20 [Lignes 2890-2967]** : A : La Négociation dans le Sanctuaire Intérieur (Travail relationnel symbolique) — *Protocole :* A : La Négociation dans le Sanctuaire Intérieur (Travail relationnel symbolique) | *Mécanisme :* Projection dans le futur et recadrage d'orientation temporelle
+- **Tranche 21 [Lignes 2969-3077]** : A : La Connexion Transcendantale Post-Régression ("Superconscious Mind Tap") — *Protocole :* A : La Connexion Transcendantale Post-Régression ("Superconscious Mind Tap") | *Verbatim :* Le Recadrage de Normalisation Radicale (Désamorçage Sémantique)
+- **Tranche 22 [Lignes 3079-3184]** : A : Purge Épistémique et Recalibrage des Croyances (« Cash Basket Concept ») — *Protocole :* A : Purge Épistémique et Recalibrage des Croyances (« Cash Basket Concept ») | *Verbatim :* Le Double Verrouillage Croyance/Manifestation
+- **Tranche 23 [Lignes 3186-3307]** : A : Traversée et Neutralisation d'une Charge Émotionnelle / Test d'Ombre — *Protocole :* A : Traversée et Neutralisation d'une Charge Émotionnelle / Test d'Ombre | *Verbatim :* La Décision Consciente et la Bascule Opératoire
+- **Tranche 24 [Lignes 3309-3430]** : Le Ré-Ancrage Énergétique Flash par Réintégration Forcée (High-Power Re-Entry Technique) — *Protocole :* Le Ré-Ancrage Énergétique Flash par Réintégration Forcée (High-Power Re-Entry Technique) | *Mécanisme :* Le « Mind Split Effect » (Effet de scission de l'esprit) & La Téléonomie de Surimpression Mnésique | *Verbatim :* La Normalisation du Miraculeux par la Présupposition Évolutive
+- **Tranche 25 [Lignes 3432-3524]** : Franchissement Forcé de Palier Initiatique (« The Grit-and-Dive Breakthrough ») — *Protocole :* Franchissement Forcé de Palier Initiatique (« The Grit-and-Dive Breakthrough ») | *Mécanisme :* Le Forçage Somatique d'Engagement (« Bridge/Grit the Teeth & Dive in ») | *Verbatim :* > « There was a time to bridge your teeth and just go for it, put all your fear aside, bring up a bit of courage, and just go for it. There's a lot of tests you'll find, which are programs, which you just activate by being in the astral, a particular state of energy, and you have because of the astral-projection you've been doing, and that you trigger these initiation top tests, which is sometimes the only way to get through them is to really bridge your teeth, I just try to head and just dive in, and they get through it, and that's what you need to do. »
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 25 ---
+## Tranche 1 / 25 : Désamorçage et Traversée du Sas d'Expulsion Lourde (Exit Weathering)
 
 Voici l'analyse d'ingénierie et de modélisation de la tranche 1/25 d'*Astral Projection Mastery* de Robert Bruce.
 
@@ -206,8 +237,7 @@ Voici l'analyse d'ingénierie et de modélisation de la tranche 1/25 d'*Astral P
 
 * **[Analyse du Pattern]** : Modélisation kinesthésique pure par régression d'âge métaphorique ("I was only a little boy then"). Bruce contourne les blocages de la volonté intellectuelle en fournissant une commande motrice analogique simple : substituer l'effort mécanique (vouloir bouger les jambes) par une sous-modalité kinesthésique d'accélération passive (pente descendante + rollers). C'est une induction directe de locomotion par l'inconscient proprioceptif.
 
-
-## --- Tranche 2 / 25 ---
+## Tranche 2 / 25 : Locomotion Kinesthésique par Échafaudage Métaphorique (Rollerblade / Automobile Drive)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 2/25 de Robert Bruce.
 
@@ -384,8 +414,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Personnification kinesthésique d'une force abstraite :** L'expérience d'une commande réussie est métaphorisée en sensation tactile nette (*"giant hand grabbed me"*, *"friendly presence"*), transformant un concept ésotérique en repère somatique calibrable.
   - **Démonstration par l'absurde d'une loi de cybernétique mentale :** La répétition hypnotique (*"I looked to the tree. And it's an interesting tree, I looked to the tree"*) illustre la rupture de l'objectif par l'intrusion d'un stimulus incident. Bruce utilise la prosodie théâtrale de la voix intérieure (*"oh, you want to look at the tree"*) pour graver dans l'esprit du praticien la nature impitoyablement littérale du traitement des commandes par les strates inconscientes supérieures.
 
-
-## --- Tranche 3 / 25 ---
+## Tranche 3 / 25 : Navigation par Vecteur d'Intention Ciblée (Higher Self Steering)
 
 Voici l'extraction opératoire intégrale et la modélisation de la tranche 3/25 du cours de Robert Bruce.
 
@@ -496,8 +525,7 @@ Voici l'extraction opératoire intégrale et la modélisation de la tranche 3/25
 * **[Analyse du Pattern] :**
   - **Confusion linguistique et boucle récursive :** L'expression *« which I am »* combinée à l'aveu *« it's a grammatical nightmare »* crée une surcharge cognitive volontaire. La rupture syntaxique force l'hémisphère gauche à lâcher prise face au paradoxe d'être simultanément le spectateur assis dans le fauteuil et l'acteur qui flotte au plafond.
 
-
-## --- Tranche 4 / 25 ---
+## Tranche 4 / 25 : A : Capture Immédiate au Point de Réintégration (Reentry Download Protocol)
 
 Voici l'analyse opératoire intégrale de la tranche 4/25 du cours *Astral Projection Mastery* de Robert Bruce.
 
@@ -633,8 +661,7 @@ Voici l'analyse opératoire intégrale de la tranche 4/25 du cours *Astral Proje
   * *Kinesthésie de la Déformation :* La description physique de la torsion (« *severely damaged, destroyed by forcing it through that hole* ») associe une sensation viscérale de mutilation à l'acte d'interpréter des expériences spirituelles par le prisme de dogmes rigides.
   * *Suggestion Post-Hypnotique de Simplification :* Prépare inconsciemment le sujet à désirer l'élimination de ses filtres complexes au profit d'un orifice circulaire unique et neutre (l'expérience brute dénuée d'étiquettes).
 
-
-## --- Tranche 5 / 25 ---
+## Tranche 5 / 25 : Reprogrammation Directe par Décret Vocal Résonant (Voice-Vibration Command)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/25 du cours *Astral Projection Mastery* de Robert Bruce.
 
@@ -786,8 +813,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 5/25
   - **Inoculation par simulation d'expérience future (Future Pacing négatif immunisant) :** En reproduisant le dialogue dénigrant mot à mot avec familiarité (*"he's dog meat", "what a stupid thing to do"*), Bruce désamorce l'effet de surprise et d'effroi. Lorsque le sujet entendra ces voix réelles la nuit, le schéma sera immédiatement reconnu comme un script prévisible et non une menace inédite.
   - **Redéfinition du critère de courage (Sleight of Mouth - Redéfinition) :** Déconstruction du postulat limitant classique (*Courage = Absence de peur*) vers une formule fonctionnelle opératoire (*Courage = Reconnaissance de la peur + Maintien du fonctionnement normal*). Le sujet n'a plus besoin d'éliminer la peur pour réussir sa sortie.
 
-
-## --- Tranche 6 / 25 ---
+## Tranche 6 / 25 : Le Sas de Discernement Face aux Urgences Illusoires de Seuil
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 6/25 selon la grille d'ingénierie demandée.
 
@@ -909,8 +935,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * **Double boucle d'ancrage kinesthésique et visuel (Sous-modalités de présence)** : Focalisation sur des indices précis (le sourire, l'étincelle dans les yeux, la projection télépathique).
   * **Question ouverte encadrée (Presupposition de possession irréversible)** : *« Now you've discovered it, what are you going to do with it? »*. La présupposition grammaticale majeure est que la découverte est un fait accompli et indéniable (*« now you've discovered it »*). L'alternative ne porte plus sur la validité de la méthode, mais uniquement sur la responsabilité morale de son déploiement et de son exhaustivité dans le monde.
 
-
-## --- Tranche 7 / 25 ---
+## Tranche 7 / 25 : Induction de Connexion Énergétique par Imagerie Tactile (NEW - Mains)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1039,8 +1064,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « Trust me on this one I mean big trust here 10 seconds out and dive back into your body passionately shouting your success make a strong memory and a deliberate dive back into the body and that maximizes your chance of reclaiming the memory because you have a powerful memory you're diving back into your physical body mind before it has a chance to fall into a deeper level of sleep which can lock you out. »
 * **[Analyse du Pattern] :** Rupture brutale de pattern par rapport aux croyances ésotériques habituelles : au lieu de valoriser la durée, Bruce prescrit une micro-expérience d'une extrême brièveté. L'injonction d'autorité conversationnelle (*« Trust me on this one I mean big trust here »*) prépare une commande d'action motrice et émotionnelle vigoureuse (*« passionately shouting your success »*, *« deliberate dive »*). Ce pattern utilise l'intensité affective comme fixateur neuro-chimique (dopamine/noradrénaline) pour forcer le passage de l'information astrale dans la mémoire épisodique du corps physique avant l'amnésie du sommeil profond.
 
-
-## --- Tranche 8 / 25 ---
+## Tranche 8 / 25 : La Sortie Éclair de 10 Secondes & Ancrage de Réintégration (The 10-Second Recall Dive)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1226,8 +1250,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   * *Métaphore structurelle du fil du rasoir* (*"edge of the razor"* / *"razor's edge"*) : métaphore kinesthésique forte installant la représentation d'une ligne d'équilibre ténue et instable entre deux états antagonistes.
   * *Rupture de pattern et recadrage d'effort* : normalisation de la difficulté technique (*"that is a little bit tricky"*) qui valide les échecs antérieurs de l'élève tout en focalisant son attention sur l'ajustement micro-somatique de précision.
 
-
-## --- Tranche 9 / 25 ---
+## Tranche 9 / 25 : Le Test d'Équilibre sur le Fil du Rasoir (Razor’s Edge Arm-Drop)
 
 Voici l'analyse opératoire intégrale de la tranche 9/25 du cours *Astral Projection Mastery* de Robert Bruce, selon la grille méthodologique d'ingénierie et de modélisation demandée.
 
@@ -1373,8 +1396,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/25 du cours *Astral Proje
   * **Triple répétition cinétique du verbe de plongeon :** *« dive back... dive back in... dive for the pen »* installe une dynamique motrice d'urgence absolue, empêchant le sujet de stagner dans la torpeur passive du réveil.
   * **Commande verbale choc enchâssée :** *« screaming, my hands melted »* crée un marqueur sémantique d'un relief cognitif maximal, indestructible face à la dissolution naturelle des souvenirs hypnagogiques.
 
-
-## --- Tranche 10 / 25 ---
+## Tranche 10 / 25 : Le Rêve Lucide Induit à l'État de Veille (WILD) par l'Archétype du Marché
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1519,8 +1541,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/25 du cours *Astral Proje
 
 * **[Analyse du Pattern]** : **Empilement de truismes VAKOG (Visuel, Auditif, Kinesthésique, Olfactif, Gustatif) en chaîne d'implication logique**. Bruce égrène des faits sensoriels indiscutables pour ratifier la solidité matérielle de la projection mentale. L'interjection viscérale (« ouch, it hurts ») réinjecte une mémoire kinesthésique vive qui trompe les filtres de croyance du cerveau et efface la distinction habituelle entre « rêve » et « réalité physique ».
 
-
-## --- Tranche 11 / 25 ---
+## Tranche 11 / 25 : Nettoyage & Reprise de Contrôle de l'Espace Mental Visuel (The Mind's Eye Command & Banishin...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1677,8 +1698,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/25 du cours *Astral Proje
 > **"Feeling the tension oozing out of your feet and your calves as you do this... feeling the tension oozing out of it like a liquid."**
 - **[Analyse du Pattern]** : Métaphore kinesthésique à haute charge submodalitaire visuo-tactile. La métaphorisation de la tension musculaire en "liquide qui suinte" (*oozing like a liquid*) modifie la nature cognitive de la crispation : elle cesse d'être une structure solide et rigide pour devenir une substance fluide, drainable et soumise à la gravité, facilitant l'évacuation sans résistance volontaire.
 
-
-## --- Tranche 12 / 25 ---
+## Tranche 12 / 25 : A : Relâchement Isométrique & Auto-Massage Somato-Spatial (Fin de séance de relaxation physi...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1844,8 +1864,7 @@ Voici l'analyse opératoire intégrale de la tranche 9/25 du cours *Astral Proje
 * **[Analyse du Pattern] :**  
   Protocole de pacification et de défocalisation linguistique. Bruce utilise l'acceptation et la gratitude paradoxale (*that's wonderfully active, thank you*) pour interrompre l'hyper-attention anxieuse portée sur la zone génitale. Il empile ensuite des suggestions de désactivation sous forme d'adjectifs d'apaisement (*relaxed, happy, calm, quiet*) pour finir par une commande technique directe d'extinction ciblée (*deactivates before an OBE exit*), installant une dissociation fonctionnelle entre pulsion biologique et projection astrale.
 
-
-## --- Tranche 13 / 25 ---
+## Tranche 13 / 25 : Le Balayage Spinal et Canal Central (Spinal & Central Channel Bounce)
 
 Voici l'analyse opératoire intégrale de la tranche 13/25 du cours *Astral Projection Mastery* de Robert Bruce, structurée selon les principes de modélisation neuro-somatique, hypnose et PNL.
 
@@ -2018,8 +2037,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/25 du cours *Astral Proj
 > *"you have to have a bit of trust in your high self your high self is as all the keys and all the controls for this and it is like allowing you to take control and allowing you to manually stimulate your chakras and this is all happening okay you know you know high self won't let you do any major damage to yourself if you could possibly have a technique with technique which could really hurt you your high self wouldn't allow it it's like you know it would just block it off it just wouldn't work for you..."*
 *   **[Analyse du Pattern] :** Recadrage de sécurité ontologique absolue par présupposition d'impossibilité. Bruce structure une boucle d'inviolabilité : si la technique fonctionne, c'est validé par le *Higher Self* ; si une technique devait être néfaste, elle échouerait d'elle-même. Cette structure linguistique en « pile ou face gagnant » libère intégralement le système nerveux du sujet de toute inhibition inhibitrice liée à la peur de mal faire ou de se blesser sur le plan occulte/énergétique.
 
-
-## --- Tranche 14 / 25 ---
+## Tranche 14 / 25 : L'Enveloppement Corporel Complet (Whole Body Wrap)
 
 Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tranche 14/25.
 
@@ -2249,8 +2267,7 @@ Voici l'analyse modélisatrice et l'extraction opératoire intégrale de la tran
   * *Présupposition de séquence d'action inévitable :* *« take a quick look around, look at your hands, watch them melt, and then dive back »*. L'enchaînement est énoncé sous forme de faits accomplis, programmant l'inconscient sur une boucle fermée hyper-courte.
   * *Mécanisme de préséance mnésique (*Overwrite*) :* L'impact émotionnel violent de la victoire proclamée est explicitement utilisé comme un commutateur cognitif pour écraser la mémoire d'inertie du corps physique.
 
-
-## --- Tranche 15 / 25 ---
+## Tranche 15 / 25 : Le Conteneur de Pensées Parasites & Affirmation Sélective (Pré-Exit)
 
 Voici l'analyse opératoire intégrale de la tranche 15/25 de la formation de Robert Bruce, structurée selon les règles strictes d'ingénierie et de modélisation PNL / hypnose.
 
@@ -2435,8 +2452,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/25 de la formation de Ro
   - **Submodalité de clarté / luminosité (*Brightest star / brightest structure*) :** Utilisation d'un attracteur visuel fort pour polariser l'attention de l'esprit astral et empêcher la dérive onirique chaotique.
   - **Transition par rupture de membrane (*Shift through the window*) :** La suggestion d'un seuil physique (miroir, fenêtre, champ de force) fournit à l'esprit un marqueur spatial net marquant le changement d'état dimensionnel.
 
-
-## --- Tranche 16 / 25 ---
+## Tranche 16 / 25 : Propulsion Vectorielle Continue vers les Astres en Temps Réel (Real-Time Space Travel)
 
 Voici l'analyse opératoire intégrale de la tranche 16/25 du cours de Robert Bruce, selon le protocole d'ingénierie modélisatrice.
 
@@ -2603,8 +2619,7 @@ Voici l'analyse opératoire intégrale de la tranche 16/25 du cours de Robert Br
 
 * **[Analyse du Pattern]** : **Synchronisation multi-canal (Visual/Verbal/Volitional Binding)**. Le formateur structure une commande enchâssée impérative (*« take me to the Akashic records »*) conditionnée par le maintien strict d'une image guide (« while you are imagining... hold that imagination there »). Le rythme de la phrase accélère le tempo (« intention then make the command and repeat ») pour forcer le basculement d'état par saturation des canaux intentionnels et verbaux.
 
-
-## --- Tranche 17 / 25 ---
+## Tranche 17 / 25 : A : Immersion dans une Scène Historique ou Future via l'Interface Symbolique
 
 Voici la modélisation et l’analyse structurée de la tranche 17/25 du corpus selon vos critères d’ingénierie PNL, hypnose et modélisation symbolique.
 
@@ -2693,8 +2708,7 @@ Voici la modélisation et l’analyse structurée de la tranche 17/25 du corpus 
 > **"Give me light now. I need more light, give me light, then I have light, this room is brightly lit."**
 * **[Analyse du Pattern]** : Séquence d'amplification passant de la commande impérative de manque (*"Give me..." / "I need..."*) à l'affirmation au présent d'un truisme déjà réalisé (*"then I have light, this room is brightly lit"*). Cette progression syntaxique force la perception à s'aligner sur la validation de l'état désiré.
 
-
-## --- Tranche 18 / 25 ---
+## Tranche 18 / 25 : Le Vaisseau de Lumière Merkabah par Kinesthésie des Deux Tubes (The Two Tubes Light Ship Exit)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2811,8 +2825,7 @@ Voici la modélisation et l’analyse structurée de la tranche 17/25 du corpus 
 > **« ...so everything I've told you here is like you can say is like the hints and tips and things, you don't have to follow my instructions verbatim, you know, feel free to mix and match and do things your own way... everything is flexible, just like the astral, a fluid environment... »**
 * **[Analyse du Pattern]** : Prescription de variabilité comportementale et dé-légitimation du dogme dogmatique (*Isomorphism / Metaphorical matching*). Bruce déconstruit la rigidité de l'apprenant en liant l'attitude psychologique du praticien à la nature même du substrat d'exploration par un prédicat d'homologie structurale (*« everything is flexible, just like the astral, a fluid environment »*). Cela autorise l'inconscient du sujet à tester, recalibrer et s'approprier les leviers sans générer de blocage induit par l'anxiété de performance.
 
-
-## --- Tranche 19 / 25 ---
+## Tranche 19 / 25 : La Régression Mnésique Associative (Robert Bruce)
 
 Voici l’analyse structurée, sous l'angle de la modélisation PNL, de l’hypnose conversationnelle et des architectures narratives, de la tranche 19/25.
 
@@ -2874,8 +2887,7 @@ Voici l’analyse structurée, sous l'angle de la modélisation PNL, de l’hypn
   > *"you can actually go from place to place without having to worry about traveling the speed of light or any of the things that normal physics and geophysics and astrophysics we discuss"*
   * **[Analyse du Pattern]** : Négation d'effort et empilement de termes d'autorité. La formule *« without having to worry about »* lève un obstacle cognitif en suggérant une facilité naturelle, tandis que l'énumération de disciplines scientifiques sert de cadrage de légitimité pour réduire le scepticisme critique du conscient.
 
-
-## --- Tranche 20 / 25 ---
+## Tranche 20 / 25 : A : La Négociation dans le Sanctuaire Intérieur (Travail relationnel symbolique)
 
 Voici l'analyse structurée de la tranche 20/25 de la transcription, modélisée selon les prismes de l'hypnose, de la PNL et des processus cognitifs et symboliques.
 
@@ -2954,8 +2966,7 @@ Voici l'analyse structurée de la tranche 20/25 de la transcription, modélisée
     > *"once you create energy you can never destroy it you can change its form heat can become electrical light energy but you can never destroy it so the soul is electromagnetic radiation equivalent to a television or radio signal... once the soul is created it can never be destroyed"*
     *   **[Analyse du Pattern] :** Analogie par empilement de truismes scientifiques (premier principe de la thermodynamique) détournés pour valider une conclusion identitaire non falsifiable. L'accord cognitif obtenu sur la physique est transféré par équivalence complexe (*"so the soul is..."*) à l'immortalité de la conscience, désactivant la terreur existentielle de l'annihilation.
 
-
-## --- Tranche 21 / 25 ---
+## Tranche 21 / 25 : A : La Connexion Transcendantale Post-Régression ("Superconscious Mind Tap")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3065,8 +3076,7 @@ Voici l'analyse structurée de la tranche 20/25 de la transcription, modélisée
     *   *Négation de compétence omnipotente :* « I've never hypnotized anyone » détruit la projection de toute-puissance du praticien pour réassigner l'agentivité causale au client.
     *   *Empilement d'autorité statistique suivi d'un effacement :* L'évocation d'un chiffre titanesque (35 000 interventions, 15 000 patients) sature l'autorité, pour immédiatement transférer cette légitimité dans les mains du système inconscient du patient (« patient does 99% of the work »), scellant un ancrage d'auto-guérison sans dépendance.
 
-
-## --- Tranche 22 / 25 ---
+## Tranche 22 / 25 : A : Purge Épistémique et Recalibrage des Croyances (« Cash Basket Concept »)
 
 Voici l'extraction et l'analyse opératoire intégrale de la tranche 22/25 du cours *Astral Projection Mastery* de Robert Bruce (incluant la fin de l'interview avec l'invité masculin puis le début de l'interview clinique d'Ali).
 
@@ -3173,8 +3183,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 22/25 du co
 > *"...even if you don't know what you want to do it's just like: 'Show me the way'..."*
 * **[Analyse du Pattern]** : **Commande enchâssée ouverte & Effacement de l'Ego**. Lorsque l'esprit conscient est submergé ou désorienté, chercher une intention complexe engendre du blocage. L'injonction courte « *Show me the way* » délègue la navigation à l'inconscient/Soi supérieur tout en posant un cadre d'orientation téléologique irréfutable.
 
-
-## --- Tranche 23 / 25 ---
+## Tranche 23 / 25 : A : Traversée et Neutralisation d'une Charge Émotionnelle / Test d'Ombre
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3297,8 +3306,7 @@ Voici l'extraction et l'analyse opératoire intégrale de la tranche 22/25 du co
 
 * **[Analyse du Pattern]** : Nominalisation recadrée en processus graduel. Robert Bruce démythifie la notion ésotérique de "maître" ou de "miracle" en la réduisant à une variable cognitive calibrable : la force de la "réalisation" (compréhension somato-psychologique incarnée). Ce recadrage élimine le gouffre hiérarchique entre l'apprenant et le mystique en posant une tâche purement opératoire : affiner et renforcer la fidélité de ses réalisations par l'accumulation d'expériences subjectives directes.
 
-
-## --- Tranche 24 / 25 ---
+## Tranche 24 / 25 : Le Ré-Ancrage Énergétique Flash par Réintégration Forcée (High-Power Re-Entry Technique)
 
 Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 24/25 du cours *Astral Projection Mastery* de Robert Bruce (en échange avec une praticienne/animatrice de podcast).
 
@@ -3421,8 +3429,7 @@ Voici l'analyse d'ingénierie et de modélisation opératoire de la tranche 24/2
   - *Désidentification ontologique par le recadrage informatique :* En qualifiant les entités ou cérémonies initiatiques de simples *"programs which you just activate"*, Bruce dépouille l'expérience astrale de son pouvoir de sidération superstitieuse.
   - *Commande comportementale d'ancrage paradoxal :* *"Keep smiling, pretend you know what you're doing"* constitue un biofeedback inversé. Adopter le sourire et la posture de l'expert en plein milieu d'une transe déstabilisante envoie au tronc cérébral un signal d'immunité et de non-dangerosité, neutralisant la réponse de sidération (*freeze*).
 
-
-## --- Tranche 25 / 25 ---
+## Tranche 25 / 25 : Franchissement Forcé de Palier Initiatique (« The Grit-and-Dive Breakthrough »)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 25/25 de l'intervention de Robert Bruce (*Astral Projection Mastery*).
 
@@ -3515,3 +3522,4 @@ Voici l'analyse modélisatrice et opératoire de la tranche 25/25 de l'intervent
 * **[Analyse du Pattern]** :
   * **Normalisation progressive par parallélisme :** Répétition rythmée de *« the same book... the same exercise, the same noise »*, créant une transe d'uniformisation et de reproductibilité scientifique rassurante.
   * **Nomination directe et libératrice du tabou :** *« you feel less alone and less mad »*. Rupture de complaisance par le mot cru (*mad*). En formulant le mot à voix haute, Bruce valide l'expérience informulée du sujet (la peur de devenir fou), pour aussitôt la dissoudre en la reliant à un simple manque d'interaction sociale technique.
+

@@ -66,10 +66,19 @@ Le fil conducteur unifiant toutes les démonstrations suit une rigueur chirurgic
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 81-231]** : Transformation d'une Qualité Ambiguë en Qualité Certaine — *Protocole :* Transformation d'une Qualité Ambiguë en Qualité Certaine | *Mécanisme :* Le Ratio Critique et la Granularité de la Base de Données | *Verbatim :* Présupposition d'Évolution Inéluctable et Cadre d'Expertise
+- **Tranche 2 [Lignes 233-366]** : Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2) — *Protocole :* Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2) | *Mécanisme :* Traitement et Dérivation des Contre-Exemples vers une Qualité Émergente | *Verbatim :* Préservation de la Structure Pure & Évitement du Contenu
+- **Tranche 3 [Lignes 368-462]** : Clôture du Self-Concept Recode — Re-imprinting du Contre-Exemple Racine, Chaînage Feedforwar... — *Protocole :* Clôture du Self-Concept Recode — Re-imprinting du Contre-Exemple Racine, Chaînage Feedforward & Intégration
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : Transformation d'une Qualité Ambiguë en Qualité Certaine
 
 Voici l'analyse opératoire intégrale de la tranche 1/3 de la formation de Damon Cart, structurée selon les exigences strictes d'ingénierie du Self-Concept.
 
@@ -221,8 +230,7 @@ flowchart TD
 > « An abundance of counter examples are there for a reason. For some reason, you're unconscious, put them there... So know that that's normal. Let this surprise you. It's nothing to be frustrated about. This is normal. This is transforming yourself. »
 * **[Analyse du Pattern]** : Empilement de suggestions de normalité (*« normal... for a reason... this is normal »*) couplé à une réorientation de l'état interne par injection de curiosité (*« Let this surprise you »*). Ce recadrage élimine le réflexe de lutte contre les parties réfractaires du Soi, créant le climat d'accueil nécessaire à la négociation des parties et à l'écologie du système.
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : Transformation d'une Qualité Ambiguë en Qualité Certaine (Parties 1 & 2)
 
 Voici l’analyse modélisatrice chirurgicale de la tranche 2/3 du cours de Damon Cart (*Transforming Yourself - Transforming An Uncertain Quality Demos*).
 
@@ -357,8 +365,7 @@ Voici l’analyse modélisatrice chirurgicale de la tranche 2/3 du cours de Damo
 > "It doesn't affect this at all. It shouldn't. Because remember when we did it with your certain quality, well, actually when we elicit your certain quality, your counter examples were already integrated in there, which is usually what a certain quality is. You can accept the times when you weren't Q and actually that makes it even stronger and more realistic. Right. It just feels like, okay, sometimes I'm not."
 - **[Analyse du Pattern]** : *Inversion de valence logique et normalisation d'imperfection.* Cart redéfinit la nature même d'une certitude saine : un contre-exemple n'est plus la preuve qu'on n'est pas $Q$, mais la preuve que notre identité est robuste et réaliste. L'acception de la variabilité contextuelle détruit la fragilité du perfectionnisme névrotique.
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : Clôture du Self-Concept Recode — Re-imprinting du Contre-Exemple Racine, Chaînage Feedforwar...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -453,3 +460,4 @@ Voici l’analyse modélisatrice chirurgicale de la tranche 2/3 du cours de Damo
 
 > **"Well, just an hour ago, you weren't certain about it. And probably for most of your life, and now here you are, certain that you're Q."**
 - **[Analyse du Pattern]** : Recadrage temporel à fort contraste (*temporal pacing and leading*). Mise en tension dramatique de deux lignes temporelles (« pour la majeure partie de ta vie » vs « maintenant ici »). Ce contraste ancre la permanence de la transformation en marquant la discontinuité irréversible entre l'ancien état de doute et l'état présent de certitude.
+

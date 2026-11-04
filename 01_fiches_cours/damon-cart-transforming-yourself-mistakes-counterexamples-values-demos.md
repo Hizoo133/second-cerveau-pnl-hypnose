@@ -90,10 +90,22 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 108-246]** : Audit Structural du Contre-Exemple & Intégration Sécurisée des Contre-Exemples (Cas : Même m... — *Protocole :* Audit Structural du Contre-Exemple | *Mécanisme :* Le Contre-Exemple comme Ancre de Réalité et Vaccin de l'Identité | *Verbatim :* Le Recadrage de l'Affect Négatif en Engagement envers la Valeur
+- **Tranche 2 [Lignes 248-397]** : A : Intégration Trans-Modale & Spatialisation des Contre-Exemples — *Protocole :* A : Intégration Trans-Modale & Spatialisation des Contre-Exemples | *Mécanisme :* Homogénéisation Intermodale Trans-Structurelle (Règle d'équivalence décimale/fraction) | *Verbatim :* Verbatim 1 : Séparation Ontologique & Recadrage de l'Erreur
+- **Tranche 3 [Lignes 399-582]** : A : Catégorisation et Redéfinition de Portée des Contre-Exemples — *Protocole :* A : Catégorisation et Redéfinition de Portée des Contre-Exemples
+- **Tranche 4 [Lignes 584-719]** : A : Transformation et Ré-édition d'un Contre-Exemple Unitaire — *Protocole :* A : Transformation et Ré-édition d'un Contre-Exemple Unitaire | *Verbatim :* Extrait 1 : Désamorçage de la projection externe et auto-génération de la ressource
+- **Tranche 5 [Lignes 721-876]** : A : Intégration et Diffusion du Contre-Exemple Transformé — *Protocole :* A : Intégration et Diffusion du Contre-Exemple Transformé | *Verbatim :* Extrait 1 : Découplage de la dépendance externe
+- **Tranche 6 [Lignes 878-1004]** : Hiérarchisation Tournoi par Enchâssement de Cadre (Values Tournament Hierarchy) — *Protocole :* Hiérarchisation Tournoi par Enchâssement de Cadre (Values Tournament Hierarchy)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 6 ---
+## Tranche 1 / 6 : Audit Structural du Contre-Exemple & Intégration Sécurisée des Contre-Exemples (Cas : Même m...
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche, conformément aux règles d'ingénierie et d'ontologie émergente.
 
@@ -233,8 +245,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Encadrement spatial linguistique (*Gestalt foreground/background*) :** Les erreurs sont sémantiquement décrites comme "entourées" (*surrounded*) par les succès. Le pattern syntaxique force l'inconscient à reléguer l'erreur au statut de détail au sein d'une toile de fond ultra-majoritaire, empêchant la déformation cognitive par focalisation isolée.
   - **Truisme d'attention sélective :** Empilement d'une règle universelle (*"Whatever your focus is, that's what your world becomes"*) qui valide logiquement l'intérêt de la structure d'intégration proposée.
 
-
-## --- Tranche 2 / 6 ---
+## Tranche 2 / 6 : A : Intégration Trans-Modale & Spatialisation des Contre-Exemples
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -385,8 +396,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Validation préalable (Pacing / Utilisation de la valeur du sujet) :** Ratification du cadre moral du sujet (`it's a wonderful idea to want to help people`), ce qui empêche le rejet de la suggestion.
   - **Inclusion tautologique imparable dans la catégorie sémantique :** Recadrage logique par ré-inclusion dans l'ensemble de référence (`You too are a people. You're a person as well`). Si la règle universelle est "aider les gens", et que le sujet appartient mathématiquement à la classe "les gens", la déduction logique (`by definition`) force l'auto-compassion sans transgresser le système de valeurs initial.
 
-
-## --- Tranche 3 / 6 ---
+## Tranche 3 / 6 : A : Catégorisation et Redéfinition de Portée des Contre-Exemples
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -571,8 +581,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 
 * **[Analyse du Pattern]** : *Focalisation sur le locus de contrôle interne et chaîne de dérivation métaphorique.* Utilisation d'un truisme philosophique stoïcien (« can't control external / can only control internal ») renforcé par un tag question confirmatif (« right? »), suivi d'une translation : la ressource matérielle illusoire est instantanément convertie en équivalent neuro-chimique interne (« what that outer resource would have given you »).
 
-
-## --- Tranche 4 / 6 ---
+## Tranche 4 / 6 : A : Transformation et Ré-édition d'un Contre-Exemple Unitaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -709,8 +718,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Langage kinesthésique et spatial d'action directe* : Emploi d'actions physiques concrètes (« pulling out », « workstation », « popping it back ») qui contournent la théorisation intellectuelle pour agir directement sur l'organisation des sous-modalités dans l'espace péripersonnel.
   - *Suggestion post-hypnotique de bascule globale* : Le verbe « flip » (basculer d'un coup sec) associé à « what will just happen » présuppose une réorganisation automatique, spontanée et sans effort conscient de la totalité du système mnésique.
 
-
-## --- Tranche 5 / 6 ---
+## Tranche 5 / 6 : A : Intégration et Diffusion du Contre-Exemple Transformé
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -867,8 +875,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Modalité de nécessité absolue* : L'expression interrogative "*which value do I absolutely have to have?*" force une décision binaire sans compromis, neutralisant la tendance cognitive à la conciliation vague ("*les deux sont importantes*").  
   - *Implication unilatérale délibérée* : La formulation "*happiness is implicit*" crée un ancrage linguistique démontrant que la poursuite de la valeur supérieure résout automatiquement les exigences de la valeur subordonnée.
 
-
-## --- Tranche 6 / 6 ---
+## Tranche 6 / 6 : Hiérarchisation Tournoi par Enchâssement de Cadre (Values Tournament Hierarchy)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -995,3 +1002,4 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 * **Extrait 5 : Boucle vertueuse Alignement Valeurs - Concept de Soi**
   > « So if we take these, and we install them as qualities, as certain qualities, then she will have a stronger sense of herself, and being the exact same things that she values or having the same qualities that she values, and then she will likely behave more in line with these values, which will make her feel even more fulfilled and happier, and you'll have a sense of meaning and purpose when your behavior is in alignment with your values. »
   * **[Analyse du Pattern]** : Empilement de truismes et chaînage de causalité progressive (*cause-effect stacking* : *"if... then... and then... which will... and you'll..."*). Ce pattern syntaxique induit une transe de certitude logique reliant l'identité (qualité installée), le comportement aligné, l'affect (accomplissement) et le sens métaphysique (*meaning and purpose*).
+

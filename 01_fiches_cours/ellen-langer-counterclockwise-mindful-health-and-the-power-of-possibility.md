@@ -83,10 +83,30 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 109-232]** : L'Immersion Chrono-Spatiale Inverse (Étude « Counterclockwise ») — *Protocole :* L'Immersion Chrono-Spatiale Inverse (Étude « Counterclockwise ») | *Mécanisme :* Le Monisme Somato-Cognitif Intégral (Nondualist Mind-Body Unity) | *Verbatim :* Le Recadrage d'Attente et de Possibilité
+- **Tranche 2 [Lignes 234-385]** : L'Expérimentation Sans Enjeu Identitaire (Application à la Vision et aux Capacités Sensoriel... — *Protocole :* L'Expérimentation Sans Enjeu Identitaire (Application à la Vision et aux Capacités Sensorielles) | *Mécanisme :* Le Postulat du "N = 1" (Preuve d'Existence vs Probabilité Statistique) | *Verbatim :* Le Découplage de l'Échec et de l'Impossibilité
+- **Tranche 3 [Lignes 387-523]** : A : La Stratégie de Zénon Inversé (Désinhibition Somatique & Motrice) — *Protocole :* A : La Stratégie de Zénon Inversé (Désinhibition Somatique & Motrice) | *Mécanisme :* Déconstruction de la Causalité Monolithique Post-Événementielle (Mindless Learning vs. Experiencing Learning) | *Verbatim :* La Cascade de Recadrages Contingents
+- **Tranche 4 [Lignes 525-623]** : A : La Traque de la Variabilité Interne (Dissolution des Nominalisations Diagnostiques) — *Protocole :* A : La Traque de la Variabilité Interne (Dissolution des Nominalisations Diagnostiques) | *Mécanisme :* L’Illusion de Stabilité et l'Absence par Mindlessness | *Verbatim :* Verbatim 1 : La Relativisation Contextuelle de l'Évidence
+- **Tranche 5 [Lignes 625-750]** : de Dissolution de l'Étiquette Diagnostique et Restauration du Contrôle Somatique — *Protocole :* de Dissolution de l'Étiquette Diagnostique et Restauration du Contrôle Somatique | *Verbatim :* Verbatim 1 : L'Impuissance de la Moyenne face à la Singularité Somatique
+- **Tranche 6 [Lignes 752-883]** : Traque Attentionnelle de la Non-Occurrence et Micro-Variabilité Somatique — *Protocole :* Traque Attentionnelle de la Non-Occurrence et Micro-Variabilité Somatique
+- **Tranche 7 [Lignes 885-1025]** : La Désanonymisation Interactionnelle (« Pass the Role ») — *Protocole :* La Désanonymisation Interactionnelle (« Pass the Role »)
+- **Tranche 8 [Lignes 1027-1183]** : L'Inversion Temporelle de Seuil Perceptif (Vision / Audition) — *Protocole :* L'Inversion Temporelle de Seuil Perceptif (Vision / Audition) | *Mécanisme :* Le Biais de Valeur Commerciale comme Amplificateur Neurobiologique (Pricing Prime) | *Verbatim :* La Déconstruction du Dualisme Cartésien
+- **Tranche 9 [Lignes 1185-1308]** : Désamorçage de l'Attribution Externe et Consolidation de l'Agentivité Somatique (Inspiré du... — *Protocole :* Désamorçage de l'Attribution Externe et Consolidation de l'Agentivité Somatique (Inspiré du paradigme Davison & Valins) | *Mécanisme :* L’Allure Séduisante des Explications Neuroscientifiques (The Seductive Allure of Neuroscience Explanations) | *Verbatim :* Le Double-Lien d'Agentivité du Placebo Dévoilé
+- **Tranche 10 [Lignes 1310-1466]** : Désamorçage de l'Étiquette Diagnostique par Enquête Double et Concurrente — *Protocole :* Désamorçage de l'Étiquette Diagnostique par Enquête Double et Concurrente | *Verbatim :* La nominalisation comme capture illusoire du vivant
+- **Tranche 11 [Lignes 1468-1598]** : Le Recadrage Fonctionnel « Poisson & Bicyclette » (Démantèlement du Déficit Interne) — *Protocole :* Le Recadrage Fonctionnel « Poisson & Bicyclette » (Démantèlement du Déficit Interne) | *Mécanisme :* Le Recadrage Opératoire Modal : De la Fermeture Ontologique à l'Exploration des Chemins | *Verbatim :* La Bascule de l'Interrogation Modale de Contingence
+- **Tranche 12 [Lignes 1600-1700]** : Le Recadrage Catégoriel d'Identité face à la Perte Motrice — *Protocole :* Le Recadrage Catégoriel d'Identité face à la Perte Motrice | *Mécanisme :* Amorçage Temporel Somatique et Environnemental (Temporal Somatic Priming) | *Verbatim :* Le Déverrouillage d'Injonction par Déstabilisation d'Autorité
+- **Tranche 13 [Lignes 1702-1813]** : A : Traçage de la Variabilité Symptomatique & Réattribution d'Agentivité (Reverse Zeno Diary) — *Protocole :* A : Traçage de la Variabilité Symptomatique & Réattribution d'Agentivité (Reverse Zeno Diary) | *Verbatim :* La réattribution causale du placebo
+- **Tranche 14 [Lignes 1815-1926]** : A : Déconstruction de l'Engagement Cognitif Prématuré (Breaking Premature Cognitive Commitment) — *Protocole :* A : Déconstruction de l'Engagement Cognitif Prématuré (Breaking Premature Cognitive Commitment) | *Mécanisme :* L'Attribution de Contrôle et Dépendance Auto-Induite (Self-Induced Dependence & Perceived Control)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 14 ---
+## Tranche 1 / 14 : L'Immersion Chrono-Spatiale Inverse (Étude « Counterclockwise »)
 
 Voici l'extraction intégrale et opératoire de la tranche 1/14 de l'ouvrage *Counterclockwise* d'Ellen Langer, modélisée selon les principes de l'ingénierie comportementale, de l'hypnose conversationnelle et de la PNL de pointe.
 
@@ -211,8 +231,7 @@ Voici l'extraction intégrale et opératoire de la tranche 1/14 de l'ouvrage *Co
   - Elle redéfinit l'échec de manière strictement opérationnelle : l'échec n'informe pas sur la frontière du possible (*it can't be*), mais uniquement sur l'inadéquation de la tentative spécifique employée (*the way we tried*).
   - Ce pattern préserve indéfiniment la vacuité du cadre de possibilité, empêchant le sujet d'utiliser ses échecs passés comme justifications rationnelles d'abandon.
 
-
-## --- Tranche 2 / 14 ---
+## Tranche 2 / 14 : L'Expérimentation Sans Enjeu Identitaire (Application à la Vision et aux Capacités Sensoriel...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -365,8 +384,7 @@ Substituer l'obligation de "tirer une règle rigide d'une expérience" par la po
 > *"Perhaps, but I suggested that the lesson could be any of the following: 'Be more cautious,' 'Don't try to fix things yourself,' 'Make sure you're not alone when attempting something new,' 'Don't attempt anything new,' 'Wear heavy clothes when fixing things,' 'Don't be afraid to try new things because the body is amazing the way it heals itself,' 'I can take a hit and not be defeated,' or 'Lose weight so toilets can hold me.' [...] Rather than try to learn from experience, we might be better off to experience learning."*
 * **[Analyse du Pattern]** : Surchargement et saturation de recadrages (technique de confusion / déstabilisation d'une conclusion unique). Langer neutralise l'illusion de causalité unique tirée d'un événement traumatique en juxtaposant des conclusions contradictoires (de l'extrême lâcheté à l'autonomisation héroïque). La conclusion finale opère un chiasme hypnotique (*« learn from experience »* vs *« experience learning »*) qui dissout l'impératif de rigidifier le passé et restitue au système nerveux sa flexibilité d'adaptation spontanée.
 
-
-## --- Tranche 3 / 14 ---
+## Tranche 3 / 14 : A : La Stratégie de Zénon Inversé (Désinhibition Somatique & Motrice)
 
 Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'Ellen Langer, structurée selon les exigences strictes d'ingénierie opératoire.
 
@@ -504,8 +522,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'
   - **Fragmentation temporelle et instabilité induite :** En suggérant que la nature même de l'état vacille entre le matin et le soir, elle détruit l'illusion de permanence.
   - **Recadrage de la rumination en tâche d'investigation :** Le focus interne morbide (*"mindless focus on ourselves"*) est transformé en mission analytique externe (*"our job to figure out which kind"*). La commande paradoxale finale pose la résolution comme un effet secondaire inévitable (*"The result of this search, ironically, might actually reduce our depression"*).
 
-
-## --- Tranche 4 / 14 ---
+## Tranche 4 / 14 : A : La Traque de la Variabilité Interne (Dissolution des Nominalisations Diagnostiques)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -605,8 +622,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'
 
 * **[Analyse du Pattern] :** Pacing and leading complexe avec recadrage épistémologique. La proposition débute par une validation extensive des outils conventionnels (*pacing* cognitif pour désarmer la résistance institutionnelle), puis opère un basculement via la conjonction d'opposition (*leading*), substituant une clôture sémantique rassurante mais limitante (*« a collection of answers »*) par un processus heuristique permanent (*« a way of asking questions »*).
 
-
-## --- Tranche 5 / 14 ---
+## Tranche 5 / 14 : de Dissolution de l'Étiquette Diagnostique et Restauration du Contrôle Somatique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -733,8 +749,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'
 * **[Analyse du Pattern]** : 
   *Mitraillage de questions de précision (Meta-Modèle) et focalisation sur le vide structurel.* Langer commence par fragmenter la nominalisation « *chronic pain* » par une cascade d'interrogations quantitatives et d'arbitrage (« *How often... ten minutes?... Who decided?... How did they make this decision?* »). Ce questionnement fait imploser la rigidité du diagnostic en montrant l'absence de base absolue. Puis elle assène une vérité opératoire en deux phrases d'une concision hypnotique : le biais de confirmation imposé par le mot (« *we expect it to occur and we overlook instances of its nonoccurrence* »), immédiatement suivi de la bascule de puissance : « *It is in these nonoccurrences that our control lies.* » La dernière phrase fonctionne comme une suggestion directe d'ancrage : la souveraineté et le pouvoir d'auto-régulation du patient ne sont pas dans la lutte contre la douleur, mais dans la réhabilitation perceptive des moments où elle n'est pas là.
 
-
-## --- Tranche 6 / 14 ---
+## Tranche 6 / 14 : Traque Attentionnelle de la Non-Occurrence et Micro-Variabilité Somatique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -867,8 +882,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'
   > *"The only man I know who behaves sensibly is my tailor; he takes my measurements anew each time he sees me. The rest go on with their old measurements and expect me to fit them."*  
   * **[Analyse du Pattern]** : Métaphore isomorphe de calibration en temps présent. La citation de George Bernard Shaw fonctionne comme une boucle d'apprentissage analogique : elle oppose la calibration sensorielle continue et actualisée (*"anew each time"*) à l'application rigide de modèles mentaux mémorisés du passé (*"old measurements"*). La projection métaphorique finale (*"expect me to fit them"*) illustre de manière saisissante la violence cognitive du système médical et social, programmant le praticien à mesurer son sujet à neuf à chaque rencontre.
 
-
-## --- Tranche 7 / 14 ---
+## Tranche 7 / 14 : La Désanonymisation Interactionnelle (« Pass the Role »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1010,8 +1024,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 3/14 du cours d'
 > **"What if, instead of writing a prescription for a single medication, the doctor gave us a choice of at least two medications that she believed would be beneficial? That would not only bring us into the process and increase our mindfulness but also remind the physician of the uncertainty inherent in the choice in the first place."**
 * **[Analyse du Pattern]** : Questionnement hypothétique générateur de possibilité (*What if*). Enchâssement d'un double lien responsabilisant : proposer un choix parmi deux options invalide le dogme de la certitude absolue de la prescription unique, réveille l'attention du praticien sur l'inévitable incertitude clinique et présuppose l'engagement actif et conscient (*mindfulness*) du patient dans l'observation de ses réactions.
 
-
-## --- Tranche 8 / 14 ---
+## Tranche 8 / 14 : L'Inversion Temporelle de Seuil Perceptif (Vision / Audition)
 
 Voici l'extraction et l'analyse chirurgicale de la tranche 8/14 de l'ouvrage *Counterclockwise* d'Ellen Langer, formulées du point de vue d'un maître modélisateur en PNL, hypnose conversationnelle et modélisation symbolique.
 
@@ -1169,8 +1182,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 8/14 de l'ouvrage *Co
   - **Commande temporelle structurelle** : L'utilisation du temps présent pour décrire le passé (*"speak about the past in the present tense"*) force le système nerveux à réactiver les représentations analogiques et l'état hormonal de la jeunesse, éliminant la distance critique temporelle.
   - **Cause à effet somatisée (Cause-Effect Link)** : *"With language placing [them] in a healthier place, their bodies followed suit."* Formule linguistique de subordination directe où le soma est présupposé incapable de ne pas suivre la direction imprimée par la grammaire adoptée.
 
-
-## --- Tranche 9 / 14 ---
+## Tranche 9 / 14 : Désamorçage de l'Attribution Externe et Consolidation de l'Agentivité Somatique (Inspiré du...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1295,8 +1307,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 8/14 de l'ouvrage *Co
 
 * **[Analyse du Pattern]** : Fragmentation phénoménologique et désamorçage de métaphore guerrière. Le mot "painkiller" est démasqué comme une commande implicite d'impuissance (*"something to kill = we are helpless"*). Langer fractionne la nominalisation globale "pain" en une pluralité sensorielle fluide ("sensations"). Elle enchaîne avec une suggestion de variabilité continue : *"They don't stand still. They change."* En retirant l'étiquette statique, l'illusion de permanence s'effondre, permettant à l'inconscient d'observer la disparition spontanée du signal somatique.
 
-
-## --- Tranche 10 / 14 ---
+## Tranche 10 / 14 : Désamorçage de l'Étiquette Diagnostique par Enquête Double et Concurrente
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1454,8 +1465,7 @@ Voici l'extraction et l'analyse chirurgicale de la tranche 8/14 de l'ouvrage *Co
   - Shift syntaxique fondamental d'une interrogation fermée à une question ouverte à présupposition enchâssée (*"How might..."*).  
   - L'usage de l'opérateur modal de possibilité *"might"* couplé au pronom adverbial *"How"* court-circuite le refus binaire habituel de l'esprit rationnel, et contraint l'interlocuteur à une recherche transdérivationnelle orientée vers l'interconnexion globale du corps (*"our particular case instead of the general one"*).
 
-
-## --- Tranche 11 / 14 ---
+## Tranche 11 / 14 : Le Recadrage Fonctionnel « Poisson & Bicyclette » (Démantèlement du Déficit Interne)
 
 Voici l’extraction chirurgicale et opératoire de la tranche 11/14 du cours *Counterclockwise - Mindful Health and the Power of Possibility* d’Ellen Langer.
 
@@ -1587,8 +1597,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 11/14 du cours *C
 
 * **[Analyse du Pattern] :** Induction conversationnelle et environnementale par saturation indiciaire. En substituant le flux perceptif du présent par des ancres tangibles d'un passé vigoureux (magazines datés, miroirs sociaux sous forme de photographies d'il y a 20 ans), Langer met en place une régression en âge somatisée sans transe formelle. Le double lien relationnel (*"recognize each other as younger"*) force l'inconscient à ajuster le schéma corporel, la démarche et le tonus physiologique sur l'image projetée et validée par les pairs.
 
-
-## --- Tranche 12 / 14 ---
+## Tranche 12 / 14 : Le Recadrage Catégoriel d'Identité face à la Perte Motrice
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1690,8 +1699,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 11/14 du cours *C
 > « For argument’s sake, let’s say a person is irrational 65 percent of the time, so most would think there is a real problem. What is happening for the remaining 35 percent of the time? Isn’t this what researchers studying the problem should consider? If my grandmother had been senile much of the day but fine when she was with me, was it that supportive and nonthreatening circumstances worked against the disease? »
 * **[Analyse du Pattern]** : Question d'orientation attentionnelle sur les exceptions (héritée de l'approche ericksonienne et des thérapies brèves). Par un empilement interrogatif présupposant la variabilité contextuelle du symptôme, elle pulvérise la croyance en un état neurologique fixe et continu. Le postulat implicite est que l'environnement relationnel (« *supportive and nonthreatening circumstances* ») agit directement comme un contre-agent biologique capable de suspendre la manifestation pathologique.
 
-
-## --- Tranche 13 / 14 ---
+## Tranche 13 / 14 : A : Traçage de la Variabilité Symptomatique & Réattribution d'Agentivité (Reverse Zeno Diary)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1804,8 +1812,7 @@ Voici l’extraction chirurgicale et opératoire de la tranche 11/14 du cours *C
 
 * **[Analyse du Pattern]** : Truisme hypnotique paradoxal de rupture (*"Everything is the same, however, until it is not"*), qui déstabilise la certitude d'une trajectoire négative linéaire. Suivi d'un recadrage linguistique d'opérateur modal : substitution d'une interrogation fermée sur la possibilité ontologique (*"whether we can"*, qui invite au doute ou au calcul de probabilités limitant) par une présupposition ouverte orientée vers le processus opératoire (*"how we can do it"*). Le verbe *how* présuppose obligatoirement que l'action est réalisable, focalisant l'esprit inconscient uniquement sur la recherche de la méthode d'exécution.
 
-
-## --- Tranche 14 / 14 ---
+## Tranche 14 / 14 : A : Déconstruction de l'Engagement Cognitif Prématuré (Breaking Premature Cognitive Commitment)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 14/14 de l'ouvrage et de l'enseignement d'Ellen Langer (*Counterclockwise: Mindful Health and the Power of Possibility*). Cette tranche finale, regroupant l'appareil scientifique de référence, les notes des chapitres 1 à 10 et les mentions de clôture, expose la cartographie fondamentale des preuves empiriques et des leviers neurocognitifs sous-jacents à l'ensemble du paradigme langérien.
 
@@ -1917,3 +1924,4 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 14/14 de
 "Knowing more (or less) than you can show: understanding control through the mindlessness/mindfulness distinction"
 ```
 * **[Analyse du Pattern]** : Double lien et mise en tension dialectique (*"Knowing more (or less) than you can show"*). Le pattern expose le clivage entre la compétence biologique/inconsciente latente et la performance inhibée par l'encadrement cognitif mindless. L'alternative structure un champ d'exploration où le praticien contourne les limitations manifestes du sujet pour réveiller ses ressources occultées.
+

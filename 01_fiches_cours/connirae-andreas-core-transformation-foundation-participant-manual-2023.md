@@ -83,10 +83,20 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 99-292]** : Fondamental : Transformation Essentielle (Phases 1 à 4) — *Protocole :* Fondamental : Transformation Essentielle (Phases 1 à 4) | *Mécanisme :* Chaîne de Résultats Inattendus (Outcome Chain) et Téléologie Récursive | *Verbatim :* Découverte de la Partie et Présupposition d'Autonomie Inconsciente
+- **Tranche 2 [Lignes 294-455]** : Options Avancées de Renversement de la Chaîne des Résultats (Outcome Chain Reversal - Phase 2) — *Protocole :* Options Avancées de Renversement de la Chaîne des Résultats (Outcome Chain Reversal - Phase 2) | *Verbatim :* Détection et Recadrage du Dépassement d'État Fondamental
+- **Tranche 3 [Lignes 457-598]** : APP Exercice 1 — Alignement de la Position Observateur (Observer Position) — *Protocole :* APP Exercice 1 — Alignement de la Position Observateur (Observer Position) | *Mécanisme :* L'Alignement Spatial Perceptuel (Optimum Alignment)
+- **Tranche 4 [Lignes 600-712]** : A : Structuration & Traçage de la Chaîne des Fins (Outcome Chain Worksheet) — *Protocole :* A : Structuration & Traçage de la Chaîne des Fins (Outcome Chain Worksheet) | *Mécanisme :* La Matrice de Dépliage Téléologique (Outcome Chain)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Fondamental : Transformation Essentielle (Phases 1 à 4)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -281,8 +291,7 @@ Applicable à tout sentiment, comportement ou pensée indésirable (FBoT : *Feel
   * *Double lien orienté vers la précision :* L'alternative proposée (« *Is it something wanted at an even deeper level? Or, is it a wonderful consequence...?* ») offre un cadre fermé où la seconde option est fortement valorisée linguistiquement (« *wonderful consequence* »).
   * *Clarté ontologique immédiate :* Cette formulation oblige l'inconscient à distinguer une projection temporelle (le futur qui change) de l'ancrage atemporel de l'être (*Oneness*), empêchant le processus de dériver vers une simple planification mentale.
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : Options Avancées de Renversement de la Chaîne des Résultats (Outcome Chain Reversal - Phase 2)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -445,8 +454,7 @@ Applicable à tout sentiment, comportement ou pensée indésirable (FBoT : *Feel
 > “Now don’t do this yet, but in a moment, you’ll drop down into your conception, with these core states of [CS] fully filling your being from the inside. And then, when you’re ready, you can just move forward through your past with [CS] coming from inside of you, while your parents behave the way you remember them. You’ll do this round quickly, allowing the new connections and transformations to take place on an unconscious level, all the way up to the present. Are you ready? … OK, with [CS] fully filling your being, let yourself drop down into the moment of your conception, and move quickly forward through time, whooosh!...”
 - **[Analyse du Pattern]** : Inhibition temporaire par suggestion négative paradoxale (« Now don’t do this yet, but in a moment... »), ce qui a pour effet de charger le potentiel d'action du système nerveux tout en bloquant l'impulsivité. Injection de la condition permissive d'autonomie (« when you’re ready »), suivie de la scission temporelle entre la permanence de la ressource interne et le comportement inchangé d'autrui (« with [CS] coming from inside of you, while your parents behave the way you remember them »). Enfin, l'onomatopée prosodique (« whooosh!... ») agit comme une rupture kinesthésique et un ancrage analogique de vitesse, empêchant le cortex conscient d'analyser ou de re-traumatiser les scènes passées pour forcer un encodage global et inconscient.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : APP Exercice 1 — Alignement de la Position Observateur (Observer Position)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -589,8 +597,7 @@ Applicable à tout sentiment, comportement ou pensée indésirable (FBoT : *Feel
   > *"Let the voice of Self flow into the voice area of Self. It may begin to fill the upper chest and throat area of Self. So that it comes from there, where it belongs… Let your inner voice speak using ‘I’ and ‘you.’ For example, ‘I feel …, I want …, I need ….’ (speaking your truth.)"*
   * **[Analyse du Pattern]** : Prédicat spatial fluide (*"flow into"*, *"fill"*) couplé à une formule de truisme écologique (*"where it belongs"*). L'introduction des modélisateurs de désir et de besoin (*"I feel, I want, I need"*) sous le syntagme d'autorité bienveillante *"speaking your truth"* induit une congruence somatique et phonatoire immédiate : le sujet passe d'une dynamique de rumination mentale périphérique à une affirmation incarnée viscérale.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : A : Structuration & Traçage de la Chaîne des Fins (Outcome Chain Worksheet)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -703,3 +710,4 @@ Applicable à tout sentiment, comportement ou pensée indésirable (FBoT : *Feel
   > « Exploring What You Hear in Self Position / Outer Sounds / Inner Voices »
   > « Exploring What you Feel in Self Position »
   * [Analyse du Pattern] : **Symétrie syntaxique à réfraction sémantique (Pattern de Contraste Déictique).** En reprenant rigoureusement la même trame linguistique que pour la Position Observateur, le protocole élimine les biais de formulation. L'inconscient utilise l'isomorphisme de la structure syntaxique pour mesurer exclusivement le déplacement des sous-modalités d'un espace spatial à un autre. La bascule de *Observer Position* à *Self Position* contraint le sujet à réassocier les signaux kinesthésiques internes à l'intérieur de la frontière cutanée du Moi, réalignant l'agence personnelle et l'autorité interne.
+

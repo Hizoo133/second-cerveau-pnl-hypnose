@@ -57,10 +57,17 @@
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 70-230]** : d'Auto-Pratique Quotidienne Express (Phase 1 & Phase 2 en 10-15 Minutes) — *Protocole :* d'Auto-Pratique Quotidienne Express (Phase 1 & Phase 2 en 10-15 Minutes) | *Mécanisme :* La perméabilité projective de l'illusion (« Making it up » as valid material) | *Verbatim :* Verbatim 1
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 1 ---
+## Tranche 1 / 1 : d'Auto-Pratique Quotidienne Express (Phase 1 & Phase 2 en 10-15 Minutes)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -221,3 +228,4 @@
 *   **[Analyse du Pattern]**
     *   **Instruction de cécité sélective et découplage attentionnel :** Les impératifs juxtaposés *« Close your eyes and ignore what the demo person says »* créent une directive de dissociation sensorielle : filtrer le contenu verbal d'un tiers tout en conservant la structure sonore du formateur.
     *   **Transfert de relation d'autorité hypnotique :** *« using Tamara as your guide »* opère une substitution d'instance directrice sans effort, transformant une vidéo de démonstration passive en une séance d'hypnose active et personnalisée.
+

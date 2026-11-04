@@ -84,10 +84,40 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 120-224]** : A : Conversational Sensory Expansion & Now-State Induction — *Protocole :* A : Conversational Sensory Expansion & Now-State Induction | *Mécanisme :* Le Découplage Sensation vs Interprétation (Dénominalisation Somatique) | *Verbatim :* La Double Contrainte d'Autonomie et Saupoudrage Inconscient
+- **Tranche 2 [Lignes 226-321]** : Fractionnement Sensoriel d'Interruption de Schéma (Sensory-Mental Fractionation) — *Protocole :* Fractionnement Sensoriel d'Interruption de Schéma (Sensory-Mental Fractionation) | *Mécanisme :* Modulation Sensorielle du Default Mode Network (DMN) vs Éradication de l'Ego | *Verbatim :* La question maîtresse de réveil somatique
+- **Tranche 3 [Lignes 323-463]** : Sensation Transformation - Phase 1 : La Dé-centration Somatique Directe — *Protocole :* Sensation Transformation - Phase 1 : La Dé-centration Somatique Directe | *Mécanisme :* Le Redoublement Stupide du Réseau du Mode par Défaut (DMN Senseless Doubling Down) | *Verbatim :* Le Doublement Récursif Stupide du DMN
+- **Tranche 4 [Lignes 465-553]** : Sensation Transformation Processing (STP) – Phase d'investigation de l'Urge (Brewer / Overdurf) — *Protocole :* Sensation Transformation Processing (STP) – Phase d'investigation de l'Urge (Brewer / Overdurf)
+- **Tranche 5 [Lignes 555-687]** : The Sensorimotor Reset & Content-Free Access Alignment (Processus STP / Précurseur) — *Protocole :* The Sensorimotor Reset & Content-Free Access Alignment (Processus STP / Précurseur) | *Mécanisme :* Down-régulation du Default Mode Network (DMN) & Dé-routement Sensoriel | *Verbatim :* La Présupposition de Changement Inévitable
+- **Tranche 6 [Lignes 689-827]** : Access Alignment avec Ancrage Oculaire & Respiration (Variante Distancielle / Zoom) — *Protocole :* Access Alignment avec Ancrage Oculaire & Respiration (Variante Distancielle / Zoom)
+- **Tranche 7 [Lignes 829-942]** : Consolidation par Élicitation Répétée de l'Erreur de Prédiction (Prediction Error Testing Loop) — *Protocole :* Consolidation par Élicitation Répétée de l'Erreur de Prédiction (Prediction Error Testing Loop) | *Mécanisme :* Le Test comme Consolidation Neurobiologique (Positive Prediction Error Consolidation) | *Verbatim :* La suggestion d'enjambement amnésique et de bascule de satisfaction
+- **Tranche 8 [Lignes 944-1044]** : d'Actualisation par Désenchantement et Erreur de Prédiction Corporelle (Modèle Brewer / Over... — *Protocole :* d'Actualisation par Désenchantement et Erreur de Prédiction Corporelle (Modèle Brewer / Overdurf) | *Verbatim :* La Bascule Figure / Fond et l'Éveil Sensoriel
+- **Tranche 9 [Lignes 1046-1183]** : A : Recalibrage de la Valeur de Récompense par la Sensation Résiduelle (Step 3 Loop & Somati... — *Protocole :* A : Recalibrage de la Valeur de Récompense par la Sensation Résiduelle (Step 3 Loop & Somatic Reframe) | *Mécanisme :* La Valeur de Récompense de l'Action Mentale (Reward Value of "Doing Something") | *Verbatim :* La question de rupture viscérale (Simultaneous Incongruity Prompt)
+- **Tranche 10 [Lignes 1185-1321]** : L'Empilement Hypnotique Multistrate "I Don't Know... But I Do Know" — *Protocole :* L'Empilement Hypnotique Multistrate "I Don't Know... But I Do Know" | *Mécanisme :* Le Biais de Linéarité Syntaxique vs la Cognition Rhizomatique | *Verbatim :* La Négation Protectrice & Pacing de Résistance (Joe Barber Style)
+- **Tranche 11 [Lignes 1323-1475]** : Le "Barn Burner" (Post-Hypnotic Trance Sandwich & Intégration ESE) — *Protocole :* Le "Barn Burner" (Post-Hypnotic Trance Sandwich & Intégration ESE) | *Mécanisme :* Le Sandwich de Transe & Fractionnement Temporel Inversé | *Verbatim :* La Présupposition d'Apprentissage Implicite Hors Conscience
+- **Tranche 12 [Lignes 1477-1610]** : A : L'Échelle Temporelle Linguistique (Temporal Preposition Ladder) — *Protocole :* A : L'Échelle Temporelle Linguistique (Temporal Preposition Ladder) | *Verbatim :* Pattern 1 : L'Attracteur Directionnel et la Dissociation Temporelle
+- **Tranche 13 [Lignes 1612-1769]** : Le Réarmement Oculaire Préfrontal (Eyes Wide Open) — *Protocole :* Le Réarmement Oculaire Préfrontal (Eyes Wide Open) | *Mécanisme :* Rallumage du Cortex Préfrontal Orbitofrontal (OFC) & Rétro-ingénierie Neuro-Somatique | *Verbatim :* La Manœuvre d'Attention Divisée Somatique (Eyes Wide Open)
+- **Tranche 14 [Lignes 1771-1872]** : Sensation Transformation Processing (STP) – Macro-Structure Modulaire — *Protocole :* Sensation Transformation Processing (STP) – Macro-Structure Modulaire | *Verbatim :* La Prescription Paradoxale par Rupture Réductrice
+- **Tranche 15 [Lignes 1874-2027]** : Le Déblocage Vagal ATM « 5-5-5 » (Overdurf Vagal Downshift) — *Protocole :* Le Déblocage Vagal ATM « 5-5-5 » (Overdurf Vagal Downshift) | *Verbatim :* Le Double Lien Évolutif de Catalepsie et Descente Involontaire
+- **Tranche 16 [Lignes 2029-2181]** : Test de Référence Profonde pour les Accès Oculaires (Calibration) — *Protocole :* Test de Référence Profonde pour les Accès Oculaires (Calibration) | *Mécanisme :* Le « Construct Bypass » & L'Accès Oculaire Automatisé | *Verbatim :* Le Défi de Congruence Inconditionnelle
+- **Tranche 17 [Lignes 2183-2287]** : A : La Bascule Somatique & Réinitialisation Vago-Linguale — *Protocole :* A : La Bascule Somatique & Réinitialisation Vago-Linguale
+- **Tranche 18 [Lignes 2289-2519]** : L'Induction d'Expansion Sensorielle & Inversion Figure/Fond (Foreground/Background Attention... — *Protocole :* L'Induction d'Expansion Sensorielle & Inversion Figure/Fond (Foreground/Background Attention-Shifting) | *Mécanisme :* Décalage Attentionnel Figure/Fond par Présuppositions de Conscience | *Verbatim :* La Bascule Figure/Fond et l'Ancrage Coulissant
+- **Tranche 19 [Lignes 2521-2664]** : « The Trance Sandwich » (Post-Hypnotic Integration & Amnesia Loop) — *Protocole :* « The Trance Sandwich » (Post-Hypnotic Integration & Amnesia Loop) | *Verbatim :* Pattern 1 : Ancrage de la Transe sur la Valeur Liberté
+- **Tranche 20 [Lignes 2666-2799]** : Démonstration : Recalibrage de Direction Pré-STP (Désenchevêtrement Mère/Fils - Larissa) — *Protocole :* Démonstration : Recalibrage de Direction Pré-STP (Désenchevêtrement Mère/Fils - Larissa) | *Verbatim :* Pattern 1 : L'Amorce Rhizomatique & Amnésie Enchâssée
+- **Tranche 21 [Lignes 2801-2925]** : d'Inoculation et Réorganisation de Contagion Vagal (Démonstration avec Larissa) — *Protocole :* d'Inoculation et Réorganisation de Contagion Vagal (Démonstration avec Larissa) | *Mécanisme :* Bascule Neurovégétative Dorsale vs Ventrale | *Verbatim :* Découplage de la Contagion Émotionnelle
+- **Tranche 22 [Lignes 2927-3123]** : Le Découplage Identitaire par la Gratitude et l'Ignorance Féconde (Fin de démonstration STP) — *Protocole :* Le Découplage Identitaire par la Gratitude et l'Ignorance Féconde (Fin de démonstration STP) | *Mécanisme :* Le Swish Pattern comme Moteur Dopaminergique et Directionnel | *Verbatim :* Sortie de transe par l'autorité souveraine et la présence
+- **Tranche 23 [Lignes 3125-3253]** : A : Swish a Lifetime (Le Swish d'une vie entière) — *Protocole :* A : Swish a Lifetime (Le Swish d'une vie entière)
+- **Tranche 24 [Lignes 3255-3416]** : Le Double Swish Identitaire avec Réinitialisation Rétroactive du DMN — *Protocole :* Le Double Swish Identitaire avec Réinitialisation Rétroactive du DMN | *Verbatim :* La Double Identité Émergente
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 24 ---
+## Tranche 1 / 24 : A : Conversational Sensory Expansion & Now-State Induction
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -193,8 +223,7 @@ flowchart TD
 > *"Here's the disclaimer. There is no guarantee in obvious beneficial ways that you will feel different, confident in your skills and in yourself... just as there are absolutely no guarantees in this life. So all therapeutic change occurs despite the fact there is no guarantee, just as every successful change you've made in your life occurred despite there being no guarantee that it will happen. You know, so given how things can be sometimes, I have no idea whether you'll even notice you've changed. It might be after viewing a segment, or maybe even during it..."*
 *   **[Analyse du Pattern]** : Clause de non-responsabilité paradoxale employée comme puissant véhicule de suggestion indirecte. En affirmant qu'il n'y a « aucune garantie », Overdurf contourne tout le facteur critique du sujet. Puis, par empilement d'évidences (*« every successful change you've made... occurred despite there being no guarantee »*), il lie la notion d'absence de garantie à la survenue inévitable du changement réussi. Enfin, la présupposition temporelle finale (*« whether you'll even notice you've changed... after... or during it »*) ne remet plus en doute le changement lui-même, mais seulement le moment de sa prise de conscience.
 
-
-## --- Tranche 2 / 24 ---
+## Tranche 2 / 24 : Fractionnement Sensoriel d'Interruption de Schéma (Sensory-Mental Fractionation)
 
 Voici l'analyse opératoire intégrale de la tranche 2/24 de la transcription du cours *12 Daze 2024 - Sensational Hypnosis* de John Overdurf.
 
@@ -291,8 +320,7 @@ Voici l'analyse opératoire intégrale de la tranche 2/24 de la transcription du
 > **"Lose your mind to come to your senses."**
 * **[Analyse du Pattern]** : Antithèse paradoxale et jeu de mots idiomatique (Perls réutilisé par Overdurf). Le pattern utilise une ambiguïté sémantique entre *"lose your mind"* (perdre la raison / lâcher la tyrannie du bavardage mental) et *"come to your senses"* (reprendre ses esprits / habiter ses canaux sensoriels bruts VAKOG). Ce double lien linguistique force l'effondrement de la narration du DMN au profit immédiat du cortex sensoriel.
 
-
-## --- Tranche 3 / 24 ---
+## Tranche 3 / 24 : Sensation Transformation - Phase 1 : La Dé-centration Somatique Directe
 
 Voici l'analyse opératoire intégrale de la tranche 3/24 du cours *Sensational Hypnosis (12 Daze 2024 / TCU Integration Lab)* de John Overdurf.
 
@@ -434,8 +462,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/24 du cours *Sensational 
   - **Scission de l'agentivité :** La question *« Is this thought helpful? »* introduit subrepticement un fossé perceptif entre l'observateur conscient et la pensée observée.
   - **Élimination du jugement moral :** La question n'évalue pas si la pensée est « vraie », « fausse », « morale » ou « traumatique », mais uniquement son utilité opératoire immédiate, court-circuitant ainsi l'escalade du second dard (*the second dart*) causée par le jugement réflexif du DMN.
 
-
-## --- Tranche 4 / 24 ---
+## Tranche 4 / 24 : Sensation Transformation Processing (STP) – Phase d'investigation de l'Urge (Brewer / Overdurf)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -525,8 +552,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/24 du cours *Sensational 
 > "So I'll always do the hmm, hmm, you know, kind of with the person. And then what's really fun, because after a while, you'll start to notice if it's really taking, because they'll start going hmm. And then you have this really nice hmm trance that starts to go on..."
 - **[Analyse du Pattern]** : Pacing vocal et conduite vers une transe onomatopéique (*« Hmm Trance »*). L'utilisation d'une vocalisation minimale et non verbale contourne les défenses sémantiques de l'hémisphère gauche. En synchronisant le ton sur une tonalité de curiosité naïve, Overdurf installe une boucle de biofeedback où l'imitation inconsciente du client valide l'entrée dans un état d'ouverture et d'exploration sensorielle sans contenu narratif.
 
-
-## --- Tranche 5 / 24 ---
+## Tranche 5 / 24 : The Sensorimotor Reset & Content-Free Access Alignment (Processus STP / Précurseur)
 
 Voici l'analyse opératoire intégrale de la tranche 5/24 de la formation de John Overdurf, selon les standards d'ingénierie et de modélisation demandés.
 
@@ -660,8 +686,7 @@ Réinitialiser un déclencheur automatique indésirable (phobie légère, anxié
   - **Détournement sémantique (*Semantic Sleight*) :** Le client utilisait la phrase *"it doesn't make sense"* pour décrire le comportement déstabilisant de son déclencheur externe (Vanessa). Overdurf retourne la structure linguistique contre le problème lui-même : l'incompréhension est réassignée au fait que la réaction émotionnelle négative est désormais totalement absente.
   - **Ré-identification identitaire :** La clôture (*"the 'it' is you"*) ramène l'agentivité de la structure abstraite vers l'incarnation somatique du sujet, scellant la souveraineté de son système nerveux.
 
-
-## --- Tranche 6 / 24 ---
+## Tranche 6 / 24 : Access Alignment avec Ancrage Oculaire & Respiration (Variante Distancielle / Zoom)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -801,8 +826,7 @@ Réinitialiser un déclencheur automatique indésirable (phobie légère, anxié
   > « And then you can still say, hmm, how's this working for you? Exactly. Then they have to check it again. And then nail it in there. »
   * **[Analyse du Pattern]** : Question ouverte d'évaluation à orientation positive avec pause calibrée (*« hmm »*). En obligeant le sujet à réévaluer activement son état alors qu'il s'attendait à souffrir, le praticien l'amène à verbaliser son propre soulagement, verrouillant (*nail it in there*) l'erreur de prédiction comme nouvelle réalité neurologique.
 
-
-## --- Tranche 7 / 24 ---
+## Tranche 7 / 24 : Consolidation par Élicitation Répétée de l'Erreur de Prédiction (Prediction Error Testing Loop)
 
 Voici l'analyse opératoire intégrale de la tranche 7/24 du cours *12 Daze 2024 - Sensational Hypnosis* de John Overdurf.
 
@@ -917,8 +941,7 @@ That's right. You weren't expecting it. Isn't it interesting that you can change
     *   *Glissement pronominal et temporel (Quotes Pattern / Transe conversationnelle) :* Overdurf fait raconter au sujet une séance vieille de 7 ans, puis répète mot à mot les paroles de l'ancien thérapeute.
     *   *Bascule du passé au présent :* Il passe de la citation rapportée au passé (*« he said to just keep looking... »*) à une commande directe au présent (*« So you're looking out the window and you really don't have to listen to anything that's being said »*). En utilisant la voix passive et la seconde personne, il ré-induit la transe exacte de la cliente sans avoir l'air d'hypnotiser, exploitant la réactivation de l'apprentissage d'origine.
 
-
-## --- Tranche 8 / 24 ---
+## Tranche 8 / 24 : d'Actualisation par Désenchantement et Erreur de Prédiction Corporelle (Modèle Brewer / Over...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1020,8 +1043,7 @@ That's right. You weren't expecting it. Isn't it interesting that you can change
   - *Vulgarisation viscérale et ancrage affectif* : Traduction immédiate de concepts computationnels complexes (modélisation bayésienne) en verbatims primaires du système limbique (*"this sucks"* vs *"oh, wow"*).  
   - *Questions d'auto-implication rétroactive* : *"Why was I avoiding doing this new thing?"* présuppose que le nouveau comportement est désormais évident, agréable et supérieur, rendant l'ancienne résistance absurde et obsolète aux yeux de la cognition du sujet.
 
-
-## --- Tranche 9 / 24 ---
+## Tranche 9 / 24 : A : Recalibrage de la Valeur de Récompense par la Sensation Résiduelle (Step 3 Loop & Somati...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1160,8 +1182,7 @@ That's right. You weren't expecting it. Isn't it interesting that you can change
 > *"We don't need to make any suggestions about what kind of dreams you're going to have tonight, right? What kind of productive dreams you're going to be having, right? I don't know if you're going to have wild dreams. You may have boring dreams. You may have technicolor dreams, you may have black and white dreams, you may have dreams with a cast of thousands, or perhaps just a few of you may think you've had no dreams at all. In any event, let that be a sign that the learnings are occurring at the deepest unconscious level."*
 * **[Analyse du Pattern]** : Pseudo-déni initial / paralipse (*« We don't need to make any suggestions... »*) immédiatement suivi de commandes enchâssées (*« productive dreams you're going to be having »*). Utilisation d'un filet de truismes exhaustif couvrant toutes les possibilités alternatives (*wild, boring, technicolor, black and white, cast of thousands, no dreams at all*), débouchant sur une refonte englobante (*« In any event, let that be a sign that... »*) qui lie inconditionnellement n'importe quelle expérience nocturne à l'intégration inconsciente profonde des apprentissages.
 
-
-## --- Tranche 10 / 24 ---
+## Tranche 10 / 24 : L'Empilement Hypnotique Multistrate "I Don't Know... But I Do Know"
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche, structurées selon les principes stricts d'ingénierie et d'ontologie émergente.
 
@@ -1299,8 +1320,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - *Rupture par fausse alternative (Bifurcation) :* L'ironie *« you learned in vocabulary class... did you not? »* force le conscient à admettre l'évidence de son ignorance sur ses propres mécanismes d'assimilation.
   - *Finition en truisme d'ancrage somatique :* *« but you did? »* installe une validation terminale indiscutable sur la capacité innée d'apprentissage sans effort.
 
-
-## --- Tranche 11 / 24 ---
+## Tranche 11 / 24 : Le "Barn Burner" (Post-Hypnotic Trance Sandwich & Intégration ESE)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 11/24 du cours de John Overdurf (*12 Daze 2024 - Sensational Hypnosis*).
 
@@ -1454,8 +1474,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 11/24 du 
   * Établissement d'une chaîne d'équivalence : si l'inconscient gère le cœur et le souffle sans erreur, il gère également les changements comportementaux avec la même maîtrise.
   * Formulation en question négative enchâssée (*"isn't it wonderful to take a time to appreciate..."*) présupposant l'émerveillement et induisant un état d'ouverture et de gratitude physiologique profonde.
 
-
-## --- Tranche 12 / 24 ---
+## Tranche 12 / 24 : A : L'Échelle Temporelle Linguistique (Temporal Preposition Ladder)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1590,8 +1609,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 11/24 du 
   - *Rétrécissement métrique du gradient temporel* (*Eventually -> Soon -> Almost there -> When you are*) forçant le système nerveux à simuler cognitivement puis kinesthésiquement le rapprochement spatial et temporel de l'état.
   - *Présupposition de l'inévitabilité de l'accès* : la question ne porte pas sur la *possibilité* d'accéder à l'énergie, mais sur les *indices sensoriels* de son arrivée (*« How would you know... »*), ce qui oblige l'inconscient à instancier les critères internes de l'état pour pouvoir répondre.
 
-
-## --- Tranche 13 / 24 ---
+## Tranche 13 / 24 : Le Réarmement Oculaire Préfrontal (Eyes Wide Open)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 13/24 de la formation de John Overdurf.
 
@@ -1750,8 +1768,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 13/24 de 
   - **Rupture de pattern brutale / Provocation ericksonienne** : Utilisation délibérée d'une crudité verbale pour désarçonner la posture de supériorité intellectuelle du client.
   - **Mise à l'épreuve par double lien somatique direct** : Démontre instantanément la tyrannie de la physiologie sur les concepts abstraits en forçant le sujet à constater que sans oxygène, aucune intellectualisation ne tient debout. Installation brutale d'une expérience de référence irréfutable.
 
-
-## --- Tranche 14 / 24 ---
+## Tranche 14 / 24 : Sensation Transformation Processing (STP) – Macro-Structure Modulaire
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1854,8 +1871,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 13/24 de 
 > "And there's a gap, isn't there? Isn't there, Brendan? There's a gap. And there's that gap. And when you have the gap, and you go, you're just paying attention to, there's a gap. It's like, oh my God, I don't remember any of this. That's right. What did I say four sentences ago? That's right. That's because you've forgotten. You've forgotten. It happens, right? You've forgotten. But you'll always remember how easy it is to just go ahead and relax the back of your tongue and loosen your jaw and slow down your breathing."
 * **[Analyse du Pattern]** : Utilisation d'une analogie universelle de transe quotidienne (conduite sur autoroute) reliée à une boucle de répétition du mot « *gap* » agissant comme une rupture de pattern. Overdurf interroge directement la mémoire immédiate (« *What did I say four sentences ago?* »), provoquant une défaillance d'accès conscient, immédiatement ratifiée par une suggestion post-hypnotique directe (« *That's because you've forgotten* »). Il enchaîne aussitôt sur un double lien amnésie/souvenir : oublier le contenu mental conscient garantit de se souvenir automatiquement des leviers somatiques de régulation vagale (*relax tongue / loosen jaw*).
 
-
-## --- Tranche 15 / 24 ---
+## Tranche 15 / 24 : Le Déblocage Vagal ATM « 5-5-5 » (Overdurf Vagal Downshift)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2010,8 +2026,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 13/24 de 
   * **Présupposition linguistique de différence :** La question *« How do you want to be different? »* ne demande pas s'il est possible de changer, mais présuppose que le changement est la seule option logique.
   * **Direction neurologique vers le Visuel/Auditif Construit (VC/AC) :** Le terme *« different »* force l'accès cognitif dans les quadrants de construction mentale de l'inconscient, empêchant le sujet de boucler dans les souvenirs régressifs (*Remembered*).
 
-
-## --- Tranche 16 / 24 ---
+## Tranche 16 / 24 : Test de Référence Profonde pour les Accès Oculaires (Calibration)
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la tranche 16/24 du séminaire *Sensational Hypnosis 2024* de John Overdurf.
 
@@ -2165,8 +2180,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
   3. *Recadrage d'inutilité :* « *...because it's not important* » autorise le cerveau conscient à démissionner.
   4. *Enchaînement de truismes somatiques (Alpha Sequence) :* Réorientation immédiate vers trois commandes corporelles autonomes impossibles à rater (« *relax the back of your tongue* », « *loosen your jaw* », « *slow down your breathing* ») provoquant l'inhibition du système nerveux sympathique.
 
-
-## --- Tranche 17 / 24 ---
+## Tranche 17 / 24 : A : La Bascule Somatique & Réinitialisation Vago-Linguale
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2272,8 +2286,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la tran
 > "And you didn't stop and go, what do I do? No. You just, like, reached right out and opened that door because your unconscious mind can't not generalize. Once it understands the structure of something, it knows how to transfer, how to transfer all the other possibilities..."
 - **[Analyse du Pattern]** : Présupposition universelle avec double négation (« *can't not generalize* »). Utilisation d'un truisme comportemental (ouvrir une porte sans y penser) pour installer la croyance structurante que la reprogrammation actuelle s'appliquera automatiquement et sans effort à toutes les sphères de la vie quotidienne du sujet.
 
-
-## --- Tranche 18 / 24 ---
+## Tranche 18 / 24 : L'Induction d'Expansion Sensorielle & Inversion Figure/Fond (Foreground/Background Attention...
 
 Voici l'analyse opératoire intégrale de la tranche 18/24 de la transcription brute de John Overdurf (*12 Daze 2024 - Sensational Hypnosis*).
 
@@ -2505,8 +2518,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/24 de la transcription b
   * **Dissolution des repères de début et de fin (Border Collapse)** : Inviter le sujet à dissoudre les concepts de commencement et d'achèvement de l'expérience suspend la trame narrative égotique.
   * **Réancrage fulgurant dans la présence nue** : La question conclusive abrupte *« Where are you now? »* précipite l'ensemble de la conscience dans le point d'immobilité pure du moment présent, libéré de toute histoire passée ou future.
 
-
-## --- Tranche 19 / 24 ---
+## Tranche 19 / 24 : « The Trance Sandwich » (Post-Hypnotic Integration & Amnesia Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2651,8 +2663,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/24 de la transcription b
 > "Okay, so, you know, by the way, you know, just go ahead and relax the back of your tongue. And as you're relaxing the back of your tongue, you can let your jaw loosen and of course you realize then that's right that your breathing can just begin to slow down and you can slow down..."
 - **[Analyse du Pattern]** : *Somatic Compounding & Progressive Deceleration*. Empilement continu d'instructions neuro-végétatives directes adoucies par des chevilles de permission (*by the way*, *just go ahead*, *you can*). L'enchaînement corporel (langue -> mâchoire -> cage thoracique/respiration -> ralentissement global du système nerveux) force le passage parasympathique immédiat. La ratification intercalée (« *that's right* ») verrouille chaque étape motrice franchie.
 
-
-## --- Tranche 20 / 24 ---
+## Tranche 20 / 24 : Démonstration : Recalibrage de Direction Pré-STP (Désenchevêtrement Mère/Fils - Larissa)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2787,8 +2798,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/24 de la transcription b
 * **[Analyse du Pattern]** : 
   Double engagement irréversible créant un contenant hypnotique absolu (*Holding the Field*). Présupposition temporelle projetée dans le futur physique immédiat (« *when you sit down over there, you're different* »). La conditionnalité réciproque (« *If you're in and I'm in, only good things are going to happen* ») supprime l'éventualité de l'échec et place le système nerveux du sujet dans un état de réceptivité neurovégétative totale.
 
-
-## --- Tranche 21 / 24 ---
+## Tranche 21 / 24 : d'Inoculation et Réorganisation de Contagion Vagal (Démonstration avec Larissa)
 
 Voici l'analyse modélisatrice et opératoire complète de la tranche 21/24 du séminaire *Sensational Hypnosis 2024* de John Overdurf.
 
@@ -2914,8 +2924,7 @@ Voici l'analyse modélisatrice et opératoire complète de la tranche 21/24 du s
 > « And if you want, you know how you can just hang out at the still point and you get to the end of an exhale. Be still. Grateful. Get to the end of another exhale whenever you do. That's right. Just still point. Just be still. Grateful. At the end of every breath, your unconscious mind remembers. »
 * **[Analyse du Pattern]** : Enchaînement de suggestions enchâssées directement synchronisées sur le rythme physiologique (*end of an exhale*). L'association du prédicat de suspension somatique (*be still*) avec l'état émotionnel désiré (*grateful*) transforme une phase respiratoire autonome inévitable en un ancrage permanent et récurrent.
 
-
-## --- Tranche 22 / 24 ---
+## Tranche 22 / 24 : Le Découplage Identitaire par la Gratitude et l'Ignorance Féconde (Fin de démonstration STP)
 
 Voici l’extraction et la modélisation intégrale de la substance opératoire de cette tranche 22/24.
 
@@ -3113,8 +3122,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
   * Utilisation de formulations populaires à haute charge viscérale (*« got it going on »*, *« got their shit together »*) qui déclenchent une reconnaissance immédiate sans filtre critique.
   * Question rhétorique en fermeture (*« who wouldn't want to be that person, right? »*) agissant comme une commande cachée d'adhésion totale, programmant la réponse dopaminergique d'attraction vers l'image.
 
-
-## --- Tranche 23 / 24 ---
+## Tranche 23 / 24 : A : Swish a Lifetime (Le Swish d'une vie entière)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3244,8 +3252,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
 > **"Try and hold on to it. Let's see what happens. I won't even do the shh, you know. No need to mention like Indiana Lack. No need to mention like, this is just who I am. Smooth, smooth, smooth. Easy to maintain."**
 * **[Analyse du Pattern]** : Défi paradoxal couplé à une série de suggestions par apophase (*paralipsis*). En disant *"Try and hold on to it"* (Essaie de retenir l'ancien problème), Overdurf présuppose l'impossibilité de le garder. En ajoutant *"No need to mention Indiana Lack... No need to mention this is just who I am"*, il réactive précisément ces ancrages tout en prétendant les omettre, saturant l'inconscient du sujet par la répétition hypnotique et rythmée du mot *"Smooth"*.
 
-
-## --- Tranche 24 / 24 ---
+## Tranche 24 / 24 : Le Double Swish Identitaire avec Réinitialisation Rétroactive du DMN
 
 Voici l'analyse modélisée et opératoire de la tranche 24/24 du cours *12 Daze 2024 - Sensational Hypnosis* de John Overdurf.
 
@@ -3407,3 +3414,4 @@ Voici l'analyse modélisée et opératoire de la tranche 24/24 du cours *12 Daze
 > « Do you think you're going to feel a tremendous burst of energy when you go down the stairs there? No, no, no, because you're going to stare well at all of the possibilities that you have in your life. And you'll remember as you're going down those steps, how important it is to take life one step at a time. And to the extent you do, you will finally get to where you go, where you were on the ground floor, where you are grounded. [...] And right when you open that door and you feel that, I don't know how cold it is, but that humid Madisonian air, right right at that moment, you're going to feel a tremendous urge to reach into your pocket or purse. And what are you going to pull out but the key that opens your car door. [...] you put the key in the ignition and you will start up your engine. And probably right at that moment, you're going to go, damn, I can't believe how wide awake I am. »
 
 * **[Analyse du Pattern]** : Chute de suggestions post-hypnotiques arrimées à une cascade séquentielle inéluctable d'actions physiques. Overdurf emploie des jeux de mots somatiques (« stairs » / « stare well », « ground floor » / « grounded »), utilise des contrastes thermiques (« humid air »), et ancre le retour définitif à une vigilance hyper-lucide sur l'action finale d'insertion et de rotation de la clé de contact (« start up your engine » $\rightarrow$ « wide awake »).
+

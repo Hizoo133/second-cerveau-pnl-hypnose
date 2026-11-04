@@ -85,10 +85,27 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 108-260]** : Le Pointage Somatique d'Approfondissement Immédiat (Pour Thérapeute / Praticien) — *Protocole :* Le Pointage Somatique d'Approfondissement Immédiat (Pour Thérapeute / Praticien) | *Verbatim :* La rupture de cadre somatique immédiate
+- **Tranche 2 [Lignes 262-368]** : Dégager un Espace (First Movement / Clearing a Space) — *Protocole :* Dégager un Espace (First Movement / Clearing a Space) | *Mécanisme :* Le « Felt Sense » (Sens Éprouvé) vs Émotion Discrète | *Verbatim :* La rupture de boucle émotionnelle et l'invitation somatique
+- **Tranche 3 [Lignes 370-532]** : A : Déblocage de la Procrastination Compulsive & Levée de l'Injonction (Cas George) — *Protocole :* A : Déblocage de la Procrastination Compulsive & Levée de l'Injonction (Cas George) | *Verbatim :* La modélisation de l'accueil inconditionnel d'une sentence de mort intérieure
+- **Tranche 4 [Lignes 534-710]** : Les Six Mouvements Fondamentaux du Focusing & Le Déblocage Somatique Global (Body Shift / Un... — *Protocole :* Les Six Mouvements Fondamentaux du Focusing | *Mécanisme :* Le Déblocage Somatique Global (Body Shift / Uncramping Feeling) | *Verbatim :* Définition du Changement Organismique et Calibration Somatique
+- **Tranche 5 [Lignes 712-842]** : Le Mouvement d'Interrogation Directe (Movement 5: Asking) — *Protocole :* Le Mouvement d'Interrogation Directe (Movement 5: Asking)
+- **Tranche 6 [Lignes 844-957]** : A : Évacuation Somatique et Émergence du Grand Espace (« Vast Space ») — *Protocole :* A : Évacuation Somatique et Émergence du Grand Espace (« Vast Space »)
+- **Tranche 7 [Lignes 959-1136]** : Recalibrage Somatotopique Ascendant (Quand rien n'est ressenti dans le corps) — *Protocole :* Recalibrage Somatotopique Ascendant (Quand rien n'est ressenti dans le corps) | *Verbatim :* Le Recadrage de la Dérive Attentionnelle (L'Enfant Distrait)
+- **Tranche 8 [Lignes 1138-1322]** : La Rétro-Ingénierie Somatique de la Solution (Working Backward from the Good Body Feeling) — *Protocole :* La Rétro-Ingénierie Somatique de la Solution (Working Backward from the Good Body Feeling) | *Verbatim :* La Bascule par Feinte Somatique et Veto d'Alignement
+- **Tranche 9 [Lignes 1324-1437]** : A : Recadrage de la Rupture d'Accès au Sens Corporel — *Protocole :* A : Recadrage de la Rupture d'Accès au Sens Corporel
+- **Tranche 10 [Lignes 1439-1593]** : Le Déblocage Dyadique d'un Conflit Figé (The Stuck Argument Shift) — *Protocole :* Le Déblocage Dyadique d'un Conflit Figé (The Stuck Argument Shift) | *Mécanisme :* Rupture de la Complaisance Narcissique par Auto-Révélation Symétrique | *Verbatim :* La Désactivation de la Boucle Répétitive
+- **Tranche 11 [Lignes 1595-1779]** : Le Focusing – Forme Courte (Short Form) — *Protocole :* Le Focusing – Forme Courte (Short Form) | *Verbatim :* La Libération des Modèles Imposés
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 11 ---
+## Tranche 1 / 11 : Le Pointage Somatique d'Approfondissement Immédiat (Pour Thérapeute / Praticien)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (Tranche 1/11).
 
@@ -242,8 +259,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
     - **Contraste polaire / Équilibre dynamique (*"maximal closeness with minimal imposition"*) :** Pose le cadre d'un rapport hypnotique sans empiètement de l'ego de l'accompagnateur.
     - **Autorisation somatique couplée (*"lets them be and breathe"*) :** La présence de l'autre est syntaxiquement liée à la régulation du système respiratoire autonome du sujet, facilitant la bascule vers le *shift*.
 
-
-## --- Tranche 2 / 11 ---
+## Tranche 2 / 11 : Dégager un Espace (First Movement / Clearing a Space)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -351,8 +367,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > « Go back to the felt sense and ask it, see what the anger is. »
 - **[Analyse du Pattern] :** Prosopopée et attribution d'agentivité autonome à l'inconscient corporel. Le praticien ne demande pas au sujet de réfléchir (*« don't think about why »*), mais traite le *felt sense* comme une entité relationnelle distincte dotée d'une intelligence propre (*« ask it »*). Cette formulation scissionne le mental analytique du sujet et son substrat somatique, plaçant le conscient dans une posture d'écoute humble et réceptive face aux signaux de son propre organisme.
 
-
-## --- Tranche 3 / 11 ---
+## Tranche 3 / 11 : A : Déblocage de la Procrastination Compulsive & Levée de l'Injonction (Cas George)
 
 Voici la modélisation intégrale et chirurgicale de la tranche 3/11 de l'enseignement d'Eugene Gendlin sur le Focusing.
 
@@ -516,8 +531,7 @@ Voici la modélisation intégrale et chirurgicale de la tranche 3/11 de l'enseig
   - **Postulat universel rassurant (Truisme ontologique absolu) :** Formulation négative universelle (« *Nothing... is ever* ») qui induit une présupposition temporelle de mouvement inévitable.
   - **Détricotage de l'ancrage traumatique :** Interdit au cerveau de figer l'expérience présente comme un état définitif ; garantit neurologiquement que le seul fait d'avancer transforme la topographie de l'affect.
 
-
-## --- Tranche 4 / 11 ---
+## Tranche 4 / 11 : Les Six Mouvements Fondamentaux du Focusing & Le Déblocage Somatique Global (Body Shift / Un...
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire issue de la tranche 4/11 du cours d'Eugene Gendlin.
 
@@ -695,8 +709,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
 
 - **[Analyse du Pattern]** : Délimitation et protection écologique de l'état modifié. L'apparition d'un nouveau contenu inconscient déstabilise l'homéostasie du système de croyances, déclenchant une riposte immédiate du surmoi ou des mécanismes de défense habituels. Gendlin démontre l'intervention de « cordon sanitaire » spatial (*shoved all those voices over to one side*) pour offrir au système nerveux le temps d'intégrer le réalignement interne.
 
-
-## --- Tranche 5 / 11 ---
+## Tranche 5 / 11 : Le Mouvement d'Interrogation Directe (Movement 5: Asking)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -828,8 +841,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
   * *Recadrage paradoxal par utilisation du pire (Pacing des résistances)* : Au lieu de rassurer par un optimisme béat, Gendlin s'allie avec l'anxiété du sujet (« tout restera exactement aussi pourri que vous le savez »).
   * *Levée de la double contrainte morale* : En confirmant la persistance intacte du problème extérieur, il neutralise la culpabilité inconsciente liée au plaisir/soulagement corporel (« permission to feel good ») sans activer les défenses psychiques.
 
-
-## --- Tranche 6 / 11 ---
+## Tranche 6 / 11 : A : Évacuation Somatique et Émergence du Grand Espace (« Vast Space »)
 
 Voici l'analyse opératoire de la tranche 6/11 de la transcription de Eugene Gendlin :
 
@@ -944,8 +956,7 @@ Voici l'analyse opératoire de la tranche 6/11 de la transcription de Eugene Gen
 > **"Suppose you are focusing on a problem... Even so, try proposing to your body, 'I feel all fine about this, the problem is all solved.' If you put your attention in your body, you will quite quickly find that a very specific not-fine sense about the problem comes there."**
 - **[Analyse du Pattern]** : Utilisation paradoxale de la suggestion par confrontation intéroceptive. L'affirmation volontairement dissonante (« the problem is all solved ») agit comme un réactif chimique : elle force le système somatique à faire émerger en contraste aigu l'obstacle exact présent dans le corps.
 
-
-## --- Tranche 7 / 11 ---
+## Tranche 7 / 11 : Recalibrage Somatotopique Ascendant (Quand rien n'est ressenti dans le corps)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1124,8 +1135,7 @@ Voici l'analyse opératoire de la tranche 6/11 de la transcription de Eugene Gen
 * **[Analyse du Pattern]** :  
   *Presupposition de complétude et extraction séquentielle de la structure du blocage.* La question initiale présuppose l'état de résolution complète déjà accompli corporellement (« if it were all solved »), provoquant une décharge neurovégétative immédiate mesurable dans la physiologie (redressement, circulation, mobilité des épaules). La commande de maintien (« can I stay this way? ») agit comme un test de réalité qui force le système de protection sous-jacent à se dévoiler instantanément (« No »). L'enquête directe « OK, why not? » capture l'objection profonde non déformée : une peur singulière et non conventionnelle (« scared of living ») enfin accessible au travail thérapeutique.
 
-
-## --- Tranche 8 / 11 ---
+## Tranche 8 / 11 : La Rétro-Ingénierie Somatique de la Solution (Working Backward from the Good Body Feeling)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1311,8 +1321,7 @@ Voici l'analyse opératoire de la tranche 6/11 de la transcription de Eugene Gen
   * *Dissociation spatiale des parties (Recadrage identitaire) :* L'expression « *being up against these qualities inside* » sépare radicalement l'essence du sujet (*the person inside*) de ses comportements ou affects repoussants (*unlovely qualities*), transformant ce qui apparaissait comme un défaut constitutif en un adversaire extérieur auquel l'individu est confronté.  
   * *Présupposition d'existence et de découverte inévitable :* La formulation « *As you listen, you will then discover that person* » utilise un lien temporel (« *As you listen* ») pour lier une action inévitable (écouter) à une découverte garantie au futur (« *you will then discover* »), installant une réceptivité empathique et inconditionnelle chez l'écoutant.
 
-
-## --- Tranche 9 / 11 ---
+## Tranche 9 / 11 : A : Recadrage de la Rupture d'Accès au Sens Corporel
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1427,8 +1436,7 @@ Voici l'analyse opératoire de la tranche 6/11 de la transcription de Eugene Gen
 * **"What is true is already so. Owning up to it doesn’t make it worse. Not being open about it doesn’t make it go away. And because it’s true, it is what is there to be interacted with. Anything untrue isn’t there to be lived. People can stand what is true, for they are already enduring it."**
   - **[Analyse du Pattern]** : *Empilement d'axiomes d'évidence (Truismes existentiels) & clôture par double contrainte libératrice.* Enchaînement de tautologies philosophiques irréfutables (*"What is true is already so"*, *"Doesn't make it go away"*). La proposition pivote sur l'inutilité cognitive de l'illusion (*"Anything untrue isn't there to be lived"*), pour culminer sur une suggestion d'apaisement par la réalité somatique déjà intégrée : puisque le système endure déjà silencieusement l'état réel, la vérité n'ajoute aucune charge, elle ne fait que lever le coût neurologique du déni.
 
-
-## --- Tranche 10 / 11 ---
+## Tranche 10 / 11 : Le Déblocage Dyadique d'un Conflit Figé (The Stuck Argument Shift)
 
 Voici l'analyse opératoire de la tranche 10/11 du cours de Focusing par Eugene Gendlin.
 
@@ -1584,8 +1592,7 @@ Voici l'analyse opératoire de la tranche 10/11 du cours de Focusing par Eugene 
 > "Say openly how it is with you. Don’t let the other try to relate to what you really were not feeling. Even though it may be easier for you to remain unseen, misunderstood, and unapproachable, no interaction is possible if you do."
 *   **[Analyse du Pattern]** : Double lien thérapeutique et confrontation bienveillante. Gendlin utilise un recadrage de réalité impitoyable : il reconnaît le gain secondaire de la fermeture (« easier for you to remain unseen ») pour immédiatement la lier à une impossibilité systémique radicale (« no interaction is possible if you do »). Cela place le sujet face à la responsabilité inévitable de sa propre visibilité.
 
-
-## --- Tranche 11 / 11 ---
+## Tranche 11 / 11 : Le Focusing – Forme Courte (Short Form)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1770,3 +1777,4 @@ Voici l'analyse opératoire de la tranche 10/11 du cours de Focusing par Eugene 
 - **[Analyse du Pattern]** :  
   - *Présupposition cinétique somatique* : L'utilisation du verbe *stir* (remuer, s'agiter doucement) présuppose que le ressenti n'est pas inerte mais vivant et doué de mouvement propre dès lors qu'on lui laisse du temps.
   - *Pont vers le futur / Contraste phénoménologique* : Induction d'un état désiré somatique (*"What would it feel like if it was all OK?"*) pour installer l'empreinte corporelle de la résolution, immédiatement suivie par l'identification de l'obstacle énergétique précis (*"What is in the way of that?"*). Ce double mouvement empêche le mental de s'enliser dans la plainte.
+

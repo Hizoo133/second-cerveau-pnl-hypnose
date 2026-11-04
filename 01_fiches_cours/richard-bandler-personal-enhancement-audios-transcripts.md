@@ -93,10 +93,19 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 108-248]** : L'Amplificateur Neurologique & Bascule Émotionnelle Rapide — *Protocole :* L'Amplificateur Neurologique & Bascule Émotionnelle Rapide | *Mécanisme :* Le principe du "Packaging d'Expérience" et Traducteur Universel (Re-matérialisation de l'Argent) | *Verbatim :* La Dénominationalisation de l'Argent
+- **Tranche 2 [Lignes 250-394]** : Le Bouclier de Verre et Dissolution de l'Anxiété (Tenacious Resolve Shield) — *Protocole :* Le Bouclier de Verre et Dissolution de l'Anxiété (Tenacious Resolve Shield) | *Verbatim :* Le Découplage de la Gravité et de l'Efficacité
+- **Tranche 3 [Lignes 396-515]** : La Dream Machine (Génération d'Idées & Déblocage de Croyance) — *Protocole :* La Dream Machine (Génération d'Idées & Déblocage de Croyance) | *Mécanisme :* Relativité temporelle et distorsion de la ligne du temps (temporaldistortion timelinecompressionexpansion) | *Verbatim :* Verbatim 1
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : L'Amplificateur Neurologique & Bascule Émotionnelle Rapide
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -238,8 +247,7 @@ graph TD
 > *"I want you to watch something happen that only unconscious alignment can achieve... reach out and collect all those smaller images up, life-sized towards you, as it's filled with all the smaller parts, try to get brighter, bigger, fly straight at you, feel it come inside, change the sense of excitement, because as it does so, settling for nothing less than that."*
 * **[Analyse du Pattern] :** **Double lien kinesthésique et incorporation physique de la gestalt.** Bandler lie le phénomène visuel (l'image géante qui fond sur le sujet) à une entrée somatique directe (*"feel it come inside"*). La formule *"settling for nothing less than that"* s'ancre comme un critère de seuil intolérable envers la médiocrité, bypassant toute négociation consciente.
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : Le Bouclier de Verre et Dissolution de l'Anxiété (Tenacious Resolve Shield)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -385,8 +393,7 @@ graph TD
   - *Empilement épistémologique et glissement d'échelle* : Du niveau neurobiologique (*Chemicals, Electrical Flowing, Cortex*) vers la carte cognitive (*Not the World*), puis vers la physique métaphorique (*Consciousness itself is a force*).
   - *Rupture de pattern par absurdité bandlerienne* : L'insertion brutale de `This is why all the toasters are hearing us` en plein milieu d'une tirade philosophique d'inspiration einsteinienne fait disjoncter l'analyse rationnelle (déstabilisation du dialogue interne), forçant l'esprit critique à s'effacer au profit de l'ouverture suggestive.
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : La Dream Machine (Génération d'Idées & Déblocage de Croyance)
 
 Voici l'analyse opératoire et la modélisation de cette tranche de transcription de Richard Bandler (*Personal Enhancement Series*).
 
@@ -506,3 +513,4 @@ Voici l'analyse opératoire et la modélisation de cette tranche de transcriptio
   - **Présupposition d'accomplissement :** *"Done it now"* traite le changement comme déjà achevé et consolidé.
   - **Tag question / question d'assentiment :** *"Is it not?"* verrouille l'acceptation logique de la suggestion tout en court-circuitant le doute résiduel.
   - **Recadrage de contrôle :** Rappelle que le cerveau est un instrument mécanique que l'on commande, rendant le bavardage interne obsolète.
+

@@ -64,10 +64,31 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 91-191]** : La Disjonction Cause-Structure (Démonstration Opératoire du Ressort) — *Protocole :* La Disjonction Cause-Structure (Démonstration Opératoire du Ressort) | *Verbatim :* La Libération du Comportement Latent
+- **Tranche 2 [Lignes 193-315]** : Le Test Diagnostic "Système vs Amas" (Bunch of Stuff vs System) — *Protocole :* Le Test Diagnostic "Système vs Amas" (Bunch of Stuff vs System)
+- **Tranche 3 [Lignes 317-435]** : A : Modélisation et Résolution d'un Comportement Persistant par Traçage de Boucle — *Protocole :* A : Modélisation et Résolution d'un Comportement Persistant par Traçage de Boucle
+- **Tranche 4 [Lignes 437-551]** : d'Audit de Validité et de Frontières d'un Modèle Mental (Model Testing Protocol) — *Protocole :* d'Audit de Validité et de Frontières d'un Modèle Mental (Model Testing Protocol) | *Verbatim :* La redéfinition permissive du but de la modélisation
+- **Tranche 5 [Lignes 553-658]** : d'Audit et Désensibilisation de l'Overshoot (Sortir du « High Leverage, Wrong Direction ») — *Protocole :* d'Audit et Désensibilisation de l'Overshoot (Sortir du « High Leverage, Wrong Direction ») | *Mécanisme :* L’Archétype « Limites à la Croissance » (Limits-to-Growth) et Décalage Temporel | *Verbatim :* L'Inévitabilité Systémique et la Présupposition de Fin Limite
+- **Tranche 6 [Lignes 660-783]** : Recadrage Tridimensionnel de la Plainte (Événement -> Comportement -> Structure) — *Protocole :* Recadrage Tridimensionnel de la Plainte (Événement -> Comportement -> Structure) | *Verbatim :* La Métaphore Spatiale de la Résilience
+- **Tranche 7 [Lignes 785-908]** : Révélation et Expansion des « Nuages » Fantômes (Boundary Dissolution Protocol) — *Protocole :* Révélation et Expansion des « Nuages » Fantômes (Boundary Dissolution Protocol) | *Mécanisme :* Le Piège de la Linéarité Cognitive vs Bascule Non-Linéaire de Boucles | *Verbatim :* > « Linear relationships are easy to think about: the more the merrier. Linear equations are solvable, which makes them suitable for textbooks. Linear systems have an important modular virtue: you can take them apart and put them together again—the pieces add up.
+- **Tranche 8 [Lignes 910-1041]** : Désamorçage de la Résistance aux Politiques par Alignement Métaphorique & But Englobant — *Protocole :* Désamorçage de la Résistance aux Politiques par Alignement Métaphorique & But Englobant | *Mécanisme :* Levier de Délai de Rétroaction et Déphasage Temporel | *Verbatim :* La Symphonie Temporelle et le Calibrage Fréquentiel
+- **Tranche 9 [Lignes 1043-1159]** : A : Restauration de Boucle par Rétablissement de Coût Direct (Désarmement des Communs) — *Protocole :* A : Restauration de Boucle par Rétablissement de Coût Direct (Désarmement des Communs) | *Mécanisme :* Asymétrie de Boucle Décisionnelle & Dissociation du Coût Système | *Verbatim :* La spirale de la rationalité bornée
+- **Tranche 10 [Lignes 1161-1261]** : A : Restauration de l'Autonomie Fonctionnelle (Sevrage de la Béquille / Désactivation du Far... — *Protocole :* A : Restauration de l'Autonomie Fonctionnelle (Sevrage de la Béquille / Désactivation du Fardeau Transféré)
+- **Tranche 11 [Lignes 1263-1428]** : Recâblage de Boucle Manquante par Alignement de Conséquence (Somatic/Ecological Feedback Loop) — *Protocole :* Recâblage de Boucle Manquante par Alignement de Conséquence (Somatic/Ecological Feedback Loop) | *Mécanisme :* L’Intuition Inversée et l’Amplification Homéostatique du Problème | *Verbatim :* La Fascination Mythologique pour le Levier Magique
+- **Tranche 12 [Lignes 1430-1552]** : Le Recadrage par Restructuration des Règles Hypothétiques (Counter-Factual Rule Inversion) — *Protocole :* Le Recadrage par Restructuration des Règles Hypothétiques (Counter-Factual Rule Inversion) | *Mécanisme :* Levier de Re-bouclage de Responsabilité Somato-Spatiale (Downstream Intake & Lawn Storage) | *Verbatim :* La Boucle d'Imputation Somato-Spatiale Immédiate
+- **Tranche 13 [Lignes 1554-1660]** : « Get the Beat of the System » (Élicitation Pré-Interventionniste) — *Protocole :* « Get the Beat of the System » (Élicitation Pré-Interventionniste)
+- **Tranche 14 [Lignes 1662-1773]** : d'Expansion de la Frontière Temporelle (Marche Bifocale) — *Protocole :* d'Expansion de la Frontière Temporelle (Marche Bifocale)
+- **Tranche 15 [Lignes 1775-1858]** : d'Amortissement des Oscillations Émotionnelles/Comportementales (Inspiré de l'Inventaire Aut... — *Protocole :* d'Amortissement des Oscillations Émotionnelles/Comportementales (Inspiré de l'Inventaire Automobile & Délais)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 15 ---
+## Tranche 1 / 15 : La Disjonction Cause-Structure (Démonstration Opératoire du Ressort)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -169,8 +190,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
 > **« Words and sentences must, by necessity, come only one at a time in linear, logical order. Systems happen all at once. They are connected not just in one direction, but in many directions simultaneously. »**
 * **[Analyse du Pattern]** : Effet de contraste hypnotique par limitation/expansion. Meadows enferme d'abord l'appareil linguistique conscient dans une contrainte d'extrême pauvreté (*« must, by necessity, come only one at a time in linear, logical order »*), avant d'élargir instantanément l'état attentionnel avec une formule spatio-temporelle abrupte (*« Systems happen all at once »*). L'empilement adverbial (*« not just in one direction, but in many directions simultaneously »*) induit une dilatation de l'espace de travail mental, préparant l'esprit à abandonner le mode analytique focalisé pour entrer dans une transe visuelle et relationnelle globale.
 
-
-## --- Tranche 2 / 15 ---
+## Tranche 2 / 15 : Le Test Diagnostic "Système vs Amas" (Bunch of Stuff vs System)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -294,8 +314,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
   > *"A stock takes time to change, because flows take time to flow. That's a vital point, a key to understanding why systems behave as they do."*
   - **[Analyse du Pattern]** : **Répétition isomorphique et marquage d'ancrage d'importance**. La structure tautologique en miroir (*"takes time to change, because flows take time to flow"*) crée un rythme d'apaisement cognitif et induit une acceptation neurologique de la temporalité incompressible. L'enchaînement avec un marquage d'autorité bienveillant (*"That's a vital point, a key to..."*) verrouille l'apprentissage dans la mémoire à long terme.
 
-
-## --- Tranche 3 / 15 ---
+## Tranche 3 / 15 : A : Modélisation et Résolution d'un Comportement Persistant par Traçage de Boucle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -415,8 +434,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
 > "The information delivered by a feedback loop—even nonphysical feedback—can only affect future behavior; it can’t deliver a signal fast enough to correct behavior that drove the current feedback."
 - **[Analyse du Pattern]** : **Double lien temporel et rupture d'illusion rétroactive.** Utilisation d'adverbes restrictifs stricts (*"can only affect future...", "can't deliver fast enough..."*) pour ancrer l'impossibilité physique de changer le passé ou l'instant t. Cela brise net le pattern névrotique de rumination (vouloir modifier ce qui a causé le signal) pour réorienter l'ensemble des ressources cognitives exclusivement vers le flux d'anticipation.
 
-
-## --- Tranche 4 / 15 ---
+## Tranche 4 / 15 : d'Audit de Validité et de Frontières d'un Modèle Mental (Model Testing Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -532,8 +550,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
 
 - **[Analyse du Pattern]** : Double lien ontologique et clôture logique absolue (*modal operators of necessity : « there must be… because no physical system can grow forever »*). Le lien causal universel (*« in a finite environment »*) agit comme une commande de réalité indépassable. Il installe une présupposition d'existence : dès qu'une croissance est perçue, la boucle de régulation restrictive existe obligatoirement dans l'environnement, visible ou non. Ce pattern force l'attention inconsciente du sujet à chercher la contrainte avant même qu'elle ne se manifeste.
 
-
-## --- Tranche 5 / 15 ---
+## Tranche 5 / 15 : d'Audit et Désensibilisation de l'Overshoot (Sortir du « High Leverage, Wrong Direction »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -640,8 +657,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
 
 * **[Analyse du Pattern]** : Induction spatiale archétypique d'une richesse clinique remarquable. Transition d'une sous-modalité kinesthésique souple et vaste (*"big plateau", "wander", "gentle, elastic walls", "bounce it back"*) vers une sous-modalité acérée, étriquée et précaire (*"shrinks", "more rigid", "operating on a knife edge", "fall off"*). Cette métaphore modifie instantanément la proprioception du praticien ou du client vis-à-vis de son propre seuil d'épuisement.
 
-
-## --- Tranche 6 / 15 ---
+## Tranche 6 / 15 : Recadrage Tridimensionnel de la Plainte (Événement -> Comportement -> Structure)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -766,8 +782,7 @@ Le fil conducteur reliant chaque intervention repose sur la **traversée des niv
   - **Vocabulaire hypnotique de captation :** L'usage de « *hook our emotions* » et « *endlessly engrossing* » qualifie explicitement le mode de pensée événementiel comme une transe réactive de fascination passive.
   - **Dévaluation d'utilité :** En associant le spectacle fascinant à l'absence totale de valeur explicative (« *almost no predictive or explanatory value* »), elle induit une rupture de pattern pour forcer l'attention à descendre dans la couche causale invisible de la structure.
 
-
-## --- Tranche 7 / 15 ---
+## Tranche 7 / 15 : Révélation et Expansion des « Nuages » Fantômes (Boundary Dissolution Protocol)
 
 Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive et hypnotique de la tranche 7/15.
 
@@ -892,8 +907,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 > I believe we must learn to wait as we learn to create. We have to patiently sow the seeds, assiduously water the earth where they are sown and give the plants the time that is their own. One cannot fool a plant any more than one can fool history. »
 - **[Analyse du Pattern] :** Citation imbriquée (emprunt d'autorité poético-philosophique de Václav Havel). L'image sensorielle kinesthésique et visuelle de l'enfant qui tire sur une tige installe instantanément le ridicule somatique de la précipitation mentale. La formule conclusive « *One cannot fool a plant any more than one can fool history* » pose un double ancrage d'inviolabilité naturelle scellant l'illusion du contrôle conscient.
 
-
-## --- Tranche 8 / 15 ---
+## Tranche 8 / 15 : Désamorçage de la Résistance aux Politiques par Alignement Métaphorique & But Englobant
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1026,8 +1040,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
   - **Double lien existentiel et oxymore tragique :** La juxtaposition syntaxique heurtée *compels him to increase his herd without limit—in a world that is limited* installe un double lien structurel insurmontable à l'échelle individuelle. 
   - **Suggestion de mouvement fataliste irrésistible :** L'usage de la formulation *Ruin is the destination toward which all... rush* inverse l'ordre logique habituel de la phrase (en plaçant le mot *Ruin* en position initiale d'ancrage thématique fort) pour graver dans l'esprit la fatalité cinétique du système non régulé.
 
-
-## --- Tranche 9 / 15 ---
+## Tranche 9 / 15 : A : Restauration de Boucle par Rétablissement de Coût Direct (Désarmement des Communs)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1145,8 +1158,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 
 - **[Analyse du Pattern]** : Utilisation d'un archétype biblique (*Matthieu 25:29*) comme truisme universel incontestable, suivi d'une construction grammaticale itérative en crescendo (*"The more... the more..."*). La dépersonnalisation de l'acteur (*"he, she, or it"*) déplace le focus de la culpabilité personnelle vers la mécanique implacable du système, conclue par un triptyque d'écrasement physique (*"bankrupted, or forced out, or starved"*).
 
-
-## --- Tranche 10 / 15 ---
+## Tranche 10 / 15 : A : Restauration de l'Autonomie Fonctionnelle (Sevrage de la Béquille / Désactivation du Far...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1248,8 +1260,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 > "Leverage points are points of power... but more often than not they push the change in the wrong direction."
 * **[Analyse du Pattern]** : Pattern de validation-rupture (pacing and leading inversé). Meadows capture d'abord l'appétit de pouvoir du récepteur (*"points of power"*), ratifie la justesse de son intuition géographique, pour immédiatement renverser la polarité d'action par un coup de massue cognitif (*"wrong direction"*), induisant un état de confusion réceptif propice à un changement complet de paradigme.
 
-
-## --- Tranche 11 / 15 ---
+## Tranche 11 / 15 : Recâblage de Boucle Manquante par Alignement de Conséquence (Somatic/Ecological Feedback Loop)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1416,8 +1427,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 > "Suppose taxpayers got to specify on their return forms what government services their tax payments must be spent on. (Radical democracy!) Suppose any town or company that puts a water intake pipe in a river had to put it immediately downstream from its own wastewater outflow pipe. Suppose any public or private official who made the decision to invest in a nuclear power plant got the waste from that facility stored on his or her lawn. Suppose (this is an old one) the politicians who declare war were required to spend that war in the front lines."
 * **[Analyse du Pattern]** : Induction par accumulation de postulats hypothétiques en transe de réalité alternative ("*Suppose... Suppose... Suppose...*"). Chaque clause relie instantanément une décision abstraite déconnectée à sa conséquence physique immédiate sur le décideur. La structure linguistique élimine l'externalité en fermant la boucle de causalité dans l'espace perceptif direct (boire sa propre eau souillée, vivre sur ses propres déchets radioactifs, risquer son propre corps au combat). C'est la modélisation la plus pure du rétablissement de boucle manquante comme levier de transformation comportementale sans coercition morale.
 
-
-## --- Tranche 12 / 15 ---
+## Tranche 12 / 15 : Le Recadrage par Restructuration des Règles Hypothétiques (Counter-Factual Rule Inversion)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1541,8 +1551,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 
 * **[Analyse du Pattern] :** Utilisation magistrale de la vulnérabilité paradoxale et du bris d'illusion de supériorité de l'expert. Par un parallélisme ternaire impitoyable (savoir théorique abstrait vs échec comportemental intime : *coffee / jogging / marriage*), elle pulvérise la croyance rationaliste que « savoir intellectuellement suffit pour agir droitement ». Une fois l'égo de l'auditeur désarmé, elle pose une négation définitive du contrôle suivie d'une rupture kinesthésique festive et libératrice : *« But we can dance with them! »*. Le cadre passe de la contrainte mécanique à l'art corporel de la réactivité en temps réel.
 
-
-## --- Tranche 13 / 15 ---
+## Tranche 13 / 15 : « Get the Beat of the System » (Élicitation Pré-Interventionniste)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1650,8 +1659,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 > "Only a part of us, a part that has emerged recently, designs buildings as boxes with uncompromising straight lines and flat surfaces. Another part of us recognizes instinctively that nature designs in fractals..."
 * **[Analyse du Pattern]** : Négociation entre parties et dissociation temporelle/évolutionnaire. Meadows utilise le split linguistique classique (« a part of us » vs « another part of us ») pour désamorcer le conflit intérieur. La partie analytique et réductionniste est recadrée comme jeune, immature et récente, tandis que la partie systémique/complexe est ancrée dans l'instinct ancestral, les motifs fractals et l'harmonie naturelle, incitant l'inconscient à faire alliance avec cette dernière.
 
-
-## --- Tranche 14 / 15 ---
+## Tranche 14 / 15 : d'Expansion de la Frontière Temporelle (Marche Bifocale)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1764,8 +1772,7 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
   * **Spatialisation métaphorique du seuil** (« lead us to the edge... point beyond ») : Crée une induction spatiale de falaise cognitive où le modèle analytique s'arrête net.
   * **Commande cachée mobilisatrice modale** (« what can and must be done by the human spirit ») : Bascule de l'obligation logique vers l'impératif existentiel, réinvestissant le sujet de sa responsabilité décisionnelle pure au-delà du modèle.
 
-
-## --- Tranche 15 / 15 ---
+## Tranche 15 / 15 : d'Amortissement des Oscillations Émotionnelles/Comportementales (Inspiré de l'Inventaire Aut...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1849,3 +1856,4 @@ Voici l'extraction exhaustive et l'analyse d'ingénierie systémique, cognitive 
 
 > **"price starts at 1.2 when yield per unit capital is high and rises to 10 as yield per unit capital falls, as shown in graph"**
 - **[Analyse du Pattern]** : Boucle de rétroaction positive amplificatrice à dynamique inverse (lien de dépendance couplée). L'énoncé présuppose une escalade inévitable : plus la ressource devient rare et difficile à saisir, plus la valeur artificielle qui lui est attribuée grimpe, incitant paradoxalement le système à redoubler d'efforts destructeurs pour l'extraire jusqu'au collapsus.
+

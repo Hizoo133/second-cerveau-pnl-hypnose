@@ -46,10 +46,17 @@
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 59-244]** : La Reconsolidation Délibérée d'États et Représentations Internes — *Protocole :* La Reconsolidation Délibérée d'États et Représentations Internes | *Mécanisme :* Le Moteur de Déconsolidation / Reconsolidation Synaptique | *Verbatim :* La Triple Dé-focalisation Spatiale
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 1 ---
+## Tranche 1 / 1 : La Reconsolidation Délibérée d'États et Représentations Internes
 
 Voici l'extraction opératoire complète, exhaustive et modélisée selon les règles d'ingénierie demandées, à partir de la transcription de John Overdurf (*Reconsolidating Memories*).
 
@@ -235,3 +242,4 @@ Voici l'extraction opératoire complète, exhaustive et modélisée selon les r�
   * **Empilement de truismes universels (Pacing universel)** : rattacher le changement personnel au mouvement des particules quantiques et de l'univers crée un élan de truisme inattaquable.
   * **Double négation à contrainte biologique** : *"it's impossible for your memory to not consolidate..."*. Grammaticalement contraignant, rendant l'échec de la technique conceptuellement impossible pour le cerveau du sujet.
   * **Semis de suggestion post-hypnotique d'action différée** : lier la consolidation définitive au sommeil (*"especially at night. It's amazing what a good night's sleep does..."*) décharge le sujet du besoin de vérifier si "ça a marché" tout de suite, laissant le système nerveux autonome faire son travail hors de portée de l'ego conscient.
+

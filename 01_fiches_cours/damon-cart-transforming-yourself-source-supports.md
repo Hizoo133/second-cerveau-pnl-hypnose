@@ -82,10 +82,20 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 98-333]** : Découverte & Cartographie de la Structure du Self-Concept — *Protocole :* Découverte & Cartographie de la Structure du Self-Concept | *Mécanisme :* Architecture Systémique du Self-Concept (Niveaux Logiques & Récursion)
+- **Tranche 2 [Lignes 335-528]** : Audit et Réalignement des Positions Perceptuelles — *Protocole :* Audit et Réalignement des Positions Perceptuelles | *Mécanisme :* Architecture Temporelle du Concept de Soi | *Verbatim :* Verbatim 1 : L'immunité par l'intégration de l'imperfection
+- **Tranche 3 [Lignes 530-767]** : Construction d'une Qualité Identitaire Complètement Nouvelle — *Protocole :* Construction d'une Qualité Identitaire Complètement Nouvelle
+- **Tranche 4 [Lignes 769-1018]** : Exploration et Ajustement des Frontières Externes (External Boundaries) — *Protocole :* Exploration et Ajustement des Frontières Externes (External Boundaries) | *Mécanisme :* Le Principe de Délimitation Frontalière du Concept de Soi | *Verbatim :* La Métaphore Martiale de l'Inclusion
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 4 ---
+## Tranche 1 / 4 : Découverte & Cartographie de la Structure du Self-Concept
 
 Voici l’extraction intégrale, opératoire et rigoureuse de la tranche 1/4 du cours **"Transforming Yourself - Source Supports"** de **Damon Cart** (fondé sur les travaux de **Steve Andreas**).
 
@@ -322,8 +332,7 @@ Voici l’extraction intégrale, opératoire et rigoureuse de la tranche 1/4 du 
 - **[Analyse du Pattern]** :  
   **Présupposition permissive enchâssée (`it's wise to allow`) & Contre-suggestion submodale.** Contrairement aux injonctions simplistes de la PNL classique prônant la netteté absolue ("VAKOG précis"), l'injection de qualificatifs atténuateurs (`somewhat vague & uncertain`) agit comme un amortisseur cybernétique sur l'inconscient, empêchant le sujet de sombrer dans l'anxiété de performance ou la rigidité compulsive face à l'imprévu.
 
-
-## --- Tranche 2 / 4 ---
+## Tranche 2 / 4 : Audit et Réalignement des Positions Perceptuelles
 
 Voici l’extraction chirurgicale et l’analyse opératoire de la tranche 2/4 du cours **"Transforming Yourself - Source Supports"** de **Damon Cart** (fondé sur les travaux de modélisation du Concept de Soi de Steve Andreas).
 
@@ -518,8 +527,7 @@ Voici l’extraction chirurgicale et l’analyse opératoire de la tranche 2/4 d
 > *"Arrange them so that the new version gets more of your attention (usually by making it bigger, brighter, and more colorful) while the actual version is still present, less interesting, but still reminds you of what actually happened."*
 * **[Analyse du Pattern]** : **Contraste submodal asymétrique simultané**. Contrairement au *Swish* classique qui efface ou remplace l'image initiale, Cart impose ici le maintien conjoint des deux représentations reliées physiquement. L'emploi d'adjectifs comparatifs de gradient (*"bigger, brighter, more colorful"* vs *"less interesting"*) guide la saillance visuelle et l'attention sélective vers l'apprentissage opératoire tout en préservant l'intégrité historique factuelle.
 
-
-## --- Tranche 3 / 4 ---
+## Tranche 3 / 4 : Construction d'une Qualité Identitaire Complètement Nouvelle
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -758,8 +766,7 @@ Voici l’extraction chirurgicale et l’analyse opératoire de la tranche 2/4 d
 > **"You are not done until you have pulled it all together into that inner knowing that will stay with you & guide your future behavior."**
 - **[Analyse du Pattern]** Suggestion post-hypnotique enchâssée sous la forme d'un critère d'achèvement temporel (« You are not done until... »). Le prédicat « inner knowing » ancre un état de certitude viscérale, tandis que les verbes d'action future (« will stay with you & guide ») installent une boucle cybernétique permanente d'auto-guidage inconscient.
 
-
-## --- Tranche 4 / 4 ---
+## Tranche 4 / 4 : Exploration et Ajustement des Frontières Externes (External Boundaries)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1009,3 +1016,4 @@ Voici l’extraction chirurgicale et l’analyse opératoire de la tranche 2/4 d
 > **"Imagine what it would be like to put photos & paintings of unpleasant events all over the walls of your home & office. Yet that is what many people do in their minds. Why not furnish your mind with powerful experiences?"**
 
 * **[Analyse du Pattern]** : Analogie spatiale domestique concrète projetée dans le champ du self-concept. L'absurdité visuelle de tapisser ses murs physiques de scènes traumatisantes induit une rupture de pattern vis-à-vis des ruminations internes. La métaphore *« furnish your mind »* (reméubler son esprit) installe une sous-modalité d'agentivité matérielle : le sujet redevient le décorateur souverain de sa propre architecture psychique.
+

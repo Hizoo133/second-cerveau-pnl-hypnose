@@ -100,10 +100,83 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 179-361]** : Le Kata 1 d'Échauffement (Warmup Exercise Kata 1) — *Protocole :* Le Kata 1 d'Échauffement (Warmup Exercise Kata 1) | *Mécanisme :* La Boucle OOPA (Objective – Opportunities – Perceptions – Action) et l'Anatomie du Problème
+- **Tranche 2 [Lignes 363-525]** : Le "Cartesian Kata" Mécanique & Dimensionnel (STEM) — *Protocole :* Le "Cartesian Kata" Mécanique & Dimensionnel (STEM) | *Mécanisme :* Le Brouillage Cartésien et la Déstabilisation du Cadre Problème | *Verbatim :* Verbatim : L'Enchaînement du Cartesian Kata (Mécanique)
+- **Tranche 3 [Lignes 527-625]** : Cartographie Diagnostique OOPA (Localisation de la Distorsion Perceptive) — *Protocole :* Cartographie Diagnostique OOPA (Localisation de la Distorsion Perceptive) | *Mécanisme :* La Boucle OOPA (OOPA Loop) et la localisation de l'impasse cognitive | *Verbatim :* Recadrage de la Genèse et de l'Attribution (Pacing & Leading d'autorité)
+- **Tranche 4 [Lignes 627-733]** : Démonstration : "Instant Mind Bending Language" / Kata 1 (Structure de Réduction Somato-Kine... — *Protocole :* Démonstration : "Instant Mind Bending Language" / Kata 1 (Structure de Réduction Somato-Kinesthésique) | *Verbatim :* La Question de Rupture de Causalité Somatique
+- **Tranche 5 [Lignes 735-874]** : La Manœuvre des 7 Questions MBL (Tranche : Étapes 1 à 5) — *Protocole :* La Manœuvre des 7 Questions MBL (Tranche : Étapes 1 à 5) | *Verbatim :* Verbatim 1 : La Formulation Maîtresse de Rupture Logique (The Flipping Question)
+- **Tranche 6 [Lignes 876-1003]** : L'Algorithme des 7 Questions MBL (Phase d'Extraction & d'Écrasement d'État) — *Protocole :* L'Algorithme des 7 Questions MBL (Phase d'Extraction & d'Écrasement d'État) | *Mécanisme :* Le Principe de Substitution Inhibiteur / Activateur | *Verbatim :* Question d'extraction de ressource à double négation d'inhibition
+- **Tranche 7 [Lignes 1005-1127]** : Extraction et Calibrage de la Racine Émotionnelle (Kata 1 - Questions 2, 3, 4) — *Protocole :* Extraction et Calibrage de la Racine Émotionnelle (Kata 1 - Questions 2, 3, 4) | *Mécanisme :* Dissociation Conscient / Inconscient par focalisation somatique | *Verbatim :* La rupture de boucle pensée/sentiment par réduction logique
+- **Tranche 8 [Lignes 1129-1247]** : La Séquence des Questions 4 à 7 (Kata de Mind Bending Language) — *Protocole :* La Séquence des Questions 4 à 7 (Kata de Mind Bending Language) | *Verbatim :* La rupture de causalité par négation de l'affect
+- **Tranche 9 [Lignes 1249-1397]** : Le Décrochage Somatique d'un Problème Simple (Exercice Démo Patrick & Muneer) — *Protocole :* Le Décrochage Somatique d'un Problème Simple (Exercice Démo Patrick & Muneer) | *Verbatim :* Déconstruction de la Causalité Externe
+- **Tranche 10 [Lignes 1399-1500]** : Construction et Déploiement des Spins MBL (De la Formule Algébrique au Langage Naturel) — *Protocole :* Construction et Déploiement des Spins MBL (De la Formule Algébrique au Langage Naturel) | *Mécanisme :* La Grammaire de Présupposition Épistémique (Le Verbe d'Accès) | *Verbatim :* Verbatim 1 : Le Piège de la Présupposition du Doute
+- **Tranche 11 [Lignes 1502-1643]** : L'Intervention Flash « Spin + Somatic Check » — *Protocole :* L'Intervention Flash « Spin + Somatic Check » | *Verbatim :* Le Double-Nœud d'Attention vers l'Inévitabilité de la Joie
+- **Tranche 12 [Lignes 1645-1787]** : Extraction Clinique de la Triade (The 3-Step State Elicitation) — *Protocole :* Extraction Clinique de la Triade (The 3-Step State Elicitation) | *Mécanisme :* La Triade d'Alimentation MBL (Problem – Problem State – Resource State) | *Verbatim :* Verbatim 1 : L'Empilement de Négations d'Identité
+- **Tranche 13 [Lignes 1789-1929]** : Extraction de la Triade Fondamentale MBL (The 3-Variable Container) — *Protocole :* Extraction de la Triade Fondamentale MBL (The 3-Variable Container) | *Mécanisme :* Le Trépied Minimaliste de Réduction Opératoire (Containing the Problem) | *Verbatim :* Le Verrouillage Épuré du Trépied Opératoire
+- **Tranche 14 [Lignes 1931-2087]** : Extraction Minimaliste de la Triade (P - PS - RS) — *Protocole :* Extraction Minimaliste de la Triade (P - PS - RS) | *Mécanisme :* Loi d'Association Neurologique (Équivalence Fonctionnelle Causalité / Corrélation) | *Verbatim :* La Batterie de Spins autour des Paramètres de la Phobie
+- **Tranche 15 [Lignes 2089-2180]** : Extraction & Réduction Minimale (Setup pour Cartes MBL) — *Protocole :* Extraction & Réduction Minimale (Setup pour Cartes MBL) | *Mécanisme :* Le Kata MBL & La Surcharge des Boucles Logiques par Négations Multiples | *Verbatim :* Le Verrouillage de la Privation d'Options
+- **Tranche 16 [Lignes 2182-2321]** : Le Pivot d'Interception Somatique (Body Interception Move) — *Protocole :* Le Pivot d'Interception Somatique (Body Interception Move) | *Mécanisme :* La Boucle Réaction vs Réponse & Le Verrou Affectif | *Verbatim :* Le Cadre du Présent Absolu
+- **Tranche 17 [Lignes 2323-2457]** : La Revivification Conversationnelle via les Coordonnées STEM (Conversational Revivification) — *Protocole :* La Revivification Conversationnelle via les Coordonnées STEM (Conversational Revivification) | *Mécanisme :* Le Levier de Résonance Personnelle vs Débat Intellectuel | *Verbatim :* Présupposition d'existence et orientation temporelle bienveillante
+- **Tranche 18 [Lignes 2459-2566]** : Revivification & Élicitation d'un État Ressource (Démonstration Muneer / Patrick) — *Protocole :* Revivification & Élicitation d'un État Ressource (Démonstration Muneer / Patrick) | *Mécanisme :* Le Principe de Revivification & Somatisation Inconsciente | *Verbatim :* La Permission Paradoxale face au Blocage Analytique
+- **Tranche 19 [Lignes 2568-2704]** : Kata 2 - Revivification du Problème & Élicitation de Ressource (8-Step Inquiry Process) — *Protocole :* Kata 2 - Revivification du Problème & Élicitation de Ressource (8-Step Inquiry Process)
+- **Tranche 20 [Lignes 2706-2853]** : Le Recadrage de Conflit & Neutralisation Express (Démonstration Aubrie) — *Protocole :* Le Recadrage de Conflit & Neutralisation Express (Démonstration Aubrie) | *Mécanisme :* La nature neurologique du Label Organique (The Handle on the Pot) | *Verbatim :* Le test d'actualité temporelle
+- **Tranche 21 [Lignes 2855-2984]** : Le Mini-Kata MBL (Élicitation, Collapsus & Spins de Cartes) — *Protocole :* Le Mini-Kata MBL (Élicitation, Collapsus & Spins de Cartes) | *Mécanisme :* Déconstruction syllogistique tripartite (Mini-Katas) | *Verbatim :* La question de rupture et de contraste d'état
+- **Tranche 22 [Lignes 2986-3117]** : Désamorçage de Résistance par Permissivité Paradoxale & Marquage Analogique (Exercice « I Ca... — *Protocole :* Désamorçage de Résistance par Permissivité Paradoxale & Marquage Analogique (Exercice « I Can't Relax ») | *Verbatim :* La Désactivation de la Lutte Intérieure (Permissivité Paradoxale)
+- **Tranche 23 [Lignes 3119-3237]** : Calibration et Enchâssement Prosodique sur Spins de Mind Bending — *Protocole :* Calibration et Enchâssement Prosodique sur Spins de Mind Bending
+- **Tranche 24 [Lignes 3239-3346]** : Protocole d'Accentuation Réfractive en MBL (Emphasize & Dismiss) — *Protocole :* Protocole d'Accentuation Réfractive en MBL (Emphasize & Dismiss) | *Verbatim :* Marquage Analogique & Traitement du Négatif
+- **Tranche 25 [Lignes 3348-3495]** : Le Foret de Fluence en Run-On Sentences (Entraînement en Groupe) — *Protocole :* Le Foret de Fluence en Run-On Sentences (Entraînement en Groupe)
+- **Tranche 26 [Lignes 3497-3614]** : Les 3 Éléments de Performance du MBL (Triade d'Amplification) — *Protocole :* Les 3 Éléments de Performance du MBL (Triade d'Amplification)
+- **Tranche 27 [Lignes 3616-3766]** : Construction et Enchaînement de Phrases Continues (Run-on Ambiguity Chain) — *Protocole :* Construction et Enchaînement de Phrases Continues (Run-on Ambiguity Chain)
+- **Tranche 28 [Lignes 3768-3882]** : Kata 3 : Spinning Questions (Contournement de Croyance & Isomorphisme) — *Protocole :* Kata 3 : Spinning Questions (Contournement de Croyance & Isomorphisme) | *Verbatim :* Déstabilisation par saturation de doute contextuel
+- **Tranche 29 [Lignes 3884-4009]** : Le Foret Temporel & Spatial (Perçage du Nuage d'Abstraction) — *Protocole :* Le Foret Temporel & Spatial (Perçage du Nuage d'Abstraction) | *Verbatim :* Verbatim 1 : L'entonnoir de forage temporel (Breaking Generalization)
+- **Tranche 30 [Lignes 4011-4167]** : Recadrage d'Identité face aux Circonstances Extérieures Incontrôlables — *Protocole :* Recadrage d'Identité face aux Circonstances Extérieures Incontrôlables | *Verbatim :* La bascule de perspective sur l'insurmontable
+- **Tranche 31 [Lignes 4169-4276]** : d'Élicitation P.R.O.B.A.B. (Cartographie Pré-MBL) — *Protocole :* d'Élicitation P.R.O.B.A.B. (Cartographie Pré-MBL) | *Mécanisme :* La distinction Réaction vs Réponse (Mécanisme de l'OOPA-Loop & Agentivité) | *Verbatim :* Distinction sémantique : Réaction vs Réponse
+- **Tranche 32 [Lignes 4278-4398]** : Démonstration MBL Aléatoire sur Matrice de Paramètres (Sujet : Aubrie) — *Protocole :* Démonstration MBL Aléatoire sur Matrice de Paramètres (Sujet : Aubrie)
+- **Tranche 33 [Lignes 4400-4551]** : d'Élicitation des Paramètres MBL (Grille Problème / Ressource) — *Protocole :* d'Élicitation des Paramètres MBL (Grille Problème / Ressource) | *Mécanisme :* Filtrage Réducteur & Extraction du Point d'Origine Somatique | *Verbatim :* Verbatim 1 : L'Élagage Somatique & Verrouillage d'Investissement
+- **Tranche 34 [Lignes 4553-4641]** : « The MBL Engine » (Moteur MBL minimaliste / Structure pure sans contenu) — *Protocole :* « The MBL Engine » (Moteur MBL minimaliste / Structure pure sans contenu) | *Verbatim :* La question MBL de frontière négative (Access Resource)
+- **Tranche 35 [Lignes 4643-4813]** : MBL Engine — Cycle d'Itération en Boucle (Wash, Rinse, Repeat Engine) — *Protocole :* MBL Engine — Cycle d'Itération en Boucle (Wash, Rinse, Repeat Engine) | *Verbatim :* Séquence d'Induction et de Re-Spin sur Contenu Réel
+- **Tranche 36 [Lignes 4815-4955]** : A : L'ENGIN MBL COMPLET — GESTION DE L'ÉTAT CONFUS / NEUTRE (The MBL Engine: Neutral/Confuse... — *Protocole :* A : L'ENGIN MBL COMPLET — GESTION DE L'ÉTAT CONFUS / NEUTRE (The MBL Engine: Neutral/Confused State) | *Mécanisme :* Le Tripartition Réactionnelle du Système Nerveux (The Three-State Feedback Loop) | *Verbatim :* La Négation Temporelle Inversée
+- **Tranche 37 [Lignes 4957-5143]** : Le Moteur MBL Intégral en Freestyle (The Full MBL Engine Roleplay / Real Problem) — *Protocole :* Le Moteur MBL Intégral en Freestyle (The Full MBL Engine Roleplay / Real Problem) | *Verbatim :* Démonstration MBL avec Greg (Igor Ledochowski)
+- **Tranche 38 [Lignes 5145-5303]** : La Boucle MBL / Effondrement d'Ancre par Révivification de Ressource (MBL Structural Cycle) — *Protocole :* La Boucle MBL / Effondrement d'Ancre par Révivification de Ressource (MBL Structural Cycle)
+- **Tranche 39 [Lignes 5305-5414]** : La Boucle Itérative MBL Engine & Test Somatique (Démonstration Patrick / Muneer) — *Protocole :* La Boucle Itérative MBL Engine & Test Somatique (Démonstration Patrick / Muneer) | *Mécanisme :* Le Moteur MBL comme Équipe de Dégagement d'Obstacles (The Work Crew Metaphor)
+- **Tranche 40 [Lignes 5416-5512]** : Jeu d'Acquisition d'un Super-Pouvoir (Acquire a Superpower Game) — *Protocole :* Jeu d'Acquisition d'un Super-Pouvoir (Acquire a Superpower Game) | *Mécanisme :* Métaphore Opératoire du « Work Crew » (L'Équipe de Déblaiement) | *Verbatim :* Définition Fonctionnelle du MBL
+- **Tranche 41 [Lignes 5514-5613]** : L'Interrogatoire Minimaliste MBL (The 4-Core Question Drill) — *Protocole :* L'Interrogatoire Minimaliste MBL (The 4-Core Question Drill) | *Verbatim :* Définition de la Question d'Enfant (Igor Ledochowski)
+- **Tranche 42 [Lignes 5615-5714]** : A : Traitement du Doute Post-Intervention (« The Next Piece of Work ») — *Protocole :* A : Traitement du Doute Post-Intervention (« The Next Piece of Work »)
+- **Tranche 43 [Lignes 5716-5863]** : La Matrice d'Énergie (The Energy Matrix) / Extraction de la Compétence Inconsciente — *Protocole :* La Matrice d'Énergie (The Energy Matrix) / Extraction de la Compétence Inconsciente
+- **Tranche 44 [Lignes 5865-5985]** : L'Ascenseur Récursif du "How" (The How-Spiral Drill) — *Protocole :* L'Ascenseur Récursif du "How" (The How-Spiral Drill)
+- **Tranche 45 [Lignes 5987-6159]** : Le Forage par la Matrice de Réalité (The Reality Matrix Protocol) — *Protocole :* Le Forage par la Matrice de Réalité (The Reality Matrix Protocol) | *Verbatim :* Séquence 1 : Forage par le "Why" et Déconstruction de la Cause
+- **Tranche 46 [Lignes 6161-6301]** : The "Why" Game (Forage Dialectique MBL) — *Protocole :* The "Why" Game (Forage Dialectique MBL) | *Verbatim :* Extrait 1 : Le calibrage de la tonalité de candeur
+- **Tranche 47 [Lignes 6303-6436]** : A : La Boucle en 3 Étapes du MBL (Drilling Down & Scaling Up) — *Protocole :* A : La Boucle en 3 Étapes du MBL (Drilling Down & Scaling Up) | *Verbatim :* La redirection de la cause vers la réaction du sujet
+- **Tranche 48 [Lignes 6438-6562]** : Chasseur de Ressources Cartésien (Cartesian Resource Hunter) — *Protocole :* Chasseur de Ressources Cartésien (Cartesian Resource Hunter) | *Verbatim :* La priorité absolue de l'attitude sur la mécanique verbale
+- **Tranche 49 [Lignes 6564-6727]** : Démonstration de l'Enquête Phénoménologique Minimaliste (sySTEM) sur Ressource — *Protocole :* Démonstration de l'Enquête Phénoménologique Minimaliste (sySTEM) sur Ressource | *Verbatim :* Verbatim 1 : L'attitude d'ignorance humble et de modélisation
+- **Tranche 50 [Lignes 6729-6849]** : A : Exploration de l'Architecture d'une Compétence/Ressource (Démonstration Patrick / Muneer) — *Protocole :* A : Exploration de l'Architecture d'une Compétence/Ressource (Démonstration Patrick / Muneer)
+- **Tranche 51 [Lignes 6851-6978]** : Enquête Conversationnelle & Pénétration par Modificateurs de Transe (Flow Démo Muneer / Patr... — *Protocole :* Enquête Conversationnelle & Pénétration par Modificateurs de Transe (Flow Démo Muneer / Patrick) | *Verbatim :* Le Saut Ontologique d'Identité
+- **Tranche 52 [Lignes 6980-7121]** : Strange New World (Exploration du Quadrant Converse) — *Protocole :* Strange New World (Exploration du Quadrant Converse) | *Verbatim :* Le Double Lien de l'Ignorance Délibérée & Direction Intuitive
+- **Tranche 53 [Lignes 7123-7307]** : Le Trésor Caché en Paysage Mental (Mind Bending DMI / Buried Treasure) — *Protocole :* Le Trésor Caché en Paysage Mental (Mind Bending DMI / Buried Treasure) | *Mécanisme :* Le Trésor Intérieur & La Boîte Mystère (Buried Treasure Protocol) | *Verbatim :* La Double Présupposition d'Émergence et de Clôture Temporelle
+- **Tranche 54 [Lignes 7309-7446]** : Le Kata Cartésien Mécanique (Générateur Infini de Mind Bending Language) — *Protocole :* Le Kata Cartésien Mécanique (Générateur Infini de Mind Bending Language)
+- **Tranche 55 [Lignes 7448-7600]** : Le Kata Cartésien Combinatoire (Cartesian Kata + Stems + Modifiers) — *Protocole :* Le Kata Cartésien Combinatoire (Cartesian Kata + Stems + Modifiers) | *Mécanisme :* Le Moteur Cartésien comme Matrice de Déstabilisation Sémantique | *Verbatim :* La Clarté Tonale du Converse
+- **Tranche 56 [Lignes 7602-7732]** : L'Élicitation Éclair & la Boucle Cartésienne MBL (Lightning Rounds) — *Protocole :* L'Élicitation Éclair & la Boucle Cartésienne MBL (Lightning Rounds) | *Verbatim :* L'Induction Sociale Spontanée (Jeff's Piano Question)
+- **Tranche 57 [Lignes 7734-7868]** : La Grille Cartésienne d'Élucidation du Problème — *Protocole :* La Grille Cartésienne d'Élucidation du Problème | *Verbatim :* Démonstration : Traque du Problème sur l'Irritation du Retard (Igor & Sam)
+- **Tranche 58 [Lignes 7870-7992]** : Le Défi des 7 Minutes d'Exploration Pure (The 7-Minute Non-Resolution Drill) — *Protocole :* Le Défi des 7 Minutes d'Exploration Pure (The 7-Minute Non-Resolution Drill) | *Verbatim :* Pattern 1 : Le Framing Paradoxal d'Interdiction de Guérison
+- **Tranche 59 [Lignes 7994-8115]** : Exploration Pure du Problème par MBL Sans Réparation (Problem Exploration Drill) — *Protocole :* Exploration Pure du Problème par MBL Sans Réparation (Problem Exploration Drill)
+- **Tranche 60 [Lignes 8117-8309]** : A : La Consolidation du Changement & Traitement du Doute Métacognitif (Démonstration Manu) — *Protocole :* A : La Consolidation du Changement & Traitement du Doute Métacognitif (Démonstration Manu) | *Verbatim :* Expansion Temporelle et Neutralisation de l'Urgence de Réparation
+- **Tranche 61 [Lignes 8311-8420]** : A : Conversational PCAT avec Résolution de la Peur du Futur / Doute de Durabilité — *Protocole :* A : Conversational PCAT avec Résolution de la Peur du Futur / Doute de Durabilité | *Verbatim :* Dé-fixation identitaire et spatiale par négation croisée
+- **Tranche 62 [Lignes 8422-8542]** : Protocole Flash MBL : Disrupt & Reframe (« Half-Cake Formula ») — *Protocole :* Protocole Flash MBL : Disrupt & Reframe (« Half-Cake Formula »)
+- **Tranche 63 [Lignes 8544-8701]** : La Formule Opératoire Tripartite MBL (Construction d'une Question de Rupture) — *Protocole :* La Formule Opératoire Tripartite MBL (Construction d'une Question de Rupture) | *Verbatim :* La Métaphore des Ondes Énergétiques et de l'Espace-Temps
+- **Tranche 64 [Lignes 8703-8812]** : Le PCAT Conversationnel (Mind Bending Language) — *Protocole :* Le PCAT Conversationnel (Mind Bending Language) | *Verbatim :* Le Pré-cadrage du Placebo et Contrat d'Alliance
+- **Tranche 65 [Lignes 8814-8931]** : d'Assouplissement et de Résolution Progressive (Progression en 4 Étapes MBL) — *Protocole :* d'Assouplissement et de Résolution Progressive (Progression en 4 Étapes MBL)
+- **Tranche 66 [Lignes 8933-9035]** : La Comparaison/Contraste MBL (Étape Paramètres & Connexion PCAT) — *Protocole :* La Comparaison/Contraste MBL (Étape Paramètres & Connexion PCAT)
+- **Tranche 67 [Lignes 9037-9169]** : d'Intégration MBL en 4 Phases : Extraction, Expansion, Contrast & Test — *Protocole :* d'Intégration MBL en 4 Phases : Extraction, Expansion, Contrast & Test | *Mécanisme :* L'élucidation ascendante de la ressource (Bottom-Up Value/Identity Chunking) | *Verbatim :* Expansion récursive et présupposition d'état transcendant
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 67 ---
+## Tranche 1 / 67 : Le Kata 1 d'Échauffement (Warmup Exercise Kata 1)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 1/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -287,8 +360,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 1/67 du c
   > "As you feel this Good… think about P and notice what happens?"
   * **[Analyse du Pattern]** : Formule classique de liaison temporelle et somatique (*"As you feel [Ressource]... think about [Problème]"*). L'utilisation de la conjonction de simultanéité *"As"* force le système nerveux à maintenir la charge affective positive du néocortex et du système limbique au moment exact où la représentation du problème est rappelée. La commande ouverte finale (*"and notice what happens?"*) présuppose qu'une altération perceptive irréversible est déjà en cours d'exécution.
 
-
-## --- Tranche 2 / 67 ---
+## Tranche 2 / 67 : Le "Cartesian Kata" Mécanique & Dimensionnel (STEM)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -452,8 +524,7 @@ Le principe actif du *Doubt Blowout* réside dans le contre-effondrement préven
   - **Structure logique** : Subordonnée temporelle de pontage d'états (*As you...*) suivie d'un empilement d'interrogations de calibration déstabilisatrices.
   - **Effet syntaxique** : La conjonction *« As you feel RS... »* présuppose que l'état ressource est déjà pleinement actif et dominant dans le corps au moment précis où la pensée de $P$ est convoquée. Le prédicat de prise de conscience ouvert *« and notice what happens… »* suspend le jugement critique et oriente l'attention sur les micro-changements phénoménologiques. La salve de relances incisives (*« Really? How do you know? Why? »*) joue le rôle de contre-épreuve : loin de chercher à rassurer, elle contraint le sujet à rationaliser et à défendre la disparition de son propre blocage, scellant la transformation de manière pérenne dans son modèle du monde.
 
-
-## --- Tranche 3 / 67 ---
+## Tranche 3 / 67 : Cartographie Diagnostique OOPA (Localisation de la Distorsion Perceptive)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/67 du séminaire *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -553,8 +624,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/67 du s
   * **Démonstration par contraste syntaxique :** Ledochowski utilise le questionnement en boucle (*"What’s the difference? Same brand of jeans. Same color. What’s the difference?"*) pour modéliser l'intervention chirurgicale qui fait tomber une *Assumption*.
   * **Modélisation de la rationalisation affective :** En formulant *"something is wrong, something dodgy about it"*, il met en lumière le caractère viscéral et pré-rationnel de la croyance (*Belief*), où l'intellect fabrique des justifications a posteriori pour protéger l'état émotionnel dominant (*Law of Dominant Affect*).
 
-
-## --- Tranche 4 / 67 ---
+## Tranche 4 / 67 : Démonstration : "Instant Mind Bending Language" / Kata 1 (Structure de Réduction Somato-Kine...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -662,8 +732,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/67 du s
 * **[Analyse du Pattern]** :  
   Équivalence complexe en chaîne causale fermée (*Perception = Projection = Action répétée = Réalité répliquée*). L'utilisation de l'adverbe *"without realizing it"* intègre une présupposition d'action inconsciente automatique, installant chez l'auditeur la prise de conscience que son inertie existentielle n'est pas une fatalité extérieure, mais une boucle motrice et perceptive auto-générée.
 
-
-## --- Tranche 5 / 67 ---
+## Tranche 5 / 67 : La Manœuvre des 7 Questions MBL (Tranche : Étapes 1 à 5)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -804,8 +873,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 3/67 du s
   - **Structure syntaxique** : Lecture de pensée adoucie par modalisation sensorielle, suivie d'un tag permissif d'échappement.
   - **Mécanisme** : *"I get a sense"* introduit une observation sans imposer d'autorité brute. Le quantificateur minorant *"a little bit of"* réduit la résistance psychologique du sujet en rendant l'état facile à admettre. La clausule de sortie *"or am I misreading the situation?"* désamorce toute réactance psychologique : le sujet n'a plus besoin de lutter contre le praticien et valide spontanément la suggestion d'incarnation.
 
-
-## --- Tranche 6 / 67 ---
+## Tranche 6 / 67 : L'Algorithme des 7 Questions MBL (Phase d'Extraction & d'Écrasement d'État)
 
 Voici l'analyse opératoire intégrale de la tranche 6/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -934,8 +1002,7 @@ Voici l'analyse opératoire intégrale de la tranche 6/67 du cours *Practitioner
 > **Igor:** « What is your body feeling when you're in the problem? »
 * **[Analyse du Pattern]** : Dissociation conscient/inconscient avec focalisation somato-sensorielle stricte. La question exclut l'ego narratif (*"What do YOU feel?"*) au profit de l'objet viscéral (*"What is YOUR BODY feeling?"*), interdisant toute échappatoire méta-cognitive ou justification intellectuelle et forçant l'accès direct aux marqueurs somatiques réels du problème.
 
-
-## --- Tranche 7 / 67 ---
+## Tranche 7 / 67 : Extraction et Calibrage de la Racine Émotionnelle (Kata 1 - Questions 2, 3, 4)
 
 Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -1059,8 +1126,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner
     *   *Marqueur d'impuissance présupposée (*Stuck*) :* L'emploi intentionnel du mot *« stuck »* plutôt que *« have the problem »* résonne avec le sentiment de manque de choix du sujet et bloque les arguties logiques des profils intellectuels.
     *   *Négation indirecte opérationnelle (*Anything but*) :* Syntaxiquement équivalent à *« if you felt NOT [problem] »*, cette tournure détourne le filtre conscient de la négation directe et contraint l'inconscient à sonder tout le spectre des états alternatifs non-problématiques, initiant instantanément l'effondrement du pattern pathologique.
 
-
-## --- Tranche 8 / 67 ---
+## Tranche 8 / 67 : La Séquence des Questions 4 à 7 (Kata de Mind Bending Language)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1180,8 +1246,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner
 > « As you feel this now think about problem and notice what happens. »
 - **[Analyse du Pattern]** : Conjonction temporelle subordonnée « *As you feel this now* » créant un état de liaison inévitable entre la sensation ressource actuelle et l'évocation de l'ancien problème. L'instruction ouverte « *notice what happens* » installe une attente de changement inévitable sans orienter consciemment le résultat, laissant l'inconscient dissoudre l'ancienne réponse conditionnée.
 
-
-## --- Tranche 9 / 67 ---
+## Tranche 9 / 67 : Le Décrochage Somatique d'un Problème Simple (Exercice Démo Patrick & Muneer)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1331,8 +1396,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner
 > *"Who are you being when you don’t notice you don’t do the problem?"*
 - **[Analyse du Pattern]** : Questionnement trans-dérivationnel à double négation imbriquée (*"don't notice you don't do"*). L'empilement syntaxique force l'hémisphère gauche à surchauffer pour analyser la phrase, tandis que l'inconscient est projeté au niveau de l'identité pure (*"Who are you being..."*) dans un espace temporel où le problème est inexistant (*"you don't do the problem"*).
 
-
-## --- Tranche 10 / 67 ---
+## Tranche 10 / 67 : Construction et Déploiement des Spins MBL (De la Formule Algébrique au Langage Naturel)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1435,8 +1499,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner
 > "That's okay because we're not talking to your conscious mind at this point. Your conscious mind is like in a void, and then what I'll ask next is 'How's your body feel?' And then you've gone from 'Oh, I feel this anguish' and it's now like 'What's he saying? How does your body feel? It's actually fine.' So you've gone from anguish to fine in literally a single sentence."
 * **[Analyse du Pattern]** : Stratégie de rupture de pattern suivie d'une redirection somatique immédiate. L'incompréhension consciente crée un état de réceptivité pure (le *void*). La question somatique directe court-circuite le récit psychologique (*« anguish »*) et synchronise le sujet avec son état physiologique immédiat non perturbé (*« fine »*).
 
-
-## --- Tranche 11 / 67 ---
+## Tranche 11 / 67 : L'Intervention Flash « Spin + Somatic Check »
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1579,8 +1642,7 @@ Voici l'analyse opératoire intégrale de la tranche 7/67 du cours *Practitioner
 >   - **Métaphore spatiale implicite** : *"far from problem"* traite le problème comme une localisation physique dont on peut s'éloigner.
 >   - **Contrôle du focus attentionnel** : *"how much can you narrow your awareness to just resource"* présuppose la capacité du sujet à restreindre son faisceau attentionnel pour ne laisser entrer que l'état ressource, excluant tout stimulus périphérique lié au problème.
 
-
-## --- Tranche 12 / 67 ---
+## Tranche 12 / 67 : Extraction Clinique de la Triade (The 3-Step State Elicitation)
 
 Voici l'extraction opératoire intégrale de la tranche 12/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -1724,8 +1786,7 @@ Voici l'extraction opératoire intégrale de la tranche 12/67 du cours *Practiti
 > "How's that going to give you a feeling? How's it going to get a felt sense? What's a problem state? It's a feeling, that's causing a problem. So, ask that question. How do you feel when you're near a spider? Doesn't that make more sense?"
 * **[Analyse du Pattern] :** Recadrage d'ingénierie linguistique par questions rhétoriques empilées. Ledochowski force le praticien à abandonner les dérives cognitives pour ancrer l'intervention sur le *felt sense* (le ressenti kinesthésique pur), garantissant que le levier MBL s'appliquera sur la neurophysiologie et non sur l'histoire mentale du sujet.
 
-
-## --- Tranche 13 / 67 ---
+## Tranche 13 / 67 : Extraction de la Triade Fondamentale MBL (The 3-Variable Container)
 
 Voici l'extraction et la modélisation intégrale de la tranche 13/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski, structurée selon les exigences d'ingénierie opératoire.
 
@@ -1867,8 +1928,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 13/67 du cours *
 > **Igor :** « Well, how much are you practicing to be like that now? Whatever you're doing or whatever states you habitually get into now will dominate you in time. Why? Because you're practicing them. »
 * **[Analyse du Pattern] :** Saut de cadre temporel (*Time Frame Shifting*) et redéfinition sémantique (*Redefinition*). L'état passif (« je me sens mal / je subis mon humeur ») est recadré sous le signifiant d'une action délibérée et répétée : *« practicing »* (s'entraîner / répéter). Ce pivot lexical détruit le statut de victime du sujet en requalifiant l'inertie émotionnelle en entraînement inconscient à devenir un vieillard aigri, créant un puissant levier d'évitement kinesthésique à rester dans l'état-problème.
 
-
-## --- Tranche 14 / 67 ---
+## Tranche 14 / 67 : Extraction Minimaliste de la Triade (P - PS - RS)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2026,8 +2086,7 @@ Voici l'extraction et la modélisation intégrale de la tranche 13/67 du cours *
 > *"How could feeling totally calm not prevent you from being better?"*  
 > - **[Analyse du Pattern]** : Utilisation d'un verbe d'empêchement couplé à une négation (*"not prevent you"*). La formule présuppose que le calme ($RS$) est déjà actif et interroge la possibilité paradoxale qu'il n'empêche pas l'amélioration ($B$), verrouillant la cognition dans une boucle de rétroaction exclusivement positive.
 
-
-## --- Tranche 15 / 67 ---
+## Tranche 15 / 67 : Extraction & Réduction Minimale (Setup pour Cartes MBL)
 
 Voici l'analyse opératoire intégrale de la tranche 15/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2120,8 +2179,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/67 du cours *Practitione
 > **Igor Ledochowski :** *"So what's not depressing where you're feeling accomplished?"*
 * **[Analyse du Pattern]** : Présupposition spatiale de dissociation et de contraste d'états. *"Where you're feeling accomplished"* installe le sujet à l'intérieur du champ kinesthésique de la ressource. Depuis cet espace, *"what's not depressing"* oblige le sujet à scanner l'environnement et l'expérience en filtrant tout ce qui ne valide pas la dépression, complétant l'effondrement de l'état limitant.
 
-
-## --- Tranche 16 / 67 ---
+## Tranche 16 / 67 : Le Pivot d'Interception Somatique (Body Interception Move)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 16/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2262,8 +2320,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 16/6
 > « Well, in that case, I think there’s some part of you that must already be working out the answer if you’re feeling this good already. »
 * **[Analyse du Pattern]** : **Cause à effet (Équivalence complexe), dissociation par parties et présupposition temporelle.** La conjonction « if... already » lie rétroactivement le ressenti physique agréable présent à la preuve irréfutable qu'un travail inconscient (« some part of you ») est déjà en train de résoudre le problème à l'insu du conscient.
 
-
-## --- Tranche 17 / 67 ---
+## Tranche 17 / 67 : La Revivification Conversationnelle via les Coordonnées STEM (Conversational Revivification)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/67 du séminaire *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2399,8 +2456,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/67 du 
 
 *   **[Analyse du Pattern] :** Distinction méta-conceptuelle et dé-nominalisation. Ledochowski déconstruit le terme « financial freedom » en le reléguant au statut de sous-produit intellectuel externe (*"an idea about the feeling"*). Il redirige l'attention sur la réalité neurologique primaire : la réponse biologique viscérale (*"how is your body responding?"*). Cela convertit un concept impossible à hypnotiser en une ressource somatique pure et directement activable (*"Strong"*).
 
-
-## --- Tranche 18 / 67 ---
+## Tranche 18 / 67 : Revivification & Élicitation d'un État Ressource (Démonstration Muneer / Patrick)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2509,8 +2565,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 17/67 du 
 
 * **[Analyse du Pattern]** : Recadrage identitaire par métaphore isomorphique biologique. En normalisant le fait que le changement personnel n'est pas la disparition définitive de tout filtre, mais l'adoption d'une « coquille » plus vaste, l'orateur désamorce la peur de la perte de repères tout en intégrant l'idée de croissance cyclique inévitable.
 
-
-## --- Tranche 19 / 67 ---
+## Tranche 19 / 67 : Kata 2 - Revivification du Problème & Élicitation de Ressource (8-Step Inquiry Process)
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 19/67 du séminaire *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2648,8 +2703,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 19/67 du 
     - Dérivation latérale sous couvert d'innocuité (*"Out of curiosity"* réduit le facteur critique).
     - Transposition instantanée du même déclencheur sensoriel (le doigt d'honneur) dans un contexte professionnel de statut élevé (l'enseignante face à un élève), extrayant immédiatement une ressource naturelle de calme froid, de fermeté et d'autorité (*"quiet and really serious"*), totalement inaccessible dans le cadre de la conductrice offensée.
 
-
-## --- Tranche 20 / 67 ---
+## Tranche 20 / 67 : Le Recadrage de Conflit & Neutralisation Express (Démonstration Aubrie)
 
 Voici l'analyse modélisée et opératoire de la tranche 20/67 du séminaire *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2798,8 +2852,7 @@ Voici l'analyse modélisée et opératoire de la tranche 20/67 du séminaire *Pr
 
 * **[Analyse du Pattern]** : Court-circuit logique par fusion des polarités (MBL Spin pur). La question enchâsse l'état désiré (« enjoy ») directement sur la négation de la stratégie d'évitement (« not avoiding your habits »). La structure crée une boucle paradoxale que le mental conscient ne peut résoudre sans reconfigurer instantanément sa relation à l'action.
 
-
-## --- Tranche 21 / 67 ---
+## Tranche 21 / 67 : Le Mini-Kata MBL (Élicitation, Collapsus & Spins de Cartes)
 
 Voici l'extraction opératoire complète de la tranche 21/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -2930,8 +2983,7 @@ Voici l'extraction opératoire complète de la tranche 21/67 du cours *Practitio
 > Igor: "Actually, John IS driving to Vegas today."
 * **[Analyse du Pattern]** : Emphase tonique modale. Le stress appuyé sur l'auxiliaire "IS" modifie le champ présuppositionnel : il signale une réfutation catégorique d'un doute ou d'une annulation antérieure. L'inconscient entend en sous-texte : *"Contrairement à l'incertitude ou aux rumeurs d'annulation, l'action est irrévocablement confirmée"*.
 
-
-## --- Tranche 22 / 67 ---
+## Tranche 22 / 67 : Désamorçage de Résistance par Permissivité Paradoxale & Marquage Analogique (Exercice « I Ca...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3064,8 +3116,7 @@ Voici l'extraction opératoire complète de la tranche 21/67 du cours *Practitio
 * **[Analyse du Pattern]** :  
   Structure de cadrage spatio-temporel (*« Where you get courageous »*) sur laquelle repose toute l'énergie et l'intonation haute de la phrase (ancrage de la ressource en position d'amorce). La seconde partie de la phrase (*« how don't you not get scared? »*), bien que se terminant par le mot du problème (*scared*), est délivrée avec une prosodie descendante, ultra-rapide et totalement plate/désinvolte. Cette rupture de contraste tonal prive le terme négatif de toute charge émotionnelle, reléguant la peur au rang de détail insignifiant tandis que le système nerveux ne retient que la vibration d'affirmation du courage.
 
-
-## --- Tranche 23 / 67 ---
+## Tranche 23 / 67 : Calibration et Enchâssement Prosodique sur Spins de Mind Bending
 
 Voici l'analyse opératoire intégrale de la tranche 23/67 du séminaire *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -3185,8 +3236,7 @@ Voici l'analyse opératoire intégrale de la tranche 23/67 du séminaire *Practi
   > « When you don't notice construction, where are you? That's open! »
   * **[Analyse du Pattern]** : Rupture de pattern avec exclamation affirmative terminale (*"That's open!"*). La question spatiale suspend le cadre du problème, et la terminaison assertive projette instantanément le sujet dans l'état de kinesthésie ouverte.
 
-
-## --- Tranche 24 / 67 ---
+## Tranche 24 / 67 : Protocole d'Accentuation Réfractive en MBL (Emphasize & Dismiss)
 
 Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -3295,8 +3345,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
 > « What don't you realize when feeling depressed that if you did you'd be feeling contentment and security? »
 - **[Analyse du Pattern]** : Structure de présupposition contrefactuelle (*« that if you did »*). La phrase postule formellement qu'il existe un élément actuellement hors du champ de conscience du sujet qui, dès qu'il sera perçu, déclenchera mécaniquement et automatiquement le passage de la dépression à la sécurité intérieure. L'accentuation sur *« did »* verrouille l'inévitabilité de la bascule.
 
-
-## --- Tranche 25 / 67 ---
+## Tranche 25 / 67 : Le Foret de Fluence en Run-On Sentences (Entraînement en Groupe)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3445,8 +3494,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
   - Segment 2 (*"...when feeling great?"*) : Répond partiellement en colorant l'identité d'un affect hautement positif.
   - Segment 3 (*"...That's beyond all problems."*) : Opère un saut de niveau logique. La proposition finale qualifie l'identité comme étant par nature supérieure et externe à l'existence même des problèmes, provoquant le rire de libération et la désactivation de l'espace pathologique.
 
-
-## --- Tranche 26 / 67 ---
+## Tranche 26 / 67 : Les 3 Éléments de Performance du MBL (Triade d'Amplification)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3565,8 +3613,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
   > "Where are you? That’s not the problem. When you’re great. Aren’t you?"
   * **[Analyse du Pattern]** : Succession de micro-affirmations et questions désynchronisées agissant comme une rupture de pattern en cascade. L'esprit cherche la réponse à la première question, est immédiatement percuté par une négation catégorique de l'état problématique, puis relancé dans un état de ressource optimal (*"When you're great"*), avant d'être sommé de valider l'expérience par un tag final (*"Aren't you?"*). L'absence de transition logique formelle oblige l'inconscient à faire un saut quantique de sens.
 
-
-## --- Tranche 27 / 67 ---
+## Tranche 27 / 67 : Construction et Enchaînement de Phrases Continues (Run-on Ambiguity Chain)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3718,8 +3765,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
 >   - **Recadrage relationnel fondamental :** Avertissement direct contre l'utilisation du Mind Bending Language comme un simple outil de domination ou de manipulation intellectuelle.
 >   - **Présupposition d'efficacité bienveillante :** Le succès du pattern linguistique ne dépend pas de sa complexité grammaticale brute mais de la chaleur du canal affectif (H+) dans lequel il est délivré.
 
-
-## --- Tranche 28 / 67 ---
+## Tranche 28 / 67 : Kata 3 : Spinning Questions (Contournement de Croyance & Isomorphisme)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3835,8 +3881,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
 > **Igor :** "What do you need to believe so you get stuck procrastinating when you're in your office like this?"
 - **[Analyse du Pattern]** : Assignation de responsabilité causale inversée. La question présuppose que le blocage n'est pas un événement subi, mais une production active qui exige l'adhésion préalable à une croyance spécifique (*"What do you need to believe..."*). L'adverbe *"so"* cadre la croyance comme l'outil nécessaire ayant pour finalité intentionnelle d'être coincé, rendant l'architecture de la limitation absurde et intenable pour l'esprit logique.
 
-
-## --- Tranche 29 / 67 ---
+## Tranche 29 / 67 : Le Foret Temporel & Spatial (Perçage du Nuage d'Abstraction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3963,8 +4008,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
 > They disappear, the mountains become molehills and you just step right over them, right? The difference is, you. »
 * **[Analyse du Pattern]** : Enchaînement de truismes et d'exemples d'expériences culminantes aux granularités variées (du baiser au gâteau parfait), déclenchant une recherche transdérivationnelle instantanée d'un état d'expansion kinesthésique. La métaphore spatiale de l'écrasement de relief (« mountains become molehills and you just step right over them ») suivie de la désignation ontologique pure (« The difference is, you ») installe un ancrage d'agentivité totale réduisant à néant la taille perçue du problème.
 
-
-## --- Tranche 30 / 67 ---
+## Tranche 30 / 67 : Recadrage d'Identité face aux Circonstances Extérieures Incontrôlables
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4122,8 +4166,7 @@ Voici l'analyse opératoire de la tranche 24/67 du cours *Practitioner of Mind B
   - *Spatialisation méta (« Where are you... ») :* Sort la cognition du cadre narratif pour obliger le client à localiser somatiquement et spatialement un état de conscience préservé de l'overwhelm.  
   - *Empilement de présuppositions temporelles (« when you realize... now ») :* Verrouille l'accès immédiat à la gratitude tout en définissant l'agitation mentale précédente comme caduque.
 
-
-## --- Tranche 31 / 67 ---
+## Tranche 31 / 67 : d'Élicitation P.R.O.B.A.B. (Cartographie Pré-MBL)
 
 Voici l'analyse opératoire intégrale de la tranche 31/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -4232,8 +4275,7 @@ Voici l'analyse opératoire intégrale de la tranche 31/67 du cours *Practitione
 > **Igor Ledochowski :** « And what will you realize when this is no longer a problem for you, and you're completely Zen? »
 * **[Analyse du Pattern]** : Subordonnée temporelle enchâssée (`when this is no longer a problem`) traitant la disparition définitive du trouble non comme une éventualité conditionnelle (`if`), mais comme un fait accompli incontestable dans la chronologie future du sujet, liée analogiquement à l'état ancre `completely Zen`.
 
-
-## --- Tranche 32 / 67 ---
+## Tranche 32 / 67 : Démonstration MBL Aléatoire sur Matrice de Paramètres (Sujet : Aubrie)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4355,8 +4397,7 @@ Voici l'analyse opératoire intégrale de la tranche 31/67 du cours *Practitione
   * **[Analyse du Pattern]** :  
     Inversion métaphorique pure calquée sur le matériel exact du client. Face au problème défini par Dustin comme *"running away from myself"*, la suggestion apparemment banale *"stay wherever you are"* agit comme un contre-calembour hypnotique complet : elle stoppe la fuite motrice interne en autorisant l'immobilité psychologique sans forcer une étiquette extérieure artificielle.
 
-
-## --- Tranche 33 / 67 ---
+## Tranche 33 / 67 : d'Élicitation des Paramètres MBL (Grille Problème / Ressource)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4509,8 +4550,7 @@ Le simple fait de nommer un prédicat d'attention (*notice*, *realize*, *feel*) 
 
 * **[Analyse du Pattern]** : Spatialisation d'une non-expérience (*« Where else don't you experience scarcity? »*). Le mot *scarcity* (le noyau de la croyance limitante) est neutralisé en demandant où d'autre dans l'expérience du sujet cette rareté est *absente*, puis raccordement immédiat à la nouvelle affirmation identitaire ressource (*« That's I'm healthy »*). Cela opère une généralisation de l'état de santé à d'autres contextes de vie.
 
-
-## --- Tranche 34 / 67 ---
+## Tranche 34 / 67 : « The MBL Engine » (Moteur MBL minimaliste / Structure pure sans contenu)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -4600,8 +4640,7 @@ Le simple fait de nommer un prédicat d'attention (*notice*, *realize*, *feel*) 
   2. *« What kind of better is this better that you feel? »* force une exploration granulaire (qualitative et somatosensorielle) de la sensation, transformant une simple idée en une expérience corporelle éprouvée (*felt sense* de Gendlin).
   3. *« How do you know? »* extrait et fige la stratégie de réalité du sujet, le forçant à admettre devant lui-même que la preuve corporelle est irréfutable.
 
-
-## --- Tranche 35 / 67 ---
+## Tranche 35 / 67 : MBL Engine — Cycle d'Itération en Boucle (Wash, Rinse, Repeat Engine)
 
 Voici l'analyse d'ingénierie opératoire de la tranche 35/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -4773,8 +4812,7 @@ Muneer: Because I feel it.
 * **[Analyse du Pattern]** :  
   - *"Who are you when you don't notice you don't problem?"* : Déplacement d'un niveau logique de capacité vers l'identité pure (*"Who are you..."*) couplé à une double négation enchâssée (*"don't notice you don't..."*). Cela déracine instantanément l'identification du sujet à son problème sans lui offrir de prise conceptuelle rigide pour argumenter.
 
-
-## --- Tranche 36 / 67 ---
+## Tranche 36 / 67 : A : L'ENGIN MBL COMPLET — GESTION DE L'ÉTAT CONFUS / NEUTRE (The MBL Engine: Neutral/Confuse...
 
 Voici l'extraction exhaustive, structurée et strictement opératoire de la **tranche 36/67** du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -4916,8 +4954,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la **tr
 > **Patrick** : *"And how do you know?"*
 - **[Analyse du Pattern]** : Questionnement sur la structure subjective de la réalité (Modélisation Symbolique / Clean Language). Plutôt que de valider passivement le résultat, la question *"What kind of..."* oblige le sujet à attribuer des qualités sensorielles ou métaphoriques à la ressource, tandis que *"How do you know?"* force le système nerveux à trouver les preuves intéroceptives (sensation corporelle, vision, os, âme), solidifiant le changement de façon définitive.
 
-
-## --- Tranche 37 / 67 ---
+## Tranche 37 / 67 : Le Moteur MBL Intégral en Freestyle (The Full MBL Engine Roleplay / Real Problem)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5105,8 +5142,7 @@ Voici l'extraction exhaustive, structurée et strictement opératoire de la **tr
 > "Whatever you think you've learned, just wait till you see that you know so much more than you realized."
 * **[Analyse du Pattern]** : Post-suggestion de validation rétroactive basée sur un paradoxe de niveau logique (la division ericksonienne classique Conscient / Inconscient : ce que tu crois savoir vs ce que tu sais sans le savoir), verrouillant la confiance de l'apprenant dans ses capacités d'intégration futures.
 
-
-## --- Tranche 38 / 67 ---
+## Tranche 38 / 67 : La Boucle MBL / Effondrement d'Ancre par Révivification de Ressource (MBL Structural Cycle)
 
 Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du cours *Practitioner of Mind Bending Language* (Igor Ledochowski).
 
@@ -5266,8 +5302,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
   > *"And what kind of laugh is a laugh like this?"*  
   * **[Analyse du Pattern]** : Question de clean language / modélisation symbolique récursive appliquée à une réponse somatique spontanée. En qualifiant le rire (*"what kind of laugh..."*), le praticien transforme un réflexe physiologique en une ressource identitaire explicite (*"a laugh of celebration"*).
 
-
-## --- Tranche 39 / 67 ---
+## Tranche 39 / 67 : La Boucle Itérative MBL Engine & Test Somatique (Démonstration Patrick / Muneer)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5378,8 +5413,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
     > *"How do you know? [...] That's right. You do know, don't you?"*
     *   **[Analyse du Pattern] :** Tag question de ratification hypnotique (*"don't you?"*) greffée sur un truisme d'autorisation (*"That's right"*), venant sceller l'intuition corporelle comme une certitude axiomatique incontestable.
 
-
-## --- Tranche 40 / 67 ---
+## Tranche 40 / 67 : Jeu d'Acquisition d'un Super-Pouvoir (Acquire a Superpower Game)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5477,8 +5511,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
 > « Ask the question that a five year old would ask, including the five year old grammar, what’s that? Why do you do that? How do you do that? When do you do that? Where do you do that? What do you do? What is it? What’s going to give you the power? The shorter the question is the bigger, more space the unconscious has to respond back to you. »
 * **[Analyse du Pattern]** : Régression syntaxique opératoire (*Age-Regressed Linguistic Constraint*). L'analogie avec l'enfant de 5 ans opère une suggestion post-hypnotique pour dépouiller le praticien de son intellectualisme d'adulte. L'empilement rapide de questions interrogatives monosyllabiques crée une boucle d'amorce conversationnelle (*conversational pacing*) démontrant la pureté du questionnement d'accès direct au modèle du monde.
 
-
-## --- Tranche 41 / 67 ---
+## Tranche 41 / 67 : L'Interrogatoire Minimaliste MBL (The 4-Core Question Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5579,8 +5612,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
 > Patrick: « That you already knew before now. »
 * **[Analyse du Pattern]** : Double contrainte temporelle et suggestion d'apprentissage implicite. Même lorsque le sujet nie consciemment avoir appris du nouveau, la reformulation instantanée (*« That you already knew before now »*) présuppose que la sagesse ou l'apprentissage était déjà encodé dans l'inconscient, validant la découverte sans débat possible.
 
-
-## --- Tranche 42 / 67 ---
+## Tranche 42 / 67 : A : Traitement du Doute Post-Intervention (« The Next Piece of Work »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5681,8 +5713,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
   > « When you were eight, what did you not realize about this super power that you know now? »
   * **[Analyse du Pattern]** : Pont temporel complexe couplant régression en âge (*« When you were eight »*), négation cognitive (*« what did you not realize »*) et contraste avec l'état présent de ressource (*« that you know now »*). Ce pattern contraint l'inconscient à comparer deux niveaux d'évolution identitaire tout en focalisant sur l'angle mort de l'époque, déstabilisant les croyances limitantes originelles.
 
-
-## --- Tranche 43 / 67 ---
+## Tranche 43 / 67 : La Matrice d'Énergie (The Energy Matrix) / Extraction de la Compétence Inconsciente
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5831,8 +5862,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
   > « How do you know (pause) what’s important (pause) to you? »
   * [Analyse du Pattern] : Triple cadrage interrogatif fractionné par des silences millimétrés. Le syntagme final « *to you* » agit comme une commande de retournement autoréférentielle projetant instantanément le sujet dans son ressenti viscéral profond.
 
-
-## --- Tranche 44 / 67 ---
+## Tranche 44 / 67 : L'Ascenseur Récursif du "How" (The How-Spiral Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -5954,8 +5984,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
   > « And when you direct this attention what do you not realize that makes you great? »
   - **[Analyse du Pattern] :** Double lien présuppositionnel et renforcement identitaire enchâssé. L'esprit conscient est invité à chercher ce qu'il ignore (*what do you not realize*), validant sans le moindre débat possible le postulat sous-jacent : « *you are great* » et « *directing your attention makes you great* ».
 
-
-## --- Tranche 45 / 67 ---
+## Tranche 45 / 67 : Le Forage par la Matrice de Réalité (The Reality Matrix Protocol)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6129,8 +6158,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
 * **[Analyse du Pattern]** :
   Utilisation d'un isomorphisme narratif puissant et culturellement disponible (la litanie contre la peur de *Dune*) pour donner un cadre d'intégration épique et structurant à l'expérience de désintégration que le sujet vient de vivre. L'enchaînement rythmique hypnotique prépare l'esprit à accepter la disparition ontologique du symptôme (*« And there will be nothing. Only I will remain »*), scellée par la question de congruence immédiate : *« Does that describe your journey? »*.
 
-
-## --- Tranche 46 / 67 ---
+## Tranche 46 / 67 : The "Why" Game (Forage Dialectique MBL)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6272,8 +6300,7 @@ Voici l’analyse structurelle, technique et linguistique de la tranche 38/67 du
 - **[Analyse du Pattern]** :  
   Rupture de cadre pragmatique. Igor utilise une métaphore conceptuelle abrupte (*"You put your fish in his dream"*), puis enchaîne sur une question de cause à effet axée sur la validité empirique (*"How does your frustration improve his driving?"*). L'absence de lien causal réel étant admise par le sujet, le *"So why have it?"* final frappe l'utilité même du comportement, créant un *mind-bend* instantané chez le praticien en formation lui-même.
 
-
-## --- Tranche 47 / 67 ---
+## Tranche 47 / 67 : A : La Boucle en 3 Étapes du MBL (Drilling Down & Scaling Up)
 
 Voici l'analyse opératoire intégrale de la tranche 47/67 de la formation *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -6408,8 +6435,7 @@ Voici l'analyse opératoire intégrale de la tranche 47/67 de la formation *Prac
 > **"How on earth do you fail to do something that seems so natural to me? How can you not do it?... What do you have to do to be incapable of doing something that is just so damned easy? And then I'll see, oh, I'm taking this for granted, and this for granted... And you taught me that."**
 * **[Analyse du Pattern]** : Présupposition de structure dans l'échec (« failure as an achievement »). Traiter l'incapacité non comme un déficit passif mais comme une performance active qui demande un travail spécifique (« *What do you have to do to be incapable...* ») décompose le symptôme en micro-stratégies opérationnelles et révèle les présuppositions inconscientes du facilitateur.
 
-
-## --- Tranche 48 / 67 ---
+## Tranche 48 / 67 : Chasseur de Ressources Cartésien (Cartesian Resource Hunter)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6535,8 +6561,7 @@ Voici l'analyse opératoire intégrale de la tranche 47/67 de la formation *Prac
 > « When, why not love like this? Think about itchy eyes, allergies, and notice what's happening? Why not love? »
 * **[Analyse du Pattern]** : Concaténation hypnotique en boucle serrée reliant la ressource terminale (*"love"*) au déclencheur kinesthésique aversif (*"itchy eyes, allergies"*). La commande enchâssée *"notice what's happening"* oriente l'attention vers la modification somatique interne sans dicter le résultat. La répétition conclusive sous forme d'interrogation ouverte (*"Why not love?"*) installe la nouvelle ressource comme cadre dominant indéboulonnable, dissolvant la pertinence même de la réaction allergique initiale.
 
-
-## --- Tranche 49 / 67 ---
+## Tranche 49 / 67 : Démonstration de l'Enquête Phénoménologique Minimaliste (sySTEM) sur Ressource
 
 Voici l'analyse d'ingénierie opératoire de la tranche 49/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -6701,8 +6726,7 @@ Voici l'analyse d'ingénierie opératoire de la tranche 49/67 du cours *Practiti
 * **[Analyse du Pattern]** :  
   Recadrage de frontière catégorielle stricte et calibration du seuil de friction. Igor pose une question de vérification directe (« *Do you have a problem with that?* ») qui coupe net la fausse demande d'aide. Il n'acte l'existence du problème qu'au moment précis où la condition de dépendance échoue (« *sometimes if I can't call an expert...* »). La formule percutante finale (« *Don't fix problems people don't have* ») opère comme un commandement hypnotique d'inhibition chez le praticien.
 
-
-## --- Tranche 50 / 67 ---
+## Tranche 50 / 67 : A : Exploration de l'Architecture d'une Compétence/Ressource (Démonstration Patrick / Muneer)
 
 Voici l’analyse structurelle et opératoire de la tranche 50/67 du cours *Practitioner of Mind Bending Language* d’Igor Ledochowski.
 
@@ -6824,8 +6848,7 @@ Voici l’analyse structurelle et opératoire de la tranche 50/67 du cours *Prac
   > « *How do you do it? And how don't you do it is a little bit more spin through. What do you notice when you don't do it like that? Wow. There's another spin. And what's anything else you haven't noticed yet, that's not this...* »
   - **[Analyse du Pattern]** : Empilement de présuppositions d'inattention et de négation active. « *What do you notice when you don't...* » force l'attention consciente dans l'espace vide non-exploré de la non-action. « *Haven't noticed yet* » présuppose temporellement et inévitablement qu'il existe du matériel inconscient latent qui va émerger à la conscience dans les instants suivants.
 
-
-## --- Tranche 51 / 67 ---
+## Tranche 51 / 67 : Enquête Conversationnelle & Pénétration par Modificateurs de Transe (Flow Démo Muneer / Patr...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -6954,8 +6977,7 @@ Voici l’analyse structurelle et opératoire de la tranche 50/67 du cours *Prac
 
 * **[Analyse du Pattern]** : Rupture de pattern suivie d'une boucle autoréférentielle (*« You don't know. You just know »*). Igor installe un fractionnement entre le savoir conscient et le savoir inconscient en utilisant une truisme somatique (conduire, s'habiller). En faisant répéter au sujet le truisme (*« I just know »*), il ancre la ratification directe dans son système nerveux : l'inconscient détient une masse immense de compétences opérationnelles inaccessibles à l'analyse verbale immédiate.
 
-
-## --- Tranche 52 / 67 ---
+## Tranche 52 / 67 : Strange New World (Exploration du Quadrant Converse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7098,8 +7120,7 @@ Voici l’analyse structurelle et opératoire de la tranche 50/67 du cours *Prac
 - **[Analyse du Pattern]** :
   - *Double contrainte temporelle et cognitive* : L'alliance d'un futur certain (*"What will you realize"*) et d'une incapacité cognitive présente transitoire (*"that you can't quite understand yet"*) court-circuite le besoin de compréhension analytique immédiate. Cette formulation installe une boucle ouverte (Open Loop) puissante qui continue d'opérer et d'intégrer le changement neurologique bien après la clôture de la séance.
 
-
-## --- Tranche 53 / 67 ---
+## Tranche 53 / 67 : Le Trésor Caché en Paysage Mental (Mind Bending DMI / Buried Treasure)
 
 Voici l'analyse opératoire intégrale de la tranche 53/67 du cours *Practitioner of Mind Bending Language*.
 
@@ -7285,8 +7306,7 @@ Voici l'analyse opératoire intégrale de la tranche 53/67 du cours *Practitione
   - **Présupposition de ressource cumulative** (*« tap into more of that strength »*) : Présuppose qu'une partie de la force est déjà accessible et qu'une quantité plus grande est immédiatement disponible.
   - **Déplacement temporel post-ressource** (*« after you tap into... »*) : Ancre la réalité du contact avec la force comme un fait accompli pour orienter la conscience vers les conséquences identitaires qui en découlent.
 
-
-## --- Tranche 54 / 67 ---
+## Tranche 54 / 67 : Le Kata Cartésien Mécanique (Générateur Infini de Mind Bending Language)
 
 Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -7425,8 +7445,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   > **Igor:** *"And how could you not feel panic when you don't even feel calm?"*
   * **[Analyse du Pattern]** : Double négation avec particule restrictive intensificatrice (*« don't even »*). Ce pattern désintègre l'équivalence problème/ressource en supprimant simultanément les deux repères identifiés, forçant l'esprit conscient à une suspension complète du jugement (*transderivational search*) pour donner accès au saut évolutif.
 
-
-## --- Tranche 55 / 67 ---
+## Tranche 55 / 67 : Le Kata Cartésien Combinatoire (Cartesian Kata + Stems + Modifiers)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7580,8 +7599,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
     *   *Structure logique* : Redéfinition causale directe / Reframe d'équivalence complexe ($PS \Rightarrow RS$).
     *   *Effet syntaxique* : Lie la quantité ou l'intensité du problème au déclenchement de la ressource. Ce paradoxe logique stupéfie le dialogue interne critique : le symptôme lui-même devient le moteur et le seuil de bascule vers l'état désiré.
 
-
-## --- Tranche 56 / 67 ---
+## Tranche 56 / 67 : L'Élicitation Éclair & la Boucle Cartésienne MBL (Lightning Rounds)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7713,8 +7731,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
 > *"How could you not feel starting over, the bad starting over, when you don't even feel being on track and making progress?"*  
 - **[Analyse du Pattern]** : Utilisation du recadrage de critère et de la double négation. Le praticien réutilise le sous-label émotionnel injecté par le sujet (*« the bad starting over »*) pour lui demander comment il est possible de ne pas le vivre, même sans être sur la bonne voie. Cette dislocation syntaxique oblige le sujet à réévaluer la signification profonde du terme « recommencer » (*« starting »*) et à le dissocier de la charge négative d'échec (*« because I could focus on the starting part... which starting is good »*).
 
-
-## --- Tranche 57 / 67 ---
+## Tranche 57 / 67 : La Grille Cartésienne d'Élucidation du Problème
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7850,8 +7867,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   - *Recadrage métaphorique par l'anecdote financière :* L'histoire de la cliente non facturée installe une présupposition d'extrême efficacité du MBL : le risque n'est pas d'échouer, mais de réussir trop vite par simple exploration.
   - *Défocalisation de l'objectif :* L'instruction de ne jamais mentionner la ressource ou l'état désiré force l'hypnotiseur à s'enraciner dans l'instant présent et dans la pure structure linguistique du sujet.
 
-
-## --- Tranche 58 / 67 ---
+## Tranche 58 / 67 : Le Défi des 7 Minutes d'Exploration Pure (The 7-Minute Non-Resolution Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -7975,8 +7991,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
 > "And during feeling life itself and feeling awesome, what happens to juggling plates?"
 - **[Analyse du Pattern]** : Collision d'ancrages et superposition d'états somatiques. La conjonction *"And during [feeling X]"* force l'esprit du sujet à habiter pleinement l'état physiologique ressource ("life itself", "awesome") avant de réintroduire la représentation mentale du problème ("juggling plates"). Le contraste de charge émotionnelle provoque la dissolution instantanée de la métaphore de stress, validée par la réponse réflexe du sujet : *"It doesn't exist"*.
 
-
-## --- Tranche 59 / 67 ---
+## Tranche 59 / 67 : Exploration Pure du Problème par MBL Sans Réparation (Problem Exploration Drill)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8099,8 +8114,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   > **Igor :** *"So how long would you like to wait? Let it complete the shift."*
   * **[Analyse du Pattern] :** **Double lien temporel et suggestion permissive indirecte.** La question ne porte pas sur *le fait* que le changement se produise ou non (présupposition absolue du changement), mais uniquement sur la durée que le sujet s'accorde pour le savourer. La seconde phrase agit comme une injonction métaphorique d'effacement du contrôle conscient au profit du processus physiologique en cours.
 
-
-## --- Tranche 60 / 67 ---
+## Tranche 60 / 67 : A : La Consolidation du Changement & Traitement du Doute Métacognitif (Démonstration Manu)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8294,8 +8308,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   - *« Do you need Zen when you're peaceful like this? »* : Effondrement de l'état ressource théorique au profit de l'état somatique réel vécu à l'instant T.
   - *« You peaceful enough to think about shooting stars and notice what happens »* : Suggestion conversationnelle directe liant l'état de paix corporelle à la réévocation du stimulus déclencheur sans rupture d'homéostasie, scellée par une invitation ouverte d'observation (*notice what happens*).
 
-
-## --- Tranche 61 / 67 ---
+## Tranche 61 / 67 : A : Conversational PCAT avec Résolution de la Peur du Futur / Doute de Durabilité
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8406,8 +8419,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
 > **Igor** : *"What happens when you investigate a molecule? What do you see underneath it? You see atoms, right? [...] First, you look at, say, it's a proton, neutron and electrons. And those things look like cloud. What's that thing made of? [...] And another cloud, and another cloud, and another cloud. So this is how, I think, knowledge works, as well. Things look solid. The chair you're sitting on looks solid. [...] Like the ship of Theseus, is this still my chair? [...] Then if this is still my chair, then what the hell was the chair I was sitting on, before I scratched this one?"*
 * **[Analyse du Pattern]** : Analogie de régression infinie utilisée comme inducteur de transe amnésique/ontologique. En guidant l'attention de l'évidence sensorielle (la chaise solide) vers le vide quantique sous-jacent (les nuages d'électrons), Igor prouve par l'absurde que la réalité perçue n'est qu'une convention arbitraire. Cette déstabilisation cognitive rend les problèmes psychologiques infiniment malléables, puisqu'eux-mêmes ne possèdent aucune substance physique solide.
 
-
-## --- Tranche 62 / 67 ---
+## Tranche 62 / 67 : Protocole Flash MBL : Disrupt & Reframe (« Half-Cake Formula »)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8529,8 +8541,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   > « When is about time, where is about space, how is about energy, and what is about matter. Now, energy has a variance, so it's how, and the other one is why. How is the external component of action, if you will. And why is the internal component. Then what has two variants, which is who and which. Who, is what apply to people. And which, is what apply to a selection. »
   * **[Analyse du Pattern] :** Cartographie catégorielle universelle des opérateurs interrogatifs sySTEM. Chaque pronom est recadré non comme un mot fonctionnel, mais comme un sélecteur dimensionnel ciblant une composante physique/phénoménologique précise de l'expérience du sujet (*Temps, Espace, Énergie, Matière*).
 
-
-## --- Tranche 63 / 67 ---
+## Tranche 63 / 67 : La Formule Opératoire Tripartite MBL (Construction d'une Question de Rupture)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8689,8 +8700,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
 > **Igor :** *"Look, I'm going to ask you some questions that are going to sound, quite honestly, a little bit bizarre. Just do your best to answer them. Some you'll be able to answer, some you won't. Regardless, if you do your best to answer them, then I promise you, you'll end up in a better place, as a result. Is that a deal we can make?"*
 * **[Analyse du Pattern]** : Pré-cadrage paradoxal protecteur (*inoculation framing*). L'avertissement que les questions seront bizarres désamorce le réflexe de défense analytique. L'injonction paradoxale permissive (*"Some you'll be able to answer, some you won't"*) élimine la pression de performance, tandis que le double lien final sous forme d'engagement réciproque (*"Is that a deal we can make?"*) scelle l'obéissance inconsciente et présuppose un aboutissement bénéfique inévitable (*"you'll end up in a better place"*).
 
-
-## --- Tranche 64 / 67 ---
+## Tranche 64 / 67 : Le PCAT Conversationnel (Mind Bending Language)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -8801,8 +8811,7 @@ Voici l'extraction intégrale et opératoire de la tranche 54/67 du cours *Pract
   - *Commande d'action mentale enchâssée* : « think about the problem ».
   - *Suggestion ouverte de transformation somatique/cognitive* : « notice what happens when you look at it like this » focalise l'attention sur la différence sensorielle émergente sans dicter le résultat, verrouillant l'effondrement de l'ancien état au profit du nouveau.
 
-
-## --- Tranche 65 / 67 ---
+## Tranche 65 / 67 : d'Assouplissement et de Résolution Progressive (Progression en 4 Étapes MBL)
 
 Voici l'extraction et l'analyse modélisatrice complète de la tranche 65/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -8921,8 +8930,7 @@ Voici l'extraction et l'analyse modélisatrice complète de la tranche 65/67 du 
   > « What's beyond the problem? (...) Who are you beyond this? »
   * **[Analyse du Pattern]** : *Transgression de cadre spatial et saut de niveau logique (Identité).* L'adverbe « beyond » force la cognition à projeter la conscience au-delà de la frontière du problème. Passer de « What » à « Who are you » élève instantanément la question au niveau de l'identité, présupposant que l'individu existe indépendamment et au-delà de la limitation actuelle.
 
-
-## --- Tranche 66 / 67 ---
+## Tranche 66 / 67 : La Comparaison/Contraste MBL (Étape Paramètres & Connexion PCAT)
 
 Voici l'analyse opératoire intégrale de la tranche 66/67 de la transcription du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -9026,8 +9034,7 @@ Voici l'analyse opératoire intégrale de la tranche 66/67 de la transcription d
   > "When only not making that problem like this, where aren't you thinking?"
   - **[Analyse du Pattern]** : Empilement saturant d'opérateurs restrictifs et négatifs (*"only not making"*, *"like this"*, *"where aren't you thinking"*). La surcharge syntaxique court-circuite la grammaire de surface de l'hémisphère gauche, rendant l'analyse logique impossible (*"I have no idea how to answer that"*) et précipitant le sujet dans une transe d'évacuation du problème.
 
-
-## --- Tranche 67 / 67 ---
+## Tranche 67 / 67 : d'Intégration MBL en 4 Phases : Extraction, Expansion, Contrast & Test
 
 Voici l'analyse opératoire intégrale de la tranche 67/67 du cours *Practitioner of Mind Bending Language* d'Igor Ledochowski.
 
@@ -9160,3 +9167,4 @@ Voici l'analyse opératoire intégrale de la tranche 67/67 du cours *Practitione
 > **Muneer :** *"Really?"*  
 > **Patrick :** *"Interesting. How do you know that it's silly? [...] Because when I think about it, I laugh. I smile. I feel good."*
 * **[Analyse du Pattern]** : Effondrement d'ancre direct suivi d'une ratification par le doute feint (*"Are you sure?"*, *"Really?"*). Cette feinte oblige le sujet à tester somatiquement son état (le rire, le sourire, le bien-être physique) et à verbaliser sa propre preuve de libération, scellant définitivement le recodage neurologique du problème.
+

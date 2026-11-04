@@ -77,10 +77,19 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 92-271]** : COMPLET : CORE TRANSFORMATION (PHASES 1 À 4) & Le Principe de Téléologie Ontologique et l'In... — *Protocole :* COMPLET : CORE TRANSFORMATION (PHASES 1 À 4) | *Mécanisme :* Le Principe de Téléologie Ontologique et l'Intention Positive Radicale | *Verbatim :* La Présupposition d'Autonomie de la Partie
+- **Tranche 2 [Lignes 273-488]** : Parental Timeline Reimprinting (Phase 5 de Core Transformation) — *Protocole :* Parental Timeline Reimprinting (Phase 5 de Core Transformation) | *Mécanisme :* Ré-imprégnation Transgénérationnelle par Osmose Épigénétique et Écologique | *Verbatim :* La Métaphore de la Multiplication Cellulaire
+- **Tranche 3 [Lignes 490-616]** : A : Maturation et Intégration Corporelle de la Partie (Growing Up the Part & Full Body Integ... — *Protocole :* A : Maturation et Intégration Corporelle de la Partie (Growing Up the Part & Full Body Integration) | *Verbatim :* La Maturation Séquentielle Ancrée dans la Structure
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 3 ---
+## Tranche 1 / 3 : COMPLET : CORE TRANSFORMATION (PHASES 1 À 4) & Le Principe de Téléologie Ontologique et l'In...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -261,8 +270,7 @@ Transformer tout comportement indésirable, dépendance, conflit intérieur, blo
   * **Double boucle d'enrichissement :** L'imbrication syntaxique *"It will learn from each of your experiences, and each of your experiences will be transformed and enriched with [Core State]"* crée un enrichissement mutuel bidirectionnel : le passé nourrit la maturité de la partie, tandis que le *Core State* nettoie les charges émotionnelles des événements vécus.
   * **Suggestion d'intégration somato-génétique :** L'expression *"spread into every cell of your body, becoming a part of your emotional coding"* déplace le travail du champ purement mental vers le plan biologique et cellulaire, créant une incorporation neurologique irréversible (*embodiment*).
 
-
-## --- Tranche 2 / 3 ---
+## Tranche 2 / 3 : Parental Timeline Reimprinting (Phase 5 de Core Transformation)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 2/3 du *Participant Manual* de Connirae Andreas.
 
@@ -479,8 +487,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Recadrage de contenu vers le processus** : Connirae rappelle que le but n'est pas d'effacer le contenu émotionnel spécifique de chaque souvenir (*« different memories will have different feelings »*), mais de stabiliser la structure de présence.
   - **Bouclage sensoriel complet (VAK)** : énumération stricte des repères proprioceptifs (*« exactly from your eyes, exactly through your ears... »*) scellant l'intégration neurologique de l'identité unifiée.
 
-
-## --- Tranche 3 / 3 ---
+## Tranche 3 / 3 : A : Maturation et Intégration Corporelle de la Partie (Growing Up the Part & Full Body Integ...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -607,3 +614,4 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 *   **[Analyse du Pattern]** : 
     *   **Ségrégation sensorielle chirurgicale (Cartésianisme phénoménologique)** : La distinction explicite et tranchée entre `Outer Sounds` et `Inner Voices` brise la fusion hallucinatoire fréquente dans les états de stress relationnel (où les voix internes sont confondues avec la réalité extérieure ou vice-versa).
     *   **Tri sur critères de réalité** : L'empilement ordonné V -> A (externe/interne) -> K force l'inconscient à passer d'un schéma réactif globalisé et confus à une microstructure sensorielle vérifiable, dépouillant instantanément l'expérience de sa charge traumatique résiduelle.
+

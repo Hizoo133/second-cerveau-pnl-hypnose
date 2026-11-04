@@ -79,10 +79,24 @@ graph TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 99-205]** : La Transposition au-delà des Objectifs (Beyond Goals State Elicitation) — *Protocole :* La Transposition au-delà des Objectifs (Beyond Goals State Elicitation) | *Mécanisme :* Le décalage neuroscientifique du demi-seconde (The Half-Second Preconscious Gap) | *Verbatim :* Le dilemme du wagon de queue (Métaphore d'influence)
+- **Tranche 2 [Lignes 207-347]** : Désamorçage de l'Enfermement du Cadre ("L'Expérience de Pensée du Bateau dans la Bouteille") — *Protocole :* Désamorçage de l'Enfermement du Cadre ("L'Expérience de Pensée du Bateau dans la Bouteille") | *Mécanisme :* L’Impermanence Ontologique & la Dynamique de Ré-instanciation du Problème | *Verbatim :* La Commande Post-Hypnotique à Déclencheur Flou & Sortie Abrupte (Erickson Case Study)
+- **Tranche 3 [Lignes 349-478]** : Déminage de la Demande Didactique / Contournement de la Façade de Contrôle — *Protocole :* Déminage de la Demande Didactique / Contournement de la Façade de Contrôle | *Mécanisme :* Le Principe de Préséance de l'État Interne sur la Technique | *Verbatim :* Le Recadrage Conversationnel du Besoin de Contrôle vers l'Accès à la Ressource
+- **Tranche 4 [Lignes 480-605]** : Le Cadre Récursif d'Ouverture de Séance ("Innerview Framing") — *Protocole :* Le Cadre Récursif d'Ouverture de Séance ("Innerview Framing") | *Mécanisme :* Le Postulat Fondamental : "All We Are Is Change" | *Verbatim :* Le Recadrage de Début de Séance (Work Through vs Work On)
+- **Tranche 5 [Lignes 607-737]** : Traque et Résolution de la Synesthésie Sauvage (Stalking the Wild Synesthesia) — *Protocole :* Traque et Résolution de la Synesthésie Sauvage (Stalking the Wild Synesthesia) | *Mécanisme :* La dissociation topologique : Déclencheur Externe vs Synesthésie Cible | *Verbatim :* La régression au ralenti vers le stimulus critique
+- **Tranche 6 [Lignes 739-868]** : Recodage des Croyances et de l'Identité en 3 Mouvements (Three-Move Belief & Identity Recode) — *Protocole :* Recodage des Croyances et de l'Identité en 3 Mouvements (Three-Move Belief & Identity Recode) | *Verbatim :* La Bascule Identitaire Élargie (Grand Cadre Post-Résolution)
+- **Tranche 7 [Lignes 870-1002]** : A : Installation du Micro-Pas Inductif ("Next Smallest Step") — *Protocole :* A : Installation du Micro-Pas Inductif ("Next Smallest Step")
+- **Tranche 8 [Lignes 1004-1181]** : La Boucle Temporelle Empathique et d'Écologie de Couple — *Protocole :* La Boucle Temporelle Empathique et d'Écologie de Couple
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 8 ---
+## Tranche 1 / 8 : La Transposition au-delà des Objectifs (Beyond Goals State Elicitation)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette première tranche.
 
@@ -190,8 +204,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
   - **Question de réinitialisation d'état (*Pattern Interrupt Query*) :** Posée immédiatement à la fin d'une transe ou d'une boucle saturante, la question force le sujet à tester son état somatique actuel sans pouvoir réactiver les états précédents.
   - **Présupposition temporelle :** L'insistance sur *« now »* crée une scission nette entre le passé (le problème, la surcharge) et l'expérience en temps réel (la présence, les ressources disponibles).
 
-
-## --- Tranche 2 / 8 ---
+## Tranche 2 / 8 : Désamorçage de l'Enfermement du Cadre ("L'Expérience de Pensée du Bateau dans la Bouteille")
 
 Voici l’analyse chirurgicale et opératoire de la tranche 2/8 de la transcription de John Overdurf (*The Innerview Overview*).
 
@@ -333,8 +346,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 2/8 de la transcript
   * **Suppression de la polarité et du jugement :** En validant chaque sous-groupe (*"Some people... Other people..."*), il neutralise la rébellion ou l'anxiété de conformité chez le client.  
   * **Délégation d'autonomie avec commande permissive :** L'injonction finale *"Use this as you see fit"* agit comme un cadre de souveraineté redonnée au client, empêchant l'installation d'une relation de soumission infantile au praticien.
 
-
-## --- Tranche 3 / 8 ---
+## Tranche 3 / 8 : Déminage de la Demande Didactique / Contournement de la Façade de Contrôle
 
 Voici l'analyse modélisée de la tranche 3/8 de la transcription « *The Innerview Overview* » de John Overdurf.
 
@@ -465,8 +477,7 @@ Voici l'analyse modélisée de la tranche 3/8 de la transcription « *The Innerv
   * *Double répétition et commande temporelle enchâssée* : « *putting the simple word NOW now after that* ». John Overdurf prononce le mot *now* deux fois de suite : une fois pour le désigner linguistiquement en tant qu'étiquette, et la seconde fois en shift de tonalité descendante (analogue marker) qui opère comme une commande hypnotique d'actualisation immédiate au présent.
   * *Rupture de boucle récursive* : L'adjonction de « *now* » en fin de question brise la rumination du passé et contraint l'inconscient à calibrer l'état neuro-végétatif de l'instant présent, où la modification est déjà amorcée. Une fois le shift ancré, le réancrage sur le déclencheur (« *take them back to the trigger* ») permet de valider le collapse d'ancre ou la généralisation du nouveau comportement.
 
-
-## --- Tranche 4 / 8 ---
+## Tranche 4 / 8 : Le Cadre Récursif d'Ouverture de Séance ("Innerview Framing")
 
 Voici l'extraction exhaustive, structurée et opératoire de la tranche 4/8 du cours *The Innerview Overview - Transcripts* de John Overdurf.
 
@@ -593,8 +604,7 @@ Voici l'extraction exhaustive, structurée et opératoire de la tranche 4/8 du c
   - *Test d'amnésie structurelle / Collapse* : Le praticien réintroduit le stimulus source originel (regarder l'heure du petit déjeuner).  
   - *Calibration de la vacuité* : La réponse attendue n'est pas un enthousiasme forcé, mais une neutralité désarmante (*"Yeah, so what?"*), signe clinique irréfutable que le lien neurologique entre le déclencheur et la synesthésie a été dissous.
 
-
-## --- Tranche 5 / 8 ---
+## Tranche 5 / 8 : Traque et Résolution de la Synesthésie Sauvage (Stalking the Wild Synesthesia)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 5/8 du séminaire *The Innerview Overview* de John Overdurf.
 
@@ -726,8 +736,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **"When you first open your eyes and you know you're having a great day and you've just woken up, how do you know that? [...] And what are you noticing?"**
 * **[Analyse du Pattern]** : Présupposition temporelle et ontologique imbriquée (*"when you first open your eyes and you know..."*). La phrase présuppose comme un fait déjà établi que le sujet *sait* qu'il va passer une excellente journée dès l'ouverture des yeux. La question *"how do you know that?"* force le système nerveux à fouiller directement dans les critères analogiques et les sous-modalités visuelles/kinesthésiques distinctives codant l'état de certitude.
 
-
-## --- Tranche 6 / 8 ---
+## Tranche 6 / 8 : Recodage des Croyances et de l'Identité en 3 Mouvements (Three-Move Belief & Identity Recode)
 
 Voici l’analyse chirurgicale et opératoire de la tranche 6/8 de l'intervention de John Overdurf (*The Innerview Overview*).
 
@@ -858,8 +867,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 6/8 de l'interventio
   - **Double induction de curiosité** : L'encastrement des verbes de recherche interne (*« you wonder, I wonder how that happened... and then you start to wonder »*) déclenche une recherche transdérivationnelle ouverte, ensemençant le changement dans des contextes non divulgués sans risque d'objection.
   - **Apprêtement d'attente positive (Expectancy Seeding)** : L'ancrage de la formule éricksonienne classique *« pleasantly surprised »* prépare le système nerveux à accueillir la nouveauté sans vigilance défensive.
 
-
-## --- Tranche 7 / 8 ---
+## Tranche 7 / 8 : A : Installation du Micro-Pas Inductif ("Next Smallest Step")
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -993,8 +1001,7 @@ Voici l’analyse chirurgicale et opératoire de la tranche 6/8 de l'interventio
   > *"Now, as you're looking at him, also knowing that you're married to the man that he becomes, this little four or five-year-old boy, you're married to the man that he becomes. Notice how you feel as you're looking at him that way."*
   * **[Analyse du Pattern]** : Re-cadrage de temporalité croisée (*collapsing temporal frames*). En confrontant l'image mentale d'un enfant vulnérable de 4-5 ans avec le statut d'épouse adulte actuelle, Overdurf force une recombinaison sémantique dans l'hippocampe : l'agacement suscité par l'adulte ne peut pas survivre face à l'imagerie d'un petit garçon apprenant à parler au monde.
 
-
-## --- Tranche 8 / 8 ---
+## Tranche 8 / 8 : La Boucle Temporelle Empathique et d'Écologie de Couple
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1172,3 +1179,4 @@ Voici l'analyse opératoire complète de la tranche 8/8 selon vos règles strict
 
 > "And can you feel now, Carla, that when both of you respond as you are as individuals, how much more the students get? Because they get more than just the way Hank would do it and more than just the way you would do it. They actually get both. And they learn what it's like to be yourself inside of a relationship."
 - **[Analyse du Pattern]** : Recadrage systémique et élévation de niveau logique. L'opposition perçue entre les deux individus est transformée en une offre combinée d'une valeur supérieure (*"they actually get both"*). La relation devient une métaphore pédagogique en temps réel pour l'auditoire.
+

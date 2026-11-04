@@ -61,10 +61,39 @@ Voici la synthèse architecturale modélisée à partir des extraits et mécanis
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 96-170]** : Déconstruction Chirurgicale d'une Stratégie Intuitive Défaillante (Modélisation de l'Erreur... — *Protocole :* Déconstruction Chirurgicale d'une Stratégie Intuitive Défaillante (Modélisation de l'Erreur d'un Inventeur)
+- **Tranche 2 [Lignes 172-268]** : Dépassement du Vecteur d'Inertie par Réduction Fonctionnelle — *Protocole :* Dépassement du Vecteur d'Inertie par Réduction Fonctionnelle | *Mécanisme :* Le Biais d'Ancrage au Prototype et le Vecteur d'Inertie | *Verbatim :* Verbatim 1
+- **Tranche 3 [Lignes 270-376]** : A : La Matrice d'Évaluation des Niveaux de Rupture (Audit de Complexité Inventive) — *Protocole :* A : La Matrice d'Évaluation des Niveaux de Rupture (Audit de Complexité Inventive) | *Mécanisme :* Levier 1 : Inversion Fonctionnelle du Facteur Nuisible (Harmful Factor Conversion) | *Verbatim :* Verbatim 1 : L'Inversion de la Nuisance en Atout (Oleg Antonov)
+- **Tranche 4 [Lignes 378-512]** : A : Détection et Franchissement de Domaine (Saut Niveau 4/5) — *Protocole :* A : Détection et Franchissement de Domaine (Saut Niveau 4/5) | *Verbatim :* La Métaphore de la Rupture d'Échelle (Navires et Papiers)
+- **Tranche 5 [Lignes 514-679]** : A : Le Brainblitz (Brainstorming Dirigé sans Rupture de Chaîne) — *Protocole :* A : Le Brainblitz (Brainstorming Dirigé sans Rupture de Chaîne) | *Mécanisme :* Le Plafond Cognitif du Brainstorming & la Critique Masquée (Masked Disruption) | *Verbatim :* La Dérive Vectorielle du Brainstorming
+- **Tranche 6 [Lignes 681-776]** : Dé-parasitage de l'Énoncé et Recadrage Fondamental (The Problem Re-Formulator) — *Protocole :* Dé-parasitage de l'Énoncé et Recadrage Fondamental (The Problem Re-Formulator) | *Mécanisme :* Convergence Évolutive Trans-Domaines (Iso-morphisme structurel) | *Verbatim :* La Rupture du Piège de l'Énoncé
+- **Tranche 7 [Lignes 778-879]** : d'Élucidation et de Résolution par la Machine Idéale (Exemple de l'Arroseur DD-100M) — *Protocole :* d'Élucidation et de Résolution par la Machine Idéale (Exemple de l'Arroseur DD-100M) | *Mécanisme :* Le Levier de l'Idéalité Asymptotique (La Machine Idéale comme balise cognitive)
+- **Tranche 8 [Lignes 881-1029]** : A : ARIZ-61 (Résolution Opérative en 3 Stades) — *Protocole :* A : ARIZ-61 (Résolution Opérative en 3 Stades)
+- **Tranche 9 [Lignes 1031-1107]** : L'Opérateur STC (Déstabilisation de l'Inertie Psychologique) — *Protocole :* L'Opérateur STC (Déstabilisation de l'Inertie Psychologique) | *Mécanisme :* Le Principe de Rétro-Ingénierie Téléologique (Rétro-propagation depuis le Résultat Idéal) | *Verbatim :* La Disjonction du Piège Sémantique
+- **Tranche 10 [Lignes 1109-1230]** : A : Élicitation et Ancrage du RIF (Résultat Idéal Final) — *Protocole :* A : Élicitation et Ancrage du RIF (Résultat Idéal Final)
+- **Tranche 11 [Lignes 1232-1518]** : L'Inoculation de Pré-Tension Antagoniste (Dérivé du Principe 9 : Prior Counteraction) — *Protocole :* L'Inoculation de Pré-Tension Antagoniste (Dérivé du Principe 9 : Prior Counteraction) | *Mécanisme :* Rupture de Symétrie & Spécialisation Contextuelle (Asymmetry Principle) | *Verbatim :* La Transmutation du Nuisible & Le Mur Psychologique
+- **Tranche 12 [Lignes 1520-1638]** : Superposition Optique de l'Inaccessible (Inspiré du Cas Aksenov) — *Protocole :* Superposition Optique de l'Inaccessible (Inspiré du Cas Aksenov) | *Mécanisme :* Substitution de Système Mécanique par Champs & Transductions (transductionsensorielle couplagesansfriction submodalshift)
+- **Tranche 13 [Lignes 1640-1775]** : Dépouillement Lexical et Résolution par Transfert Isomorphique (Exemple du Canon et des Part... — *Protocole :* Dépouillement Lexical et Résolution par Transfert Isomorphique (Exemple du Canon et des Particules) | *Verbatim :* Le paradoxe de l'acteur et l'artillerie des formules
+- **Tranche 14 [Lignes 1777-1871]** : Résolution de Contradiction par Segmentation Opératoire (Problème 7) — *Protocole :* Résolution de Contradiction par Segmentation Opératoire (Problème 7) | *Mécanisme :* Le Principe de la Segmentation et de la Décorrélation Spatiale/Temporelle | *Verbatim :* La Formulation du Paradoxe Fondamental
+- **Tranche 15 [Lignes 1873-1978]** : Résolution Algorithmique par Disparition de l'Agent Porteur (ARIZ 3-1 à 4-4) — *Protocole :* Résolution Algorithmique par Disparition de l'Agent Porteur (ARIZ 3-1 à 4-4) | *Verbatim :* Le Découplage Temporel de la Contradiction
+- **Tranche 16 [Lignes 1980-2090]** : de Résolution Paléobionique (Extraction du Brevet de la Nature Fossile) — *Protocole :* de Résolution Paléobionique (Extraction du Brevet de la Nature Fossile) | *Verbatim :* Verbatim 1 : La rupture de cadre temporelle du prototype
+- **Tranche 17 [Lignes 2092-2218]** : Désamorçage de l'Inertie Psychologique par Isomorphisme Allégorique — *Protocole :* Désamorçage de l'Inertie Psychologique par Isomorphisme Allégorique | *Mécanisme :* Levier de l'Émergence Systémique Trans-Arithmétique | *Verbatim :* La Déclaration d'Épuisement Morphologique
+- **Tranche 18 [Lignes 2220-2322]** : Désamorçage de l'Inertie par l'Extrémisation Visuelle (Cas du Toroïde) — *Protocole :* Désamorçage de l'Inertie par l'Extrémisation Visuelle (Cas du Toroïde) | *Mécanisme :* Inertie Sémantique et Enfermement Lexical | *Verbatim :* Verbatim 1 : La dissolution du filtre de l'impossible
+- **Tranche 19 [Lignes 2324-2466]** : Construction et Exploitation d'un Phantogramme — *Protocole :* Construction et Exploitation d'un Phantogramme | *Mécanisme :* Le Phantogramme : Croisement Matriciel Morphologique | *Verbatim :* L'analogie esthétique de l'imagination
+- **Tranche 20 [Lignes 2468-2618]** : d'Assimilation et de Transfert par Analogie (Étape 2-0 d'ARIZ) — *Protocole :* d'Assimilation et de Transfert par Analogie (Étape 2-0 d'ARIZ) | *Verbatim :* La Ligne Invariable de l'Évolution
+- **Tranche 21 [Lignes 2620-2713]** : d'Aiguillage et Résolution par la Matrice de Contradiction (Exemple du Brise-Glace) — *Protocole :* d'Aiguillage et Résolution par la Matrice de Contradiction (Exemple du Brise-Glace) | *Verbatim :* La Métaphore de l'Équipement Progressif
+- **Tranche 22 [Lignes 2715-2853]** : d'Élévation Systémique (Diagnostic & Transition de Niveau d'un Système Bloqué) — *Protocole :* d'Élévation Systémique (Diagnostic & Transition de Niveau d'un Système Bloqué)
+- **Tranche 23 [Lignes 2855-2914]** : d'Immersion et de Transfert d'Expertise TRIZ (Modèle Shulyak) — *Protocole :* d'Immersion et de Transfert d'Expertise TRIZ (Modèle Shulyak) | *Mécanisme :* Preuve Sociale par Empilement de Validations Croisées (Peer Validation Cascade)
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 23 ---
+## Tranche 1 / 23 : Déconstruction Chirurgicale d'une Stratégie Intuitive Défaillante (Modélisation de l'Erreur...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -140,8 +169,7 @@ Voici la synthèse architecturale modélisée à partir des extraits et mécanis
 > “How big should the spool be? How big should the needle ring be? Immediately it becomes clear that the spool I used to wind the wire on the first device cannot be used here. This spool will be too small, complicating the situation. Can the wire be wound without the spool? Can we find a completely new concept of winding? What kind of concept would it be? These questions destroyed my peace of mind.”
 - **[Analyse du Pattern]** : Régression syntaxique mimant l'emballement obsessionnel. La cadence des questions courtes et auto-référentes sans issue crée une saturation kinesthésique interne (« destroyed my peace of mind »). Le texte modélise linguistiquement le phénomène de transe négative dans lequel s'enferme le praticien lorsqu'il est démuni d'un algorithme de pensée formel.
 
-
-## --- Tranche 2 / 23 ---
+## Tranche 2 / 23 : Dépassement du Vecteur d'Inertie par Réduction Fonctionnelle
 
 Voici l'analyse modélisatrice et opératoire de la tranche soumise, décortiquée selon la grille d'ingénierie cognitive et d'intervention.
 
@@ -239,8 +267,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche soumise, décortiqu�
 
 * **[Analyse du Pattern]** : Empilement de questions rhétoriques à forte charge kinesthésique et émotionnelle (*"thorny road"*, *"lances were broken"*, *"energy was wasted"*). Ce pattern ancre l'absurdité du coût de l'inertie humaine et prépare le terrain mental à valoriser l'élégance économique de la modélisation formelle face à l'obstination dogmatique.
 
-
-## --- Tranche 3 / 23 ---
+## Tranche 3 / 23 : A : La Matrice d'Évaluation des Niveaux de Rupture (Audit de Complexité Inventive)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -348,8 +375,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche soumise, décortiqu�
   - **Rupture de l'équivalence descriptive/opérative :** Altshuller sépare violemment la chronologie descriptive (qui ne donne aucun levier d'action) de la technologie générative.
   - **Métaphore obstétrique enchâssée :** L'usage de « *deliver a new idea that is 'healthy' and valuable* » applique le champ sémantique de l'accouchement vivant et viable face à l'accumulation inerte de données (« *obtained in a library* »), mettant en lumière l'impuissance des approches documentaires passives.
 
-
-## --- Tranche 4 / 23 ---
+## Tranche 4 / 23 : A : Détection et Franchissement de Domaine (Saut Niveau 4/5)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -485,8 +511,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche soumise, décortiqu�
   * *Analogie physique de référence relative (thermodynamique perceptive) :* Altshuller utilise une échelle thermique sensorielle pour dénoncer une illusion de progrès méthodologique.
   * *Présupposition d'insuffisance létale :* En qualifiant un état à -50° de « dégel printanier » par simple contraste avec -100°, il détruit la légitimité du brainstorming. La phrase implique que bien qu'un soulagement subjectif soit ressenti, l'organisme reste dans une zone thermiquement mortelle (-50°C), incapable de soutenir la vie créative de haut niveau.
 
-
-## --- Tranche 5 / 23 ---
+## Tranche 5 / 23 : A : Le Brainblitz (Brainstorming Dirigé sans Rupture de Chaîne)
 
 Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/23 de l'enseignement de Genrich Altshuller.
 
@@ -653,8 +678,7 @@ Voici l'extraction et l'analyse modélisatrice intégrale de la tranche 5/23 de 
   - *Métaphore isomorphique de la clé jetée* : Altshuller ancre le principe de résolution sous le symbole concret d'un outil physique indispensable (*« a common key »*).
   - *Suggestion d'incurie cognitive* : Le verbe *« thrown away »* couplé à la reprise de l'expression péjorative *« trial-and-error »* active une forte aversion à la perte. Le texte confronte le lecteur à la stupidité systémique d'un système qui réinitialise perpétuellement son amnésie procédurale au lieu d'accumuler une ontologie opératoire pérenne.
 
-
-## --- Tranche 6 / 23 ---
+## Tranche 6 / 23 : Dé-parasitage de l'Énoncé et Recadrage Fondamental (The Problem Re-Formulator)
 
 Voici l’extraction intégrale et opératoire de la substance de la tranche 6/23, modélisée selon les principes de l'ingénierie cognitive, de la PNL et de l'hypnose conversationnelle.
 
@@ -751,8 +775,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 6/2
 
 *   **[Analyse du Pattern]** : Recadrage métaphorique par la fable du vilain petit canard (*clumsy newborn vs graceful swan*). Altshuller introduit une permission hypnotique majeure (*have the right to be clumsy*) qui désamorce la peur du jugement esthétique ou social chez l'innovateur. La présupposition de certitude temporelle (*there is no doubt that... will grow*) ancre la confiance inébranlable dans la maturation du processus si l'essence fonctionnelle de départ est saine.
 
-
-## --- Tranche 7 / 23 ---
+## Tranche 7 / 23 : d'Élucidation et de Résolution par la Machine Idéale (Exemple de l'Arroseur DD-100M)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -855,8 +878,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 6/2
     > "Here it is revealed: Novelty exists where there is novelty. In practice, “substantial novelty” inevitably turns into the notion “substantial change” [...]. However, there exists our objective criterion: An invention is the removal of technical contradictions."
     *   **[Analyse du Pattern]** : Dénonciation ironique d'une boucle tautologique institutionnelle (*"Novelty exists where there is novelty"*), suivie d'un contraste binaire marqué (*"In practice... However, there exists..."*). Altshuller condense la complexité légale et sémantique en une déclaration nominale apodictique indiscutable (*"An invention is the removal of technical contradictions"*), agissant comme un point d'ancrage sémantique définitif qui réorganise tout le cadre de référence de l'ingénieur.
 
-
-## --- Tranche 8 / 23 ---
+## Tranche 8 / 23 : A : ARIZ-61 (Résolution Opérative en 3 Stades)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1006,8 +1028,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 6/2
   * **[Analyse du Pattern]** :  
     *Commande Enchâssée d'Auto-Suffisance Systémique.* L'adverbe temporel absolu (« always ») couplé à l'instruction linguistique « by itself » fonctionne comme un filtre de sélection radical dans le réseau sémantique du sujet. Il court-circuite tout pattern de pensée reposant sur l'ajout d'une assistance extérieure, forçant le focus attentionnel sur les propriétés d'auto-organisation dormantes de la matière sous tension.
 
-
-## --- Tranche 9 / 23 ---
+## Tranche 9 / 23 : L'Opérateur STC (Déstabilisation de l'Inertie Psychologique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1085,8 +1106,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 6/2
 
 * **[Analyse du Pattern] :** Suggestion d'auto-organisation par personnification réflexive (« by-itself » répété en anaphore). L'usage de « by-itself » court-circuite la recherche habituelle d'un agent intermédiaire (l'outil, la brosse, l'opérateur humain) pour focaliser la représentation subconsciente sur l'inutilité de l'appareil. La syntaxe installe une commande d'action directe où le sujet grammatical de l'action est l'objet même qui la subit, forçant le concepteur à rechercher des forces endogènes au système (capillarité, électrostatique, pression interne).
 
-
-## --- Tranche 10 / 23 ---
+## Tranche 10 / 23 : A : Élicitation et Ancrage du RIF (Résultat Idéal Final)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1209,8 +1229,7 @@ Voici l’extraction intégrale et opératoire de la substance de la tranche 6/2
   > « “I went for a walk near Glasgow one noontime. It was a beautiful day. I had walked past an old laundry complex while thinking about my machine. I almost reached Gerd’s house when a thought struck my mind: steam is expandible and tends to fill a vacuum. If we connect the cylinder to a reservoir containing a vacuum, then the steam will rush into it and the cylinder will not need to be cooled. I had not yet arrived at Gerd’s house, yet everything was completed in my mind!” »
   * **[Analyse du Pattern]** : Récit métaphorique isomorphe d'incubation et d'illumination créative (légende de James Watt). L'ancrage spatial et sensoriel (« near Glasgow », « beautiful day », « old laundry complex ») induit une transe légère de focalisation externe. La métaphore spatiale de la trajectoire interrompue (« I had not yet arrived at Gerd’s house, yet everything was completed in my mind! ») installe puissamment la présupposition que la résolution inconsciente précède toujours la réalisation motrice ou l'arrivée physique à destination.
 
-
-## --- Tranche 11 / 23 ---
+## Tranche 11 / 23 : L'Inoculation de Pré-Tension Antagoniste (Dérivé du Principe 9 : Prior Counteraction)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1498,8 +1517,7 @@ flowchart LR
   * **Concession apparente suivie d'une rupture subversive :** La première phrase (*"Of course, we can make some improvements..."*) valide le cadre conventionnel du client/ingénieur (l'optimisation incrémentale frileuse) pour mieux désarmer sa méfiance.
   * **Questionnement suggestif par saut paradoxal (*What-if provocation*) :** L'insertion de *"What if we 'break' the head off before hand?"* introduit une violation délibérée du tabou ultime du problème (le fait de casser la pièce). En plaçant l'action destructrice au passé/conditionnel et sous forme de pré-requis délibéré, il anéantit le danger par autotomie : la fragilité est éliminée parce que la catastrophe a déjà été intégrée à la conception.
 
-
-## --- Tranche 12 / 23 ---
+## Tranche 12 / 23 : Superposition Optique de l'Inaccessible (Inspiré du Cas Aksenov)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1619,8 +1637,7 @@ flowchart LR
   > "When solving a problem using Principle 36, we utilize phenomena related to the process of transition from A to B, or visa versa. If, for instance, we fill a pipe with ice instead of water, nothing will happen to the pipe. The required effect is achieved through the increased volume of frozen water."
   * **[Analyse du Pattern] :** **Distinction tranchante par négation d'évidence.** Altshuller isole la structure pure en éliminant la confusion entre l'état et le processus. En formulant l'absurdité statique (*"If, for instance, we fill a pipe with ice... nothing will happen"*), il force l'auditeur à détacher son attention de la matière figée pour la focaliser exclusivement sur le différentiel dynamique temporel (*"transition from A to B"*).
 
-
-## --- Tranche 13 / 23 ---
+## Tranche 13 / 23 : Dépouillement Lexical et Résolution par Transfert Isomorphique (Exemple du Canon et des Part...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1757,8 +1774,7 @@ flowchart TD
 > « Let’s formulate the Ideal Final Result (IFR). The ship, by-itself, moves through the ice at high speed with a normal consumption of energy (as if it were in clear water). »
 * **[Analyse du Pattern]** : Suggestion de post-condition idéale utilisant la formule directrice d'Altshuller : « *by-itself* » (de lui-même). L'enchâssement de la comparaison « *as if it were in clear water* » installe une clause modale de facilité absolue, bypassant la représentation de l'effort mécanique et programmant la recherche cognitive vers une suppression pure et simple de la friction plutôt que vers une débauche de poussée.
 
-
-## --- Tranche 14 / 23 ---
+## Tranche 14 / 23 : Résolution de Contradiction par Segmentation Opératoire (Problème 7)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1854,8 +1870,7 @@ flowchart TD
   * **Métaphore transactionnelle contrastée** (*« paying with the metal... paying with another coin — creative thought »*) : déplace le système de valeurs de la dépense matérielle vers l'élégance immatérielle.
   * **Prosopopée et avertissement subliminal** (*« The problem can scream: “I am very simple...” »*) : personnifie la fausse facilité comme une ruse tentatrice, installant chez le praticien une vigilance réflexe contre le piège de la solution préconçue.
 
-
-## --- Tranche 15 / 23 ---
+## Tranche 15 / 23 : Résolution Algorithmique par Disparition de l'Agent Porteur (ARIZ 3-1 à 4-4)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1962,8 +1977,7 @@ flowchart TD
 
 * **[Analyse du Pattern]** : Métaphore spatio-temporelle à fort pouvoir d'inversion perceptuelle. Altshuller structure la nature comme une « bibliothèque de brevets » ordonnée chronologiquement. L'affirmation « we are reading it backwards » agit comme une rupture d'évidence, induisant un choc d'orientation : l'échec de l'ingénieur moderne n'est pas un manque d'intelligence, mais une erreur d'angle de lecture (commencer par le tome le plus complexe au lieu du tome 1).
 
-
-## --- Tranche 16 / 23 ---
+## Tranche 16 / 23 : de Résolution Paléobionique (Extraction du Brevet de la Nature Fossile)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2075,8 +2089,7 @@ flowchart TD
   - *Tréma d'analogies en boucle d'induction* : Molécule d'eau $\to$ Être humain $\to$ Machine.
   - *Recadrage d'identité (Organisme vivant)* : Par cette triple association, la machine cesse d'être un amas de ferraille inerte dans l'esprit du sujet pour acquérir le statut d'« organisme complet ». Cette élévation de niveau logique contraint le système nerveux de l'inventeur à respecter des lois d'évolution biologique (naissance, maturation, crise, saut systémique) plutôt que des ajustements géométriques isolés.
 
-
-## --- Tranche 17 / 23 ---
+## Tranche 17 / 23 : Désamorçage de l'Inertie Psychologique par Isomorphisme Allégorique
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche 17/23.
 
@@ -2204,8 +2217,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 > **« It is a known fact that, from year to year, a reduction of wheel diameters can be observed when considering the wheels of different automobiles during the past 50 years. However, this reduction becomes less and less pronounced, and the moment arrives when it stops completely. Meanwhile, there was a short period during which wheel diameter was sharply reduced. If the study is limited to only this period, it is possible to arrive at a wrong conclusion — that, within 20 years, the diameter of the wheel will reach zero. »**
 * **[Analyse du Pattern]** : **Ironie Socratique & Démantèlement d'Évidence.** Altshuller cite un expert réputé (Dolmatovski) pour démontrer comment la pseudo-rigueur statistique enferme l'observateur dans le dogme du statu quo. En présentant la conclusion de l'expert ("arriver à la conclusion erronée que le diamètre atteindra zéro") pour ensuite prouver que l'aéroglisseur a *effectivement* réduit le diamètre à zéro, il pulvérise la croyance en l'impossibilité chez l'apprenant.
 
-
-## --- Tranche 18 / 23 ---
+## Tranche 18 / 23 : Désamorçage de l'Inertie par l'Extrémisation Visuelle (Cas du Toroïde)
 
 Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structure d'ingénierie demandée :
 
@@ -2309,8 +2321,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
   - Question négative paradoxale créant un double lien cognitif : obliger le cerveau à concevoir la coexistence de deux états réputés incompatibles (« contact étanche » ET « zéro friction »).
   - Suppression des portes de sortie techniques faciles (« *at normal temperature without super fluidity* »), forçant l'esprit à chercher une solution disruptive hors du cadre habituel.
 
-
-## --- Tranche 19 / 23 ---
+## Tranche 19 / 23 : Construction et Exploitation d'un Phantogramme
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2454,8 +2465,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
   - **Présupposition de simplicité d'accès :** « It is not difficult to notice » installe un pré-cadrage de truisme naturel, rendant la déduction indiscutable pour l'interlocuteur.
   - **Néologisme métaphorique incarné somatiquement :** L'expression « Go on Tiptoe » (avancer sur la pointe des pieds) active une représentation motrice et proprioceptive immédiate de prudence corporelle, ancrant instantanément l'anti-principe physique dans le schéma corporel du praticien.
 
-
-## --- Tranche 20 / 23 ---
+## Tranche 20 / 23 : d'Assimilation et de Transfert par Analogie (Étape 2-0 d'ARIZ)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2607,8 +2617,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
 * **[Analyse du Pattern]** :  
   *Suggestion de dissolution physique et distorsion submodale extrême.* En fractionnant le temps (« each tenth-of-a-second »), Altshuller installe une séquence de micro-ralenti hypnotique qui assouplit la rigidité de la représentation mentale de l'objet, pour l'amener sans heurt jusqu'à la limite logique du vide : « reaching zero substance ». C'est l'induction directe de l'Idéalité Absolue dans la structure kinesthésique et visuelle de la pensée.
 
-
-## --- Tranche 21 / 23 ---
+## Tranche 21 / 23 : d'Aiguillage et Résolution par la Matrice de Contradiction (Exemple du Brise-Glace)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2703,8 +2712,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
 
 - **[Analyse du Pattern]** : Utilisation d'un double lien implicite fondé sur le contraste spatial et kinesthésique (immobilité rassurante vs élévation aventureuse). L'expression *"marching in place — the same old familiar place"* induit une sensation de piétinement stérile et d'enfermement, tandis que *"highest flights"* ouvre le canal visuel vers un horizon infini. La formule de clôture hypnotique *"And so, our work continues"* fonctionne comme une commande enchâssée d'engagement indéfectible, intégrant le lecteur/étudiant dans une lignée pionnière historique.
 
-
-## --- Tranche 22 / 23 ---
+## Tranche 22 / 23 : d'Élévation Systémique (Diagnostic & Transition de Niveau d'un Système Bloqué)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2844,8 +2852,7 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
   *Commandes spatiales impératives de désancrage dimensionnel (Principe 17).*  
   Séquence de suggestions directes à infinitif opératoire qui force la représentation mentale interne à briser son ancrage euclidien habituel. L'injonction progressive (*1D -> 2D -> 3D -> niveau multiple -> inclinaison -> face opposée*) produit une transe de flexibilité spatiale où la cognition est obligée de faire tourner l'objet dans toutes les coordonnées spatiales possibles pour dissoudre les contraintes du problème.
 
-
-## --- Tranche 23 / 23 ---
+## Tranche 23 / 23 : d'Immersion et de Transfert d'Expertise TRIZ (Modèle Shulyak)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2905,3 +2912,4 @@ Voici l'extraction et l'analyse opératoire de la tranche 18/23 selon la structu
 *   **Citation Verbatim :**
     > « It not only suggests and explains many effective thinking strategies for inventing, it introduces many resources like physics, chemistry, and geometry as a tools for solving invention problems and for predicting solutions for problems as yet unrecognized. »
     *   **[Analyse du Pattern]** : *Structure d'expansion syntaxique « Not only... but also » avec projection temporelle prédictive.* La structure élève le cadre de référence au-delà de la simple résolution réactive : le saut linguistique vers « predicting solutions for problems as yet unrecognized » installe une transe d'anticipation stratégique, conférant à l'opérateur un statut de quasi-clairvoyance algorithmique sur l'évolution des systèmes futurs.
+

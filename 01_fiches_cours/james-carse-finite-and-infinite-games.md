@@ -102,10 +102,24 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 122-246]** : Le Dévoilement de la Contrainte (Désamorçage de l'Illusion de Nécessité) — *Protocole :* Le Dévoilement de la Contrainte (Désamorçage de l'Illusion de Nécessité) | *Verbatim :* La Définition Fondatrice & Axiome du Choix
+- **Tranche 2 [Lignes 248-382]** : Déconstruction de Titre & Rétablissement de la Réciprocité du Nom — *Protocole :* Déconstruction de Titre & Rétablissement de la Réciprocité du Nom | *Mécanisme :* Le Mouvement Terminal et la Mort Fonctionnelle du Joueur | *Verbatim :* La redéfinition de la mort finie
+- **Tranche 3 [Lignes 384-500]** : Le Dévoilement de la Scénographie (Transmutation d'une Impasse Finie en Continuité Dramatique) — *Protocole :* Le Dévoilement de la Scénographie (Transmutation d'une Impasse Finie en Continuité Dramatique) | *Mécanisme :* L’Oubli de l’Oubli et le Voile de Nécessité (Auto-tromperie structurante) | *Verbatim :* Pattern 1 : Le Recadrage de la Défaite par l'Auditoire
+- **Tranche 4 [Lignes 502-659]** : Le Recodage de la Causalité Naissance/Histoire (De la Répétition Théâtrale à l'Émergence Dra... — *Protocole :* Le Recodage de la Causalité Naissance/Histoire (De la Répétition Théâtrale à l'Émergence Dramatique) | *Mécanisme :* L'Horizon vs la Frontière (Défocalisation Spatiale & Démantèlement de l'Opposition) | *Verbatim :* Verbatim 1
+- **Tranche 5 [Lignes 661-815]** : A : La Transmutation Thérapeutique « Curing vers Healing » (Mettre la Limite en Jeu) — *Protocole :* A : La Transmutation Thérapeutique « Curing vers Healing » (Mettre la Limite en Jeu) | *Mécanisme :* Le Toucher vs Le Projet Intentionnel : Brisure de Conception | *Verbatim :* Le Paradoxe du Masque et du Toucher
+- **Tranche 6 [Lignes 817-918]** : Désamorçage de l'Explication Fermée par Conversion Narrative (Du Nécessaire au Possible) — *Protocole :* Désamorçage de l'Explication Fermée par Conversion Narrative (Du Nécessaire au Possible) | *Mécanisme :* Le Silence Radical de la Nature comme Matrice de la Métaphore | *Verbatim :* La Poiesis du Regard et la Récupération du Génie
+- **Tranche 7 [Lignes 920-1046]** : La Transmutation du Contrôle Mécanique en Posture de Jardinier (Démantèlement de l'Obsession... — *Protocole :* La Transmutation du Contrôle Mécanique en Posture de Jardinier (Démantèlement de l'Obsession Téléologique) | *Verbatim :* La Nature Intérieure de la Vitalité
+- **Tranche 8 [Lignes 1048-1163]** : Désamorçage Idéologique par Restauration de la Résonance Mythique — *Protocole :* Désamorçage Idéologique par Restauration de la Résonance Mythique | *Verbatim :* La non-appropriation de la voix d'autrui
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 8 ---
+## Tranche 1 / 8 : Le Dévoilement de la Contrainte (Désamorçage de l'Illusion de Nécessité)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -231,8 +245,7 @@ flowchart TD
 > Training repeats a completed past in the future. Education continues an unfinished past into the future. »
 * **[Analyse du Pattern]** : Structure symétrique en chiasmes et parallélismes répétitifs (*against surprise* vs *for surprise*, *training* vs *education*). Utilisation des aspects temporels achevé/inachevé (*finished / unfinished*) pour créer une suggestion implicite de fermeture rigide (training/mort symbolique) opposée à une transe générative d'évolution perpétuelle (education/découverte de soi continue).
 
-
-## --- Tranche 2 / 8 ---
+## Tranche 2 / 8 : Déconstruction de Titre & Rétablissement de la Réciprocité du Nom
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -368,8 +381,7 @@ flowchart TD
 
 * **[Analyse du Pattern] :** **Shift de métonymie et isomorphisme fluide.** Carse inverse le statut de l'observateur face au temps : le sujet cesse d'être un objet statique et rigide subi par le flux externe (la pierre) pour s'identifier au flux lui-même (le ruisseau). La structure conclut sur un aphorisme présuppositionnel fort : la rigidité mène à la finitude, seule la plasticité adaptative garantit la perpétuation de l'être.
 
-
-## --- Tranche 3 / 8 ---
+## Tranche 3 / 8 : Le Dévoilement de la Scénographie (Transmutation d'une Impasse Finie en Continuité Dramatique)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -487,8 +499,7 @@ flowchart TD
   * **Structure syntaxique :** Antithèse spatiale et ontologique pure (*"boundaries"* opposé à *"horizon"*), couplée à une désimbrication de la fausse neutralité d'une limite (*"phenomenon of opposition"*, *"meeting place of hostile forces"*).
   * **Effet de recadrage spatial :** En PNL spatiale, poser qu'une frontière *nécessite* un ennemi pour exister démasque immédiatement toute posture défensive ou "patriotique" comme un générateur compulsif de conflit. Cela force le système nerveux à envisager la transcendance des limites non par l'assaut, mais par l'expansion sans objet vers l'horizon.
 
-
-## --- Tranche 4 / 8 ---
+## Tranche 4 / 8 : Le Recodage de la Causalité Naissance/Histoire (De la Répétition Théâtrale à l'Émergence Dra...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -647,8 +658,7 @@ flowchart TD
 
 *   **[Analyse du Pattern] :** Contraste phénoménologique par polarisation spatio-relationnelle (*from without vs from within*, *unmoved vs touched as well*). Présupposition d'interdépendance transformative : la véritable transformation est définie syntaxiquement comme une contamination réciproque obligatoire. Le praticien ne peut rester spectateur neutre s'il veut déclencher une métamorphose profonde.
 
-
-## --- Tranche 5 / 8 ---
+## Tranche 5 / 8 : A : La Transmutation Thérapeutique « Curing vers Healing » (Mettre la Limite en Jeu)
 
 Voici l’extraction et la modélisation intégrale de la substance opératoire de cette tranche 5/8 (*Finite and Infinite Games*, James Carse, chapitres 56 à 70).
 
@@ -804,8 +814,7 @@ Voici l’extraction et la modélisation intégrale de la substance opératoire 
     2. « puts play into time » $\leftrightarrow$ « puts time into play ».
   * **Suggestion hypnotique de dé-pression** : L'énoncé libère instantanément le système nerveux de la sensation de pénurie temporelle en réinstallant la conscience comme source génératrice du temps plutôt que comme récipient passif de sa fuite.
 
-
-## --- Tranche 6 / 8 ---
+## Tranche 6 / 8 : Désamorçage de l'Explication Fermée par Conversion Narrative (Du Nécessaire au Possible)
 
 Voici l'analyse modélisatrice et opératoire de la tranche 6/8 de *Finite and Infinite Games* de James Carse.
 
@@ -908,8 +917,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 6/8 de *Finite and I
 > *"Metaphor does not point at something there. [...] It is not the role of metaphor to draw our sight to what is there, but to draw our vision toward what is not there and, indeed, cannot be anywhere. Metaphor is horizonal, reminding us that it is one's vision that is limited, and not what one is viewing."*
 * **[Analyse du Pattern]** : Déplacement de la focalisation visuelle externe (fovéale, étroite, statique) vers une vision périphérique et ouverte (*horizonal vision*). Présupposition spatiale libératrice : ce n'est pas le territoire qui est étriqué ou manquant, c'est l'appareil perceptif qui s'était restreint. Cette formulation déplace instantanément la responsabilité de la contrainte du dehors vers le dedans.
 
-
-## --- Tranche 7 / 8 ---
+## Tranche 7 / 8 : La Transmutation du Contrôle Mécanique en Posture de Jardinier (Démantèlement de l'Obsession...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1037,8 +1045,7 @@ Voici l'analyse modélisatrice et opératoire de la tranche 6/8 de *Finite and I
   - *Commande d'inhibition des défenses critiques* : L'affirmation que notre propre origine ne peut être formulée comme un fait objectif stoppe net l'intellectualisation analytique du néocortex.
   - *Shift prépositionnel décisif* : Le passage de « speak it » (discours sur l'objet, réification) à « speak as it » (incarnation de la source, posture de canal expressif) opère une bascule identitaire complète vers la transe générative.
 
-
-## --- Tranche 8 / 8 ---
+## Tranche 8 / 8 : Désamorçage Idéologique par Restauration de la Résonance Mythique
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1154,3 +1161,4 @@ Voici l'analyse modélisatrice et opératoire de la tranche 6/8 de *Finite and I
 > "It is not necessary for infinite players to be Christians; indeed it is not possible for them to be Christians-seriously. Neither is it possible for them to be Buddhists, or Muslims, or atheists, or New Yorkers-seriously. All such titles can only be playful abstractions, mere performances for the sake of laughter. Infinite players are not serious actors in any story, but the joyful poets of a story that continues to originate what they cannot finish."
 
 * **[Analyse du Pattern]** : Rupture de pattern abrupte par l'adverbe détaché *-seriously*, répété comme un levier de défusion cognitive. Carse met sur le même plan ontologique les grandes religions millénaires et l'étiquette géographique profane (*New Yorkers*), créant un effondrement d'ancres identitaires. La recatégorisation en *playful abstractions* et *performances for the sake of laughter* dissout le tragique de l'ego. La phrase de clôture utilise un double prédicat poétique (*joyful poets / continues to originate what they cannot finish*) qui ancre définitivement l'identité du sujet dans le devenir perpétuel et la créativité inépuisable du jeu infini.
+

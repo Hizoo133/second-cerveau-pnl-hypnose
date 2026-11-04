@@ -52,10 +52,22 @@ Le fil rouge invariable repose sur une **réduction phénoménologique et spatia
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 70-231]** : Démonstration Opératoire : L'Exploration Fondamentale de l'« I » (Protocole de Base Découverte) — *Protocole :* Démonstration Opératoire : L'Exploration Fondamentale de l'« I » (Protocole de Base Découverte) | *Mécanisme :* Élicitation de la Structure Égotique par Localisation Spatiale de l'Observateur | *Verbatim :* Le Recadrage de la Polarité et de l'« Inside Job » (Métaphore du Couple)
+- **Tranche 2 [Lignes 233-335]** : Démonstration : Le Protocole de Base du Wholeness Work (Pistage Récursif de l'Observateur &... — *Protocole :* Démonstration : Le Protocole de Base du Wholeness Work (Pistage Récursif de l'Observateur & Dissolution) | *Verbatim :* Verbatim 1 : L'utilisation de l'état immédiat de confusion
+- **Tranche 3 [Lignes 337-501]** : La Chaîne des Observateurs (The Chain of "I"s) & Intégration Rétrograde — *Protocole :* La Chaîne des Observateurs (The Chain of "I"s) & Intégration Rétrograde | *Mécanisme :* Empilement Récursif des Observateurs (The Chain of "I"s / Meta-Position Stacking) | *Verbatim :* La régression récursive de l'Observateur
+- **Tranche 4 [Lignes 503-637]** : Format Méditation du Wholeness Work (Auto-application & Guidage) — *Protocole :* Format Méditation du Wholeness Work (Auto-application & Guidage) | *Mécanisme :* Le Piège de l'Expansion Volontaire et la Polarité Forcée | *Verbatim :* Désamorçage de l'effort spirituel et désacralisation de la présence
+- **Tranche 5 [Lignes 639-791]** : Relaxation Vespérale & Transition Nocturne (Wholeness Work pour le Sommeil) — *Protocole :* Relaxation Vespérale & Transition Nocturne (Wholeness Work pour le Sommeil) | *Mécanisme :* Soma-fixation des "I's" avec l'âge (Ontologie de la rigidification du Moi) | *Verbatim :* Verbatim 1 : Le Recadrage Déculpabilisant du Sommeil
+- **Tranche 6 [Lignes 793-911]** : Le Format Méditation / Sommeil (Sleep Protocol) — *Protocole :* Le Format Méditation / Sommeil (Sleep Protocol) | *Mécanisme :* Le Piège de la « Surcouche Narrative » (Story Overlay) vs Expérience Directe | *Verbatim :* Recadrage de la Surcouche Narrative en Clé Opératoire
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 6 ---
+## Tranche 1 / 6 : Démonstration Opératoire : L'Exploration Fondamentale de l'« I » (Protocole de Base Découverte)
 
 Voici l'analyse modélisatrice complète, rigoureuse et opératoire de la tranche 1/6 du séminaire *Wholeness Work Level 1* de Connirae Andreas.
 
@@ -218,8 +230,7 @@ Voici l'analyse modélisatrice complète, rigoureuse et opératoire de la tranch
   - **La commande enchâssée d'effondrement syntaxique :** L'association *« in and as »* (dans et en tant que). « In » préserve la conscience de l'espace, « as » réalise l'union et l'identité pure entre le sujet dissous et le champ d'accueil.
   - **Double contrainte permissive éricksonienne :** *« allow to happen what happens or doesn't happen »*. Toute réaction somatique (changement ou absence de changement) est immédiatement validée et intégrée dans le succès du protocole, éliminant tout réflexe de contraction ou de surveillance.
 
-
-## --- Tranche 2 / 6 ---
+## Tranche 2 / 6 : Démonstration : Le Protocole de Base du Wholeness Work (Pistage Récursif de l'Observateur &...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -323,8 +334,7 @@ Voici l'analyse modélisatrice complète, rigoureuse et opératoire de la tranch
 - **[Analyse du Pattern] :**  
   *Structure métaphorique passive, nominalisation adoucissante et répétition hypnotique.* L'utilisation de *"welcome the invitation"* (accueillir l'invitation) ôte toute commande directe autoritaire, neutralisant la réactance psychologique. L'empilement de verbes quasi-synonymes kinesthésiques (*open, relax, dissolve, melt*) induit un ralentissement et une transition de phase (passage de l'état solide à liquide/gazeux). La préposition *"in and as"* réalise un saut logique non-duel : la contraction ne se dissout pas simplement *dans* un espace externe, elle devient elle-même *en tant que* le champ de conscience sous-jacent.
 
-
-## --- Tranche 3 / 6 ---
+## Tranche 3 / 6 : La Chaîne des Observateurs (The Chain of "I"s) & Intégration Rétrograde
 
 Voici l'extraction opératoire intégrale et la modélisation de la tranche 3/6 de la transcription de Connirae Andreas (*Wholeness Work Level 1*).
 
@@ -490,8 +500,7 @@ Voici l'extraction opératoire intégrale et la modélisation de la tranche 3/6 
   * Truisme de nivellement : *« ordinary experience you can access easily »*, *« that we all have »*. Cela désamorce toute mystification spirituelle élitiste.
   * Déplacement temporel vers l'antériorité pure : *« there before the sound happens »*. Cette suggestion contraint la cognition à reculer d'un cran en arrière de ses perceptions sensorielles habituelles pour se stabiliser dans la présence pure sans objet.
 
-
-## --- Tranche 4 / 6 ---
+## Tranche 4 / 6 : Format Méditation du Wholeness Work (Auto-application & Guidage)
 
 Voici l’extraction intégrale, opératoire et modélisée de la tranche 4/6 de la formation *Wholeness Work Level 1* par Connirae Andreas.
 
@@ -627,8 +636,7 @@ Voici l’extraction intégrale, opératoire et modélisée de la tranche 4/6 de
 > « The thing is that the first thing that I tell people about sleep, who come to me for that, is that there's been this misunderstanding about sleep, and that sleep is actually not necessary... What people really need, in my opinion is not sleep, it's a deep relaxation and resetting of the nervous system, deep replenishment and resetting of the nervous system, that's what we need. »
 - **[Analyse du Pattern]** : Rupture de pattern majeure (*Pattern Interrupt*) et recadrage thérapeutique paradoxal. En déclarant frontalement à un insomniaque que « le sommeil n'est pas nécessaire », elle fait s'effondrer instantanément l'anxiété de performance liée au besoin de s'endormir. Elle remplace immédiatement l'exigence du sommeil par un truisme accessible par paliers somatiques : *« deep relaxation and resetting of the nervous system »*, induisant l'état réparateur sans passer par la lutte volontaire pour dormir.
 
-
-## --- Tranche 5 / 6 ---
+## Tranche 5 / 6 : Relaxation Vespérale & Transition Nocturne (Wholeness Work pour le Sommeil)
 
 Voici l'extraction et la modélisation intégrale de cette tranche selon la structure d'ingénierie demandée :
 
@@ -782,8 +790,7 @@ Voici l'extraction et la modélisation intégrale de cette tranche selon la stru
   * *Démystification biomécanique* : Connirae Andreas confronte le dogme séculaire de la posture de méditation droite à la réalité de la boucle réflexe musculaire.
   * *Identification du couplage tonique inconscient* : Démonstration que l'effort postural compense et verrouille la contraction de l'« I ». L'expression *« unconsciously almost try to put it back into place so we can stay upright »* identifie le mécanisme par lequel le corps ré-active l'ego contracté par simple souci d'équilibre gravitationnel.
 
-
-## --- Tranche 6 / 6 ---
+## Tranche 6 / 6 : Le Format Méditation / Sommeil (Sleep Protocol)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire de cette tranche (6/6) du *Wholeness Work Level 1* de Connirae Andreas.
 
@@ -902,3 +909,4 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire de
 #### Pépite 5 : Déconstruction Sub-Sensorielle de l'Image Mentale
 > *"So the movie is the content. If we notice where it's at... So if the movie is here and then I'm noticing the sensation quality, it might be a quality of light. It might be a movement... If we go to what's just prior to the movie itself, what's at a more sensation level in the space where the movie is happening. Then, does that help?"*
 * **[Analyse du Pattern] :** Séparation chirurgicale entre le contenu (le récit du film mental) et le conteneur neuro-spatial (l'endroit où il est projeté). La formulation temporelle/phénoménologique *« what's just prior to the movie itself »* (ce qui précède immédiatement l'apparition du film) force le système perceptif à reculer en amont de la construction de l'image, atteignant la pure pulsation sensorielle/lumineuse brute et désactivant l'adhésion hypnotique au film mental.
+

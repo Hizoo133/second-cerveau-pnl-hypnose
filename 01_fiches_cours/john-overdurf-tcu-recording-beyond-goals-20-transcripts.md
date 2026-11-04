@@ -80,10 +80,42 @@ flowchart TD
 
 ---
 
+---
+
+## 0. Sommaire Sémantique & Index des Lignes
+
+- **Tranche 1 [Lignes 118-250]** : Démonstration : Recalibrage et Fusion Déclencheur-Identité (Cas Brian & Scrivener) — *Protocole :* Démonstration : Recalibrage et Fusion Déclencheur-Identité (Cas Brian & Scrivener) | *Verbatim :* Extrait 1 : L'Amplification sous-modalitaire spontanée
+- **Tranche 2 [Lignes 252-370]** : A : La Consigne Opératoire de Pleine Conscience selon Ellen Langer — *Protocole :* A : La Consigne Opératoire de Pleine Conscience selon Ellen Langer
+- **Tranche 3 [Lignes 372-513]** : Le Swish Adaptatif Intégral & Rééducation Neuroplastique Visuelle — *Protocole :* Le Swish Adaptatif Intégral & Rééducation Neuroplastique Visuelle | *Mécanisme :* L'Effet Zénon Quantique & Neuroplasticité Attentionnelle | *Verbatim :* Le Recadrage Neuroplastique Médical
+- **Tranche 4 [Lignes 515-616]** : Le Protocole de la Plus Petite Étape Suivante (Smallest Next Step 2.0) — *Protocole :* Le Protocole de la Plus Petite Étape Suivante (Smallest Next Step 2.0) | *Mécanisme :* Le Circuit Dopaminergique vs Sérotoninergique (Le Moteur d'Action Yin/Yang) | *Verbatim :* La Suggestion Post-Hypnotique de Micro-Variation
+- **Tranche 5 [Lignes 618-748]** : L'Alignement de l'État Présent d'Être vs Faire (Beyond Goals Calibration) — *Protocole :* L'Alignement de l'État Présent d'Être vs Faire (Beyond Goals Calibration) | *Mécanisme :* Atténuation de l'Échelle d'Action & Déclencheur Dopaminergique Minimal (scaledown microstepthreshold dopaminenovelty) | *Verbatim :* La Suggestion Post-Hypnotique Ericksonienne de la Différence Invisible
+- **Tranche 6 [Lignes 750-874]** : Le Processus de Décision & Action Déductive Subtile (The Smallest Next Step Process) — *Protocole :* Le Processus de Décision & Action Déductive Subtile (The Smallest Next Step Process) | *Verbatim :* Désamorçage de la Pression de Décision par Décalage Ontologique
+- **Tranche 7 [Lignes 876-1003]** : Le Swish Pattern Génératif "Beyond Goals" (Reprogrammation de l'Attention & Nouvelle Image d... — *Protocole :* Le Swish Pattern Génératif "Beyond Goals" (Reprogrammation de l'Attention & Nouvelle Image de Soi)
+- **Tranche 8 [Lignes 1005-1130]** : Élucidation de l'État Final, Rétro-Injection Temporelle et Test de Réalité de Congruence — *Protocole :* Élucidation de l'État Final, Rétro-Injection Temporelle et Test de Réalité de Congruence | *Verbatim :* La Formule Universelle de Souffrance Occidentale
+- **Tranche 9 [Lignes 1132-1316]** : A : La Rupture Temporelle Régressive (Weight / Past Restoration Shock) — *Protocole :* A : La Rupture Temporelle Régressive (Weight / Past Restoration Shock) | *Verbatim :* Verbatim 1 : La Rupture de Régression Idéalisée
+- **Tranche 10 [Lignes 1318-1466]** : Le Méta-Pattern d'Évitement et de Tâche Écrasante (Overwhelm to "No Big Deal" Pattern) — *Protocole :* Le Méta-Pattern d'Évitement et de Tâche Écrasante (Overwhelm to "No Big Deal" Pattern) | *Verbatim :* La Bascule Temporelle Rétrospective
+- **Tranche 11 [Lignes 1468-1578]** : Levier de Cadrage Préalable d'Appartenance au Système (Upfront Leverage Pattern) — *Protocole :* Levier de Cadrage Préalable d'Appartenance au Système (Upfront Leverage Pattern) | *Mécanisme :* Le Verrouillage de Levier Préalable (Upfront Leverage & System Buy-in) | *Verbatim :* Le Recadrage du Mandat Subi
+- **Tranche 12 [Lignes 1580-1716]** : A : La Boucle du Plus Petit Pas Suivant (The Smallest Next Step Flow) — *Protocole :* A : La Boucle du Plus Petit Pas Suivant (The Smallest Next Step Flow) | *Mécanisme :* Renforcement des voies neurales d'état (Pathway Strengthening vs. Fleeting State) | *Verbatim :* Verbatim 1 : Présupposition Temporelle et Maintien de l'État Moteur
+- **Tranche 13 [Lignes 1718-1847]** : Déconstruction de la Procrastination & Réalignement d'Incongruité Séquentielle — *Protocole :* Déconstruction de la Procrastination & Réalignement d'Incongruité Séquentielle | *Mécanisme :* La Nature Temporelle des Émotions et l'Invariance Somatique | *Verbatim :* Recadrage Identitaire par Présupposition et Déplacement Temporel
+- **Tranche 14 [Lignes 1849-1983]** : Dégagement Spatial & Défocalisation de l'Image Négative Pivot (Submodality Unfreezing & Cont... — *Protocole :* Dégagement Spatial & Défocalisation de l'Image Négative Pivot (Submodality Unfreezing & Context Dissociation) | *Verbatim :* La Présupposition d'Émergence d'Issue Positive
+- **Tranche 15 [Lignes 1985-2111]** : Dissociation Radicale par Réification d'Objet Présent — *Protocole :* Dissociation Radicale par Réification d'Objet Présent | *Mécanisme :* La dissociation contextuelle radicale vs la fausse dissociation | *Verbatim :* Verbatim 1 : L'ancrage de non-viabilité spatiale
+- **Tranche 16 [Lignes 2113-2255]** : Alignement End State -> Apprentissages -> Plus Petit Pas (Beyond Goals 2.0) — *Protocole :* Alignement End State -> Apprentissages -> Plus Petit Pas (Beyond Goals 2.0) | *Verbatim :* Déconstruction de la Suggestion de Succès
+- **Tranche 17 [Lignes 2257-2382]** : A : "The Baseline Beyond Goals Model" (Auto-application ou Coaching Direct) — *Protocole :* A : "The Baseline Beyond Goals Model" (Auto-application ou Coaching Direct) | *Verbatim :* La question de déconditionnement social dans l'état final
+- **Tranche 18 [Lignes 2384-2498]** : Déblocage du « Plus Petit Pas Suivant » par Intégration de l'Énergie de Processus — *Protocole :* Déblocage du « Plus Petit Pas Suivant » par Intégration de l'Énergie de Processus | *Mécanisme :* L'Énergie de Processus vs. L'Énergie d'État Final | *Verbatim :* Amplification Hypnotique par Sous-Modalités Émergentes et Truismes
+- **Tranche 19 [Lignes 2500-2628]** : A : Intégration de l'Énergie de Processus sur le Plus Petit Pas Suivant — *Protocole :* A : Intégration de l'Énergie de Processus sur le Plus Petit Pas Suivant
+- **Tranche 20 [Lignes 2630-2745]** : Dissolution de Conflit par la Question de l'État Final (Beyond Goals Temporal Collapse) — *Protocole :* Dissolution de Conflit par la Question de l'État Final (Beyond Goals Temporal Collapse) | *Verbatim :* Le Pré-cadrage Présuppositionnel de Cause à Effet (Étude Kaptchuk)
+- **Tranche 21 [Lignes 2747-2861]** : Démantèlement de la "Fausse Peur de l'Inconnu" et Régression à l'Empreinte — *Protocole :* Démantèlement de la "Fausse Peur de l'Inconnu" et Régression à l'Empreinte | *Mécanisme :* Le cycle universel des 3 Gunas appliqué au changement psychologique | *Verbatim :* Extrait 1 : Déconstruction de la peur de l'inconnu
+- **Tranche 22 [Lignes 2863-3003]** : A : La Boucle "Beyond Goals" (Découplage & Plus Petit Pas Suivant) — *Protocole :* A : La Boucle "Beyond Goals" (Découplage & Plus Petit Pas Suivant) | *Verbatim :* Le Découplage Présentifié de l'Objectif
+- **Tranche 23 [Lignes 3005-3127]** : A : L'investigation de l'Échiquier d'Autorité (Authority Re-imprint Pre-framing) — *Protocole :* A : L'investigation de l'Échiquier d'Autorité (Authority Re-imprint Pre-framing)
+- **Tranche 24 [Lignes 3129-3275]** : Le Déploiement de l'Incertitude vers le Champ des Possibles (Field of Possibilities) — *Protocole :* Le Déploiement de l'Incertitude vers le Champ des Possibles (Field of Possibilities) | *Mécanisme :* La Matrice Quadratique de l'Incertitude / Certitude | *Verbatim :* Le Recadrage de l'Incertitude en Certitude
+- **Tranche 25 [Lignes 3277-3481]** : A : DISSOCIATION PAR RUPTURE DE CONTEXTE ET DUPLICATA DE LIEU — *Protocole :* A : DISSOCIATION PAR RUPTURE DE CONTEXTE ET DUPLICATA DE LIEU | *Mécanisme :* Dissociation par Rupture de Contexte (Contextual Dissociation) | *Verbatim :* Délimitation de la Dissociation Contextuelle
+- **Tranche 26 [Lignes 3483-3585]** : Stabilisation et Extraction de Syntaxe Problème (Context-Trigger Framing) — *Protocole :* Stabilisation et Extraction de Syntaxe Problème (Context-Trigger Framing) | *Mécanisme :* La Réduction Fondamentale du Problème : Cause-Effet ($X \rightarrow Y$) et Équivalence Complexe ($X = Y$) | *Verbatim :* La Racine Structurelle des Schémas de Changement
+
+---
+
 ## Extractions Détaillées par Tranche (Opératoire & Verbatim)
 
-
-## --- Tranche 1 / 26 ---
+## Tranche 1 / 26 : Démonstration : Recalibrage et Fusion Déclencheur-Identité (Cas Brian & Scrivener)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -217,8 +249,7 @@ flowchart TD
 * **[Analyse du Pattern]** :
   - *Structure présuppositionnelle d'orientation attentionnelle* : L'ordre de trier sur la nouveauté et la différence porte une présupposition d'action : pour évaluer ce qui est différent, le cerveau est forcé de scanner le décor perceptif immédiat, éliminant par structure même la dissociation dans des représentations passées ou futures figées.
 
-
-## --- Tranche 2 / 26 ---
+## Tranche 2 / 26 : A : La Consigne Opératoire de Pleine Conscience selon Ellen Langer
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -338,8 +369,7 @@ flowchart TD
 ```
 * **[Analyse du Pattern]** : **Trance-logic, saupoudrage de dénégation et recadrage neuro-anatomique.** Overdurf utilise une dénégation d'autorité médicale apparente (*while I can't necessarily say that...*) pour faire passer une suggestion hypnotique puissante sous le radar critique (*we can help you develop your brain so that you can see better*). Le glissement sémantique déplace l'agentivité de l'organe défaillant (l'œil) vers la plasticité cérébrale modifiable (le cerveau qui fabrique l'image).
 
-
-## --- Tranche 3 / 26 ---
+## Tranche 3 / 26 : Le Swish Adaptatif Intégral & Rééducation Neuroplastique Visuelle
 
 Voici l'analyse opératoire intégrale de la tranche 3/26 du cours *Beyond Goals 2.0* de John Overdurf.
 
@@ -482,8 +512,7 @@ Voici l'analyse opératoire intégrale de la tranche 3/26 du cours *Beyond Goals
 * **[Analyse du Pattern]** :
   - **Déconstruction méta-modèle chirurgicale** : Mise en lumière instantanée de la suppression linguistique contenue dans la nominalisation « sécurité ». En questionnant l'omission (*"safe from what?"*), il force le praticien à réaliser que parler de sécurité réactive continuellement l'image traumatique ou anxiogène dont le client cherche à fuir.
 
-
-## --- Tranche 4 / 26 ---
+## Tranche 4 / 26 : Le Protocole de la Plus Petite Étape Suivante (Smallest Next Step 2.0)
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire issue de la tranche 4/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -586,8 +615,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
 
 * **[Analyse du Pattern]** : Alchimie linguistique totale. Le symptôme ou le blocage n'est plus une tare, mais un stock disponible d'énergie pure (*"how much energy they really have"*). L'usage de l'adverbe restrictif de simplification (*"just redirecting it"*) banalise la transition. La question orientée vers l'inconscient présuppose l'existence de multiples territoires inexplorés (*"all the other places..."*) tout en projetant le système dans un impact transformateur inévitable (*"that would make such a big difference"*).
 
-
-## --- Tranche 5 / 26 ---
+## Tranche 5 / 26 : L'Alignement de l'État Présent d'Être vs Faire (Beyond Goals Calibration)
 
 Voici l'extraction et l'analyse modélisatrice complète de la tranche 5/26 de *Beyond Goals 2.0* de John Overdurf.
 
@@ -719,8 +747,7 @@ Voici l'extraction et l'analyse modélisatrice complète de la tranche 5/26 de *
   - *Distinction de niveaux logiques (Identité/État vs Comportement)* : Primauté absolue accordée à l'état somatique et neuro-affectif sur l'agitation comportementale.
   - *Antithèse hypnotique cadencée* : L'opposition symétrique « *Not the now that you're doing something in, but the now that you want to be in* » crée une saturation cognitive menant à une réorientation instantanée de la focalisation interne vers l'état désiré.
 
-
-## --- Tranche 6 / 26 ---
+## Tranche 6 / 26 : Le Processus de Décision & Action Déductive Subtile (The Smallest Next Step Process)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -846,8 +873,7 @@ Voici l'extraction et l'analyse modélisatrice complète de la tranche 5/26 de *
   - **Normalisation de l'incompétence consciente** : L'incise *"consciously, we don't know [...] And we shouldn't"* neutralise la compulsion de contrôle de l'esprit conscient en transformant l'ignorance du chemin en condition de réussite absolue du processus.
   - **Présupposition de complétion inconsciente** : En affirmant que le conscient ne doit pas savoir comment aller du point A au point B, le pattern présuppose obligatoirement que l'inconscient, lui, sait réorganiser les ressources de façon distribuée et non-linéaire.
 
-
-## --- Tranche 7 / 26 ---
+## Tranche 7 / 26 : Le Swish Pattern Génératif "Beyond Goals" (Reprogrammation de l'Attention & Nouvelle Image d...
 
 Voici l'analyse opératoire et la modélisation de la tranche 7/26 du cours *TCU Recording Beyond Goals 2.0* par John Overdurf.
 
@@ -976,8 +1002,7 @@ Voici l'analyse opératoire et la modélisation de la tranche 7/26 du cours *TCU
   2. *Connecteur causal présupposé* : *"as a result of"* lie mécaniquement l'écoute superficielle à la transformation interne.
   3. *Post-décharge / Clôture permissive ironique* : *"And that's only a suggestion and I'm only a hypnotherapist"*. En feignant de déprécier son autorité par un truisme d'auto-dérision, Overdurf neutralise instantanément toute réactance psychologique ou résistance critique du groupe, rendant la suggestion d'intégration inconsciente entièrement perméable.
 
-
-## --- Tranche 8 / 26 ---
+## Tranche 8 / 26 : Élucidation de l'État Final, Rétro-Injection Temporelle et Test de Réalité de Congruence
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1104,8 +1129,7 @@ Voici l'analyse opératoire et la modélisation de la tranche 7/26 du cours *TCU
   - **Coupure paradoxale / Reductio ad absurdum** : Mise en collision brutale de deux croyances mutuellement exclusives (« J'étais parfait à 25 ans » vs « J'ai pris 150 livres depuis cet état »).
   - **Recadrage d'inclusion obligatoire** : « that needs to be included in the process » impose la présupposition que l'erreur fait partie intégrante du système d'apprentissage et détruit l'illusion d'une régression purement nostalgique.
 
-
-## --- Tranche 9 / 26 ---
+## Tranche 9 / 26 : A : La Rupture Temporelle Régressive (Weight / Past Restoration Shock)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1291,8 +1315,7 @@ Voici l'analyse opératoire et la modélisation de la tranche 7/26 du cours *TCU
   * *Miroir de distorsion / Confrontation d'incongruence* : juxtapose la certitude imaginaire catastrophique (« *you've decided something's really complicated... really hard* ») avec la réalité sensorielle concrète (« *you never really opened the envelope to even see what it looks like yet* »).  
   * *Rupture de pattern conversationnelle* mettant en lumière l'hallucination sous-modale anticipatoire et libérant instantanément l'énergie bloquée par l'évitement.
 
-
-## --- Tranche 10 / 26 ---
+## Tranche 10 / 26 : Le Méta-Pattern d'Évitement et de Tâche Écrasante (Overwhelm to "No Big Deal" Pattern)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1442,8 +1465,7 @@ Voici l'analyse opératoire et la modélisation de la tranche 7/26 du cours *TCU
   - **Recadrage d'engagement volontaire** : Dès que les sujets confirment qu'ils restent (*"No, that's fine"*), le contexte redevient un choix personnel consenti.
   - **Changement de prédicat vers l'Être en mouvement** : *"how do you want to be as you're working... knowing that you're moving towards..."* installe une dynamique processuelle continue (*ING form*) orientée vers le flux d'action plutôt que vers l'obligation figée du résultat chiffré.
 
-
-## --- Tranche 11 / 26 ---
+## Tranche 11 / 26 : Levier de Cadrage Préalable d'Appartenance au Système (Upfront Leverage Pattern)
 
 Voici l'extraction et la modélisation opératoire intégrale de la tranche 11/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -1555,8 +1577,7 @@ Voici l'extraction et la modélisation opératoire intégrale de la tranche 11/2
 > *"When you think of uncertainty, the other thing that you want to consider is that's the only place where a possibility lives."*
 * **[Analyse du Pattern] :** Recadrage de sens (*Reframing*) par redéfinition exclusive. L'adverbe restrictif *"only place"* crée une équivalence ontologique contraignante : la certitude est synonyme de déjà-connu/passé figé ; l'incertitude devient la condition sine qua non de toute émergence et de toute liberté future.
 
-
-## --- Tranche 12 / 26 ---
+## Tranche 12 / 26 : A : La Boucle du Plus Petit Pas Suivant (The Smallest Next Step Flow)
 
 Voici l'extraction intégrale et opératoire de la tranche 12/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -1694,8 +1715,7 @@ Voici l'extraction intégrale et opératoire de la tranche 12/26 du cours *TCU R
   - **Saut logique de niveau identitaire** : Transcende le refus local du sujet (peur de ne plus être sympa ou de manquer de nourriture) en reliant directement le dépassement du problème à son identité relationnelle élargie (*"how much nicer you'd be to other people"*).
   - **Boucle de rétroaction positive** : Lie la bienveillance envers autrui au soulagement somatique personnel (*"because you'd be feeling so much better about yourself"*), détruisant le bénéfice secondaire de la plainte.
 
-
-## --- Tranche 13 / 26 ---
+## Tranche 13 / 26 : Déconstruction de la Procrastination & Réalignement d'Incongruité Séquentielle
 
 Voici l'analyse opératoire intégrale de la tranche 13/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -1826,8 +1846,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/26 du cours *TCU Recordi
 * **[Analyse du Pattern]** :
   - **Aphorisme de recadrage de temps :** Court-circuite la boucle fermée de l'auto-évaluation négative du passé (le regret stérile) en la transformant instantanément en règle procédurale orientée vers le futur immédiat. Le focus passe du constat d'une perte à la vigilance d'une opportunité à saisir.
 
-
-## --- Tranche 14 / 26 ---
+## Tranche 14 / 26 : Dégagement Spatial & Défocalisation de l'Image Négative Pivot (Submodality Unfreezing & Cont...
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -1963,8 +1982,7 @@ Voici l'analyse opératoire intégrale de la tranche 13/26 du cours *TCU Recordi
   - **Effondrement d'espace-temps & Réduction dimensionnelle** : Utilisation d'un fait physiologique incontestable sous forme de truisme spatial (*« You can't fit into a piece of paper »*) pour forcer la dissociation kinesthésique.
   - Empilement de suggestions de présence sensorielle actuelle (*« right now »*, *« on the phone with me »*, *« in the room that you're in as you're talking to me »*) qui ancre solidement le système nerveux dans la sécurité du présent, reléguant le problème à un simple objet inerte bidimensionnel (*« that photograph... out there »*).
 
-
-## --- Tranche 15 / 26 ---
+## Tranche 15 / 26 : Dissociation Radicale par Réification d'Objet Présent
 
 Voici l'analyse opératoire intégrale de la tranche 15/26 du cours *TCU Recording Beyond Goals 2.0* par John Overdurf.
 
@@ -2092,8 +2110,7 @@ Voici l'analyse opératoire intégrale de la tranche 15/26 du cours *TCU Recordi
   - **Effondrement des polarités matérielles** : *« It doesn't matter anymore. It's not about the choice anymore »* désinvestit brutalement la charge émotionnelle fixée sur les deux objets matériels du conflit.
   - **Cristallisation nominale** : *« It's about being free »* clôt la boucle cybernétique en reliant directement l'état présent à la valeur motrice ultime du sujet.
 
-
-## --- Tranche 16 / 26 ---
+## Tranche 16 / 26 : Alignement End State -> Apprentissages -> Plus Petit Pas (Beyond Goals 2.0)
 
 Voici l'extraction opératoire intégrale de la **tranche 16/26** du cours *"TCU Recording Beyond Goals 2.0"* de John Overdurf.
 
@@ -2237,8 +2254,7 @@ Voici l'extraction opératoire intégrale de la **tranche 16/26** du cours *"TCU
 * **[Analyse du Pattern]** :  
   *Recadrage paradoxal / rupture de pattern.* Le mot "art" anoblit ironiquement un comportement d'échec tandis que l'expression "rattraper la journée d'hier" matérialise l'inversion temporelle pathologique du sujet : le procrastinateur s'épuise à poursuivre un passé inaccessible plutôt que de créer dans le présent. Overdurf valide immédiatement l'impact hypnotique de ce schéma linguistique.
 
-
-## --- Tranche 17 / 26 ---
+## Tranche 17 / 26 : A : "The Baseline Beyond Goals Model" (Auto-application ou Coaching Direct)
 
 Voici l'analyse modélisatrice et opératoire intégrale de la tranche 17/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -2365,8 +2381,7 @@ Voici l'analyse modélisatrice et opératoire intégrale de la tranche 17/26 du 
 
 * **[Analyse du Pattern]** : Prescription sous-modalitaire précise pour un codage neurologique de résilience. La dissociation (*« dissociated image »*) empêche la surcharge kinesthésique d'anxiété liée à la tâche, tandis que le prédicat dynamique cinétique (*« that's moving »*) neutralise le figement de la nominalisation. L'enchâssement des attributs (*« all the attributes and skills... in the process »*) programme l'inconscient sur l'assimilation continue des apprentissages plutôt que sur l'obsession rigide du résultat terminal.
 
-
-## --- Tranche 18 / 26 ---
+## Tranche 18 / 26 : Déblocage du « Plus Petit Pas Suivant » par Intégration de l'Énergie de Processus
 
 Voici l'analyse opératoire intégrale de la tranche 18/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -2482,8 +2497,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/26 du cours *TCU Recordi
 - **[Analyse du Pattern] :**  
   Installation d'un ancrage temporel et contextuel conditionnel (*« As soon as... you're moving in that direction »*). Le stimulus externe visuel qui déclenchait autrefois le blocage (*« see that app »*) devient le déclencheur automatique de la sensation de progression cinétique. L'utilisation du verbe kinesthésique d'engagement physique (*« digging into it »*) scelle l'association ressource-comportement.
 
-
-## --- Tranche 19 / 26 ---
+## Tranche 19 / 26 : A : Intégration de l'Énergie de Processus sur le Plus Petit Pas Suivant
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2613,8 +2627,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/26 du cours *TCU Recordi
 > **« What's the state that's going to kind of handle all of those kinds of things? And for him, it was loving to learn. And then when we hooked loving to learn... to the end state, which was you're learning to be a star... »**
 * **[Analyse du Pattern]** : Recadrage nominalisateur en ressource opérationnelle (« *loving to learn* ») transformé en levier de processus, suivi d'un pontage linguistique direct (« *hooked* ») entre le moyen comportemental présent et l'identité finale amplifiée (« *learning to be a star* »).
 
-
-## --- Tranche 20 / 26 ---
+## Tranche 20 / 26 : Dissolution de Conflit par la Question de l'État Final (Beyond Goals Temporal Collapse)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -2731,8 +2744,7 @@ Voici l'analyse opératoire intégrale de la tranche 18/26 du cours *TCU Recordi
 
 * **[Analyse du Pattern]** : Déplacement spatial et temporel indéfini. En refusant de dater précisément l'événement futur (*"an unidentified point in the future"*), le langage empêche l'esprit rationnel de calculer l'itinéraire logique ou de soulever des objections de faisabilité. La redondance circulaire nominale/verbale (*"where the issue is no longer an issue"*) opère un effacement linguistique direct du problème dans la physiologie du sujet, l'amenant à habiter l'état résultant sans effort analytique préalable.
 
-
-## --- Tranche 21 / 26 ---
+## Tranche 21 / 26 : Démantèlement de la "Fausse Peur de l'Inconnu" et Régression à l'Empreinte
 
 Voici l'extraction et la modélisation intégrale de la substance opératoire issue de la tranche 21/26 du cours *Beyond Goals 2.0* de John Overdurf.
 
@@ -2848,8 +2860,7 @@ Voici l'extraction et la modélisation intégrale de la substance opératoire is
   - La première question teste l'illusion du but : une fois l'état d'Être atteint par avance, le but matériel perd souvent son urgence névrotique.
   - La seconde question enchâsse une clause de temporalité présente (*"as you're feeling this"*) couplée à un quantificateur minimal (*"smallest next step"*). Cela élimine d'emblée la sidération face à la tâche tout en assurant que l'action est propulsée depuis l'état ressource présent et non depuis un manque.
 
-
-## --- Tranche 22 / 26 ---
+## Tranche 22 / 26 : A : La Boucle "Beyond Goals" (Découplage & Plus Petit Pas Suivant)
 
 Voici l'extraction intégrale et opératoire de la tranche 22/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -2991,8 +3002,7 @@ Voici l'extraction intégrale et opératoire de la tranche 22/26 du cours *TCU R
 
 * **[Analyse du Pattern]** : Posture d'innocuité et de curiosité non menaçante (*« I'm just curious »*), dissimulant une question projective d'ouverture. La formulation pousse le client à dérouler la ligne du temps post-événement, faisant immédiatement émerger les figures d'attachement ou de jugement tapies derrière l'enjeu apparent (*advisor*, *parents*).
 
-
-## --- Tranche 23 / 26 ---
+## Tranche 23 / 26 : A : L'investigation de l'Échiquier d'Autorité (Authority Re-imprint Pre-framing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3116,8 +3126,7 @@ Voici l'extraction intégrale et opératoire de la tranche 22/26 du cours *TCU R
 > *"So it's really what exists in the field of possibility that's beyond the uncertainty that you've been considering."*
 - **[Analyse du Pattern]** : Inclusion spatiale et transcendance linguistique : en plaçant l'incertitude négative *à l'intérieur* et le champ des possibles *au-delà* (*« beyond »*), la syntaxe miniaturise le problème et élargit le cadre perceptif du sujet vers un méta-espace de ressources.
 
-
-## --- Tranche 24 / 26 ---
+## Tranche 24 / 26 : Le Déploiement de l'Incertitude vers le Champ des Possibles (Field of Possibilities)
 
 Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 24/26 du cours *Beyond Goals 2.0* de John Overdurf.
 
@@ -3265,8 +3274,7 @@ Voici l'extraction intégrale et l'ingénierie opératoire de la tranche 24/26 d
 
 * **[Analyse du Pattern] :** Ancrage spatial physique ultra-précis couplé à une manipulation sous-modale contraignante. L'utilisation répétée de la conjonction d'équivalence temporelle et spatiale (*« right now »*, *« on the other side of the room »*, *« but you're in your living room right now »*) ancre solidement le client dans la sécurité de sa réalité corporelle présente. L'objet traumatique est réifié, miniaturisé et neutralisé sous la forme d'une photo 2D posée au sol à distance maximale.
 
-
-## --- Tranche 25 / 26 ---
+## Tranche 25 / 26 : A : DISSOCIATION PAR RUPTURE DE CONTEXTE ET DUPLICATA DE LIEU
 
 Voici l'analyse modélisatrice intégrale et opératoire de la tranche 25/26 du cours *TCU Recording Beyond Goals 2.0* de John Overdurf.
 
@@ -3472,8 +3480,7 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 25/26 du 
 > "So as you're in this picture feeling resourceful, look back at that person over there that had been looking at you that wasn't in a resourceful state as you are now."
 - **[Analyse du Pattern]** : Re-balayage temporel et spatial d'inversion. Le sujet, stabilisé dans son identité future accomplie, pose son regard sur son ancienne incarnation. L'emploi de l'antériorité linguistique (*"had been looking at you"*, *"wasn't in a resourceful state"*) achève la recodification mémorielle : la détresse devient un fait d'archive, désamorcé par la supériorité somatique de l'état présent (*"as you are now"*).
 
-
-## --- Tranche 26 / 26 ---
+## Tranche 26 / 26 : Stabilisation et Extraction de Syntaxe Problème (Context-Trigger Framing)
 
 ### 1. Mécanismes & Principes Actifs
 
@@ -3576,3 +3583,4 @@ Voici l'analyse modélisatrice intégrale et opératoire de la tranche 25/26 du 
   - *Déplacement spatial allocentrique (Dissociation)* : Clivage explicite entre le corps ressource dans l'ici-et-maintenant (*"sitting in my chair here"*) et la représentation spatiale externalisée (*"seeing the picture over there"*).
   - *Glissement temporel linguistique implicite* : Utilisation spontanée du syntagme *"what used to be the problem"*, actant que l'expérience a déjà perdu son statut de problème présent pour devenir un artefact mémoriel révolu.
   - *Urgence du collapse cinétique* : *"Collapse me now before it changes"* montre la conscience du client/praticien de saisir la fenêtre de plasticité neuronale ouverte par la déstabilisation avant que l'homéostasie défensive ne tente de se rétablir.
+
